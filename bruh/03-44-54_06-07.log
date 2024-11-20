@@ -1,0 +1,40 @@
+[INFO](retrieveLog) wrote 64.61309MB to latest.log in 2.945500373840332
+[INFO](staffParse) CAUGHT UP TO LATEST 51
+[INFO](listMonitors) succesfully listed 3 monitors for user resetdev
+[INFO](cancelMonitor) succesfully deleted monitor 76561199730099165 for user 1218944589994659850
+[DEBUG](staffLog) 07:47:32/07-06 07:46:33(-1) logged DEBUG in debug-logs: [2024-07-06 02:46:34.047 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 07:47:33/07-06 07:46:34(-2) logged TP in tp: [2024-07-06 02:46:36.988 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to iplaythisgame (76561199062873840 at East of event (2971.2 0.3000013 -796.3785) from North West of Range (360.0063 65.06445 2664.642)
+[DEBUG](staffLog) 07:47:41/07-06 07:46:43(-1) logged MSG in 🌹: [2024-07-06 02:46:44.764 UTC] [Info] [Main] [Command] Nebula [R8]: /msg drakos yo can you help me please
+[DEBUG](staffLog) 07:47:41/07-06 07:46:45(-2) logged DEBUG in debug-logs: [2024-07-06 02:46:47.828 UTC] [Info] [Main] [Command] drakos [Andre]: /bunker
+[DEBUG](staffLog) 07:48:51/07-06 07:47:52(-3) logged DEBUG in debug-logs: [2024-07-06 02:47:55.325 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 07:48:51/07-06 07:47:57(-1) fakelogged DEBUG in 🤯: [2024-07-06 02:47:58.116 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[INFO](monitor) succesfully monitoring 76561199733286240 for user 1218944589994659850
+[DEBUG](staffLog) 07:50:01/07-06 07:49:04(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:49:06.106 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 07:50:54/07-06 07:49:58(-3) logged TP in tp: [2024-07-06 02:50:01.993 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to Nebula (76561198307096526 at South West of gorge (870.9013 44.72744 933.4549) from North West of Range (303.9382 65.32444 2676.416)
+[DEBUG](staffLog) 07:51:11/07-06 07:50:00(-3) logged TP in tp: [2024-07-06 02:50:03.423 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to Nebula (76561198307096526 at South West of gorge (872.4623 44.72771 936.1788) from South West of gorge (947.1563 44.72184 955.8438)
+[DEBUG](staffLog) 07:51:11/07-06 07:50:07(-1) logged DEBUG in debug-logs: [2024-07-06 02:50:08.432 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /j
+[DEBUG](staffLog) 07:51:17/07-06 07:50:20(-1) logged DEBUG in debug-logs: [2024-07-06 02:50:21.221 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /bunker
+[DEBUG](staffLog) 07:51:17/07-06 07:50:19(-3) fakelogged DEBUG in 🤯: [2024-07-06 02:50:22.813 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 07:51:31/07-06 07:50:30(-1) logged DEBUG in debug-logs: [2024-07-06 02:50:31.574 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 07:51:41/07-06 07:50:43(-2) logged DEBUG in debug-logs: [2024-07-06 02:50:45.064 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 07:51:51/07-06 07:50:52(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:50:54.339 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 07:52:10/07-06 07:51:10(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:51:12.150 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 07:52:21/07-06 07:51:24(-2) logged DEBUG in debug-logs: [2024-07-06 02:51:26.185 UTC] [Info] [Main] [Command] drakos [Andre]: /mute 76561198355702251 "Sexual cont. | First Offense | 1d" 1 d
+[DEBUG](staffLog) 07:52:43/07-06 07:51:41(-3) logged CHAT in 🥶: [2024-07-06 02:51:44.532 UTC] [Info] [Main] [Global] 猫猫糕 [stacey]: ULT A LAB CARDS
+[DEBUG](staffLog) 07:52:50/07-06 07:51:51(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:51:53.629 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 07:53:23/07-06 07:52:19(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:52:21.820 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 07:53:42/07-06 07:52:38(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:52:40.328 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 07:53:52/07-06 07:52:56(-1) fakelogged DEBUG in 🤯: [2024-07-06 02:52:57.466 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 07:54:10/07-06 07:53:09(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:53:11.837 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 07:54:37/07-06 07:53:25(-3) fakelogged DEBUG in 🤯: [2024-07-06 02:53:28.289 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 07:54:42/07-06 07:53:41(-2) logged DEBUG in debug-logs: [2024-07-06 02:53:43.770 UTC] [Info] [Main] [Command] drakos [Andre]: /mute 76561199697508801 "Racism | First Offense | 7d" 7 d
+[DEBUG](staffLog) 07:55:30/07-06 07:54:29(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:54:31.936 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 07:55:50/07-06 07:54:49(-3) fakelogged DEBUG in 🤯: [2024-07-06 02:54:52.775 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 07:56:14/07-06 07:55:03(-1) fakelogged DEBUG in 🤯: [2024-07-06 02:55:04.509 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 07:56:40/07-06 07:55:44(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:55:46.739 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 07:56:50/07-06 07:55:50(-2) fakelogged DEBUG in 🤯: [2024-07-06 02:55:52.150 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 07:57:33/07-06 07:56:37(-1) fakelogged DEBUG in 🤯: [2024-07-06 02:56:38.095 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 07:57:44/07-06 07:56:41(-1) logged DEBUG in debug-logs: [2024-07-06 02:56:42.357 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /smod
+[DEBUG](staffLog) 07:57:44/07-06 07:56:45(-3) logged SERVER in 😃: [2024-07-06 02:56:48.552 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /server 10
+[DEBUG](staffLog) 07:59:31/07-06 07:58:35(-1) logged MSG in 🌹: [2024-07-06 02:58:36.879 UTC] [Info] [Main] [Command] Ha [Ha]: /msg nebula can i buy another 4
+[DEBUG](staffLog) 08:01:11/07-06 08:00:15(-3) logged MSG in 🌹: [2024-07-06 03:00:18.010 UTC] [Info] [Main] [Command] JackyWacky [JackyWacky]: /pm matu nvm actually sry

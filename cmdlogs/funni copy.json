@@ -1,0 +1,599 @@
+{
+    "valid": true,
+    "funni": {
+        "76561199000511386": {
+            "id": 76561199000511386,
+            "data": "[2024-07-10 00:16:16.386 UTC] [Info] [Main] Connecting: PlayerID: 76561199000511386 Steam Name: Kuro 🐻 Character name: Shiro Nick: Shiro Group: 112589999106783933 Join GUID: 86bce9bd-fb6e-4128-88cb-901c5352f6b7 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.604220",
+            "player": "Kuro 🐻",
+            "display": "Shiro",
+            "group": 112589999106783933,
+            "joins": 8,
+            "guid": [
+                "86bce9bd-fb6e-4128-88cb-901c5352f6b7",
+                "743b80dc-b9d9-4d87-bf3f-7b779a95acb3",
+                "5d6280e2-44a6-4e84-8e46-68934c924840",
+                "d6355f93-11e1-4b67-8c4b-1c378c4ffd41",
+                "86ab09a5-f1f6-4738-8a46-fd5a762758e3",
+                "0c7a8c2d-2e62-4960-b84b-c25a2008866d",
+                "84512c5d-f8c4-4c35-9dac-6c36d9e65cd1",
+                "f1fb9717-01b7-484a-85ab-9ac60e2748b7"
+            ]
+        },
+        "76561198044860898": {
+            "id": 76561198044860898,
+            "data": "[2024-07-10 00:16:20.643 UTC] [Info] [Main] Connecting: PlayerID: 76561198044860898 Steam Name: Jesulito Character name: ErJesule Nick: ErJesule Group: 112589999263479333 Join GUID: 8cb81c43-1351-4d35-8018-ecb30389047e Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.638723",
+            "player": "Jesulito",
+            "display": "ErJesule",
+            "group": 112589999263479333,
+            "joins": 1,
+            "guid": [
+                "8cb81c43-1351-4d35-8018-ecb30389047e"
+            ]
+        },
+        "76561198046447665": {
+            "id": 76561198046447665,
+            "data": "[2024-07-10 00:16:29.699 UTC] [Info] [Main] Connecting: PlayerID: 76561198046447665 Steam Name: madnessguard Character name: kecs main Nick: shit Group: 112589999263479039 Join GUID: 93fc07b5-6c67-48dd-bf90-4499d394b0af Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.676477",
+            "player": "madnessguard",
+            "display": "kecs main",
+            "group": 112589999263479039,
+            "joins": 1,
+            "guid": [
+                "93fc07b5-6c67-48dd-bf90-4499d394b0af"
+            ]
+        },
+        "76561198102523874": {
+            "id": 76561198102523874,
+            "data": "[2024-07-10 00:17:59.041 UTC] [Info] [Main] Connecting: PlayerID: 76561198102523874 Steam Name: Tab Character name: jakekoho Nick: jake Group: 0 Join GUID: 05b420df-c409-4f01-bc12-fc31e42c9ad8 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.787783",
+            "player": "Tab",
+            "display": "jakekoho",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "05b420df-c409-4f01-bc12-fc31e42c9ad8"
+            ]
+        },
+        "76561198290748604": {
+            "id": 76561198290748604,
+            "data": "[2024-07-10 00:18:03.600 UTC] [Info] [Main] Connecting: PlayerID: 76561198290748604 Steam Name: Ted Character name: Ted Nick: Ted Group: 0 Join GUID: c296bae2-79b5-4734-b5c8-059b9114f046 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.817823",
+            "player": "Ted",
+            "display": "Ted",
+            "group": 0,
+            "joins": 3,
+            "guid": [
+                "c296bae2-79b5-4734-b5c8-059b9114f046",
+                "861f9eb3-e1ad-4323-88cc-99e522920267",
+                "172dbdd0-b3f4-461d-972e-19ed99bfe8b3"
+            ]
+        },
+        "76561198323322645": {
+            "id": 76561198323322645,
+            "data": "[2024-07-10 00:18:32.899 UTC] [Info] [Main] Connecting: PlayerID: 76561198323322645 Steam Name: rekt Character name: I make videos Nick: /tpa rekt Group: 0 Join GUID: d9ca4a38-0837-4ddb-ad08-a9f4102778de Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.873787",
+            "player": "rekt",
+            "display": "I make videos",
+            "group": 0,
+            "joins": 4,
+            "guid": [
+                "d9ca4a38-0837-4ddb-ad08-a9f4102778de",
+                "6f38b101-834f-4b6b-96b9-4b9346a23030",
+                "b744656a-9e26-429f-ab38-b07230ffc9f5",
+                "c6761bd8-10d8-4d00-9b94-83ed68257f8e"
+            ]
+        },
+        "76561198350351043": {
+            "id": 76561198350351043,
+            "data": "[2024-07-10 00:19:06.543 UTC] [Info] [Main] Connecting: PlayerID: 76561198350351043 Steam Name: edy Character name: Cristian Nick: Cristian Group: 0 Join GUID: 4bdb4a76-2740-4bfa-bba7-7a94167d57b5 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.937975",
+            "player": "edy",
+            "display": "Cristian",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "4bdb4a76-2740-4bfa-bba7-7a94167d57b5"
+            ]
+        },
+        "76561199013302328": {
+            "id": 76561199013302328,
+            "data": "[2024-07-10 00:19:09.910 UTC] [Info] [Main] Connecting: PlayerID: 76561199013302328 Steam Name: Kryspy Character name: TokeNdJoke420 Nick: Kryspy Group: 112589999217466078 Join GUID: 1741dcb2-7385-4452-bd4b-2490ec144876 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.963231",
+            "player": "Kryspy",
+            "display": "TokeNdJoke420",
+            "group": 112589999217466078,
+            "joins": 9,
+            "guid": [
+                "1741dcb2-7385-4452-bd4b-2490ec144876",
+                "98396972-e677-4d99-bff1-7c2fc422e967",
+                "56b99bfc-3fca-4729-860b-6868ebc70c73",
+                "6c3b69a6-9b90-4604-9536-ba97697d99fd",
+                "7d309e37-46ee-401c-aeb6-36aa1908aa40",
+                "d3f02d37-15d3-4334-933e-ba629eb9f597",
+                "4c88f014-c751-4907-9bee-076251ccb7c7",
+                "6f29c5b5-e541-444f-9472-c82ee21ef8c2",
+                "d1b7e21a-49a1-48f8-bdf7-13cb9252614a"
+            ]
+        },
+        "76561198856241780": {
+            "id": 76561198856241780,
+            "data": "[2024-07-10 00:19:12.935 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: d883984f-8d23-4f5e-b6dd-53f7b8322a62 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:16.986702",
+            "player": "Angel_Abov3",
+            "display": "Silly Person :3",
+            "group": 0,
+            "joins": 24,
+            "guid": [
+                "d883984f-8d23-4f5e-b6dd-53f7b8322a62",
+                "16ae6051-aa63-4fa0-995b-cae8db75f633",
+                "6e3a92ed-7810-418e-b97c-b21b76fc74b7",
+                "084f14fc-3245-4da2-af86-e7a525e19237",
+                "273b5b2d-f995-4134-a6e9-c17248e48ea4",
+                "e0ef9b66-1f03-49de-a5dd-bb499b083986",
+                "994e7fdb-cbe8-4405-94c0-c275f7bcd307",
+                "ea763b74-6e1b-4040-b57c-c64b4e3e3c41",
+                "c58a5d19-419a-460d-b416-f8304ff76077",
+                "6ceabe4f-319b-4c24-b9c5-54a5926c7dde",
+                "f26ecc66-3c13-4885-86f7-45a6d45da4fb",
+                "0a1d6cb3-fe4c-4c91-a721-0090edc3120d",
+                "76177c72-0dd3-47be-8095-2630da6d6d9d",
+                "a48dd62e-ffc4-4386-a35d-f1ea9b9f7d2e",
+                "29aeb51e-0f2a-4dbc-84da-8d819159d063",
+                "42bcfe3d-804f-4bd6-8896-f3422c0d1f6a",
+                "dba3de42-d215-4d29-b438-0859f73acdd2",
+                "81892cbe-41c6-4a9c-8443-0c9984476a0b",
+                "66a895c0-b5ac-49de-a5b5-6d1a2edf7c37",
+                "0cc0a34e-b25d-4bfb-9590-ef34ecb3031a",
+                "a27475e4-1f5c-429a-b325-e2f1a61a068a",
+                "2b1f942b-426d-4cf8-aee8-0655940a5860"
+            ]
+        },
+        "76561199249732925": {
+            "id": 76561199249732925,
+            "data": "[2024-07-10 00:19:48.227 UTC] [Info] [Main] Connecting: PlayerID: 76561199249732925 Steam Name: jlaurencio34 Character name: hade's champion Nick: jlaurencio34 Group: 0 Join GUID: 0f2fd713-70f4-4eab-b3bc-847729bdf5af Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:48.478002",
+            "player": "jlaurencio34",
+            "display": "hade's champion",
+            "group": 0,
+            "joins": 4,
+            "guid": [
+                "0f2fd713-70f4-4eab-b3bc-847729bdf5af",
+                "2b74b8ab-946c-40d5-8d6a-adda260ff484",
+                "3ce9de3e-7310-4bfd-8fbd-e02383a49e03",
+                "3405768e-d2aa-41a2-97f0-68f160462b93"
+            ]
+        },
+        "76561198848680316": {
+            "id": 76561198848680316,
+            "data": "[2024-07-10 00:19:50.605 UTC] [Info] [Main] Connecting: PlayerID: 76561198848680316 Steam Name: puresinhuevo[KFC] Character name: [KFC] puresinhuevo Nick: puresinhuevo Group: 112589999106783933 Join GUID: 23b0f143-806c-4390-8ef4-b7a610286294 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:58.855402",
+            "player": "puresinhuevo[KFC]",
+            "display": "[KFC] puresinhuevo",
+            "group": 112589999106783933,
+            "joins": 10,
+            "guid": [
+                "23b0f143-806c-4390-8ef4-b7a610286294",
+                "276cb30b-59f9-4a13-94d3-f9496b1c85ec",
+                "a64dcda4-f5e3-4367-81c2-9e60f47b296a",
+                "ddaad456-e003-4798-9b5f-3dc31408353d",
+                "41084c3e-7419-4c3d-9398-76cc81ca1396",
+                "d7da16d3-9e26-4906-bd76-117dda6aa2ce",
+                "adbbf1f9-a958-47f0-9e0e-c89a4bffec97",
+                "1477e122-3974-4b18-81b7-b740b8375f48",
+                "9ac97278-48fb-4c13-8ad6-b247e4f52c25"
+            ]
+        },
+        "76561198049685262": {
+            "id": 76561198049685262,
+            "data": "[2024-07-10 00:19:55.155 UTC] [Info] [Main] Connecting: PlayerID: 76561198049685262 Steam Name: Swag2Op Character name: Swag2Op Nick: Swag2Op Group: 112589999195152234 Join GUID: 13ffe326-826e-46de-85b0-524d43a6a533 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:20:58.881970",
+            "player": "Swag2Op",
+            "display": "Swag2Op",
+            "group": 112589999195152234,
+            "joins": 7,
+            "guid": [
+                "13ffe326-826e-46de-85b0-524d43a6a533",
+                "189ee2b5-2bf3-44b9-bed0-25acf89ff472",
+                "81c88a55-1406-41a6-b6b2-12375e93c311",
+                "3d618410-a04c-4ba0-bf0d-7f0302b9aeb4",
+                "fd7b4410-83f3-4c29-8d1d-2f400e66e727",
+                "ebcf3d0f-4459-4b17-86bc-10ea38667ec4"
+            ]
+        },
+        "76561198133734269": {
+            "id": 76561198133734269,
+            "data": "[2024-07-10 00:20:12.379 UTC] [Info] [Main] Connecting: PlayerID: 76561198133734269 Steam Name: JoseThePug Character name: JoseThePug Nick: Jose The Pug Group: 0 Join GUID: f697ef3e-e915-46d8-b688-df7cb5cf9ca2 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:21:16.415066",
+            "player": "JoseThePug",
+            "display": "JoseThePug",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "f697ef3e-e915-46d8-b688-df7cb5cf9ca2"
+            ]
+        },
+        "76561199732713785": {
+            "id": 76561199732713785,
+            "data": "[2024-07-10 00:20:15.643 UTC] [Info] [Main] Connecting: PlayerID: 76561199732713785 Steam Name: I MISS HIM Character name: unk Nick: unk Group: 112589999263479341 Join GUID: 6756dce4-d30b-4935-ae6f-4fa5beab4e03 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:21:16.442054",
+            "player": "I MISS HIM",
+            "display": "unk",
+            "group": 112589999263479341,
+            "joins": 77,
+            "guid": [
+                "6756dce4-d30b-4935-ae6f-4fa5beab4e03",
+                "be4c18a5-c806-412b-be83-5dbb7603ebc3",
+                "46632275-d1d2-4c1b-af1a-1cac47dc48ff",
+                "9cd3d61c-a9d1-4d3e-a81a-be681dda76ab",
+                "8e3419b7-5e09-4e71-9b01-1233577f6cfa",
+                "7e42dbeb-2bf6-4738-a1a8-94763475dad4",
+                "35edf294-d5a2-404c-bc3c-3eda0a6b2ec6",
+                "9d323f2c-f3ce-467a-9f79-c16337d3aecc",
+                "71095743-0d33-494a-93aa-71e748f8b9f3",
+                "66493cc8-d5d3-4939-918e-b830cad0139f",
+                "07b330f3-2f44-49e3-964f-fa315c92fd62",
+                "ddf6ac8c-30e9-487a-96fb-5a34040f794c",
+                "f78c8838-c76e-4acb-ac5c-e5865ea50e26",
+                "effe9a93-526f-404f-a734-b7b5ee0a68c8",
+                "bb7f8d8c-890a-4dde-bf2a-58aac58b5684",
+                "b12a8916-48d3-41d9-b876-bcb1f0dff5bf",
+                "79f46833-8d89-4da3-9866-6d312b91ea46",
+                "860ee0e0-c39c-4cb4-8630-c61750f00486",
+                "6c4228e9-ae37-4a8c-aa08-e5d27821bfd8",
+                "c476df54-e1de-4d37-ac23-9809ea53a59a",
+                "b70c10db-96af-4585-a7ff-e70bfc01b1b4",
+                "df7baa58-4e07-4860-a29f-f8062d186ef9",
+                "ce760bb7-7ee4-445c-a8cb-bffe3c806cef",
+                "f92e1bdf-534f-41e9-b408-67b715ddef57",
+                "bdc77f3b-0064-482c-8f48-d3b74c04463f",
+                "7bf6ec11-56fe-47d0-a54f-7e78dbb156f9",
+                "a730b808-1e76-48b6-a101-0d92b9ecad41",
+                "9f7d57e1-3d64-484a-afc1-844baa84bd9a",
+                "848e497e-880f-48e1-b8c2-0a9325acaabf",
+                "501dd549-2327-41c9-bbee-2395e6a02009",
+                "10b2e7ee-e97b-4445-ac82-0bdfc91f7157",
+                "a3b199db-8af5-4d4f-9379-34c81806060b",
+                "8fb954f9-8f40-4ad8-8daf-656a21ddb697",
+                "d457af53-7b9a-4cef-a905-faed9e41f100",
+                "3ce0a5f9-17e0-4b3f-b127-5ba0b68a12bd",
+                "b1f1b034-e121-445a-b91e-fe0571d3f725",
+                "398d9264-cb8a-4316-b535-79f3441441d8",
+                "26b0d773-877f-4bb1-9b32-c738c7b74d16",
+                "82d113b9-5846-4470-98d0-991056f14440",
+                "45f2e4e3-3728-40f7-80de-8f6e663da763",
+                "dcd7492f-ec94-44aa-9c6d-629c51c0a709",
+                "b6139340-e7c8-4fe9-9e13-f31a4cf5f0e8",
+                "e5772a42-fea0-44d4-b83a-0368190407eb",
+                "88636b48-e03c-492b-bbb7-b11d129c304e",
+                "ed8054c4-8ae5-4dc1-a6f7-442bd5313778",
+                "11c09a05-068a-4bf1-93c0-23cef4db906f",
+                "f200aac8-ba0d-4c60-9404-1c2cbd533bfe",
+                "a7256d88-b779-4807-8ec1-c6e4588b3c1f",
+                "833381d2-19f5-441a-b73d-af4466d09078",
+                "6174b125-ec45-4fed-9fb0-1d9f32d08a2d",
+                "5d297440-9165-4717-818a-f5c60d9467ca",
+                "ec8ddf79-44cf-472e-b487-50045a7c860d",
+                "66d5e31d-6406-466c-b5b9-dbc8123442a6",
+                "4763f711-3cba-4f06-b651-f13c3c6ae6b5",
+                "8438c06c-a81c-43b7-9b65-44b04c398f48",
+                "ecf89f80-deef-482a-b650-c4b2309d6da2",
+                "0844c8fe-f1e0-4a7b-b478-309a5c67e533",
+                "579f478b-fe04-42e3-8ab8-e69450ec83a7",
+                "6d988e88-71b7-4aad-95fe-ec041149ff62",
+                "fe68a304-1a3b-4112-bf85-f3f50114d191",
+                "2328dd86-069f-479b-a47a-af389c54c291",
+                "a1282a19-4bfa-4fb8-8329-4047263d23d8",
+                "91ee0882-538f-464a-aa73-704e7628de95",
+                "04b2ce72-2651-4cb8-8be6-e030c8a245ee",
+                "f53c5281-bf11-49ca-a0c5-89b81b6db28e",
+                "c88e34d0-c839-4866-96a6-ef88447fd5c9",
+                "5000bb44-4e7c-443c-a47a-bf4ecdfe7e3f",
+                "f32de930-e986-47dc-8a66-0403af0dfd3f",
+                "917be179-819f-485e-93c7-70da28976d6b",
+                "bf22fb21-5929-4ca1-b22b-6a1d66a6c6ea",
+                "7e7e9171-9c28-4cc9-83a0-9a65cd035949",
+                "64323d5c-ef1e-445a-a465-04c30c810422",
+                "d18ba58c-090e-4371-bbad-18bcff4af8b0",
+                "e288f75a-c612-45af-a3c0-53d4ed298ed0",
+                "edad8fbd-3618-49e5-9940-137a1b0eee77"
+            ]
+        },
+        "76561198176745882": {
+            "id": 76561198176745882,
+            "data": "[2024-07-10 00:20:25.743 UTC] [Info] [Main] Connecting: PlayerID: 76561198176745882 Steam Name: dara Character name: dara Nick: dara Group: 109775242884536365 Join GUID: e9bddc40-697a-4eba-bf24-0a0403de0f09 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:21:29.005003",
+            "player": "dara",
+            "display": "dara",
+            "group": 109775242884536365,
+            "joins": 7,
+            "guid": [
+                "e9bddc40-697a-4eba-bf24-0a0403de0f09",
+                "c5af48a0-2a3e-4157-b136-401bcdf967c1",
+                "4bf36ad7-0ac4-4fbc-a144-4e3ba7467107",
+                "cedce835-294a-4b0c-bfcd-e47ef06b219e",
+                "a9358f06-51ec-4216-a628-b83d40c36636",
+                "0121f30c-eace-4862-8dd4-425476fd1435",
+                "1872a26e-657b-4764-b795-c2f5b96f8b26"
+            ]
+        },
+        "76561198139194695": {
+            "id": 76561198139194695,
+            "data": "[2024-07-10 00:22:10.180 UTC] [Info] [Main] Connecting: PlayerID: 76561198139194695 Steam Name: PuttForePar Character name: PuttForePar Nick: PuttForePar Group: 0 Join GUID: 0baaa214-90c7-47f6-93dd-afc9cea6ac49 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:23:20.893511",
+            "player": "PuttForePar",
+            "display": "PuttForePar",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "0baaa214-90c7-47f6-93dd-afc9cea6ac49"
+            ]
+        },
+        "76561199487026524": {
+            "id": 76561199487026524,
+            "data": "[2024-07-10 00:22:21.262 UTC] [Info] [Main] Connecting: PlayerID: 76561199487026524 Steam Name: swooshi Character name: swooshi Nick: swooshi Group: 0 Join GUID: 34986e1d-c0be-4b6d-ac8a-9dc361242273 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:23:26.584817",
+            "player": "swooshi",
+            "display": "swooshi",
+            "group": 0,
+            "joins": 7,
+            "guid": [
+                "34986e1d-c0be-4b6d-ac8a-9dc361242273",
+                "357c90f7-d4ae-474c-bfed-ced3b0e49cbb",
+                "9a545858-633d-4250-bf97-988a9c862e0b",
+                "df6ac444-ce41-41bd-90c1-f49931e6e5d9",
+                "bc8ef9b8-aa74-4fef-b2f2-5400fdba290f",
+                "950d6a36-19e3-4c68-9728-e174bf97f342",
+                "d0e56ac9-b35c-42ed-a399-91d425f46aa6"
+            ]
+        },
+        "76561199131241529": {
+            "id": 76561199131241529,
+            "data": "[2024-07-10 00:23:10.482 UTC] [Info] [Main] Connecting: PlayerID: 76561199131241529 Steam Name: Lazy_Seal Character name: Lazy_Seal Nick: Lazy_Seal Group: 112589999263479344 Join GUID: b1769341-83ea-4e82-b809-0ce37465cade Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:24:16.617129",
+            "player": "Lazy_Seal",
+            "display": "Lazy_Seal",
+            "group": 112589999263479344,
+            "joins": 9,
+            "guid": [
+                "b1769341-83ea-4e82-b809-0ce37465cade",
+                "a453c92a-77f5-41ca-a151-ecc839c8dbfd",
+                "fdb9b5d3-c17e-41f3-9c70-dcd92e6005e0",
+                "161f7c60-17a5-48cc-a4c6-c4381c130bc3",
+                "78abced9-3a92-4907-b055-cfb7d86d6a9c",
+                "c0c63c55-893c-41b5-9b4e-c855695d6490",
+                "f4422c16-4aef-49fe-b70a-7f230cb42f69",
+                "95293322-078c-4080-9285-10c37f2f0751",
+                "0734e2fb-70a8-44ce-a502-1282dc13ddf6"
+            ]
+        },
+        "76561199147230446": {
+            "id": 76561199147230446,
+            "data": "[2024-07-10 00:23:25.977 UTC] [Info] [Main] Connecting: PlayerID: 76561199147230446 Steam Name: rumplemy4skin Character name: henryparady Nick: henryparady Group: 0 Join GUID: acd0c2d4-d2c6-4ef9-a73d-abe1e93a84b9 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:24:27.448834",
+            "player": "rumplemy4skin",
+            "display": "henryparady",
+            "group": 0,
+            "joins": 2,
+            "guid": [
+                "acd0c2d4-d2c6-4ef9-a73d-abe1e93a84b9",
+                "f29ed119-845e-41e9-b32c-c7db219d38bd"
+            ]
+        },
+        "76561199093944041": {
+            "id": 76561199093944041,
+            "data": "[2024-07-10 00:24:57.258 UTC] [Info] [Main] Connecting: PlayerID: 76561199093944041 Steam Name: Taunting Character name: Man or Bear Nick: Bear Group: 112589999183156092 Join GUID: d44092e1-3738-4ba2-8461-c016849c092c Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:25:59.235980",
+            "player": "Taunting",
+            "display": "Man or Bear",
+            "group": 112589999183156092,
+            "joins": 15,
+            "guid": [
+                "d44092e1-3738-4ba2-8461-c016849c092c",
+                "abc22759-fd10-49d3-b884-4ca9746dae2b",
+                "bdf8085a-5736-4d72-b382-37cf84219e14",
+                "c3b6bc70-8d0d-492f-b9a4-32a3618cb1ac",
+                "ce22061d-02e4-4f19-8b35-468651d8202e",
+                "7b7254c3-14a2-4070-8df9-c345fd5cd103",
+                "80b5399e-38bd-41ba-87f5-544fa27dc0dd",
+                "c89f9415-4079-41a0-866b-b2bbc05be46f",
+                "b82a8c47-dc28-433c-9c55-4d2ae192b104",
+                "cdef8a54-d2b2-4f46-99e1-7c22544a2e61",
+                "755a0727-0374-495b-bedd-7b5899566231",
+                "cbb86c80-9dca-47b7-8630-ca91c4c752ea",
+                "64776330-1c22-4816-9455-79f3d5751766",
+                "bc11bfce-2197-42da-a713-df6a01fe4ea8"
+            ]
+        },
+        "76561198980663838": {
+            "id": 76561198980663838,
+            "data": "[2024-07-10 00:25:30.775 UTC] [Info] [Main] Connecting: PlayerID: 76561198980663838 Steam Name: Patnap Character name: Xenon Nick: patnap Group: 112589999263478994 Join GUID: 4e475c53-9bfb-4f5c-bed0-4fa40ab73fe3 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:26:36.443319",
+            "player": "Patnap",
+            "display": "Xenon",
+            "group": 112589999263478994,
+            "joins": 10,
+            "guid": [
+                "4e475c53-9bfb-4f5c-bed0-4fa40ab73fe3",
+                "266ef264-e903-4a89-9611-cadc0b111bc9",
+                "046094da-1ea9-44a9-8a0c-c803e928fbd5",
+                "74abed3e-de8a-40d5-944a-6ba48529e3e3",
+                "207bc487-2275-4eb8-8f71-7970254fab82",
+                "a4dc2b48-9ae8-447e-a6ef-8e36f73fe9bd",
+                "ed5fef0f-9a74-4e2f-a845-e5c4350427cf",
+                "89bb247c-d368-4bf0-bc5b-eb0757fc9cde",
+                "14908341-ca04-47e9-bd00-0b90d637d15b"
+            ]
+        },
+        "76561198082521588": {
+            "id": 76561198082521588,
+            "data": "[2024-07-10 00:26:50.463 UTC] [Info] [Main] Connecting: PlayerID: 76561198082521588 Steam Name: Roberlando Character name: Tarantula King Nick: Kate Upton Group: 0 Join GUID: 0731c050-93fd-4f05-a5a0-daec5da15146 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:27:50.732911",
+            "player": "Roberlando",
+            "display": "Tarantula King",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "0731c050-93fd-4f05-a5a0-daec5da15146"
+            ]
+        },
+        "76561198059097940": {
+            "id": 76561198059097940,
+            "data": "[2024-07-10 00:27:15.172 UTC] [Info] [Main] Connecting: PlayerID: 76561198059097940 Steam Name: 私は間違いなく浮気しています Character name: Salami Nick: Salami Group: 0 Join GUID: 47be7ea0-2205-4a82-a1f4-8cb8ac28461b Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:28:25.805636",
+            "player": "私は間違いなく浮気しています",
+            "display": "Salami",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "47be7ea0-2205-4a82-a1f4-8cb8ac28461b"
+            ]
+        },
+        "76561198193569229": {
+            "id": 76561198193569229,
+            "data": "[2024-07-10 00:27:33.584 UTC] [Info] [Main] Connecting: PlayerID: 76561198193569229 Steam Name: Tyewalt Character name: Mark  Chef Nick: Mark Chef Group: 112589999263478563 Join GUID: 343bd4f7-8e93-4f54-a792-5d82d6baaf6d Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:28:36.068108",
+            "player": "Tyewalt",
+            "display": "Mark  Chef",
+            "group": 112589999263478563,
+            "joins": 4,
+            "guid": [
+                "343bd4f7-8e93-4f54-a792-5d82d6baaf6d",
+                "26b5a3dd-2973-4db1-8ad8-32270f69d2af",
+                "f208176b-2cdb-4b19-afef-15ab230ab19a",
+                "177284d5-10e7-4f00-b2f6-5cb85f39d6be"
+            ]
+        },
+        "76561198062895406": {
+            "id": 76561198062895406,
+            "data": "[2024-07-10 00:28:17.093 UTC] [Info] [Main] Connecting: PlayerID: 76561198062895406 Steam Name: Dacota Character name: Dacota Nick: Dacota Group: 112589999263478563 Join GUID: a7db5880-90bd-4a76-966b-39c4512519c0 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:29:20.769204",
+            "player": "Dacota",
+            "display": "Dacota",
+            "group": 112589999263478563,
+            "joins": 5,
+            "guid": [
+                "a7db5880-90bd-4a76-966b-39c4512519c0",
+                "fdf8f96e-c1a4-4800-a4dc-f976da65a4cf",
+                "c5d2a978-64c3-4c59-aff2-834ebe0393da",
+                "5acfed64-9ea6-47d2-99a0-cc236e4b07e8",
+                "0dba0f72-bb8d-4f71-9ca5-9b188eb4ffb6"
+            ]
+        },
+        "76561198187575386": {
+            "id": 76561198187575386,
+            "data": "[2024-07-10 00:28:19.305 UTC] [Info] [Main] Connecting: PlayerID: 76561198187575386 Steam Name: Noel Character name: NoelX Nick: NoelX Group: 0 Join GUID: 3374e43b-48cf-474d-a9cf-0e36a3e83280 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:29:20.809529",
+            "player": "Noel",
+            "display": "NoelX",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "3374e43b-48cf-474d-a9cf-0e36a3e83280"
+            ]
+        },
+        "76561198977545525": {
+            "id": 76561198977545525,
+            "data": "[2024-07-10 00:29:07.821 UTC] [Info] [Main] Connecting: PlayerID: 76561198977545525 Steam Name: EPSILON-11 Character name: JaegerTheFox Nick: JaegerTheFox Group: 0 Join GUID: 1c340b73-f3d9-44a5-8a40-63310ca2efd7 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:30:10.973230",
+            "player": "EPSILON-11",
+            "display": "JaegerTheFox",
+            "group": 0,
+            "joins": 3,
+            "guid": [
+                "1c340b73-f3d9-44a5-8a40-63310ca2efd7",
+                "62fa2c20-ff27-4294-bd8d-126de602510a",
+                "937f2675-c762-4c08-b6cb-380181c48f08"
+            ]
+        },
+        "76561199140642754": {
+            "id": 76561199140642754,
+            "data": "[2024-07-10 00:30:47.676 UTC] [Info] [Main] Connecting: PlayerID: 76561199140642754 Steam Name: saiLz Character name: saiLz Nick: saiLz Group: 0 Join GUID: f2e0f94a-fc3c-4ae5-8b4d-b7e003ea154f Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:32:01.931893",
+            "player": "saiLz",
+            "display": "saiLz",
+            "group": 0,
+            "joins": 1,
+            "guid": [
+                "f2e0f94a-fc3c-4ae5-8b4d-b7e003ea154f"
+            ]
+        },
+        "76561199571272964": {
+            "id": 76561199571272964,
+            "data": "[2024-07-10 00:32:19.652 UTC] [Info] [Main] Connecting: PlayerID: 76561199571272964 Steam Name: CXLVXN Character name: CXLVXN Nick: CXLVXN Group: 112589999263479265 Join GUID: e0df6153-6a09-4f7e-b72a-c50c42697556 Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:33:20.920895",
+            "player": "CXLVXN",
+            "display": "CXLVXN",
+            "group": 112589999263479265,
+            "joins": 14,
+            "guid": [
+                "e0df6153-6a09-4f7e-b72a-c50c42697556",
+                "bb1d1698-7d2b-471d-a559-4f130e49dd5d",
+                "ed399636-7732-4e67-9b6c-c0fb2d002e52",
+                "38b10bb7-ca58-4cf4-be6f-a0d03119e12e",
+                "62ad6f38-fead-4cfc-85c4-0b3acceffec4",
+                "2304dee2-3112-4e1b-a7ca-5dade6db0a2d",
+                "29d3c37d-926b-4813-88e3-e60f42cd1102",
+                "f5d88dcc-6be0-42f2-92fb-35430b64f031",
+                "448bf3de-66d0-4a69-874b-fb9289cf29c1",
+                "8a03bae4-7dd8-476b-8d2f-3cf77c37519a",
+                "fa449034-7b09-4562-a42b-92703bb5307e",
+                "189ce300-4939-49b8-af21-e518dce64761"
+            ]
+        },
+        "76561198990132632": {
+            "id": 76561198990132632,
+            "data": "[2024-07-10 00:32:41.883 UTC] [Info] [Main] Connecting: PlayerID: 76561198990132632 Steam Name: Accurse Character name: playerdiss?!? Nick: yung_pickle52 Group: 112589999263479254 Join GUID: d5b2993c-753d-497c-a5ca-db8d147a7cab Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:33:41.015325",
+            "player": "Accurse",
+            "display": "playerdiss?!?",
+            "group": 112589999263479254,
+            "joins": 14,
+            "guid": [
+                "d5b2993c-753d-497c-a5ca-db8d147a7cab",
+                "9c7390dd-2cd7-4b61-bf18-47f69a9c7055",
+                "1affc241-9241-4e6c-88e6-0ceaa37b8f1b",
+                "cd13dda8-0ca6-4a8c-a36a-aac581da1478",
+                "f492b6b9-4f2c-478a-a1e7-0bb1c6a0241a",
+                "454d3d36-27c6-40ec-b9da-49c8f0beed74",
+                "6e0bd324-d9d0-4cb9-89f2-f91c6984e050",
+                "e609d190-9081-4849-8be3-c49a042550ce",
+                "ab29df01-bc59-401a-86fd-93c388006edf",
+                "02b7597e-9f88-4e9a-824b-6a6d2690de66",
+                "e1764c31-9969-4912-b937-209e0d93fc3a",
+                "dbab1794-225d-4bdd-a467-50ddf577f0d9",
+                "f4e7c715-eec5-4f18-b772-9a7658a5dda4",
+                "aed7e7f4-eb2f-46a5-9352-c909cd0b7aff"
+            ]
+        },
+        "76561199528287183": {
+            "id": 76561199528287183,
+            "data": "[2024-07-10 00:33:38.514 UTC] [Info] [Main] Connecting: PlayerID: 76561199528287183 Steam Name: reavesdamian871 Character name: ForTrappers0nly Nick: ForTrappers0nly Group: 0 Join GUID: d9456ab8-9111-4d59-9579-0c1a9fec5e4f Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:34:43.959067",
+            "player": "reavesdamian871",
+            "display": "ForTrappers0nly",
+            "group": 0,
+            "joins": 5,
+            "guid": [
+                "d9456ab8-9111-4d59-9579-0c1a9fec5e4f",
+                "8b1bf124-0ff3-44f5-9f39-4014d3a8e162",
+                "041aedf0-26b2-4825-907d-ec54deead988",
+                "2531a96c-29db-49a5-8c9b-a659a9dae6cb"
+            ]
+        },
+        "76561199394444496": {
+            "id": 76561199394444496,
+            "data": "[2024-07-10 00:33:47.657 UTC] [Info] [Main] Connecting: PlayerID: 76561199394444496 Steam Name: YkItsJon Character name: JON!!! Nick: YkItsJon Group: 109775241856600292 Join GUID: dc7f1c11-d9d3-47a4-a652-14560aa273cd Character Slot: 0 Language: English\n",
+            "timestamp": "2024-07-10 01:34:53.307695",
+            "player": "YkItsJon",
+            "display": "JON!!!",
+            "group": 109775241856600292,
+            "joins": 3,
+            "guid": [
+                "dc7f1c11-d9d3-47a4-a652-14560aa273cd",
+                "edbfc730-e03b-434c-a6c5-cb73c3676a57"
+            ]
+        }
+    }
+}

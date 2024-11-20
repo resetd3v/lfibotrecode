@@ -1,0 +1,64 @@
+[INFO](retrieveLog) wrote 113.378702MB to latest.log in 6.23064661026001
+[INFO](staffParse) CAUGHT UP TO LATEST 68
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:06:59.413 UTC] [Info] [Main] [Global] Mark  Chef [Tyewalt]: why do i get better frames on rael tarkov than a block game:?
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CONNECTING', 'aliases': [], 'channel': 1260393478186078219, 'public': False, 'text': '"{}" / "{}"  |  G: "{}" is connecting to server 19', 'textArgs': ['sender', 'senderid', 'guid'], 'color': 34001} | [2024-07-10 01:07:00.048 UTC] [Info] [Main] Connecting: PlayerID: 76561198851103737 Steam Name: Mark Wallbang Character name: Mark Wallbang Nick: Mark Wallbang Group: 0 Join GUID: 411bee1e-f2cd-4ca9-b580-3f4177155e35 Character Slot: 0 Language: English
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:00.445 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /mc
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:02.897 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /mc
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:06.140 UTC] [Info] [Main] [Command] VortexGoblin [VortexGoblin]: /stuck
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:08.801 UTC] [Info] [Main] [Command] aklost [aklost]: /STUCK
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:16.144 UTC] [Info] [Main] [Global] Bouji [Bouji]: someone sell dorms marked key???
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:19.059 UTC] [Info] [Main] [Command] amansa boi [Safadão do bigodin]: /buyfrom 76561199252816386 55001
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:19.802 UTC] [Info] [Main] [Global] UnknownHuntR [UnknownHuntR]: its cuz unturned is super unoptomized
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:20.894 UTC] [Info] [Main] [Command] Plopdop3 [Plopdop3]: /vault gamma
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:22.155 UTC] [Info] [Main] [Global] Dacota [Dacota]: buy from scrap man
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:22.195 UTC] [Info] [Main] [Global] alpha [bergerallemand]: because coded like shit
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:24.740 UTC] [Info] [Main] [Global] carlos [meghansanders.mv]: unk eat my d
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:26.262 UTC] [Info] [Main] [Command] Ramen & Oj [Ramen & Oj]: /doortp
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:27.398 UTC] [Info] [Main] [Command] Zya [Zya]: /vault
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:27.795 UTC] [Info] [Main] [Command] VortexGoblin [VortexGoblin]: /vault
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:30.377 UTC] [Info] [Main] [Global] Mark  Chef [Tyewalt]: so is tarkov
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:30.740 UTC] [Info] [Main] [Command] ForTrappers0nly [reavesdamian871]: /doortp
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:33.105 UTC] [Info] [Main] [Global] Bouji [Bouji]: ow thanks
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:33.205 UTC] [Info] [Main] [Command] Bruh Momento [Mruh Bomento]: /vault
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:35.038 UTC] [Info] [Main] [Command] ForTrappers0nly [reavesdamian871]: /vault
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:35.870 UTC] [Info] [Main] [Group] MooseKnuckles [MooseKnuckles]: :C
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:41.024 UTC] [Info] [Main] [Command] Zya [Zya]: /vault
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:42.648 UTC] [Info] [Main] [Command] amansa boi [Safadão do bigodin]: /buyfrom 76561199183989090 55001
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'STATS', 'aliases': ['stat', 'sstats', 'pp'], 'channel': 1256037339398934528, 'public': True, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 16760576} | [2024-07-10 01:07:43.032 UTC] [Info] [Main] [Command] Ha [Ha]: /stats unk
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:43.561 UTC] [Info] [Main] [Command] YoloTGI [YoloTGI]: /unstuck
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:43.726 UTC] [Info] [Main] [Group] poopisecret [PuupSecret]: wtf
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:44.158 UTC] [Info] [Main] [Command] Bruh Momento [Mruh Bomento]: /doortp
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:07:46.242 UTC] [Info] [Main] [Command] amansa boi [Safadão do bigodin]: /buyfrom 76561199183989090 55001
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'CHAT', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}" in "{}" chat', 'textArgs': ['sender', 'chatMsg', 'chatType'], 'color': 34001} | [2024-07-10 01:07:47.528 UTC] [Info] [Main] [Group] poopisecret [PuupSecret]: dat guy had nothing
+
+[ERROR](staffParse) error parsing 'display' | {'name': 'STATS', 'aliases': ['stat', 'sstats', 'pp'], 'channel': 1256037339398934528, 'public': True, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 16760576} | [2024-07-10 01:07:48.079 UTC] [Info] [Main] [Command] unk [I MISS HIM]: /stats
+

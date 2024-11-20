@@ -1,0 +1,5 @@
+[INFO](retrieveLog) wrote 24.59251MB to latest.log in 2.086947441101074
+[INFO](staffParse) CAUGHT UP TO LATEST 85
+[DEBUG](staffLog) 03:15:21/07-02 03:14:29(-3) fakelogged DEBUG in 🤯: [2024-07-01 22:14:32.213 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 03:15:31/07-02 03:14:43(-2) logged DEBUG in debug-logs: [2024-07-01 22:14:45.861 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mute 76561199176878177 "Racism | first offense | 7d" 7 d
+[DEBUG](staffLog) 03:16:11/07-02 03:15:23(-2) fakelogged DEBUG in 🤯: [2024-07-01 22:15:25.825 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck

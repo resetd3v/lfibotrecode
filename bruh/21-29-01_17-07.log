@@ -1,0 +1,463 @@
+[INFO](retrieveLog) wrote 14.839259MB to latest.log in 12.477798223495483
+[DEBUG](staffLog) 01:32:29/07-18 01:32:11(-1) logged MSG in 🌹: [2024-07-17 20:32:12.760 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy really mate
+[DEBUG](staffLog) 01:33:37/07-18 01:33:24(-3) logged STATS in stats: [2024-07-17 20:33:27.358 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /stats cx
+[DEBUG](staffLog) 01:49:08/07-18 01:48:57(-1) logged CONNECTING in 🤣: [2024-07-17 20:48:58.620 UTC] [Info] [Main] Connecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998860273882 Join GUID: d8f46dd4-c515-4349-9259-da4e823a4751 Character Slot: 0 Language: English
+[DEBUG](staffLog) 01:49:28/07-18 01:49:12(-3) logged DISCONNECTING in 🤐: [2024-07-17 20:49:15.151 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998860273882 Session Length 16.54 Seconds
+[DEBUG](staffLog) 01:52:48/07-18 01:52:30(-3) logged CONNECTING in 🤣: [2024-07-17 20:52:33.704 UTC] [Info] [Main] Connecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998860273882 Join GUID: a4638064-3664-485e-a248-9c413d88f937 Character Slot: 0 Language: English
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'autocomplete': True, 'color': 34001} | [2024-07-17 21:03:29.461 UTC] [Info] [Main] [Command] Santa Clause [DrMarshmallow]: /pm
+
+[DEBUG](staffLog) 02:21:16/07-18 02:21:07(-1) fakelogged DEBUG in 🤯: [2024-07-17 21:21:08.388 UTC] [Info] [Main] [Command] dsod [dsod]: /vault kappa
+[DEBUG](staffLog) 02:21:58/07-18 02:21:48(-1) logged CONNECTING in 🤣: [2024-07-17 21:21:49.238 UTC] [Info] [Main] Connecting: PlayerID: 76561198259451520 Steam Name: Vampie Character name: Vampie A. Nick: Vampie Group: 112589998075098001 Join GUID: b78e082e-ac44-4dbd-81ae-c490469a8f5d Character Slot: 0 Language: English
+[DEBUG](staffLog) 02:23:37/07-18 02:23:26(-1) logged CHAT in 🥶: [2024-07-17 21:23:27.429 UTC] [Info] [Main] [Global] dsod [dsod]: &mc
+[DEBUG](staffLog) 02:23:58/07-18 02:23:40(-2) logged DISCONNECTING in 🤐: [2024-07-17 21:23:42.611 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198259451520 Steam Name: Vampie Character name: Vampie A. Nick: Vampie Group: 112589998075098001 Session Length 1.89 Minutes
+[DEBUG](staffLog) 02:24:07/07-18 02:23:57(-1) logged CHAT in 🥶: [2024-07-17 21:23:58.808 UTC] [Info] [Main] [Global] dsod [dsod]: &mc
+[DEBUG](staffLog) 02:33:17/07-18 02:33:07(-1) logged MSG in 🌹: [2024-07-17 21:33:08.271 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy where in reserve did u die?
+[DEBUG](staffLog) 02:36:07/07-18 02:35:48(-2) logged MSG in 🌹: [2024-07-17 21:35:50.942 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg navi yo
+[DEBUG](staffLog) 02:36:07/07-18 02:35:52(-3) logged MSG in 🌹: [2024-07-17 21:35:55.100 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg navi u extract?
+[DEBUG](staffLog) 02:36:41/07-18 02:36:26(-2) logged MSG in 🌹: [2024-07-17 21:36:28.886 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg navi im coming to dome
+[DEBUG](staffLog) 02:36:47/07-18 02:36:33(-2) logged DEBUG in debug-logs: [2024-07-17 21:36:35.748 UTC] [Info] [Main] [Command] dsod [dsod]: /mute 76561198330796120 "Extreme comments | 1st offense | 30 days" 30 d
+[DEBUG](staffLog) 02:36:57/07-18 02:36:42(-3) logged SERVER in 😃: [2024-07-17 21:36:45.234 UTC] [Info] [Main] [Command] dsod [dsod]: /server 19
+[DEBUG](staffLog) 02:36:57/07-18 02:36:43(-2) logged DISCONNECTING in 🤐: [2024-07-17 21:36:45.688 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998860273882 Session Length 44.2 Minutes
+[DEBUG](staffLog) 02:37:07/07-18 02:36:59(-1) logged MSG in 🌹: [2024-07-17 21:37:00.717 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg navi im on dome
+[DEBUG](staffLog) 02:37:38/07-18 02:37:20(-2) logged CONNECTING in 🤣: [2024-07-17 21:37:22.057 UTC] [Info] [Main] Connecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998860273882 Join GUID: 78a67385-d64d-4355-9967-d6b691dab801 Character Slot: 0 Language: English
+[DEBUG](staffLog) 02:37:38/07-18 02:37:26(-2) logged DISCONNECTING in 🤐: [2024-07-17 21:37:28.368 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998860273882 Session Length 6.32 Seconds
+[DEBUG](staffLog) 02:38:07/07-18 02:37:58(-1) logged MSG in 🌹: [2024-07-17 21:37:59.635 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy yo
+[DEBUG](staffLog) 02:38:17/07-18 02:38:04(-1) logged MSG in 🌹: [2024-07-17 21:38:05.504 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy can u buy me some m855 mags?
+[DEBUG](staffLog) 02:38:17/07-18 02:38:06(-3) logged MSG in 🌹: [2024-07-17 21:38:09.121 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm meow yes
+[DEBUG](staffLog) 02:41:47/07-18 02:41:28(-3) logged MSG in 🌹: [2024-07-17 21:41:31.969 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg shmega can  i get my kit back?
+[DEBUG](staffLog) 02:41:47/07-18 02:41:36(-1) logged MSG in 🌹: [2024-07-17 21:41:37.727 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg shmega can i get my kit back?
+[DEBUG](staffLog) 02:42:47/07-18 02:42:31(-1) logged MSG in 🌹: [2024-07-17 21:42:32.524 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy can u buy me more m855 mags?
+[DEBUG](staffLog) 02:49:07/07-18 02:48:54(-1) logged MSG in 🌹: [2024-07-17 21:48:55.516 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg shmegma one more person further infront
+[DEBUG](staffLog) 02:52:27/07-18 02:52:10(-3) logged MSG in 🌹: [2024-07-17 21:52:13.992 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg shmegma yo
+[DEBUG](staffLog) 03:32:07/07-18 03:31:51(-2) logged MSG in 🌹: [2024-07-17 22:31:53.067 UTC] [Info] [Main] [Command] touchme [luv2hatee]: /pm $leep d
+[DEBUG](staffLog) 03:41:17/07-18 03:41:02(-2) logged MSG in 🌹: [2024-07-17 22:41:04.393 UTC] [Info] [Main] [Command] Sage [Sage]: /pm shmegma you guys got blue and violet cards? I just need grab my usbs and then you can kill me or whaterver
+[DEBUG](staffLog) 03:42:07/07-18 03:41:51(-3) logged API in 😶: [2024-07-17 22:41:54.820 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 7f8e20be0fd9496580916c12911c9bca with type "Spy @" for 76561199207667518 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 10:41:47 PM
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'R', 'aliases': [], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}"', 'textArgs': ['sender', 'all'], 'autocomplete': True, 'color': 34001} | [2024-07-17 22:44:12.242 UTC] [Info] [Main] [Command] [DT]Icey [Icey]: /r
+
+[DEBUG](staffLog) 03:46:27/07-18 03:46:13(-2) logged API in 😶: [2024-07-17 22:46:15.953 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 76c0f555d22e4fd086dff4b1138da73e with type "Spy @" for 76561199538619443 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 10:46:14 PM
+[DEBUG](staffLog) 03:47:39/07-18 03:47:24(-2) logged CONNECTING in 🤣: [2024-07-17 22:47:26.625 UTC] [Info] [Main] Connecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 0 Join GUID: 2495f79e-8fdb-4110-acc0-6188ce3d1e22 Character Slot: 0 Language: English
+[DEBUG](staffLog) 03:47:46/07-18 03:47:32(-1) logged TP in tp: [2024-07-17 22:47:33.712 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at South of Customs (-1459.182 35.6647 788.7399) from North West of Range (327.1169 65.06445 2674.038)
+[DEBUG](staffLog) 03:47:48/07-18 03:47:34(-1) logged SPY in 🍑: [2024-07-17 22:47:35.532 UTC] [Info] [Main] [Command] Godly [Godly]: /spy 76561199538619443
+[DEBUG](staffLog) 03:47:48/07-18 03:47:36(-3) logged TP in tp: [2024-07-17 22:47:39.342 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at South of Customs (-1472.447 35.8647 829.7751) from North East of C Big Red (-295.4282 38.47732 1052.418)
+[DEBUG](staffLog) 03:48:07/07-18 03:47:50(-1) logged CHAT in 🥶: [2024-07-17 22:47:51.577 UTC] [Info] [Main] [Global] Godly [Godly]: hi
+[DEBUG](staffLog) 03:48:17/07-18 03:48:01(-3) logged CHAT in 🥶: [2024-07-17 22:48:04.390 UTC] [Info] [Main] [Global] Godly [Godly]: wsp
+[DEBUG](staffLog) 03:48:17/07-18 03:48:03(-3) logged CHAT in 🥶: [2024-07-17 22:48:06.740 UTC] [Info] [Main] [Global] Godly [Godly]: hi
+[DEBUG](staffLog) 03:48:27/07-18 03:48:08(-2) logged CHAT in 🥶: [2024-07-17 22:48:10.969 UTC] [Info] [Main] [Global] Godly [Godly]: ty ty
+[DEBUG](staffLog) 03:48:47/07-18 03:48:36(-1) logged MSG in 🌹: [2024-07-17 22:48:37.846 UTC] [Info] [Main] [Command] Godly [Godly]: /pm xenon im watching someone atm soon i will
+[DEBUG](staffLog) 03:48:57/07-18 03:48:43(-1) logged TP in tp: [2024-07-17 22:48:44.096 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at East of event (2474.129 0.3000014 -1063.75) from North West of Range (378.2481 65.31445 2616.591)
+[DEBUG](staffLog) 03:50:07/07-18 03:49:50(-1) logged TP in tp: [2024-07-17 22:49:51.162 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North West of Range (343.004 67.08717 2678.865) from East of event (2471.651 0.7106236 -1054.205)
+[DEBUG](staffLog) 03:50:37/07-18 03:50:27(-1) logged MSG in 🌹: [2024-07-17 22:50:28.078 UTC] [Info] [Main] [Command] Pulse.mp4 [shift w player]: /pm godly dont spec me pls
+[DEBUG](staffLog) 03:52:28/07-18 03:52:16(-3) logged TP in tp: [2024-07-17 22:52:19.481 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North East of C Big Red (-399.5974 39.81204 1041.104) from North West of Range (311.8203 65.31445 2663.414)
+[DEBUG](staffLog) 03:52:37/07-18 03:52:18(-3) logged TP in tp: [2024-07-17 22:52:21.510 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North East of C Big Red (-403.3799 38.47732 1042.212) from North East of Customs (-1149.215 36.72721 1162.714)
+[DEBUG](staffLog) 03:55:47/07-18 03:55:37(-1) logged TP in tp: [2024-07-17 22:55:38.819 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North East of Dorms (-782.7591 38.86485 889.6611) from West of C Big Red (-701.3523 31.26595 963.0748)
+[DEBUG](staffLog) 03:56:39/07-18 03:56:22(-3) logged TP in tp: [2024-07-17 22:56:25.419 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North West of Range (315.8185 65.06445 2668.866) from North West of Range (326.3842 65.06445 2671.677)
+[DEBUG](staffLog) 03:56:47/07-18 03:56:33(-3) logged TP in tp: [2024-07-17 22:56:36.837 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North West of Range (357.3938 65.31445 2606.458) from North West of Range (328.1583 65.06445 2661.552)
+[DEBUG](staffLog) 03:57:07/07-18 03:56:56(-2) logged TP in tp: [2024-07-17 22:56:58.946 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at East of event (2465.969 0.6086671 -1059.766) from North West of Range (362.0007 66.56231 2566.863)
+[DEBUG](staffLog) 03:57:57/07-18 03:57:38(-2) logged TP in tp: [2024-07-17 22:57:40.856 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North West of Range (361.9615 65.64058 2607.689) from East of event (2472.922 0.3000013 -1062.639)
+[DEBUG](staffLog) 03:58:17/07-18 03:58:06(-2) logged TP in tp: [2024-07-17 22:58:08.858 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at East of event (2468.031 0.3000009 -1059.067) from North West of Range (380.1296 65.31445 2583.113)
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:00:17/07-18 04:00:06(-1) logged TP in tp: [2024-07-17 23:00:07.945 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North West of Range (364.6179 65.31445 2622.312) from East of event (2471.314 1.929324 -1066.3)
+[DEBUG](staffLog) 04:00:27/07-18 04:00:18(-2) logged TP in tp: [2024-07-17 23:00:20.522 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at East of event (2471.647 0.3000013 -1062.937) from North West of Range (367.7356 65.31445 2590.888)
+[DEBUG](staffLog) 04:00:38/07-18 04:00:24(-2) logged TP in tp: [2024-07-17 23:00:26.557 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North West of Range (336.011 65.31445 2625.775) from East of event (2470.96 1.32288 -1054.864)
+[DEBUG](staffLog) 04:00:57/07-18 04:00:44(-1) logged TP in tp: [2024-07-17 23:00:45.461 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North of Customs (-1421.801 39.4078 1034.974) from North West of Range (311.0419 65.31445 2674.537)
+[DEBUG](staffLog) 04:00:58/07-18 04:00:44(-2) logged TP in tp: [2024-07-17 23:00:46.572 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at North of Customs (-1420.074 40.76344 1026.006) from West of C Big Red (-782.7454 38.86486 1055.251)
+[DEBUG](staffLog) 04:01:27/07-18 04:01:11(-3) logged TP in tp: [2024-07-17 23:01:14.808 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at South of Customs (-1422.931 38.67735 879.4139) from South East of Customs (-1393.727 38.47733 944.4219)
+[DEBUG](staffLog) 04:02:57/07-18 04:02:41(-1) logged TP in tp: [2024-07-17 23:02:42.558 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at East of event (2474.123 0.300001 -1060.066) from North West of Range (325.0622 65.06445 2669.833)
+[DEBUG](staffLog) 04:03:37/07-18 04:03:20(-3) logged SPY in 🍑: [2024-07-17 23:03:23.593 UTC] [Info] [Main] [Command] Godly [Godly]: /spy 76561199156968857
+[DEBUG](staffLog) 04:03:47/07-18 04:03:35(-3) logged TP in tp: [2024-07-17 23:03:38.406 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Cougar (76561199156968857 at East of event (2470.91 0.3000014 -1063.508) from North West of Range (325.5081 65.3174 2631.749)
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:05:48/07-18 04:05:28(-2) logged TP in tp: [2024-07-17 23:05:30.701 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at South West of Woods (-1902.419 63.50107 -1464.097) from East of event (2471.303 0.3000062 -1057.639)
+[DEBUG](staffLog) 04:05:49/07-18 04:05:32(-1) logged TP in tp: [2024-07-17 23:05:33.255 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at South West of Woods (-1883.004 62.80855 -1456.464) from North East of Woods (-1364.947 62.41628 -1930.399)
+[DEBUG](staffLog) 04:07:47/07-18 04:07:36(-2) logged TP in tp: [2024-07-17 23:07:38.093 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Pulse.mp4 (76561199538619443 at South of Woods (-1544.297 70.04957 -1158.367) from South of Woods (-1501.135 74.60245 -1206.852)
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:10:07/07-18 04:09:55(-1) logged BAN in bans: [2024-07-17 23:09:56.404 UTC] [Info] [Main] [Command] Godly [Godly]: /ban 76561198069364529 "spawn camping | first offense 12 hours" 12 hours
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:12:18/07-18 04:12:06(-3) logged MSG in 🌹: [2024-07-17 23:12:09.432 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm yo maybe check up on that flowerpot fella
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:14:27/07-18 04:14:17(-3) fakelogged DEBUG in 🤯: [2024-07-17 23:14:20.128 UTC] [Info] [Main] [Command] Godly [Godly]: /Vault Stash+
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:28:38/07-18 04:28:25(-2) logged MSG in 🌹: [2024-07-17 23:28:27.330 UTC] [Info] [Main] [Command] why [blue]: /pm estich
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:43:27/07-18 04:43:10(-2) logged API in 😶: [2024-07-17 23:43:12.483 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 8dd5ea1a623c4673b7cdc9ac1f0a94f0 with type "Spy @" for 76561199687446664 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 11:43:12 PM
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:55:07/07-18 04:54:49(-2) logged MSG in 🌹: [2024-07-17 23:54:51.732 UTC] [Info] [Main] [Command] Pulse.mp4 [shift w player]: /pm godly ight
+[DEBUG](staffLog) 04:55:17/07-18 04:54:57(-3) logged R in 🌹: [2024-07-17 23:55:00.612 UTC] [Info] [Main] [Command] Godly [Godly]: /r brother im in raid now ggs
+[DEBUG](staffLog) 04:55:18/07-18 04:55:05(-1) logged R in 🌹: [2024-07-17 23:55:06.970 UTC] [Info] [Main] [Command] Pulse.mp4 [shift w player]: /r cuhhh
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 04:56:47/07-18 04:56:30(-2) logged R in 🌹: [2024-07-17 23:56:32.657 UTC] [Info] [Main] [Command] Godly [Godly]: /r okay am out
+[DEBUG](staffLog) 04:56:47/07-18 04:56:33(-3) logged R in 🌹: [2024-07-17 23:56:36.117 UTC] [Info] [Main] [Command] Godly [Godly]: /r go stuck
+[DEBUG](staffLog) 04:56:57/07-18 04:56:43(-2) logged R in 🌹: [2024-07-17 23:56:45.364 UTC] [Info] [Main] [Command] Pulse.mp4 [shift w player]: /r kk sec
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:02:57/07-18 05:02:44(-3) logged API in 😶: [2024-07-18 00:02:47.554 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 70385d8606bd4b8485bf583c713972a3 with type "Spy @" for 76561198175886787 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/18/2024 12:02:40 AM
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:07:47/07-18 05:07:33(-3) logged CHAT in 🥶: [2024-07-18 00:07:36.727 UTC] [Info] [Main] [Global] Godly [Godly]: hi
+[DEBUG](staffLog) 05:08:17/07-18 05:07:58(-3) logged CHAT in 🥶: [2024-07-18 00:08:01.670 UTC] [Info] [Main] [Global] Godly [Godly]: chillinh hbu
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:41:18/07-18 05:40:42(-2) logged DISCONNECTING in 🤐: [2024-07-18 00:40:44.479 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 112589994979229699 Session Length 1.89 Hours
+[DEBUG](staffLog) 05:41:19/07-18 05:40:57(-2) logged CONNECTING in 🤣: [2024-07-18 00:40:59.661 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Join GUID: db0383b1-2e0f-4259-b29e-d27d5959026c Character Slot: 0 Language: English
+[DEBUG](staffLog) 05:41:48/07-18 05:41:33(-3) logged CONNECTING in 🤣: [2024-07-18 00:41:36.848 UTC] [Info] [Main] Connecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 112589994979229699 Join GUID: 0130b0aa-0b9e-496c-81f6-1ba230edb3ee Character Slot: 0 Language: English
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:47:18/07-18 05:47:02(-2) fakelogged DEBUG in 🤯: [2024-07-18 00:47:04.779 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561199206292872 55013
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:48:07/07-18 05:47:50(-2) fakelogged DEBUG in 🤯: [2024-07-18 00:47:52.792 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561199673164115 55013
+[DEBUG](staffLog) 05:48:07/07-18 05:47:56(-2) logged CHAT in 🥶: [2024-07-18 00:47:58.337 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: MANE
+[DEBUG](staffLog) 05:48:27/07-18 05:48:13(-1) logged CHAT in 🥶: [2024-07-18 00:48:14.727 UTC] [Info] [Main] [Global] Godly [Godly]: tt
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:48:47/07-18 05:48:29(-3) logged CHAT in 🥶: [2024-07-18 00:48:32.288 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: Why don't people have stealing foam or aa batteries in stock
+[DEBUG](staffLog) 05:49:37/07-18 05:49:25(-2) fakelogged DEBUG in 🤯: [2024-07-18 00:49:27.336 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561199383405250 55013
+[DEBUG](staffLog) 05:49:37/07-18 05:49:29(-1) fakelogged DEBUG in 🤯: [2024-07-18 00:49:30.654 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561199383405250 55013
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:50:37/07-18 05:50:24(-3) logged DEBUG in debug-logs: [2024-07-18 00:50:27.325 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /pay puresin 100000
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:51:27/07-18 05:51:05(-3) logged CHAT in 🥶: [2024-07-18 00:51:08.130 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: mane
+[DEBUG](staffLog) 05:51:27/07-18 05:51:12(-1) logged CHAT in 🥶: [2024-07-18 00:51:13.901 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: I need to aa batteries
+[DEBUG](staffLog) 05:51:28/07-18 05:51:16(-2) logged CHAT in 🥶: [2024-07-18 00:51:18.563 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: two*
+[DEBUG](staffLog) 05:51:37/07-18 05:51:27(-2) logged CHAT in 🥶: [2024-07-18 00:51:29.009 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: nope
+[DEBUG](staffLog) 05:51:47/07-18 05:51:32(-1) logged CHAT in 🥶: [2024-07-18 00:51:33.141 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: I found some
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:52:17/07-18 05:51:58(-2) logged SC in _: [2024-07-18 00:52:00.980 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc lmfao
+[DEBUG](staffLog) 05:52:17/07-18 05:51:59(-3) logged SC in _: [2024-07-18 00:52:02.466 UTC] [Info] [Main] [Command] Godly [Godly]: /sc angel we need to talk
+[DEBUG](staffLog) 05:52:18/07-18 05:52:03(-3) logged SC in _: [2024-07-18 00:52:06.224 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc please clip that
+[DEBUG](staffLog) 05:52:28/07-18 05:52:16(-1) logged SC in _: [2024-07-18 00:52:17.776 UTC] [Info] [Main] [Command] Godly [Godly]: /sc can u jvc im to lazy to talk
+[DEBUG](staffLog) 05:52:37/07-18 05:52:25(-2) logged SC in _: [2024-07-18 00:52:27.045 UTC] [Info] [Main] [Command] Godly [Godly]: /sc typer
+[DEBUG](staffLog) 05:52:47/07-18 05:52:34(-2) logged SC in _: [2024-07-18 00:52:36.080 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc am in another vc rn
+[DEBUG](staffLog) 05:52:57/07-18 05:52:40(-1) logged SC in _: [2024-07-18 00:52:41.122 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc what want
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:57:37/07-18 05:57:23(-1) logged TP in tp: [2024-07-18 00:57:24.563 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Grind (76561198289818482 at East of City (66.89334 46.36071 98.89768) from North East of event (2414.419 0.3000013 -559.1759)
+[DEBUG](staffLog) 05:57:37/07-18 05:57:24(-2) logged TP in tp: [2024-07-18 00:57:26.305 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Grind (76561198289818482 at East of City (53.40537 46.36071 96.8974) from East of Test (151.5701 46.8607 -87.80436)
+[DEBUG](staffLog) 05:57:37/07-18 05:57:26(-2) logged SPY in 🍑: [2024-07-18 00:57:28.303 UTC] [Info] [Main] [Command] Godly [Godly]: /spy 76561198289818482
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 05:58:37/07-18 05:58:25(-3) logged TP in tp: [2024-07-18 00:58:28.262 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Grind (76561198289818482 at South East of City (55.50191 45.11694 50.48234) from East of City (50.0738 47.35995 93.11275)
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:00:38/07-18 06:00:25(-2) logged MSG in 🌹: [2024-07-18 01:00:27.068 UTC] [Info] [Main] [Command] sc [sc898167]: /pm touchme would u like to buy a 4090?
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:01:18/07-18 06:00:55(-1) logged MSG in 🌹: [2024-07-18 01:00:56.275 UTC] [Info] [Main] [Command] sc [sc898167]: /pm touchme would u like to buy a 4090?
+[DEBUG](staffLog) 06:01:19/07-18 06:01:05(-1) logged DISCONNECTING in 🤐: [2024-07-18 01:01:06.195 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 112589994979229699 Session Length 19.49 Minutes
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:03:47/07-18 06:03:19(-2) logged MSG in 🌹: [2024-07-18 01:03:21.331 UTC] [Info] [Main] [Command] sc [sc898167]: /pm touchme would u like to buy a 4090?
+[DEBUG](staffLog) 06:03:48/07-18 06:03:33(-3) logged MSG in 🌹: [2024-07-18 01:03:36.753 UTC] [Info] [Main] [Command] sc [sc898167]: /pm touchme would u like to buy a 4090?
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:08:58/07-18 06:08:37(-1) logged MSG in 🌹: [2024-07-18 01:08:38.190 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm godly yo fix the spawns pls
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:10:27/07-18 06:10:02(-2) logged MSG in 🌹: [2024-07-18 01:10:04.460 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm sable ur mutha
+[DEBUG](staffLog) 06:10:27/07-18 06:10:09(-1) logged MSG in 🌹: [2024-07-18 01:10:10.201 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm sable lol
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:20:28/07-18 06:20:16(-3) logged CONNECTING in 🤣: [2024-07-18 01:20:19.968 UTC] [Info] [Main] Connecting: PlayerID: 76561198301760563 Steam Name: coil Character name: mreowwww!!! Nick: kitty >.< Group: 0 Join GUID: 964288b2-9c06-4e74-a36c-229946a047c1 Character Slot: 0 Language: English
+[DEBUG](staffLog) 06:21:47/07-18 06:21:29(-3) logged SC in _: [2024-07-18 01:21:32.485 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc mreowwwww!!!
+[DEBUG](staffLog) 06:21:57/07-18 06:21:38(-3) logged SC in _: [2024-07-18 01:21:41.951 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /sc memweeoeoemoemwmomowemowmowemoewmomewo
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:22:47/07-18 06:22:21(-2) logged DISCONNECTING in 🤐: [2024-07-18 01:22:23.728 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Session Length 41.4 Minutes
+[DEBUG](staffLog) 06:22:47/07-18 06:22:30(-1) logged DEBUG in debug-logs: [2024-07-18 01:22:31.194 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /mute 76561198329148029 "Mic spam | 1st off | 1 day" 1 day
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:24:18/07-18 06:23:48(-1) logged CONNECTING in 🤣: [2024-07-18 01:23:49.943 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Join GUID: c38d6d09-b22b-4e81-bbbd-8a780f708b67 Character Slot: 0 Language: English
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:26:07/07-18 06:25:44(-2) logged MSG in 🌹: [2024-07-18 01:25:46.393 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm issac ult b
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:27:59/07-18 06:27:48(-2) logged SC in _: [2024-07-18 01:27:50.498 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /sc yo
+[DEBUG](staffLog) 06:28:07/07-18 06:27:51(-2) logged SC in _: [2024-07-18 01:27:53.868 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /sc where kit npc again
+[DEBUG](staffLog) 06:28:07/07-18 06:27:54(-1) logged SC in _: [2024-07-18 01:27:55.604 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc wahr
+[DEBUG](staffLog) 06:28:17/07-18 06:28:01(-1) logged SC in _: [2024-07-18 01:28:02.754 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc over buy the funny guy
+[DEBUG](staffLog) 06:28:17/07-18 06:28:01(-3) logged SC in _: [2024-07-18 01:28:04.882 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /sc i dont see
+[DEBUG](staffLog) 06:28:17/07-18 06:28:06(-1) logged SC in _: [2024-07-18 01:28:07.604 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc inter vault quest
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:28:47/07-18 06:28:09(-2) logged SC in _: [2024-07-18 01:28:11.050 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /sc oo
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:30:17/07-18 06:30:02(-3) logged MSG in 🌹: [2024-07-18 01:30:05.631 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm duwis which you need?
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:32:47/07-18 06:32:31(-2) logged DEBUG in debug-logs: [2024-07-18 01:32:33.653 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /mute 76561199225012770 "Mic spam | 1st off | 1 day" 1 day
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:34:27/07-18 06:34:10(-3) fakelogged DEBUG in 🤯: [2024-07-18 01:34:13.347 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /i Destroyer
+[DEBUG](staffLog) 06:34:38/07-18 06:34:27(-1) fakelogged DEBUG in 🤯: [2024-07-18 01:34:28.811 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i pink
+[DEBUG](staffLog) 06:34:47/07-18 06:34:39(-1) fakelogged DEBUG in 🤯: [2024-07-18 01:34:40.389 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i destory
+[DEBUG](staffLog) 06:34:57/07-18 06:34:42(-1) fakelogged DEBUG in 🤯: [2024-07-18 01:34:43.999 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i destoryer
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:35:18/07-18 06:34:54(-3) logged SC in _: [2024-07-18 01:34:57.826 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc oml
+[DEBUG](staffLog) 06:35:19/07-18 06:34:59(-1) logged SC in _: [2024-07-18 01:35:00.547 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc he's like 2
+[DEBUG](staffLog) 06:35:19/07-18 06:35:00(-3) logged SC in _: [2024-07-18 01:35:03.575 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /sc LOL
+[DEBUG](staffLog) 06:35:37/07-18 06:35:18(-3) fakelogged DEBUG in 🤯: [2024-07-18 01:35:21.247 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 54157
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'SC', 'aliases': [], 'channel': 1256036383538024469, 'public': False, 'text': 'staff "{}" said "{}"', 'textArgs': ['sender', 'all'], 'autocomplete': False, 'color': 34001} | [2024-07-18 01:35:35.031 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /sc
+
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:37:18/07-18 06:37:09(-1) logged DEBUG in debug-logs: [2024-07-18 01:37:10.463 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /setspeed 5
+[DEBUG](staffLog) 06:37:27/07-18 06:37:17(-1) logged DEBUG in debug-logs: [2024-07-18 01:37:18.127 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /setspeed coil 5
+[DEBUG](staffLog) 06:37:48/07-18 06:37:32(-1) logged DEBUG in debug-logs: [2024-07-18 01:37:33.925 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /setspeed coil 1
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:39:18/07-18 06:39:00(-3) logged MSG in 🌹: [2024-07-18 01:39:03.740 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm tnt come ult b
+[DEBUG](staffLog) 06:39:27/07-18 06:39:10(-1) logged DEBUG in debug-logs: [2024-07-18 01:39:11.638 UTC] [Info] [Main] [Command] mreowwww!!! [coil]: /kick 76561199079961131 "Change name, 1st warn"
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:40:58/07-18 06:40:19(-2) logged DISCONNECTING in 🤐: [2024-07-18 01:40:21.676 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198301760563 Steam Name: coil Character name: mreowwww!!! Nick: kitty >.< Group: 0 Session Length 20.03 Minutes
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:41:47/07-18 06:41:33(-1) logged MSG in 🌹: [2024-07-18 01:41:34.826 UTC] [Info] [Main] [Command] sc [sc898167]: /pm touchme would u like to buy a 4090?
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:52:57/07-18 06:52:43(-2) logged CHAT in 🥶: [2024-07-18 01:52:45.165 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: who got the drop
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 06:58:48/07-18 06:58:29(-3) logged CONNECTING in 🤣: [2024-07-18 01:58:32.732 UTC] [Info] [Main] Connecting: PlayerID: 76561198844615074 Steam Name: v0rtex Character name: v0rtex Nick: v0rtex Group: 112589997979171786 Join GUID: 0deff076-ed05-4f54-876f-7b37e59155b0 Character Slot: 0 Language: English
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:02:17/07-18 07:01:52(-1) logged DEBUG in debug-logs: [2024-07-18 02:01:53.925 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /pay tnt 3000000
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:04:07/07-18 07:03:52(-2) logged MSG in 🌹: [2024-07-18 02:03:54.128 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm |{[]T}{ ult b selling adrenline
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:28:57/07-18 07:28:44(-1) logged MSG in 🌹: [2024-07-18 02:28:45.098 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm edgy night selling at ult b
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:30:57/07-18 07:30:39(-3) logged SPY in 🍑: [2024-07-18 02:30:42.530 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spy navi
+[DEBUG](staffLog) 07:31:07/07-18 07:30:49(-3) logged TP in tp: [2024-07-18 02:30:52.029 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to navi (76561199465405178 at East of Arena (2666.696 0.2122439 1357.913) from East of gorge (2362.607 0.2144253 783.3347)
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:31:57/07-18 07:31:43(-2) logged SERVER in 😃: [2024-07-18 02:31:45.948 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /server 19
+[DEBUG](staffLog) 07:31:57/07-18 07:31:44(-2) logged DISCONNECTING in 🤐: [2024-07-18 02:31:46.426 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Session Length 1.13 Hours
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:32:29/07-18 07:32:00(-3) logged CONNECTING in 🤣: [2024-07-18 02:32:03.001 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Join GUID: 69c6fe15-7209-4d2d-9d10-cdb6e43d9527 Character Slot: 0 Language: English
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:33:07/07-18 07:32:53(-3) logged DISCONNECTING in 🤐: [2024-07-18 02:32:56.795 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198844615074 Steam Name: v0rtex Character name: v0rtex Nick: v0rtex Group: 112589997979171786 Session Length 34.4 Minutes
+[DEBUG](staffLog) 07:34:30/07-18 07:34:11(-2) logged MSG in 🌹: [2024-07-18 02:34:13.994 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm chody they are wires
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:38:17/07-18 07:37:49(-3) logged MSG in 🌹: [2024-07-18 02:37:52.375 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm atom ult b
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:43:07/07-18 07:42:33(-2) fakelogged DEBUG in 🤯: [2024-07-18 02:42:35.724 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:57:57/07-18 07:57:41(-1) logged MSG in 🌹: [2024-07-18 02:57:42.628 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:57:57/07-18 07:57:41(-2) logged MSG in 🌹: [2024-07-18 02:57:43.046 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:57:57/07-18 07:57:42(-1) logged MSG in 🌹: [2024-07-18 02:57:43.513 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:57:58/07-18 07:57:42(-1) logged MSG in 🌹: [2024-07-18 02:57:43.934 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:58:02/07-18 07:57:43(-1) logged MSG in 🌹: [2024-07-18 02:57:44.359 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:58:02/07-18 07:57:44(-1) logged MSG in 🌹: [2024-07-18 02:57:45.258 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:58:02/07-18 07:57:42(-3) logged MSG in 🌹: [2024-07-18 02:57:45.724 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:58:03/07-18 07:57:44(-2) logged MSG in 🌹: [2024-07-18 02:57:46.222 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:58:03/07-18 07:57:47(-1) logged MSG in 🌹: [2024-07-18 02:57:48.600 UTC] [Info] [Main] [Command] ami [ami]: /pm ANGEL RIGHT MEOW
+[DEBUG](staffLog) 07:58:07/07-18 07:57:46(-3) logged MSG in 🌹: [2024-07-18 02:57:49.086 UTC] [Info] [Main] [Command] ami [ami]: /pm ANGEL RIGHT MEOW
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 07:58:48/07-18 07:58:33(-2) logged MSG in 🌹: [2024-07-18 02:58:35.556 UTC] [Info] [Main] [Command] navi [Navi]: /PM HARM WHEERE
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 08:00:19/07-18 08:00:03(-2) logged MSG in 🌹: [2024-07-18 03:00:05.747 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm starboy come exclusive b
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 08:01:37/07-18 08:01:00(-2) logged MSG in 🌹: [2024-07-18 03:01:02.277 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm any new keys?
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 08:06:27/07-18 08:06:19(-1) fakelogged DEBUG in 🤯: [2024-07-18 03:06:20.236 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 08:07:17/07-18 08:06:58(-3) logged CHAT in 🥶: [2024-07-18 03:07:01.039 UTC] [Info] [Main] [Group] Silly Person :3 [Angel_Abov3]: I need
+[DEBUG](staffLog) 08:07:17/07-18 08:07:04(-2) logged CHAT in 🥶: [2024-07-18 03:07:06.215 UTC] [Info] [Main] [Group] Silly Person :3 [Angel_Abov3]: a single aa battery
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 08:09:37/07-18 08:09:18(-3) logged CHAT in 🥶: [2024-07-18 03:09:21.367 UTC] [Info] [Main] [Group] Silly Person :3 [Angel_Abov3]: ogey

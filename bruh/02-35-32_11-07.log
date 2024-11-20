@@ -1,0 +1,14 @@
+[INFO](retrieveLog) wrote 155.298464MB to latest.log in 4.405212163925171
+[INFO](staffParse) CAUGHT UP TO LATEST 107
+[INFO](retrieveLog) server restarted 7352 2
+[DEBUG](staffLog) 06:41:09/07-11 06:40:05(-2) logged CONNECTING in 🤣: [2024-07-11 01:40:07.808 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589999263479066 Join GUID: 99da62ed-1031-4179-8481-9dbf45d3f436 Character Slot: 0 Language: English
+[DEBUG](staffLog) 06:44:17/07-11 06:43:12(-1) fakelogged DEBUG in 🤯: [2024-07-11 01:43:13.039 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 06:44:27/07-11 06:43:24(-1) fakelogged DEBUG in 🤯: [2024-07-11 01:43:25.668 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 06:44:37/07-11 06:43:35(-3) fakelogged DEBUG in 🤯: [2024-07-11 01:43:38.135 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 06:45:08/07-11 06:44:06(-1) fakelogged DEBUG in 🤯: [2024-07-11 01:44:07.384 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 06:50:37/07-11 06:49:34(-3) logged SPY in 🍑: [2024-07-11 01:49:37.100 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199621033770
+[DEBUG](staffLog) 06:52:17/07-11 06:51:10(-2) logged STATS in stats mentioned 1218944589994659850: [2024-07-11 01:51:12.898 UTC] [Info] [Main] [Command] Ramen & Oj [Ramen & Oj]: /stats unk
+[DEBUG](staffLog) 06:52:17/07-11 06:51:12(-1) logged MSG in 🌹 mentioned 1218944589994659850: [2024-07-11 01:51:13.749 UTC] [Info] [Main] [Command] poopisecret [PuupSecret]: /pm unk
+[DEBUG](staffLog) 06:53:48/07-11 06:52:47(-2) logged CONNECTING in 🤣: [2024-07-11 01:52:49.060 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 103582791471593124 Join GUID: 16ae6051-aa63-4fa0-995b-cae8db75f633 Character Slot: 0 Language: English
+[DEBUG](staffLog) 06:53:57/07-11 06:52:48(-2) logged DISCONNECTING in 🤐: [2024-07-11 01:52:50.884 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 103582791471593124 Session Length 1.83 Seconds
+[DEBUG](staffLog) 06:53:58/07-11 06:52:56(-2) logged CONNECTING in 🤣: [2024-07-11 01:52:58.312 UTC] [Info] [Main] Connecting: PlayerID: 76561198301760563 Steam Name: coil Character name: call me a good boy Nick: kitty >.< Group: 103582791474518493 Join GUID: f25c0144-5bd0-40e7-b51c-e2ada8085bb7 Character Slot: 0 Language: English

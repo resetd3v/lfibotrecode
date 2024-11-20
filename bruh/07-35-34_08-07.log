@@ -1,0 +1,35 @@
+[INFO](retrieveLog) wrote 46.45744MB to latest.log in 2.3661115169525146
+[INFO](staffParse) CAUGHT UP TO LATEST 47
+[DEBUG](staffLog) 11:42:12/07-08 11:41:12(-3) fakelogged CONNECTING in 🤯: [2024-07-08 06:41:15.550 UTC] [Info] [Main] Connecting: PlayerID: 76561198210222663 Steam Name: superb91 Character name: jack Nick: jack Group: 0 Join GUID: b87d09ca-c164-4e91-9e8a-bfeb0de33769 Character Slot: 0 Language: English
+[DEBUG](staffLog) 11:42:22/07-08 11:41:20(-1) logged VANISH in vanish: [2024-07-08 06:41:21.322 UTC] [Info] [Main] [Command] jack [superb91]: /vanish
+[DEBUG](staffLog) 11:42:22/07-08 11:41:20(-2) logged TP in tp: [2024-07-08 06:41:22.915 UTC] [Info] [Main] Pandahut >> jack (76561198210222663) - Teleported to <3 (76561199667065026 at North of Factory (-1951.575 53.61261 1930.576) from South East of Arena (2402.277 0.2122428 1358.744)
+[DEBUG](staffLog) 11:42:22/07-08 11:41:20(-3) logged DEBUG in debug-logs: [2024-07-08 06:41:23.722 UTC] [Info] [Main] [Command] jack [superb91]: /god
+[DEBUG](staffLog) 11:42:23/07-08 11:41:24(-1) logged TP in tp: [2024-07-08 06:41:25.082 UTC] [Info] [Main] Pandahut >> jack (76561198210222663) - Teleported to <3 (76561199667065026 at North of Factory (-1946.434 53.61261 1936.494) from South East of Factory (-1821.505 55.11261 1820.811)
+[DEBUG](staffLog) 11:42:50/07-08 11:41:51(-3) logged TP in tp: [2024-07-08 06:41:54.103 UTC] [Info] [Main] Pandahut >> jack (76561198210222663) - Teleported to <3 (76561199667065026 at South East of Factory (-1923.442 63.84308 1846.906) from North of Factory (-1937.991 53.61261 1900.345)
+[DEBUG](staffLog) 11:43:01/07-08 11:41:54(-3) logged DEBUG in debug-logs: [2024-07-08 06:41:57.180 UTC] [Info] [Main] [Command] jack [superb91]: /god
+[DEBUG](staffLog) 11:43:10/07-08 11:42:02(-3) logged DEBUG in debug-logs: [2024-07-08 06:42:05.895 UTC] [Info] [Main] [Command] jack [superb91]: /god
+[DEBUG](staffLog) 11:43:10/07-08 11:42:04(-2) logged VANISH in vanish: [2024-07-08 06:42:06.695 UTC] [Info] [Main] [Command] jack [superb91]: /vanish
+[DEBUG](staffLog) 11:43:20/07-08 11:42:17(-1) logged BAN in bans: [2024-07-08 06:42:18.763 UTC] [Info] [Main] [Command] jack [superb91]: /ban "76561199667065026" "Cheating / NC" 0
+[DEBUG](staffLog) 11:43:20/07-08 11:42:19(-2) logged VANISH in vanish: [2024-07-08 06:42:21.403 UTC] [Info] [Main] [Command] jack [superb91]: /vanish
+[DEBUG](staffLog) 11:43:32/07-08 11:42:24(-1) logged CHAT in 🥶: [2024-07-08 06:42:25.779 UTC] [Info] [Main] [Global] jack [superb91]: clown
+[DEBUG](staffLog) 11:43:33/07-08 11:42:25(-2) logged CHAT in 🥶: [2024-07-08 06:42:27.397 UTC] [Info] [Main] [Global] jack [superb91]: imagine cheatinh
+[DEBUG](staffLog) 11:43:33/07-08 11:42:29(-2) logged DEBUG in debug-logs: [2024-07-08 06:42:31.372 UTC] [Info] [Main] [Command] jack [superb91]: /staff
+[DEBUG](staffLog) 11:43:40/07-08 11:42:34(-2) logged CHAT in 🥶: [2024-07-08 06:42:36.990 UTC] [Info] [Main] [Global] jack [superb91]: anyone else cheating
+[DEBUG](staffLog) 11:43:51/07-08 11:42:45(-3) logged CHAT in 🥶: [2024-07-08 06:42:48.965 UTC] [Info] [Main] [Global] jack [superb91]: both banned gg
+[DEBUG](staffLog) 11:43:51/07-08 11:42:49(-2) logged CHAT in 🥶: [2024-07-08 06:42:51.337 UTC] [Info] [Main] [Global] jack [superb91]: wow
+[DEBUG](staffLog) 11:43:52/07-08 11:42:49(-3) logged CHAT in 🥶: [2024-07-08 06:42:52.824 UTC] [Info] [Main] [Global] jack [superb91]: that was slick
+[DEBUG](staffLog) 11:44:02/07-08 11:42:58(-3) logged CHAT in 🥶: [2024-07-08 06:43:01.030 UTC] [Info] [Main] [Global] jack [superb91]: if youre playing utnrunov defintely in the game
+[DEBUG](staffLog) 11:44:03/07-08 11:43:03(-2) logged DEBUG in debug-logs: [2024-07-08 06:43:05.136 UTC] [Info] [Main] [Command] jack [superb91]: /bunker
+[DEBUG](staffLog) 11:44:32/07-08 11:43:28(-2) logged CHAT in 🥶: [2024-07-08 06:43:30.282 UTC] [Info] [Main] [Global] jack [superb91]: fool me once shame on you.. fool me twice shame on me... :nerd:
+[DEBUG](staffLog) 11:44:40/07-08 11:43:37(-1) logged DEBUG in debug-logs: [2024-07-08 06:43:38.520 UTC] [Info] [Main] [Command] jack [superb91]: /playtime
+[DEBUG](staffLog) 11:44:50/07-08 11:43:46(-2) logged CHAT in 🥶: [2024-07-08 06:43:48.322 UTC] [Info] [Main] [Global] jack [superb91]: next person to speak gets a surprise
+[DEBUG](staffLog) 11:44:50/07-08 11:43:52(-3) logged CHAT in 🥶: [2024-07-08 06:43:55.398 UTC] [Info] [Main] [Global] jack [superb91]: have a bad day icked
+[DEBUG](staffLog) 11:45:00/07-08 11:43:59(-3) logged CHAT in 🥶: [2024-07-08 06:44:02.547 UTC] [Info] [Main] [Global] jack [superb91]: mwahaha
+[DEBUG](staffLog) 11:45:22/07-08 11:44:12(-3) logged CHAT in 🥶: [2024-07-08 06:44:15.805 UTC] [Info] [Main] [Global] jack [superb91]: ok im going back to bedd
+[DEBUG](staffLog) 11:45:22/07-08 11:44:21(-1) logged CHAT in 🥶: [2024-07-08 06:44:22.633 UTC] [Info] [Main] [Global] jack [superb91]: just had to ban a dirty cherater
+[DEBUG](staffLog) 11:45:30/07-08 11:44:28(-1) logged CHAT in 🥶: [2024-07-08 06:44:29.252 UTC] [Info] [Main] [Global] jack [superb91]: can we all get an... L cheater... W JACK :D
+[DEBUG](staffLog) 11:45:50/07-08 11:44:51(-2) logged CHAT in 🥶: [2024-07-08 06:44:53.975 UTC] [Info] [Main] [Global] jack [superb91]: cheating in roblox is insane
+[DEBUG](staffLog) 11:46:11/07-08 11:45:05(-2) logged CHAT in 🥶: [2024-07-08 06:45:07.698 UTC] [Info] [Main] [Global] jack [superb91]: equal to cheating in like singleplayer minecraft
+[DEBUG](staffLog) 11:46:11/07-08 11:45:05(-3) logged CHAT in 🥶: [2024-07-08 06:45:08.661 UTC] [Info] [Main] [Global] jack [superb91]: :sob:
+[DEBUG](staffLog) 11:46:30/07-08 11:45:27(-2) logged CHAT in 🥶: [2024-07-08 06:45:29.735 UTC] [Info] [Main] [Global] jack [superb91]: ok now i actually leave
+[DEBUG](staffLog) 11:46:30/07-08 11:45:29(-1) logged CHAT in 🥶: [2024-07-08 06:45:30.347 UTC] [Info] [Main] [Global] jack [superb91]: byebye

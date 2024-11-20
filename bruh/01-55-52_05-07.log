@@ -1,0 +1,9 @@
+[INFO](retrieveLog) wrote 18.819833MB to latest.log in 1.8955199718475342
+[INFO](staffParse) CAUGHT UP TO LATEST 97
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'R', 'aliases': [], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}"', 'textArgs': ['sender', 'all'], 'color': 34001} | [2024-07-05 00:55:24.978 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /r
+
+[DEBUG](staffLog) 05:56:27/07-05 05:55:27(-2) logged R in 🌹: [2024-07-05 00:55:29.809 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /r semen
+[DEBUG](staffLog) 05:56:37/07-05 05:55:38(-3) logged R in 🌹: [2024-07-05 00:55:41.904 UTC] [Info] [Main] [Command] Thief of joy [Thief of joy]: /r sperm
+[DEBUG](staffLog) 05:58:04/07-05 05:56:53(-2) logged VANISH in vanish: [2024-07-05 00:56:55.622 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 05:58:37/07-05 05:57:38(-3) logged VANISH in vanish: [2024-07-05 00:57:41.226 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 05:59:57/07-05 05:59:03(-2) logged VANISH in vanish: [2024-07-05 00:59:05.681 UTC] [Info] [Main] [Command] drakos [Andre]: /mod

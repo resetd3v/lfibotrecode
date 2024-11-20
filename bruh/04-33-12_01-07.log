@@ -1,0 +1,455 @@
+[INFO](retrieveLog) wrote 2.970864MB to latest.log in 1.1770248413085938
+[INFO](staffParse) CAUGHT UP TO LATEST 29
+[DEBUG](staffLog) 08:33:27/07-01 08:32:32(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:32:35.229 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:33:27/07-01 08:32:36(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:32:39.482 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 08:33:47/07-01 08:32:52(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:32:55.755 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:33:47/07-01 08:32:57(-3) logged VANISH in vanish: [2024-07-01 03:33:00.052 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /smod
+[INFO](monitor) succesfully monitoring 76561198884479492 for user 846641395581190155
+[INFO](listMonitors) succesfully listed 4 monitors for user resetdev
+[INFO](listMonitors) succesfully listed 4 monitors for user resetdev
+[DEBUG](staffLog) 08:34:17/07-01 08:33:22(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:33:25.029 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[INFO](cancelMonitor) succesfully deleted monitor 76561199409644163 for user 846641395581190155
+[DEBUG](staffLog) 08:34:37/07-01 08:33:47(-3) logged DEBUG in debug-logs: [2024-07-01 03:33:50.330 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sduty
+[DEBUG](staffLog) 08:34:37/07-01 08:33:50(-2) logged VANISH in vanish: [2024-07-01 03:33:52.334 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 08:34:37/07-01 08:33:52(-1) logged DEBUG in debug-logs: [2024-07-01 03:33:53.324 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /god
+[DEBUG](staffLog) 08:34:47/07-01 08:33:59(-3) logged TP in tp: [2024-07-01 03:34:02.120 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Marilina (76561199567157953 at East of event (3013.745 0.300016 -384.337) from North East of Arena (3014.133 0.09999979 3006.039)
+[DEBUG](staffLog) 08:35:17/07-01 08:34:25(-2) logged CHAT in 🥶: [2024-07-01 03:34:27.475 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: godly
+[DEBUG](staffLog) 08:35:17/07-01 08:34:28(-1) logged CHAT in 🥶: [2024-07-01 03:34:29.962 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: give me
+[DEBUG](staffLog) 08:35:18/07-01 08:34:29(-2) logged CHAT in 🥶: [2024-07-01 03:34:31.477 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: lab card
+[DEBUG](staffLog) 08:35:47/07-01 08:34:57(-1) logged CHAT in 🥶: [2024-07-01 03:34:58.290 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: godly
+[DEBUG](staffLog) 08:35:47/07-01 08:34:56(-2) logged CHAT in 🥶: [2024-07-01 03:34:58.896 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: dm
+[DEBUG](staffLog) 08:35:47/07-01 08:34:59(-3) logged DEBUG in debug-logs: [2024-07-01 03:35:02.443 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 08:35:48/07-01 08:35:00(-3) logged VANISH in vanish: [2024-07-01 03:35:03.727 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mod
+[DEBUG](staffLog) 08:35:57/07-01 08:35:02(-3) logged DEBUG in debug-logs: [2024-07-01 03:35:05.321 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 08:35:57/07-01 08:35:04(-3) logged VANISH in vanish: [2024-07-01 03:35:07.025 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mod
+[DEBUG](staffLog) 08:36:17/07-01 08:35:29(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:35:32.793 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 08:36:57/07-01 08:36:12(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:36:13.382 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 08:37:07/07-01 08:36:11(-3) logged CHAT in 🥶: [2024-07-01 03:36:14.145 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: syq
+[DEBUG](staffLog) 08:37:07/07-01 08:36:14(-2) logged CHAT in 🥶: [2024-07-01 03:36:16.702 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: you got
+[DEBUG](staffLog) 08:37:07/07-01 08:36:16(-2) logged CHAT in 🥶: [2024-07-01 03:36:18.825 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: lab cards?
+[DEBUG](staffLog) 08:37:17/07-01 08:36:22(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:36:24.356 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 08:37:27/07-01 08:36:35(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:36:37.144 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /buyfrom 76561199207128597 43000
+[DEBUG](staffLog) 08:37:27/07-01 08:36:42(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:36:43.545 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:37:37/07-01 08:36:44(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:36:46.955 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 08:38:07/07-01 08:37:15(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:37:16.441 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault kappa
+[DEBUG](staffLog) 08:38:17/07-01 08:37:26(-1) logged DEBUG in debug-logs: [2024-07-01 03:37:27.970 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /dortp
+[DEBUG](staffLog) 08:38:47/07-01 08:37:58(-3) logged CHAT in 🥶: [2024-07-01 03:38:01.317 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: me
+[DEBUG](staffLog) 08:39:17/07-01 08:38:24(-1) logged SPY in 🍑: [2024-07-01 03:38:25.117 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spy 76561199567157953
+[DEBUG](staffLog) 08:39:18/07-01 08:38:32(-1) logged DEBUG in debug-logs: [2024-07-01 03:38:33.699 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 08:39:37/07-01 08:38:45(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:38:47.727 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault
+[DEBUG](staffLog) 08:39:47/07-01 08:38:57(-3) logged VANISH in vanish: [2024-07-01 03:39:00.436 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 08:39:47/07-01 08:38:59(-2) logged VANISH in vanish: [2024-07-01 03:39:01.364 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 08:41:07/07-01 08:40:20(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:40:23.275 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:41:17/07-01 08:40:24(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:40:26.272 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 08:41:17/07-01 08:40:25(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:40:27.027 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i pkas
+[DEBUG](staffLog) 08:41:17/07-01 08:40:28(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:40:31.786 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i pka-as
+[DEBUG](staffLog) 08:42:17/07-01 08:41:23(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:41:25.202 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:42:27/07-01 08:41:36(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:41:38.221 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /buyfrom 76561199207128597 43000
+[DEBUG](staffLog) 08:42:27/07-01 08:41:38(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:41:39.551 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i pk-as-w
+[DEBUG](staffLog) 08:42:27/07-01 08:41:39(-3) logged CHAT in 🥶: [2024-07-01 03:41:42.660 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: godly
+[DEBUG](staffLog) 08:42:37/07-01 08:41:43(-1) logged CHAT in 🥶: [2024-07-01 03:41:44.906 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: we need
+[DEBUG](staffLog) 08:42:37/07-01 08:41:46(-1) logged CHAT in 🥶: [2024-07-01 03:41:47.176 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: lab cards
+[DEBUG](staffLog) 08:42:38/07-01 08:41:45(-3) logged CHAT in 🥶: [2024-07-01 03:41:48.481 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: at base
+[DEBUG](staffLog) 08:42:38/07-01 08:41:49(-1) logged CHAT in 🥶: [2024-07-01 03:41:50.921 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: i need lab card
+[DEBUG](staffLog) 08:42:38/07-01 08:41:50(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:41:52.145 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:42:47/07-01 08:41:52(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:41:54.569 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 08:42:47/07-01 08:41:53(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:41:55.696 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i "ak mount"
+[DEBUG](staffLog) 08:42:47/07-01 08:42:00(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:42:03.666 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i m4a1
+[DEBUG](staffLog) 08:43:27/07-01 08:42:33(-1) logged DEBUG in debug-logs: [2024-07-01 03:42:34.631 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /exit
+[DEBUG](staffLog) 08:44:27/07-01 08:43:38(-1) logged STATS in stats mentioned 846641395581190155: [2024-07-01 03:43:39.254 UTC] [Info] [Main] [Command] Ha [Ha]: /stats 76561198884479492
+[DEBUG](staffLog) 08:44:27/07-01 08:43:39(-3) logged CHAT in 🥶: [2024-07-01 03:43:42.702 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: gg
+[DEBUG](staffLog) 08:44:37/07-01 08:43:44(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:43:47.990 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 08:44:47/07-01 08:43:56(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:43:58.700 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:45:47/07-01 08:45:01(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:45:03.502 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault
+[DEBUG](staffLog) 08:46:27/07-01 08:45:39(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:45:42.086 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 08:47:17/07-01 08:46:28(-1) logged CHAT in 🥶: [2024-07-01 03:46:29.825 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: HUH???
+[DEBUG](staffLog) 08:47:17/07-01 08:46:28(-3) logged CHAT in 🥶: [2024-07-01 03:46:31.083 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: SO
+[DEBUG](staffLog) 08:47:17/07-01 08:46:30(-3) logged CHAT in 🥶: [2024-07-01 03:46:33.380 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: JEAGEr
+[DEBUG](staffLog) 08:47:18/07-01 08:46:30(-3) logged DEBUG in debug-logs: [2024-07-01 03:46:33.801 UTC] [Info] [Main] [Command] Godly [Godly]: /doorpt
+[DEBUG](staffLog) 08:47:27/07-01 08:46:33(-2) logged CHAT in 🥶: [2024-07-01 03:46:35.673 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: IS GETTINg
+[DEBUG](staffLog) 08:47:27/07-01 08:46:34(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:46:35.972 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 08:47:27/07-01 08:46:34(-3) logged CHAT in 🥶: [2024-07-01 03:46:37.819 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: RESETED?
+[DEBUG](staffLog) 08:47:57/07-01 08:47:07(-1) logged VANISH in vanish: [2024-07-01 03:47:08.561 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mod
+[DEBUG](staffLog) 08:47:57/07-01 08:47:07(-1) logged MSG in 🌹: [2024-07-01 03:47:08.596 UTC] [Info] [Main] [Command] DJ [DJ_Julien]: /pm careful dude what the actual yapadoodle did they do to this game
+[DEBUG](staffLog) 08:47:58/07-01 08:47:08(-2) logged DEBUG in debug-logs: [2024-07-01 03:47:10.259 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 08:48:07/07-01 08:47:16(-1) logged MSG in 🌹: [2024-07-01 03:47:17.839 UTC] [Info] [Main] [Command] careful [$yq]: /r no idea bro
+[DEBUG](staffLog) 08:48:17/07-01 08:47:26(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:47:28.071 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 08:48:27/07-01 08:47:38(-2) logged VANISH in vanish: [2024-07-01 03:47:40.433 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /smod
+[DEBUG](staffLog) 08:48:37/07-01 08:47:47(-2) logged MSG in 🌹: [2024-07-01 03:47:49.436 UTC] [Info] [Main] [Command] DJ [DJ_Julien]: /pm careful im boutta go learn how to play rust fr like what that fck is an armarmarmarmadrid
+[DEBUG](staffLog) 08:48:47/07-01 08:47:57(-3) logged MSG in 🌹: [2024-07-01 03:48:00.983 UTC] [Info] [Main] [Command] DJ [DJ_Julien]: /pm careful aramid mb
+[DEBUG](staffLog) 08:48:57/07-01 08:48:08(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:48:11.513 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 08:49:17/07-01 08:48:31(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:48:32.319 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 08:49:17/07-01 08:48:29(-3) logged DEBUG in debug-logs: [2024-07-01 03:48:32.407 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /transferobj confirm
+[DEBUG](staffLog) 08:49:27/07-01 08:48:33(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:48:34.620 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault stash
+[DEBUG](staffLog) 08:49:27/07-01 08:48:34(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:48:36.033 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 08:49:27/07-01 08:48:37(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:48:39.426 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 08:49:37/07-01 08:48:42(-3) logged VANISH in vanish: [2024-07-01 03:48:45.511 UTC] [Info] [Main] [Command] Godly [Godly]: /smod
+[DEBUG](staffLog) 08:49:37/07-01 08:48:43(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:48:45.838 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:50:47/07-01 08:49:52(-3) logged CHAT in 🥶: [2024-07-01 03:49:55.942 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: yea no
+[DEBUG](staffLog) 08:50:47/07-01 08:49:55(-2) logged CHAT in 🥶: [2024-07-01 03:49:57.707 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: am passing
+[DEBUG](staffLog) 08:50:48/07-01 08:49:57(-2) logged CHAT in 🥶: [2024-07-01 03:49:59.440 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: am not
+[DEBUG](staffLog) 08:50:48/07-01 08:50:01(-2) logged CHAT in 🥶: [2024-07-01 03:50:03.692 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: am not gonna
+[DEBUG](staffLog) 08:50:57/07-01 08:50:07(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:50:08.550 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault kappa
+[DEBUG](staffLog) 08:50:57/07-01 08:50:05(-3) logged CHAT in 🥶: [2024-07-01 03:50:08.871 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: use pk 4
+[DEBUG](staffLog) 08:50:57/07-01 08:50:09(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:50:12.463 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault stash
+[DEBUG](staffLog) 08:50:58/07-01 08:50:11(-1) logged CHAT in 🥶: [2024-07-01 03:50:12.900 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: i told mushy
+[DEBUG](staffLog) 08:51:07/07-01 08:50:13(-3) logged CHAT in 🥶: [2024-07-01 03:50:16.208 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: to not reset mine
+[DEBUG](staffLog) 08:51:27/07-01 08:50:34(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:50:35.689 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash]
+[DEBUG](staffLog) 08:51:27/07-01 08:50:35(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:50:37.451 UTC] [Info] [Main] [Command] Godly [Godly]: //Vault Stash
+[DEBUG](staffLog) 08:51:27/07-01 08:50:37(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:50:40.890 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 08:51:27/07-01 08:50:39(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:50:41.156 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 08:51:37/07-01 08:50:52(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:50:53.151 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 08:51:37/07-01 08:50:52(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:50:54.036 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 08:51:47/07-01 08:51:00(-2) logged CHAT in 🥶: [2024-07-01 03:51:02.190 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: godly
+[DEBUG](staffLog) 08:51:47/07-01 08:51:00(-2) logged CHAT in 🥶: [2024-07-01 03:51:02.952 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: godly
+[DEBUG](staffLog) 08:51:57/07-01 08:51:03(-1) logged CHAT in 🥶: [2024-07-01 03:51:04.604 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: am not
+[DEBUG](staffLog) 08:51:57/07-01 08:51:04(-2) logged CHAT in 🥶: [2024-07-01 03:51:06.280 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: reseting
+[DEBUG](staffLog) 08:51:58/07-01 08:51:04(-2) logged CHAT in 🥶: [2024-07-01 03:51:06.929 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: my
+[DEBUG](staffLog) 08:51:58/07-01 08:51:07(-1) logged CHAT in 🥶: [2024-07-01 03:51:08.917 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: quest
+[DEBUG](staffLog) 08:51:58/07-01 08:51:09(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:51:12.400 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault
+[DEBUG](staffLog) 08:52:08/07-01 08:51:14(-2) logged CHAT in 🥶: [2024-07-01 03:51:16.953 UTC] [Info] [Main] [Global] Godly [Godly]: same
+[DEBUG](staffLog) 08:52:17/07-01 08:51:25(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:51:27.322 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault
+[DEBUG](staffLog) 08:52:17/07-01 08:51:27(-2) logged VANISH in vanish: [2024-07-01 03:51:29.432 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mod
+[DEBUG](staffLog) 08:52:17/07-01 08:51:28(-3) logged VANISH in vanish: [2024-07-01 03:51:31.819 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mod
+[DEBUG](staffLog) 08:52:27/07-01 08:51:32(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:51:35.403 UTC] [Info] [Main] [Command] Godly [Godly]: /mc
+[DEBUG](staffLog) 08:52:47/07-01 08:51:55(-1) logged MSG in 🌹: [2024-07-01 03:51:56.008 UTC] [Info] [Main] [Command] DJ [DJ_Julien]: /pm careful alr well gl with wipe im gonna go make burritos hopefully I lace them with enought fent so that it kills me this time
+[DEBUG](staffLog) 08:52:47/07-01 08:51:54(-3) logged VANISH in vanish: [2024-07-01 03:51:57.654 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /smod
+[DEBUG](staffLog) 08:52:57/07-01 08:52:07(-2) logged CHAT in 🥶: [2024-07-01 03:52:09.858 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: godly
+[DEBUG](staffLog) 08:52:57/07-01 08:52:10(-1) logged CHAT in 🥶: [2024-07-01 03:52:11.716 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: godly
+[DEBUG](staffLog) 08:53:07/07-01 08:52:13(-3) logged CHAT in 🥶: [2024-07-01 03:52:16.907 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: ask syq
+[DEBUG](staffLog) 08:53:07/07-01 08:52:17(-2) logged CHAT in 🥶: [2024-07-01 03:52:19.494 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: do he want to play
+[DEBUG](staffLog) 08:53:08/07-01 08:52:19(-1) logged CHAT in 🥶: [2024-07-01 03:52:20.525 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: roblox
+[DEBUG](staffLog) 08:53:27/07-01 08:52:36(-1) logged CHAT in 🥶: [2024-07-01 03:52:37.071 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: i didn't reset my quest
+[DEBUG](staffLog) 08:53:27/07-01 08:52:37(-2) logged MSG in 🌹: [2024-07-01 03:52:39.213 UTC] [Info] [Main] [Command] Ha [Ha]: /msg dj why do u wanna die
+[DEBUG](staffLog) 08:53:28/07-01 08:52:39(-3) logged CHAT in 🥶: [2024-07-01 03:52:42.049 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: yea
+[DEBUG](staffLog) 08:53:28/07-01 08:52:39(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:52:42.307 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault
+[DEBUG](staffLog) 08:53:37/07-01 08:52:42(-2) logged CHAT in 🥶: [2024-07-01 03:52:44.936 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: i don't use
+[DEBUG](staffLog) 08:53:37/07-01 08:52:46(-1) logged CHAT in 🥶: [2024-07-01 03:52:47.224 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: fucking
+[DEBUG](staffLog) 08:53:38/07-01 08:52:45(-3) logged CHAT in 🥶: [2024-07-01 03:52:48.562 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: pk4
+[DEBUG](staffLog) 08:53:38/07-01 08:52:47(-3) logged CHAT in 🥶: [2024-07-01 03:52:50.156 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: so
+[DEBUG](staffLog) 08:53:42/07-01 08:52:50(-1) logged CHAT in 🥶: [2024-07-01 03:52:51.047 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: yea
+[DEBUG](staffLog) 08:56:07/07-01 08:55:11(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:55:14.446 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault
+[DEBUG](staffLog) 08:56:17/07-01 08:55:22(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:55:24.503 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault
+[DEBUG](staffLog) 08:56:17/07-01 08:55:24(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:55:26.285 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 08:56:47/07-01 08:55:58(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:55:59.553 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 08:56:57/07-01 08:56:09(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:56:11.261 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 08:57:17/07-01 08:56:29(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:56:31.845 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 08:58:47/07-01 08:57:55(-1) logged MSG in 🌹: [2024-07-01 03:57:56.340 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm godly a guy "Marillina" kill 3 of us with 1.9 hrs on unturned on LABS full equip the 3 of us
+[DEBUG](staffLog) 08:59:07/07-01 08:58:17(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:58:19.020 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:01:27/07-01 09:00:39(-2) logged CHAT in 🥶: [2024-07-01 04:00:41.299 UTC] [Info] [Main] [Global] Vampie A. [Vampie]: Ragman does
+[DEBUG](staffLog) 09:01:37/07-01 09:00:49(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:00:52.478 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault kappa
+[DEBUG](staffLog) 09:01:47/07-01 09:00:53(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:00:56.703 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault gamma
+[DEBUG](staffLog) 09:01:47/07-01 09:00:57(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:01:00.470 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:02:07/07-01 09:01:18(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:01:19.141 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 09:02:27/07-01 09:01:34(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:01:36.572 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 09:02:27/07-01 09:01:41(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:01:42.204 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 09:02:37/07-01 09:01:50(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:01:51.297 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 09:02:37/07-01 09:01:51(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:01:53.342 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 09:02:47/07-01 09:01:54(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:01:56.096 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 09:02:47/07-01 09:01:56(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:01:57.576 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 09:03:07/07-01 09:02:20(-2) logged SC in _: [2024-07-01 04:02:22.111 UTC] [Info] [Main] [Command] iMC [iMC]: /sc sup
+[DEBUG](staffLog) 09:03:17/07-01 09:02:23(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:02:24.390 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 09:03:17/07-01 09:02:27(-1) logged SC in _: [2024-07-01 04:02:28.089 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc My roof
+[DEBUG](staffLog) 09:03:27/07-01 09:02:37(-3) logged SC in _: [2024-07-01 04:02:40.238 UTC] [Info] [Main] [Command] iMC [iMC]: /sc are any of y'all watching chaos's guy?
+[DEBUG](staffLog) 09:04:17/07-01 09:03:27(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:03:30.682 UTC] [Info] [Main] [Command] Fish [Fish]: /vault
+[DEBUG](staffLog) 09:04:37/07-01 09:03:48(-1) logged MSG in 🌹: [2024-07-01 04:03:49.637 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm Vampie A a guy "Marillina" kill 3 of us with 1.9 hrs on unturned on LABS full equip the 3 of us
+[DEBUG](staffLog) 09:04:37/07-01 09:03:51(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:03:53.813 UTC] [Info] [Main] [Command] Fish [Fish]: /vault
+[DEBUG](staffLog) 09:05:17/07-01 09:04:27(-2) logged SC in _: [2024-07-01 04:04:29.015 UTC] [Info] [Main] [Command] iMC [iMC]: /sc are any of y'all watching COVID-19?
+[DEBUG](staffLog) 09:05:47/07-01 09:04:59(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:05:01.249 UTC] [Info] [Main] [Command] Fish [Fish]: /vault
+[DEBUG](staffLog) 09:06:08/07-01 09:05:15(-2) logged DEBUG in debug-logs: [2024-07-01 04:05:17.375 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /staff
+[DEBUG](staffLog) 09:06:27/07-01 09:05:42(-1) logged VANISH in vanish: [2024-07-01 04:05:43.320 UTC] [Info] [Main] [Command] iMC [iMC]: /vanish
+[DEBUG](staffLog) 09:07:27/07-01 09:06:40(-2) logged VANISH in vanish: [2024-07-01 04:06:42.260 UTC] [Info] [Main] [Command] iMC [iMC]: /vanish
+[DEBUG](staffLog) 09:07:27/07-01 09:06:42(-1) logged VANISH in vanish: [2024-07-01 04:06:43.383 UTC] [Info] [Main] [Command] iMC [iMC]: /vanish
+[DEBUG](staffLog) 09:08:27/07-01 09:07:38(-2) logged MSG in 🌹: [2024-07-01 04:07:40.088 UTC] [Info] [Main] [Command] Ha [Ha]: /msg sdf look @ that melidina kid or however his names spelled
+[DEBUG](staffLog) 09:08:37/07-01 09:07:49(-1) logged MSG in 🌹: [2024-07-01 04:07:50.230 UTC] [Info] [Main] [Command] Ha [Ha]: /msg sdf he has 1 hour on game and is jump shotting with a 3 kd
+[DEBUG](staffLog) 09:08:47/07-01 09:07:55(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:07:58.034 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:08:57/07-01 09:08:10(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:08:11.871 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:09:07/07-01 09:08:14(-3) logged MSG in 🌹: [2024-07-01 04:08:17.383 UTC] [Info] [Main] [Command] Ha [Ha]: /msg darkzz hes 100% cheating
+[DEBUG](staffLog) 09:09:07/07-01 09:08:20(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:08:22.350 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:09:27/07-01 09:08:34(-1) logged MSG in 🌹: [2024-07-01 04:08:35.491 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm Ha iknw
+[DEBUG](staffLog) 09:09:27/07-01 09:08:35(-2) logged DEBUG in debug-logs: [2024-07-01 04:08:37.647 UTC] [Info] [Main] [Command] sdf [superb91]: /vailt
+[DEBUG](staffLog) 09:09:27/07-01 09:08:38(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:08:40.445 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:09:37/07-01 09:08:49(-2) logged MSG in 🌹: [2024-07-01 04:08:51.753 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm Ha iknw we kill u but he fuck 3 of us full equip
+[DEBUG](staffLog) 09:09:57/07-01 09:09:07(-3) logged MSG in 🌹: [2024-07-01 04:09:10.633 UTC] [Info] [Main] [Command] Ha [Ha]: /msg darkzz he jumped around a corner pre firing me when i was full kit
+[DEBUG](staffLog) 09:10:07/07-01 09:09:16(-2) logged MSG in 🌹: [2024-07-01 04:09:18.154 UTC] [Info] [Main] [Command] Ha [Ha]: /msg dark that guy does NOT care
+[DEBUG](staffLog) 09:10:27/07-01 09:09:39(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:09:42.711 UTC] [Info] [Main] [Command] Godly [Godly]: //Vault Stash+
+[DEBUG](staffLog) 09:10:37/07-01 09:09:42(-2) logged SPY in 🍑: [2024-07-01 04:09:44.924 UTC] [Info] [Main] [Command] iMC [iMC]: /spy covid-19
+[DEBUG](staffLog) 09:10:37/07-01 09:09:43(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:09:45.702 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 09:10:37/07-01 09:09:45(-2) logged MSG in 🌹: [2024-07-01 04:09:47.360 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm ha i write to 2 admins but they dont see it i think
+[DEBUG](staffLog) 09:10:47/07-01 09:09:53(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:09:54.512 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 09:11:07/07-01 09:10:17(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:10:19.684 UTC] [Info] [Main] [Command] Godly [Godly]: /vault stash
+[DEBUG](staffLog) 09:11:07/07-01 09:10:20(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:10:21.536 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:11:17/07-01 09:10:21(-3) logged CHAT in 🥶: [2024-07-01 04:10:24.484 UTC] [Info] [Main] [Global] sdf [superb91]: vault gamma
+[DEBUG](staffLog) 09:11:17/07-01 09:10:24(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:10:25.908 UTC] [Info] [Main] [Command] sdf [superb91]: /vault gamma
+[DEBUG](staffLog) 09:11:17/07-01 09:10:25(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:10:27.006 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:11:17/07-01 09:10:27(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:10:29.650 UTC] [Info] [Main] [Command] sdf [superb91]: /vault kappa
+[DEBUG](staffLog) 09:11:17/07-01 09:10:28(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:10:31.310 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:11:18/07-01 09:10:32(-1) logged CHAT in 🥶: [2024-07-01 04:10:33.263 UTC] [Info] [Main] [Global] sdf [superb91]: gg
+[DEBUG](staffLog) 09:11:27/07-01 09:10:32(-2) logged MSG in 🌹: [2024-07-01 04:10:34.221 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm ha and i didnt record but now we go again and he didnt appear in labs
+[DEBUG](staffLog) 09:11:27/07-01 09:10:33(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:10:34.836 UTC] [Info] [Main] [Command] sdf [superb91]: /stuck
+[DEBUG](staffLog) 09:11:27/07-01 09:10:39(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:10:42.521 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:11:37/07-01 09:10:43(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:10:44.326 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:11:37/07-01 09:10:45(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:10:46.260 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:11:37/07-01 09:10:46(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:10:47.832 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:11:47/07-01 09:10:52(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:10:55.786 UTC] [Info] [Main] [Command] Godly [Godly]: /vault stash
+[DEBUG](staffLog) 09:11:47/07-01 09:10:55(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:10:56.267 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:11:48/07-01 09:10:55(-2) logged MSG in 🌹: [2024-07-01 04:10:57.155 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm sdf a guy "Marillina" kill 3 of us with 1.9 hrs on unturned on LABS full equip the 3 of us
+[DEBUG](staffLog) 09:11:48/07-01 09:10:56(-3) logged VANISH in vanish: [2024-07-01 04:10:59.218 UTC] [Info] [Main] [Command] sdf [superb91]: /vanish
+[DEBUG](staffLog) 09:11:48/07-01 09:10:57(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:10:59.705 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 09:11:48/07-01 09:10:58(-2) logged TP in tp: [2024-07-01 04:11:00.373 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to bucket! (76561199071060909 at North West of Range (320.2336 65.06445 2669.964) from East of gorge (2645.172 0.2144107 884.4362)
+[DEBUG](staffLog) 09:11:48/07-01 09:11:00(-1) logged MSG in 🌹: [2024-07-01 04:11:01.579 UTC] [Info] [Main] [Command] sdf [superb91]: /r ik
+[DEBUG](staffLog) 09:11:57/07-01 09:11:05(-2) logged MSG in 🌹: [2024-07-01 04:11:07.841 UTC] [Info] [Main] [Command] sdf [superb91]: /msg bucket go to ur house
+[DEBUG](staffLog) 09:11:57/07-01 09:11:10(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:11:11.163 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 09:11:58/07-01 09:11:08(-3) logged MSG in 🌹: [2024-07-01 04:11:11.998 UTC] [Info] [Main] [Command] sdf [superb91]: /msg bucket so i can tp
+[DEBUG](staffLog) 09:12:07/07-01 09:11:12(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:11:14.310 UTC] [Info] [Main] [Command] Godly [Godly]: /vault stash
+[DEBUG](staffLog) 09:12:07/07-01 09:11:13(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:11:15.008 UTC] [Info] [Main] [Command] Fish [Fish]: /vault
+[DEBUG](staffLog) 09:12:07/07-01 09:11:14(-1) logged TP in tp: [2024-07-01 04:11:15.269 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to bucket! (76561199071060909 at East of Arena (3027.827 0.3000016 1649.788) from North West of Range (322.3294 65.06445 2672.468)
+[DEBUG](staffLog) 09:12:07/07-01 09:11:15(-1) logged MSG in 🌹: [2024-07-01 04:11:16.837 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm sdf thk
+[DEBUG](staffLog) 09:12:08/07-01 09:11:16(-3) logged MSG in 🌹: [2024-07-01 04:11:19.389 UTC] [Info] [Main] [Command] Ha [Ha]: /msg sdf can u look @ melindia or whatever his name is
+[DEBUG](staffLog) 09:12:08/07-01 09:11:19(-2) logged SPY in 🍑: [2024-07-01 04:11:21.903 UTC] [Info] [Main] [Command] iMC [iMC]: /spy covid
+[DEBUG](staffLog) 09:12:17/07-01 09:11:21(-3) logged MSG in 🌹: [2024-07-01 04:11:24.642 UTC] [Info] [Main] [Command] Ha [Ha]: /msg sdf hes cheating his dick off
+[DEBUG](staffLog) 09:12:17/07-01 09:11:24(-3) logged MSG in 🌹: [2024-07-01 04:11:27.411 UTC] [Info] [Main] [Command] bucket! [bucket]: /pm sdf tp
+[DEBUG](staffLog) 09:12:18/07-01 09:11:24(-3) logged MSG in 🌹: [2024-07-01 04:11:27.509 UTC] [Info] [Main] [Command] sdf [superb91]: /msg ha we alr r
+[DEBUG](staffLog) 09:12:18/07-01 09:11:26(-2) logged DEBUG in debug-logs: [2024-07-01 04:11:28.250 UTC] [Info] [Main] [Command] sdf [superb91]: /staff
+[DEBUG](staffLog) 09:12:18/07-01 09:11:27(-3) logged VANISH in vanish: [2024-07-01 04:11:30.647 UTC] [Info] [Main] [Command] sdf [superb91]: /vanish
+[DEBUG](staffLog) 09:12:18/07-01 09:11:28(-3) logged MSG in 🌹: [2024-07-01 04:11:31.372 UTC] [Info] [Main] [Command] Ha [Ha]: /r appreciate it
+[DEBUG](staffLog) 09:12:27/07-01 09:11:37(-2) logged SPY in 🍑: [2024-07-01 04:11:39.114 UTC] [Info] [Main] [Command] iMC [iMC]: /spy covid
+[DEBUG](staffLog) 09:12:27/07-01 09:11:42(-1) logged MSG in 🌹: [2024-07-01 04:11:43.824 UTC] [Info] [Main] [Command] Ha [Ha]: /r if he is cheating can i get my taki back or nah
+[DEBUG](staffLog) 09:12:37/07-01 09:11:42(-3) logged SERVER in 😃: [2024-07-01 04:11:45.583 UTC] [Info] [Main] [Command] Godly [Godly]: /server 30
+[DEBUG](staffLog) 09:12:38/07-01 09:11:46(-3) logged DEBUG in debug-logs: [2024-07-01 04:11:49.129 UTC] [Info] [Main] [Command] sdf [superb91]: /wb
+[DEBUG](staffLog) 09:12:38/07-01 09:11:47(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:11:50.322 UTC] [Info] [Main] [Command] sdf [superb91]: /trash
+[DEBUG](staffLog) 09:12:47/07-01 09:11:56(-3) logged MSG in 🌹: [2024-07-01 04:11:59.204 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm ha one admin told me "i know" so i think he going to be banned
+[DEBUG](staffLog) 09:12:57/07-01 09:12:05(-3) logged MSG in 🌹: [2024-07-01 04:12:08.190 UTC] [Info] [Main] [Command] Ha [Ha]: /r ye i messaged sdf
+[DEBUG](staffLog) 09:13:17/07-01 09:12:23(-1) logged SPY in 🍑: [2024-07-01 04:12:24.474 UTC] [Info] [Main] [Command] iMC [iMC]: /spy covid
+[DEBUG](staffLog) 09:13:17/07-01 09:12:24(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:12:27.488 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:13:47/07-01 09:12:57(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:13:00.722 UTC] [Info] [Main] [Command] sdf [superb91]: /vault kappa
+[DEBUG](staffLog) 09:13:57/07-01 09:13:05(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:13:07.108 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:13:57/07-01 09:13:07(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:13:09.453 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:13:58/07-01 09:13:06(-3) logged MSG in 🌹: [2024-07-01 04:13:09.899 UTC] [Info] [Main] [Command] Dacota [Dacota]: /msg careful do you sell the black psv?
+[DEBUG](staffLog) 09:14:07/07-01 09:13:14(-3) logged MSG in 🌹: [2024-07-01 04:13:17.273 UTC] [Info] [Main] [Command] Dacota [Dacota]: /msg careful do yuo sell psv black?
+[DEBUG](staffLog) 09:14:08/07-01 09:13:18(-1) logged SPY in 🍑: [2024-07-01 04:13:19.791 UTC] [Info] [Main] [Command] iMC [iMC]: /spy covid
+[DEBUG](staffLog) 09:14:17/07-01 09:13:29(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:13:31.474 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:14:37/07-01 09:13:49(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:13:51.995 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:14:47/07-01 09:13:57(-1) logged SPY in 🍑: [2024-07-01 04:13:58.559 UTC] [Info] [Main] [Command] iMC [iMC]: /spy covid
+[DEBUG](staffLog) 09:15:27/07-01 09:14:33(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:14:35.686 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:15:37/07-01 09:14:44(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:14:45.339 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault stash
+[DEBUG](staffLog) 09:15:37/07-01 09:14:46(-2) logged SC in _: [2024-07-01 04:14:48.449 UTC] [Info] [Main] [Command] iMC [iMC]: /sc are one of y'alll free
+[DEBUG](staffLog) 09:15:57/07-01 09:15:06(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:15:07.955 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:15:57/07-01 09:15:10(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:15:13.185 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:16:07/07-01 09:15:20(-1) logged SPY in 🍑: [2024-07-01 04:15:21.475 UTC] [Info] [Main] [Command] iMC [iMC]: /spy covid
+[DEBUG](staffLog) 09:16:17/07-01 09:15:22(-2) logged CHAT in 🥶: [2024-07-01 04:15:24.502 UTC] [Info] [Main] [Global] sdf [superb91]: damaged hard drievs are for quest right
+[DEBUG](staffLog) 09:16:18/07-01 09:15:27(-2) logged CHAT in 🥶: [2024-07-01 04:15:29.173 UTC] [Info] [Main] [Global] Vampie A. [Vampie]: Yee
+[DEBUG](staffLog) 09:16:37/07-01 09:15:52(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:15:53.067 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:16:47/07-01 09:15:59(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:16:00.945 UTC] [Info] [Main] [Command] sdf [superb91]: /stuck
+[DEBUG](staffLog) 09:17:07/07-01 09:16:19(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:16:20.273 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:17:37/07-01 09:16:44(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:16:46.165 UTC] [Info] [Main] [Command] sdf [superb91]: /stuck
+[DEBUG](staffLog) 09:17:37/07-01 09:16:49(-2) logged VANISH in vanish: [2024-07-01 04:16:51.946 UTC] [Info] [Main] [Command] sdf [superb91]: /smod
+[DEBUG](staffLog) 09:17:47/07-01 09:16:54(-1) logged CHAT in 🥶: [2024-07-01 04:16:55.324 UTC] [Info] [Main] [Global] sdf [superb91]: imagining not having 30m
+[DEBUG](staffLog) 09:17:47/07-01 09:17:01(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:17:03.958 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:17:57/07-01 09:17:05(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:17:07.033 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:18:27/07-01 09:17:31(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:17:34.916 UTC] [Info] [Main] [Command] Fish [Fish]: /vault
+[DEBUG](staffLog) 09:18:37/07-01 09:17:46(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:17:47.189 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "gunwpowder "kite"" 250000
+[DEBUG](staffLog) 09:18:37/07-01 09:17:50(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:17:53.587 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "gunpowder "kite"" 250000
+[DEBUG](staffLog) 09:18:47/07-01 09:17:57(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:17:58.122 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "gunpowder "kite"" 25000
+[DEBUG](staffLog) 09:18:47/07-01 09:17:59(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:18:01.622 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "gunpowder "eagle"" 25000
+[DEBUG](staffLog) 09:18:57/07-01 09:18:02(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:18:05.855 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "gunpowder "hawk"" 25000
+[DEBUG](staffLog) 09:19:07/07-01 09:18:18(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:18:21.518 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy ledx 400000
+[DEBUG](staffLog) 09:19:17/07-01 09:18:23(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:18:25.726 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 09:19:27/07-01 09:18:34(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:18:37.423 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy ledx 400000
+[DEBUG](staffLog) 09:19:47/07-01 09:18:52(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:18:54.721 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy intelligence 125000
+[DEBUG](staffLog) 09:19:47/07-01 09:18:58(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:19:01.852 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy tape 25000
+[DEBUG](staffLog) 09:19:57/07-01 09:19:06(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:19:08.625 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:19:57/07-01 09:19:08(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:19:09.373 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy screwdrivres 25000
+[DEBUG](staffLog) 09:20:07/07-01 09:19:13(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:19:14.633 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy screwdrirves 25000
+[DEBUG](staffLog) 09:20:07/07-01 09:19:16(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:19:18.473 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy screwdrivers 25000
+[DEBUG](staffLog) 09:20:07/07-01 09:19:18(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:19:21.065 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault stash
+[DEBUG](staffLog) 09:20:07/07-01 09:19:20(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:19:22.605 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy screwdriver 25000
+[DEBUG](staffLog) 09:20:17/07-01 09:19:25(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:19:26.097 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy chemicals 20000
+[DEBUG](staffLog) 09:20:17/07-01 09:19:29(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:19:31.432 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault stash
+[DEBUG](staffLog) 09:20:27/07-01 09:19:38(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:19:41.587 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "car battery" 85000
+[DEBUG](staffLog) 09:20:47/07-01 09:19:58(-2) logged SC in _: [2024-07-01 04:20:00.833 UTC] [Info] [Main] [Command] sdf [superb91]: /sc how much r u guys selling dogtags for
+[DEBUG](staffLog) 09:21:27/07-01 09:20:35(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:20:37.090 UTC] [Info] [Main] [Command] sdf [superb91]: /stuck
+[DEBUG](staffLog) 09:21:27/07-01 09:20:37(-3) logged CHAT in 🥶: [2024-07-01 04:20:40.742 UTC] [Info] [Main] [Global] sdf [superb91]: doortp
+[DEBUG](staffLog) 09:21:27/07-01 09:20:41(-1) logged CHAT in 🥶: [2024-07-01 04:20:42.734 UTC] [Info] [Main] [Global] sdf [superb91]: doortp
+[DEBUG](staffLog) 09:21:37/07-01 09:20:41(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:20:44.312 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:21:37/07-01 09:20:46(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:20:49.200 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault stash
+[DEBUG](staffLog) 09:21:37/07-01 09:20:47(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:20:49.819 UTC] [Info] [Main] [Command] sdf [superb91]: /stuck
+[DEBUG](staffLog) 09:21:47/07-01 09:20:53(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:20:56.643 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:21:47/07-01 09:20:57(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:20:58.602 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:21:47/07-01 09:20:58(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:20:59.559 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:21:57/07-01 09:21:05(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:21:07.533 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy dogtags 25000
+[DEBUG](staffLog) 09:22:07/07-01 09:21:12(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:21:15.828 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "dogtag" 7500
+[DEBUG](staffLog) 09:22:27/07-01 09:21:40(-2) logged CHAT in 🥶: [2024-07-01 04:21:42.276 UTC] [Info] [Main] [Global] sdf [superb91]: anyone know dogtag id
+[DEBUG](staffLog) 09:22:57/07-01 09:22:02(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:22:05.748 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy wires 20000
+[DEBUG](staffLog) 09:23:07/07-01 09:22:13(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:22:14.543 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 13007 20000
+[DEBUG](staffLog) 09:23:07/07-01 09:22:14(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:22:17.154 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 13009 20000
+[DEBUG](staffLog) 09:23:07/07-01 09:22:18(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:22:20.499 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 13007 20000
+[DEBUG](staffLog) 09:23:07/07-01 09:22:20(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:22:22.538 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 13006 20000
+[DEBUG](staffLog) 09:23:17/07-01 09:22:24(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:22:25.835 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 09:23:17/07-01 09:22:23(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:22:25.908 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 13003 20000
+[DEBUG](staffLog) 09:23:17/07-01 09:22:25(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:22:28.033 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 13002 20000
+[DEBUG](staffLog) 09:23:27/07-01 09:22:36(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:22:38.406 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 65 20000
+[DEBUG](staffLog) 09:23:47/07-01 09:23:02(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:23:03.186 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:24:17/07-01 09:23:30(-1) logged SC in _: [2024-07-01 04:23:31.274 UTC] [Info] [Main] [Command] sdf [superb91]: /sc vampie
+[DEBUG](staffLog) 09:24:47/07-01 09:23:53(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:23:55.604 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:24:57/07-01 09:24:03(-2) logged SC in _: [2024-07-01 04:24:05.770 UTC] [Info] [Main] [Command] iMC [iMC]: /sc I think I need a second opinion
+[DEBUG](staffLog) 09:24:58/07-01 09:24:10(-2) logged SC in _: [2024-07-01 04:24:12.081 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc Bet where
+[DEBUG](staffLog) 09:25:17/07-01 09:24:26(-2) logged CHAT in 🥶: [2024-07-01 04:24:28.687 UTC] [Info] [Main] [Global] sdf [superb91]: does anyone know dogtag id
+[DEBUG](staffLog) 09:25:18/07-01 09:24:27(-2) logged SC in _: [2024-07-01 04:24:29.106 UTC] [Info] [Main] [Command] iMC [iMC]: /sc tp to me in vanish
+[DEBUG](staffLog) 09:25:18/07-01 09:24:30(-2) logged VANISH in vanish: [2024-07-01 04:24:32.497 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /smod
+[DEBUG](staffLog) 09:25:27/07-01 09:24:34(-3) logged SC in _: [2024-07-01 04:24:37.550 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc Hold up lemme rejoin
+[DEBUG](staffLog) 09:25:28/07-01 09:24:37(-3) logged SERVER in 😃: [2024-07-01 04:24:40.996 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /server 19
+[DEBUG](staffLog) 09:25:37/07-01 09:24:51(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:24:52.306 UTC] [Info] [Main] [Command] sdf [superb91]: /stuck
+[DEBUG](staffLog) 09:25:57/07-01 09:25:02(-2) logged CHAT in 🥶: [2024-07-01 04:25:04.506 UTC] [Info] [Main] [Global] sdf [superb91]: can u guys stop talking about it
+[DEBUG](staffLog) 09:25:58/07-01 09:25:11(-1) logged VANISH in vanish: [2024-07-01 04:25:12.678 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vanish
+[DEBUG](staffLog) 09:26:07/07-01 09:25:13(-3) logged MSG in 🌹: [2024-07-01 04:25:16.191 UTC] [Info] [Main] [Command] sdf [superb91]: /msg chaos if he is cheating hes gonna stop like gg
+[DEBUG](staffLog) 09:26:08/07-01 09:25:14(-2) logged TP in tp: [2024-07-01 04:25:16.544 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to COVID-19 (76561199527946121 at South East of Customs (-1248.111 38.47732 887.9193) from East of gorge (2328.062 0.2144102 888.9927)
+[DEBUG](staffLog) 09:26:08/07-01 09:25:15(-3) logged TP in tp: [2024-07-01 04:25:18.486 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to COVID-19 (76561199527946121 at South East of Customs (-1245.975 38.67736 881.3259) from North of Customs (-1425.479 39.05057 1035.748)
+[DEBUG](staffLog) 09:26:08/07-01 09:25:21(-1) logged MSG in 🌹: [2024-07-01 04:25:22.272 UTC] [Info] [Main] [Command] chaos [chaos]: /r no hes not xd
+[DEBUG](staffLog) 09:26:18/07-01 09:25:25(-2) logged MSG in 🌹: [2024-07-01 04:25:27.069 UTC] [Info] [Main] [Command] chaos [chaos]: /r we been talking abt it for a while now
+[DEBUG](staffLog) 09:26:18/07-01 09:25:28(-3) logged MSG in 🌹: [2024-07-01 04:25:31.915 UTC] [Info] [Main] [Command] chaos [chaos]: /r foxbro reckons he doesnt
+[DEBUG](staffLog) 09:26:18/07-01 09:25:31(-1) logged MSG in 🌹: [2024-07-01 04:25:32.174 UTC] [Info] [Main] [Command] sdf [superb91]: /r whatever u say sir
+[DEBUG](staffLog) 09:26:18/07-01 09:25:31(-2) logged TP in tp: [2024-07-01 04:25:33.373 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to iMC (76561198244430414 at South East of Customs (-1245.501 38.48215 895.0352) from South East of Customs (-1180.163 38.67733 872.9744)
+[DEBUG](staffLog) 09:26:27/07-01 09:25:35(-1) logged SC in _: [2024-07-01 04:25:36.150 UTC] [Info] [Main] [Command] sdf [superb91]: /sc u know all
+[DEBUG](staffLog) 09:26:28/07-01 09:25:37(-1) logged SC in _: [2024-07-01 04:25:38.854 UTC] [Info] [Main] [Command] sdf [superb91]: /sc wc
+[DEBUG](staffLog) 09:26:37/07-01 09:25:43(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:25:45.784 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:26:37/07-01 09:25:46(-1) logged MSG in 🌹: [2024-07-01 04:25:47.653 UTC] [Info] [Main] [Command] chaos [chaos]: /r hes got skd 6.3 with 1 hour unturnb
+[DEBUG](staffLog) 09:26:38/07-01 09:25:49(-2) logged MSG in 🌹: [2024-07-01 04:25:51.657 UTC] [Info] [Main] [Command] sdf [superb91]: /r alt??
+[DEBUG](staffLog) 09:26:47/07-01 09:25:56(-2) logged TP in tp: [2024-07-01 04:25:58.272 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to iMC (76561198244430414 at North West of Dorms (-1115.552 37.73797 817.5384) from South East of Customs (-1208.687 38.47732 893.889)
+[DEBUG](staffLog) 09:26:47/07-01 09:25:56(-2) logged MSG in 🌹: [2024-07-01 04:25:58.905 UTC] [Info] [Main] [Command] sdf [superb91]: /r i had a .3 hour with 11 kd with 250 kills
+[DEBUG](staffLog) 09:26:57/07-01 09:26:11(-2) logged MSG in 🌹: [2024-07-01 04:26:13.354 UTC] [Info] [Main] [Command] chaos [chaos]: /r pretty sure no
+[DEBUG](staffLog) 09:27:07/07-01 09:26:17(-3) logged SC in _: [2024-07-01 04:26:20.170 UTC] [Info] [Main] [Command] iMC [iMC]: /sc back?
+[DEBUG](staffLog) 09:27:08/07-01 09:26:21(-2) logged MSG in 🌹: [2024-07-01 04:26:23.455 UTC] [Info] [Main] [Command] chaos [chaos]: /r its a hacker fs
+[DEBUG](staffLog) 09:27:17/07-01 09:26:25(-3) logged SC in _: [2024-07-01 04:26:28.680 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc Ye
+[DEBUG](staffLog) 09:27:17/07-01 09:26:29(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:26:32.270 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "fp-100 air filter" 85000
+[DEBUG](staffLog) 09:27:27/07-01 09:26:32(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:26:34.463 UTC] [Info] [Main] [Command] sdf [superb91]: /stuck
+[DEBUG](staffLog) 09:27:27/07-01 09:26:41(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:26:42.526 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:27:37/07-01 09:26:44(-3) logged TP in tp: [2024-07-01 04:26:47.339 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to iMC (76561198244430414 at North West of Dorms (-1076.063 35.6647 797.8979) from North West of Dorms (-1073.933 36.80132 769.9063)
+[DEBUG](staffLog) 09:27:48/07-01 09:26:53(-3) logged MSG in 🌹: [2024-07-01 04:26:56.018 UTC] [Info] [Main] [Command] iMC [iMC]: /r someone reported COVID-19, I don't think they're cheating
+[DEBUG](staffLog) 09:27:48/07-01 09:26:56(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:26:58.153 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy fleece 35000
+[DEBUG](staffLog) 09:27:48/07-01 09:26:59(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:27:02.910 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy aramid 35000
+[DEBUG](staffLog) 09:27:58/07-01 09:27:03(-3) logged TP in tp: [2024-07-01 04:27:06.818 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to iMC (76561198244430414 at North West of Dorms (-1076.063 35.6647 797.8979) from North West of Dorms (-1102.288 42.08881 793.9706)
+[DEBUG](staffLog) 09:27:58/07-01 09:27:04(-3) logged SC in _: [2024-07-01 04:27:07.589 UTC] [Info] [Main] [Command] iMC [iMC]: /sc someone reported COVID-19
+[DEBUG](staffLog) 09:28:07/07-01 09:27:14(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:27:15.651 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy ccordura 35000
+[DEBUG](staffLog) 09:28:08/07-01 09:27:19(-2) logged MSG in 🌹: [2024-07-01 04:27:21.727 UTC] [Info] [Main] [Command] sdf [superb91]: /msg chaos im going to watch him can u guys astop yaping about it
+[DEBUG](staffLog) 09:28:17/07-01 09:27:24(-2) logged MSG in 🌹: [2024-07-01 04:27:26.301 UTC] [Info] [Main] [Command] sdf [superb91]: /msg bucket im going to awtch him can u not yap about it
+[DEBUG](staffLog) 09:28:18/07-01 09:27:25(-1) logged MSG in 🌹: [2024-07-01 04:27:26.748 UTC] [Info] [Main] [Command] chaos [chaos]: /r IMC is
+[DEBUG](staffLog) 09:28:18/07-01 09:27:25(-2) logged VANISH in vanish: [2024-07-01 04:27:27.142 UTC] [Info] [Main] [Command] sdf [superb91]: /mod
+[DEBUG](staffLog) 09:28:18/07-01 09:27:25(-2) logged VANISH in vanish: [2024-07-01 04:27:27.875 UTC] [Info] [Main] [Command] sdf [superb91]: /vanish
+[DEBUG](staffLog) 09:28:18/07-01 09:27:25(-3) logged SC in _: [2024-07-01 04:27:28.479 UTC] [Info] [Main] [Command] iMC [iMC]: /sc I don't think they're cheating but unsure, lots of headshots recently
+[DEBUG](staffLog) 09:28:19/07-01 09:27:29(-3) logged MSG in 🌹: [2024-07-01 04:27:32.709 UTC] [Info] [Main] [Command] chaos [chaos]: /r nice on duty hahahahaha
+[DEBUG](staffLog) 09:28:19/07-01 09:27:29(-3) logged MSG in 🌹: [2024-07-01 04:27:32.862 UTC] [Info] [Main] [Command] bucket! [bucket]: /pm sdf they alr did the damage
+[DEBUG](staffLog) 09:28:28/07-01 09:27:35(-3) logged MSG in 🌹: [2024-07-01 04:27:38.574 UTC] [Info] [Main] [Command] sdf [superb91]: /msg chaos imc is watching covid19
+[DEBUG](staffLog) 09:28:28/07-01 09:27:38(-1) logged VANISH in vanish: [2024-07-01 04:27:39.808 UTC] [Info] [Main] [Command] sdf [superb91]: /vanish
+[DEBUG](staffLog) 09:28:28/07-01 09:27:37(-3) logged MSG in 🌹: [2024-07-01 04:27:40.390 UTC] [Info] [Main] [Command] bucket! [bucket]: /pm sdf it doesnt matter
+[DEBUG](staffLog) 09:28:28/07-01 09:27:39(-2) logged VANISH in vanish: [2024-07-01 04:27:41.064 UTC] [Info] [Main] [Command] sdf [superb91]: /vanish
+[DEBUG](staffLog) 09:28:57/07-01 09:28:03(-1) logged VANISH in vanish: [2024-07-01 04:28:04.167 UTC] [Info] [Main] [Command] sdf [superb91]: /vanish
+[DEBUG](staffLog) 09:28:58/07-01 09:28:02(-2) logged VANISH in vanish: [2024-07-01 04:28:04.542 UTC] [Info] [Main] [Command] sdf [superb91]: /vanish
+[DEBUG](staffLog) 09:28:58/07-01 09:28:03(-2) logged TP in tp: [2024-07-01 04:28:05.371 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (332.5115 65.31444 2608.707) from East of gorge (2653.297 0.2144104 886.8984)
+[DEBUG](staffLog) 09:29:07/07-01 09:28:22(-1) logged MSG in 🌹: [2024-07-01 04:28:23.363 UTC] [Info] [Main] [Command] sdf [superb91]: /msg chaos imc isnt watching marlina im going to watcth ghim
+[DEBUG](staffLog) 09:29:17/07-01 09:28:32(-1) logged MSG in 🌹: [2024-07-01 04:28:33.650 UTC] [Info] [Main] [Command] sdf [superb91]: /msg bucket TELL UR FRIENDS TO WUIT YAPPING ABOUT IT IF HE IS CHEATING HES GONNA STOP IM TRYNA WATCH HIM
+[DEBUG](staffLog) 09:29:27/07-01 09:28:35(-2) logged MSG in 🌹: [2024-07-01 04:28:37.548 UTC] [Info] [Main] [Command] sdf [superb91]: /msg chaos yall do not listen
+[DEBUG](staffLog) 09:29:28/07-01 09:28:35(-3) logged SC in _: [2024-07-01 04:28:38.603 UTC] [Info] [Main] [Command] iMC [iMC]: /sc nvm they just logged
+[DEBUG](staffLog) 09:29:28/07-01 09:28:40(-3) logged TP in tp: [2024-07-01 04:28:43.768 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at East of Arena (2973.652 0.3000016 1369.759) from North West of Range (319.0283 66.53114 2582.472)
+[DEBUG](staffLog) 09:29:37/07-01 09:28:48(-3) logged MSG in 🌹: [2024-07-01 04:28:51.083 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /pm chaos yo do u know where the hideout is in school
+[DEBUG](staffLog) 09:29:37/07-01 09:28:48(-3) logged MSG in 🌹: [2024-07-01 04:28:51.439 UTC] [Info] [Main] [Command] chaos [chaos]: /r oh hes watching diff person
+[DEBUG](staffLog) 09:29:47/07-01 09:28:55(-2) logged SC in _: [2024-07-01 04:28:57.760 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc Rip
+[DEBUG](staffLog) 09:29:48/07-01 09:28:55(-3) logged MSG in 🌹: [2024-07-01 04:28:58.829 UTC] [Info] [Main] [Command] chaos [chaos]: /pm sdf oh hes watching diff person
+[DEBUG](staffLog) 09:29:48/07-01 09:29:00(-1) logged DEBUG in debug-logs: [2024-07-01 04:29:01.335 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /bunker
+[DEBUG](staffLog) 09:29:57/07-01 09:29:03(-2) logged MSG in 🌹: [2024-07-01 04:29:05.123 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r what
+[DEBUG](staffLog) 09:29:58/07-01 09:29:03(-3) logged MSG in 🌹: [2024-07-01 04:29:06.581 UTC] [Info] [Main] [Command] chaos [chaos]: /pm poipoi its a lil vent thingy
+[DEBUG](staffLog) 09:30:17/07-01 09:29:23(-1) logged TP in tp: [2024-07-01 04:29:24.538 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (381.7529 65.31445 2565.461) from East of Arena (2970.046 0.3000005 1381.847)
+[DEBUG](staffLog) 09:30:18/07-01 09:29:22(-3) logged TP in tp: [2024-07-01 04:29:25.505 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (372.6773 65.31445 2565.337) from North West of Range (384.9203 65.31445 2565.906)
+[DEBUG](staffLog) 09:30:18/07-01 09:29:32(-1) logged MSG in 🌹: [2024-07-01 04:29:33.959 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r a vent?
+[DEBUG](staffLog) 09:30:27/07-01 09:29:35(-1) logged MSG in 🌹: [2024-07-01 04:29:36.070 UTC] [Info] [Main] [Command] chaos [chaos]: /pm sdf im in labs with him
+[DEBUG](staffLog) 09:30:27/07-01 09:29:36(-1) logged MSG in 🌹: [2024-07-01 04:29:37.869 UTC] [Info] [Main] [Command] chaos [chaos]: /r ye
+[DEBUG](staffLog) 09:30:28/07-01 09:29:40(-2) logged MSG in 🌹: [2024-07-01 04:29:42.588 UTC] [Info] [Main] [Command] sdf [superb91]: /r u dumb
+[DEBUG](staffLog) 09:30:37/07-01 09:29:43(-1) logged MSG in 🌹: [2024-07-01 04:29:44.104 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r ground floor or up
+[DEBUG](staffLog) 09:30:37/07-01 09:29:43(-3) logged MSG in 🌹: [2024-07-01 04:29:46.487 UTC] [Info] [Main] [Command] sdf [superb91]: /r he aint in labs lmao
+[DEBUG](staffLog) 09:30:38/07-01 09:29:47(-2) logged TP in tp: [2024-07-01 04:29:49.020 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (368.7626 65.31445 2568.48) from North West of Range (356.9273 66.75822 2575.402)
+[DEBUG](staffLog) 09:30:38/07-01 09:29:51(-1) logged MSG in 🌹: [2024-07-01 04:29:52.247 UTC] [Info] [Main] [Command] chaos [chaos]: /pm sdf oh he was lmao
+[DEBUG](staffLog) 09:30:47/07-01 09:29:54(-1) logged TP in tp: [2024-07-01 04:29:55.965 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (360.7943 65.31445 2608.024) from North West of Range (360.5058 65.31445 2613.418)
+[DEBUG](staffLog) 09:30:47/07-01 09:30:01(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:30:02.928 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:30:57/07-01 09:30:01(-3) logged TP in tp: [2024-07-01 04:30:04.126 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (362.6616 66.93092 2591.319) from North West of Range (359.8648 65.31444 2641.28)
+[DEBUG](staffLog) 09:30:57/07-01 09:30:03(-3) logged MSG in 🌹: [2024-07-01 04:30:06.063 UTC] [Info] [Main] [Command] chaos [chaos]: /pm poppoi in wall sorta
+[DEBUG](staffLog) 09:30:58/07-01 09:30:07(-3) logged MSG in 🌹: [2024-07-01 04:30:10.886 UTC] [Info] [Main] [Command] chaos [chaos]: /pm poi in wall
+[DEBUG](staffLog) 09:31:07/07-01 09:30:13(-2) logged TP in tp: [2024-07-01 04:30:15.506 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (361.581 65.31445 2601.814) from North West of Range (367.6388 65.31444 2615.481)
+[DEBUG](staffLog) 09:31:08/07-01 09:30:16(-3) logged TP in tp: [2024-07-01 04:30:19.281 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (359.3482 65.31445 2632.904) from North West of Range (361.2272 65.31445 2618.67)
+[DEBUG](staffLog) 09:31:17/07-01 09:30:31(-2) logged VANISH in vanish: [2024-07-01 04:30:33.482 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /smod
+[DEBUG](staffLog) 09:31:27/07-01 09:30:31(-3) logged TP in tp: [2024-07-01 04:30:34.776 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (350.2047 65.31445 2589.364) from North West of Range (332.0038 65.31444 2650.564)
+[DEBUG](staffLog) 09:31:27/07-01 09:30:36(-1) logged MSG in 🌹: [2024-07-01 04:30:37.526 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r oh aight
+[DEBUG](staffLog) 09:31:27/07-01 09:30:39(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:30:40.355 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 09:31:48/07-01 09:30:53(-2) logged TP in tp: [2024-07-01 04:30:55.349 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at North West of Range (361.873 66.84939 2582.711) from North West of Range (364.9489 65.31444 2590.877)
+[DEBUG](staffLog) 09:31:48/07-01 09:30:53(-3) logged VANISH in vanish: [2024-07-01 04:30:56.531 UTC] [Info] [Main] [Command] iMC [iMC]: /vanish
+[DEBUG](staffLog) 09:31:48/07-01 09:30:59(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:31:01.994 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:31:57/07-01 09:31:02(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:31:05.387 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 09:32:07/07-01 09:31:13(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:31:14.644 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy blowtorch 22500
+[DEBUG](staffLog) 09:32:17/07-01 09:31:23(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:31:24.864 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy bolts 25000
+[DEBUG](staffLog) 09:32:17/07-01 09:31:25(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:31:27.064 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy bolts 35000
+[DEBUG](staffLog) 09:32:17/07-01 09:31:25(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:31:27.929 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:32:27/07-01 09:31:35(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:31:36.330 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy sealing 35000
+[DEBUG](staffLog) 09:32:37/07-01 09:31:44(-3) logged CHAT in 🥶: [2024-07-01 04:31:47.168 UTC] [Info] [Main] [Global] Vampie A. [Vampie]: I have stuff but no signs :(
+[DEBUG](staffLog) 09:32:47/07-01 09:31:52(-3) logged TP in tp: [2024-07-01 04:31:55.422 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at East of event (3011.388 0.3000163 -385.7112) from East of gorge (2652.097 0.214411 882.6853)
+[DEBUG](staffLog) 09:32:47/07-01 09:31:56(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:31:57.748 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:33:07/07-01 09:32:14(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:32:15.266 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy insulating 25000
+[DEBUG](staffLog) 09:33:07/07-01 09:32:19(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:32:20.439 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy measuring 25000
+[DEBUG](staffLog) 09:33:17/07-01 09:32:26(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:32:28.122 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:33:27/07-01 09:32:37(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:32:39.070 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "damaged hard" 20000
+[DEBUG](staffLog) 09:33:37/07-01 09:32:47(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:32:49.574 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy wires 25000
+[DEBUG](staffLog) 09:33:57/07-01 09:33:08(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:33:10.937 UTC] [Info] [Thread Pool Worker] [Command] Vampie A. [Vampie]: /buyfrom 76561198274468278 58447
+[DEBUG](staffLog) 09:34:17/07-01 09:33:24(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:33:27.792 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy pcb 25000
+[DEBUG](staffLog) 09:34:17/07-01 09:33:25(-3) logged TP in tp: [2024-07-01 04:33:28.490 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at East of event (3027.249 0.300001 -1059.523) from East of gorge (2651.258 0.2144101 890.8657)
+[DEBUG](staffLog) 09:34:17/07-01 09:33:27(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:33:30.121 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 09:34:27/07-01 09:33:39(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:33:40.733 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy 'aa battery" 20000
+[DEBUG](staffLog) 09:34:37/07-01 09:33:43(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:33:44.805 UTC] [Info] [Main] [Command] sdf [superb91]: /addshop buy "aa battery" 20000
+[DEBUG](staffLog) 09:34:57/07-01 09:34:05(-1) logged TP in tp: [2024-07-01 04:34:06.444 UTC] [Info] [Main] Pandahut >> sdf (76561198210222663) - Teleported to Marilina (76561199567157953 at East of event (3026.963 0.3000009 -1058.638) from East of gorge (2655.903 0.2144107 889.5313)
+[DEBUG](staffLog) 09:35:17/07-01 09:34:30(-1) logged SERVER in 😃: [2024-07-01 04:34:31.042 UTC] [Info] [Main] [Command] sdf [superb91]: /server 30
+[DEBUG](staffLog) 09:35:47/07-01 09:34:56(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:34:58.142 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 09:36:07/07-01 09:35:14(-2) fakelogged DEBUG in 🤯: [2024-07-01 04:35:16.451 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:36:58/07-01 09:36:02(-3) logged CHAT in 🥶: [2024-07-01 04:36:05.811 UTC] [Info] [Main] [Global] Vampie A. [Vampie]: Who got wood
+[DEBUG](staffLog) 09:36:58/07-01 09:36:10(-3) logged CHAT in 🥶: [2024-07-01 04:36:13.546 UTC] [Info] [Main] [Global] Vampie A. [Vampie]: Like pine wood
+[DEBUG](staffLog) 09:37:07/07-01 09:36:19(-2) logged CHAT in 🥶: [2024-07-01 04:36:21.245 UTC] [Info] [Main] [Global] Vampie A. [Vampie]: Bro nah
+[DEBUG](staffLog) 09:37:57/07-01 09:37:09(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:37:10.847 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:39:37/07-01 09:38:48(-2) logged DEBUG in debug-logs: [2024-07-01 04:38:50.432 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy aramid 30000
+[DEBUG](staffLog) 09:39:47/07-01 09:39:00(-2) logged DEBUG in debug-logs: [2024-07-01 04:39:02.663 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy Fleece 30000
+[DEBUG](staffLog) 09:40:47/07-01 09:39:53(-3) logged MSG in 🌹: [2024-07-01 04:39:56.387 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /pm chaos which floor do i place the transmitter in hospital
+[DEBUG](staffLog) 09:41:07/07-01 09:40:15(-3) logged MSG in 🌹: [2024-07-01 04:40:18.535 UTC] [Info] [Main] [Command] chaos [chaos]: /r very very top
+[DEBUG](staffLog) 09:41:08/07-01 09:40:19(-1) logged MSG in 🌹: [2024-07-01 04:40:20.042 UTC] [Info] [Main] [Command] chaos [chaos]: /r outside
+[DEBUG](staffLog) 09:41:17/07-01 09:40:22(-3) logged MSG in 🌹: [2024-07-01 04:40:25.075 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r aight ty gang
+[DEBUG](staffLog) 09:42:37/07-01 09:41:46(-1) logged DEBUG in debug-logs: [2024-07-01 04:41:47.268 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy courda 30000
+[DEBUG](staffLog) 09:42:47/07-01 09:41:51(-3) logged DEBUG in debug-logs: [2024-07-01 04:41:54.893 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy ripstop 30000
+[DEBUG](staffLog) 09:43:47/07-01 09:43:00(-2) logged DEBUG in debug-logs: [2024-07-01 04:43:02.671 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy aramid
+[DEBUG](staffLog) 09:43:57/07-01 09:43:03(-3) logged DEBUG in debug-logs: [2024-07-01 04:43:06.185 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy aramid 30000
+[DEBUG](staffLog) 09:44:38/07-01 09:43:50(-2) logged DEBUG in debug-logs: [2024-07-01 04:43:52.514 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy fleece 30000
+[DEBUG](staffLog) 09:48:17/07-01 09:47:28(-3) logged DEBUG in debug-logs: [2024-07-01 04:47:31.732 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy cordura 30000
+[DEBUG](staffLog) 09:48:57/07-01 09:48:07(-1) logged DEBUG in debug-logs: [2024-07-01 04:48:08.654 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy ripstop 30000
+[DEBUG](staffLog) 09:49:17/07-01 09:48:23(-2) logged MSG in 🌹: [2024-07-01 04:48:25.522 UTC] [Info] [Main] [Command] chaos [chaos]: /pm care yo where is labs blue room/
+[DEBUG](staffLog) 09:49:27/07-01 09:48:41(-1) logged MSG in 🌹: [2024-07-01 04:48:42.303 UTC] [Info] [Main] [Command] careful [$yq]: /r right next to black
+[DEBUG](staffLog) 09:49:37/07-01 09:48:46(-1) logged DEBUG in debug-logs: [2024-07-01 04:48:47.021 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy ripstop
+[DEBUG](staffLog) 09:49:38/07-01 09:48:46(-3) logged DEBUG in debug-logs: [2024-07-01 04:48:49.698 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy ripstop 30000
+[DEBUG](staffLog) 09:49:47/07-01 09:48:54(-2) logged DEBUG in debug-logs: [2024-07-01 04:48:56.771 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy courdura 30000
+[DEBUG](staffLog) 09:49:48/07-01 09:49:00(-1) logged DEBUG in debug-logs: [2024-07-01 04:49:01.037 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy cordura 30000
+[DEBUG](staffLog) 09:49:58/07-01 09:49:03(-2) logged DEBUG in debug-logs: [2024-07-01 04:49:05.274 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopremove
+[DEBUG](staffLog) 09:49:58/07-01 09:49:04(-2) logged DEBUG in debug-logs: [2024-07-01 04:49:06.213 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopremove
+[DEBUG](staffLog) 09:50:17/07-01 09:49:29(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:49:32.863 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /buyfrom 76561198274468278 46208
+[DEBUG](staffLog) 09:50:27/07-01 09:49:31(-3) logged MSG in 🌹: [2024-07-01 04:49:34.898 UTC] [Info] [Main] [Command] chaos [chaos]: /r any chance we can team up and u take me there i can pay for labs
+[DEBUG](staffLog) 09:50:28/07-01 09:49:39(-1) logged MSG in 🌹: [2024-07-01 04:49:40.980 UTC] [Info] [Main] [Command] chaos [chaos]: /r i have no idea where labs rooms are
+[DEBUG](staffLog) 09:51:27/07-01 09:50:35(-2) logged MSG in 🌹: [2024-07-01 04:50:37.170 UTC] [Info] [Main] [Command] Ha [Ha]: /msg marlin ur dogshit cheating & losing to bucket
+[DEBUG](staffLog) 09:51:28/07-01 09:50:37(-2) logged MSG in 🌹: [2024-07-01 04:50:39.120 UTC] [Info] [Main] [Command] chaos [chaos]: /r where is black?
+[DEBUG](staffLog) 09:51:38/07-01 09:50:45(-2) logged MSG in 🌹: [2024-07-01 04:50:47.075 UTC] [Info] [Main] [Command] careful [$yq]: /r when uu spawn default
+[DEBUG](staffLog) 09:51:47/07-01 09:50:56(-2) logged MSG in 🌹: [2024-07-01 04:50:58.514 UTC] [Info] [Main] [Command] chaos [chaos]: /r i need to find usb but i cannot find it'
+[DEBUG](staffLog) 09:52:17/07-01 09:51:29(-1) logged DEBUG in debug-logs: [2024-07-01 04:51:30.036 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy "stack of wires" 50000
+[DEBUG](staffLog) 09:52:37/07-01 09:51:42(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:51:45.173 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 09:52:38/07-01 09:51:47(-2) logged MSG in 🌹: [2024-07-01 04:51:49.503 UTC] [Info] [Main] [Command] chaos [chaos]: /r can u come team and take me their ? i can pay for abs
+[DEBUG](staffLog) 09:52:47/07-01 09:51:52(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:51:55.696 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 09:54:58/07-01 09:54:09(-2) logged DEBUG in debug-logs: [2024-07-01 04:54:11.892 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /shopadd buy "damaged power" 30000
+[DEBUG](staffLog) 09:55:17/07-01 09:54:24(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:54:27.642 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vault stash
+[DEBUG](staffLog) 10:00:07/07-01 09:59:15(-3) fakelogged DEBUG in 🤯: [2024-07-01 04:59:18.841 UTC] [Info] [Main] [Command] sdf [superb91]: /doortp
+[DEBUG](staffLog) 10:00:17/07-01 09:59:31(-1) fakelogged DEBUG in 🤯: [2024-07-01 04:59:32.154 UTC] [Info] [Main] [Command] sdf [superb91]: /vault
+[DEBUG](staffLog) 10:10:47/07-01 10:09:53(-2) logged MSG in 🌹: [2024-07-01 05:09:55.777 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /pm gyeong yo
+[DEBUG](staffLog) 10:10:57/07-01 10:10:07(-1) logged MSG in 🌹: [2024-07-01 05:10:08.169 UTC] [Info] [Main] [Command] [PLA]Gyeong/高用 [RedNose]: /pm poipoi wsg homie
+[DEBUG](staffLog) 10:11:07/07-01 10:10:21(-2) logged MSG in 🌹: [2024-07-01 05:10:23.761 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r can u let me kill u 15 times for jaeger
+[DEBUG](staffLog) 10:11:17/07-01 10:10:23(-3) logged MSG in 🌹: [2024-07-01 05:10:26.097 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r ill give 300k
+[DEBUG](staffLog) 10:11:27/07-01 10:10:40(-2) logged MSG in 🌹: [2024-07-01 05:10:42.791 UTC] [Info] [Main] [Command] [PLA]Gyeong/高用 [RedNose]: /pm poi sure
+[DEBUG](staffLog) 10:11:47/07-01 10:10:58(-2) logged MSG in 🌹: [2024-07-01 05:11:00.285 UTC] [Info] [Main] [Command] [PLA]Gyeong/高用 [RedNose]: /pm poi but when its day im done
+[DEBUG](staffLog) 10:11:57/07-01 10:11:04(-2) logged MSG in 🌹: [2024-07-01 05:11:06.414 UTC] [Info] [Main] [Command] poipoipoi [Shady]: /r sure np

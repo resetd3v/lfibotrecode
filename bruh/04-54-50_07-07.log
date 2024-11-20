@@ -1,0 +1,12 @@
+[INFO](retrieveLog) wrote 0.391249MB to latest.log in 0.775639533996582
+[INFO](staffParse) CAUGHT UP TO LATEST 57
+[DEBUG](staffLog) 09:06:25/07-07 09:05:29(-3) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:05:32.575 UTC] [Info] [Main] [Command] I MISS HIM [I MISS HIM]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:08:15/07-07 09:07:23(-2) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:07:25.987 UTC] [Info] [Main] [Command] Confusing [Confusing]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:09:25/07-07 09:08:35(-2) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:08:37.204 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13005
+[DEBUG](staffLog) 09:09:35/07-07 09:08:42(-3) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:08:45.404 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13005
+[DEBUG](staffLog) 09:09:35/07-07 09:08:46(-3) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:08:49.606 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13005
+[DEBUG](staffLog) 09:09:55/07-07 09:08:57(-3) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:09:00.670 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13004
+[DEBUG](staffLog) 09:09:55/07-07 09:09:03(-2) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:09:05.716 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13003
+[DEBUG](staffLog) 09:10:05/07-07 09:09:10(-1) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:09:11.849 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13003
+[DEBUG](staffLog) 09:10:05/07-07 09:09:15(-1) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:09:16.146 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13003
+[DEBUG](staffLog) 09:11:05/07-07 09:10:11(-3) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:10:14.125 UTC] [Info] [Main] [Command] Confusing [Confusing]: /buyfrom 76561198884479492 43000

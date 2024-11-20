@@ -1,0 +1,10 @@
+[INFO](retrieveLog) wrote 27.746189MB to latest.log in 2.168125629425049
+[INFO](staffParse) CAUGHT UP TO LATEST 46
+[ERROR](staffParse) error parsing cannot access local variable 'target' where it is not associated with a value | {'name': 'CHAT', 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" has said "{}" in "{}" chat', 'color': 34001} | [2024-06-30 22:31:39.019 UTC] [Info] [Main] [Global] 8 D SACISHOP [SACI]: yoo
+
+[ERROR](staffParse) error parsing cannot access local variable 'target' where it is not associated with a value | {'name': 'CHAT', 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" has said "{}" in "{}" chat', 'color': 34001} | [2024-06-30 22:31:39.910 UTC] [Info] [Main] [Global] MatuZalon [MatuZalon]: what you need for lvl 1?
+
+[ERROR](staffParse) error parsing cannot access local variable 'target' where it is not associated with a value | {'name': 'CHAT', 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" has said "{}" in "{}" chat', 'color': 34001} | [2024-06-30 22:31:44.678 UTC] [Info] [Main] [Global] 8 D SACISHOP [SACI]: 8 D
+
+[ERROR](staffParse) error parsing cannot access local variable 'target' where it is not associated with a value | {'name': 'CHAT', 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" has said "{}" in "{}" chat', 'color': 34001} | [2024-06-30 22:31:46.291 UTC] [Info] [Main] [Global] MatuZalon [MatuZalon]: gun powder
+

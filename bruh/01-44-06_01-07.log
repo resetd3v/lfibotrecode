@@ -1,0 +1,118 @@
+[INFO](retrieveLog) wrote 34.374907MB to latest.log in 2.1397693157196045
+[INFO](staffParse) CAUGHT UP TO LATEST 69
+[INFO](listMonitors) succesfully listed 3 monitors for user resetdev
+[INFO](cancelMonitor) succesfully deleted monitor 76561199005666604 for user 837703090345214022
+[INFO](monitor) succesfully monitoring 76561199005666604 for user 837703090345214022
+[INFO](listMonitors) succesfully listed 3 monitors for user resetdev
+[DEBUG](staffLog) 05:46:34/07-01 05:45:41(-2) logged MSG in 🌹: [2024-07-01 00:45:43.935 UTC] [Info] [Main] [Command] Jenireeh [shino]: /pm zzz. let's team
+[DEBUG](staffLog) 05:47:24/07-01 05:46:36(-3) logged STATS in stats mentioned 837703090345214022: [2024-07-01 00:46:39.489 UTC] [Info] [Main] [Command] killa [killa]: /stats 76561199005666604
+[DEBUG](staffLog) 05:50:06/07-01 05:49:08(-2) logged MSG in 🌹: [2024-07-01 00:49:10.269 UTC] [Info] [Main] [Command] jacobrosignolo5196 [jacobrosignolo5196]: /m
+[DEBUG](staffLog) 05:51:24/07-01 05:50:32(-1) logged MSG in 🌹: [2024-07-01 00:50:33.892 UTC] [Info] [Main] [Command] Arya [GoingMango]: /pm bucket caja sus
+[DEBUG](staffLog) 05:51:44/07-01 05:50:49(-1) logged MSG in 🌹: [2024-07-01 00:50:50.449 UTC] [Info] [Main] [Command] Arya [GoingMango]: /pm bucket dond go city lol
+[DEBUG](staffLog) 05:54:55/07-01 05:54:04(-1) logged VANISH in vanish: [2024-07-01 00:54:05.234 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vanish
+[DEBUG](staffLog) 05:55:24/07-01 05:54:33(-1) logged TP in tp: [2024-07-01 00:54:34.800 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vampie A. (76561198259451520 at East of gorge (2350.064 0.7144105 888.494) from East of gorge (2350.064 0.2144105 888.494)
+[DEBUG](staffLog) 05:55:34/07-01 05:54:43(-1) logged TP in tp: [2024-07-01 00:54:44.241 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to la caja (76561199727404624 at North of Labs (411.5381 36.8522 -1443.742) from East of gorge (2350.064 0.2144102 888.494)
+[DEBUG](staffLog) 05:55:34/07-01 05:54:43(-3) logged TP in tp: [2024-07-01 00:54:46.253 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to la caja (76561199727404624 at North of Labs (418.4597 38.63364 -1457.53) from North West of Labs (-129.1841 35.81583 -1290.382)
+[INFO](listMonitors) succesfully listed 3 monitors for user resetdev
+[DEBUG](staffLog) 05:55:55/07-01 05:55:01(-3) logged DEBUG in debug-logs: [2024-07-01 00:55:04.926 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /info vanessa
+[DEBUG](staffLog) 05:56:04/07-01 05:55:08(-2) logged TP in tp: [2024-07-01 00:55:10.079 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to la caja (76561199727404624 at North of Labs (410.7581 36.8522 -1531.574) from North of Labs (455.1769 36.8522 -1468.154)
+[DEBUG](staffLog) 05:56:04/07-01 05:55:15(-2) logged TP in tp: [2024-07-01 00:55:17.766 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at North of Labs (432.4745 37.11649 -1372.129) from North of Labs (400.6512 36.8522 -1516.335)
+[DEBUG](staffLog) 05:56:28/07-01 05:55:28(-2) logged DEBUG in debug-logs: [2024-07-01 00:55:30.318 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /god
+[DEBUG](staffLog) 05:56:29/07-01 05:55:28(-3) logged DEBUG in debug-logs: [2024-07-01 00:55:31.724 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /heal
+[DEBUG](staffLog) 05:57:04/07-01 05:56:09(-2) logged TP in tp: [2024-07-01 00:56:11.594 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at West of event (328.0078 37.85303 -1171.443) from West of event (331.6672 37.99547 -1167.648)
+[DEBUG](staffLog) 05:57:14/07-01 05:56:22(-3) logged TP in tp: [2024-07-01 00:56:25.095 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to la caja (76561199727404624 at North West of firestationtest (-303.1004 40.33495 -70.03159) from West of event (330.0457 37.88818 -1169.672)
+[DEBUG](staffLog) 05:57:14/07-01 05:56:23(-3) logged TP in tp: [2024-07-01 00:56:26.417 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to la caja (76561199727404624 at North West of firestationtest (-293.7289 37.06151 -64.49558) from North West of firestationtest (-371.3386 36.8522 -54.87671)
+[DEBUG](staffLog) 05:57:24/07-01 05:56:37(-2) logged TP in tp: [2024-07-01 00:56:39.124 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at North of Labs (231.0548 38.78982 -1180.515) from North of firestationtest (-261.9318 36.8522 -74.99287)
+[DEBUG](staffLog) 05:57:34/07-01 05:56:39(-1) logged TP in tp: [2024-07-01 00:56:40.968 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at North of Labs (231.0548 38.78982 -1180.515) from West of event (589.1765 36.31392 -1215.284)
+[DEBUG](staffLog) 05:57:34/07-01 05:56:45(-2) logged TP in tp: [2024-07-01 00:56:47.399 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at North West of Range (314.7535 65.06445 2673.655) from North of Labs (234.6395 38.68613 -1188.773)
+[DEBUG](staffLog) 05:58:27/07-01 05:57:24(-1) logged TP in tp: [2024-07-01 00:57:25.803 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at North West of Range (314.8757 65.1529 2674.313) from North West of Range (354.8907 65.06445 2669.724)
+[DEBUG](staffLog) 05:58:27/07-01 05:57:30(-1) logged TP in tp: [2024-07-01 00:57:31.593 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to la caja (76561199727404624 at West of Interchange (-1189.243 46.78272 70.81835) from North West of Range (316.7181 65.31444 2676.719)
+[DEBUG](staffLog) 05:58:27/07-01 05:57:30(-2) logged TP in tp: [2024-07-01 00:57:32.962 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to la caja (76561199727404624 at West of Interchange (-1182.499 46.78272 64.48615) from North of Interchange (-879.4148 46.92785 205.2811)
+[DEBUG](staffLog) 05:58:34/07-01 05:57:48(-1) logged MSG in 🌹: [2024-07-01 00:57:49.462 UTC] [Info] [Main] [Command] Leungass [Leungass]: /pm
+[DEBUG](staffLog) 05:58:44/07-01 05:57:50(-2) logged MSG in 🌹: [2024-07-01 00:57:52.588 UTC] [Info] [Main] [Command] Leungass [Leungass]: /pm godly
+[DEBUG](staffLog) 05:58:54/07-01 05:58:03(-2) logged MSG in 🌹: [2024-07-01 00:58:05.157 UTC] [Info] [Main] [Command] Leungass [Leungass]: /pm Godly hypothetically are u seeing la caja hack?
+[DEBUG](staffLog) 05:58:54/07-01 05:58:04(-2) logged BAN in bans mentioned 1218944589994659850: [2024-07-01 00:58:06.259 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /ban 76561199727404624 "Cheating | STW | Permanent" 0
+[DEBUG](staffLog) 05:59:46/07-01 05:58:47(-2) logged TP in tp: [2024-07-01 00:58:49.945 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at West of Interchange (-1143.859 53.15901 44.79119) from West of Interchange (-1170.666 46.66531 82.13342)
+[DEBUG](staffLog) 06:00:44/07-01 05:59:54(-3) logged DEBUG in debug-logs: [2024-07-01 00:59:57.881 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /staff
+[DEBUG](staffLog) 06:01:24/07-01 06:00:33(-2) logged SC in 🥶: [2024-07-01 01:00:35.762 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc Watching vanesa something rn
+[DEBUG](staffLog) 06:01:34/07-01 06:00:39(-2) logged TP in tp: [2024-07-01 01:00:41.753 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at North West of Range (314.7853 65.06445 2669.217) from West of Interchange (-1147.065 53.15901 41.00508)
+[DEBUG](staffLog) 06:01:34/07-01 06:00:44(-2) logged TP in tp: [2024-07-01 01:00:46.900 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at South East of Factory (-1826.921 55.11261 1817.687) from North West of Range (312.326 65.06445 2673.834)
+[DEBUG](staffLog) 06:01:34/07-01 06:00:47(-1) logged TP in tp: [2024-07-01 01:00:48.126 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at South East of Factory (-1835.82 55.11261 1821.422) from East of Factory (-1829.877 53.61261 1895.811)
+[DEBUG](staffLog) 06:02:06/07-01 06:01:08(-1) logged TP in tp: [2024-07-01 01:01:09.972 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at North West of Range (313.9844 66.28088 2664.57) from South East of Factory (-1889.274 58.3742 1851.19)
+[DEBUG](staffLog) 06:02:14/07-01 06:01:20(-1) logged TP in tp: [2024-07-01 01:01:21.586 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at West of Interchange (-1267.238 46.86535 182.8352) from North West of Range (314.8149 65.06445 2667.221)
+[DEBUG](staffLog) 06:02:14/07-01 06:01:20(-2) logged TP in tp: [2024-07-01 01:01:22.699 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Vanessa Troiani (Best Mother) (76561199661609767 at West of Interchange (-1263.79 46.86536 185.5428) from South of Interchange (-906.2523 46.20591 61.18141)
+[DEBUG](staffLog) 06:02:24/07-01 06:01:32(-2) logged SC in 🥶: [2024-07-01 01:01:34.550 UTC] [Info] [Main] [Command] jacobrosignolo5196 [jacobrosignolo5196]: /C
+[DEBUG](staffLog) 06:02:24/07-01 06:01:33(-3) logged TP in tp: [2024-07-01 01:01:36.475 UTC] [Info] [Main] [Command] jacobrosignolo5196 [jacobrosignolo5196]: /T
+[DEBUG](staffLog) 06:02:25/07-01 06:01:35(-3) logged MSG in 🌹: [2024-07-01 01:01:38.933 UTC] [Info] [Main] [Command] jacobrosignolo5196 [jacobrosignolo5196]: /R
+[DEBUG](staffLog) 06:04:24/07-01 06:03:34(-3) logged BAN in bans: [2024-07-01 01:03:37.496 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /ban 76561199661609767 "Cheating | STW | Permanent" 0
+[DEBUG](staffLog) 06:04:45/07-01 06:03:47(-3) logged DEBUG in debug-logs: [2024-07-01 01:03:50.023 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /bunker
+[DEBUG](staffLog) 06:04:45/07-01 06:03:49(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:03:52.461 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 06:05:24/07-01 06:04:31(-2) logged CHAT in 🥶: [2024-07-01 01:04:33.960 UTC] [Info] [Main] [Global] Vampie A. [Vampie]: No, if you have a clip of dying to them then make a ticket for a refund
+[DEBUG](staffLog) 06:15:04/07-01 06:14:07(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:14:10.258 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash
+[DEBUG](staffLog) 06:15:04/07-01 06:14:11(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:14:12.395 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 06:15:04/07-01 06:14:15(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:14:17.572 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 06:15:15/07-01 06:14:24(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:14:27.916 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 06:17:14/07-01 06:16:24(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:16:26.909 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 06:18:04/07-01 06:17:10(-2) logged SC in 🥶: [2024-07-01 01:17:12.246 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc hai
+[DEBUG](staffLog) 06:18:05/07-01 06:17:14(-1) logged SC in 🥶: [2024-07-01 01:17:15.930 UTC] [Info] [Main] [Command] iMC [iMC]: /sc hai
+[DEBUG](staffLog) 06:18:14/07-01 06:17:20(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:17:22.017 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:19:24/07-01 06:18:35(-2) logged VANISH in vanish: [2024-07-01 01:18:37.458 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /smod
+[DEBUG](staffLog) 06:19:35/07-01 06:18:43(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:18:45.525 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /buyfrom 76561198274468278 26008
+[DEBUG](staffLog) 06:20:24/07-01 06:19:27(-3) logged MSG in 🌹: [2024-07-01 01:19:30.034 UTC] [Info] [Main] [Command] iMC [iMC]: /pm 76561199066087321 there you go
+[DEBUG](staffLog) 06:20:34/07-01 06:19:39(-1) logged MSG in 🌹: [2024-07-01 01:19:40.201 UTC] [Info] [Main] [Command] iMC [iMC]: /pm 76561199066087321 anything else we can help you with?
+[DEBUG](staffLog) 06:20:44/07-01 06:19:51(-3) logged MSG in 🌹: [2024-07-01 01:19:54.037 UTC] [Info] [Main] [Command] [CyKo] V1per [Hanz0]: /pm IMC no that is all
+[DEBUG](staffLog) 06:20:54/07-01 06:20:02(-3) logged MSG in 🌹: [2024-07-01 01:20:05.386 UTC] [Info] [Main] [Command] iMC [iMC]: /r alright I will be closing your ticket, is that okay?
+[DEBUG](staffLog) 06:21:44/07-01 06:20:54(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:20:57.926 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:21:54/07-01 06:21:03(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:21:06.260 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:23:14/07-01 06:22:20(-3) logged MSG in 🌹: [2024-07-01 01:22:23.808 UTC] [Info] [Main] [Command] Tagilla's Mom [.OWNER Wolf_Fr | Johnson Lesteur]: /pm Godly Could you check discord PM its about quests bugs
+[DEBUG](staffLog) 06:23:44/07-01 06:22:52(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:22:53.356 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 06:24:04/07-01 06:23:12(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:23:13.210 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 06:24:54/07-01 06:24:02(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:24:03.591 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:24:54/07-01 06:24:03(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:24:06.027 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 06:25:04/07-01 06:24:09(-3) logged VANISH in vanish: [2024-07-01 01:24:12.166 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /mod
+[DEBUG](staffLog) 06:25:04/07-01 06:24:12(-1) logged VANISH in vanish: [2024-07-01 01:24:13.666 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vanish
+[DEBUG](staffLog) 06:25:04/07-01 06:24:11(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:24:14.744 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:26:14/07-01 06:25:24(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:25:26.388 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 06:26:34/07-01 06:25:47(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:25:49.660 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash
+[DEBUG](staffLog) 06:27:04/07-01 06:26:08(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:26:10.273 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 06:27:04/07-01 06:26:11(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:26:14.965 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 06:27:04/07-01 06:26:17(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:26:18.626 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 06:27:14/07-01 06:26:21(-3) logged MSG in 🌹: [2024-07-01 01:26:24.106 UTC] [Info] [Main] [Command] Tagilla's Mom [.OWNER Wolf_Fr | Johnson Lesteur]: /pm v0rtex
+[DEBUG](staffLog) 06:27:34/07-01 06:26:39(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:26:40.462 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 06:27:45/07-01 06:26:51(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:26:54.194 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 06:28:11/07-01 06:27:16(-2) logged MSG in 🌹: [2024-07-01 01:27:18.571 UTC] [Info] [Main] [Command] whopper [Floaty Fred]: /m
+[DEBUG](staffLog) 06:28:11/07-01 06:27:16(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:27:19.668 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /buyfrom 76561198844615074 43000
+[DEBUG](staffLog) 06:28:24/07-01 06:27:32(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:27:34.019 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 06:28:34/07-01 06:27:40(-3) logged DEBUG in debug-logs: [2024-07-01 01:27:43.115 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /bunker
+[DEBUG](staffLog) 06:28:46/07-01 06:27:53(-2) logged SC in 🥶: [2024-07-01 01:27:55.384 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc Hai vampie
+[INFO](monitor) succesfully monitoring 76561199409644163 for user 846641395581190155
+[DEBUG](staffLog) 06:29:14/07-01 06:28:19(-1) logged VANISH in vanish: [2024-07-01 01:28:20.393 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vanish
+[DEBUG](staffLog) 06:29:55/07-01 06:29:06(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:29:08.568 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:30:24/07-01 06:29:28(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:29:31.909 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:31:04/07-01 06:30:09(-2) logged TP in tp: [2024-07-01 01:30:11.931 UTC] [Info] [Main] [Command] Fennek [CanThinkOfBADPlan]: /p
+[DEBUG](staffLog) 06:31:04/07-01 06:30:13(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:30:14.570 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:33:34/07-01 06:32:44(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:32:47.543 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 06:33:43/07-01 06:32:53(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:32:54.455 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 06:34:47/07-01 06:33:56(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:33:59.552 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 06:35:08/07-01 06:34:16(-3) logged BAN in bans: [2024-07-01 01:34:19.817 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /ban 76561199726512399 "Spawn camping | 1st Offense | 12 Hours" 12 h
+[DEBUG](staffLog) 06:35:55/07-01 06:35:00(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:35:02.398 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 06:36:04/07-01 06:35:16(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:35:18.441 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 06:36:24/07-01 06:35:28(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:35:30.848 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash
+[DEBUG](staffLog) 06:36:24/07-01 06:35:31(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:35:33.985 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash+
+[DEBUG](staffLog) 06:36:24/07-01 06:35:37(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:35:38.044 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 06:36:34/07-01 06:35:43(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:35:45.562 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 06:36:54/07-01 06:35:59(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:36:00.828 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 06:37:14/07-01 06:36:22(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:36:23.577 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:37:46/07-01 06:36:55(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:36:56.863 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:38:04/07-01 06:37:15(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:37:17.206 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 06:38:14/07-01 06:37:21(-1) fakelogged DEBUG in 🤯: [2024-07-01 01:37:22.757 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 06:38:14/07-01 06:37:21(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:37:23.018 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 06:38:24/07-01 06:37:29(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:37:32.107 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 06:38:24/07-01 06:37:31(-2) fakelogged VANISH in 🤯: [2024-07-01 01:37:33.114 UTC] [Info] [Main] [Command] Tricerina [Tricerino]: /I PINK
+[DEBUG](staffLog) 06:39:04/07-01 06:38:10(-3) logged DEBUG in debug-logs: [2024-07-01 01:38:13.471 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vaults
+[DEBUG](staffLog) 06:39:04/07-01 06:38:12(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:38:15.246 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:39:14/07-01 06:38:18(-3) fakelogged VANISH in 🤯: [2024-07-01 01:38:21.886 UTC] [Info] [Main] [Command] Tricerina [Tricerino]: /I M134
+[DEBUG](staffLog) 06:39:14/07-01 06:38:20(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:38:22.048 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:39:44/07-01 06:38:52(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:38:54.325 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:40:04/07-01 06:39:15(-2) fakelogged DEBUG in 🤯: [2024-07-01 01:39:17.450 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:40:14/07-01 06:39:19(-3) fakelogged DEBUG in 🤯: [2024-07-01 01:39:22.239 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa

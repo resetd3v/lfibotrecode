@@ -1,0 +1,36 @@
+[INFO](retrieveLog) wrote 46.928981MB to latest.log in 2.541987180709839
+[INFO](staffParse) CAUGHT UP TO LATEST 46
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'color': 34001} | [2024-07-08 06:57:29.823 UTC] [Info] [Main] [Command] Yogamer90 [Yogamer90]: /pm
+
+[DEBUG](staffLog) 11:58:33/07-08 11:57:30(-2) logged MSG in 🌹: [2024-07-08 06:57:32.068 UTC] [Info] [Main] [Command] Yogamer90 [Yogamer90]: /pm a
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'color': 34001} | [2024-07-08 06:57:37.877 UTC] [Info] [Main] [Command] Yogamer90 [Yogamer90]: /pm
+
+[DEBUG](staffLog) 11:58:57/07-08 11:57:51(-2) logged MSG in 🌹: [2024-07-08 06:57:53.399 UTC] [Info] [Main] [Command] Yogamer90 [Yogamer90]: /pm runnningforgood Yo wya
+[DEBUG](staffLog) 12:05:53/07-08 12:04:47(-1) logged MSG in 🌹: [2024-07-08 07:04:48.890 UTC] [Info] [Main] [Command] HyperChar [HyperChar]: /pm rxe yo
+[DEBUG](staffLog) 12:06:23/07-08 12:05:24(-3) logged MSG in 🌹: [2024-07-08 07:05:27.030 UTC] [Info] [Main] [Command] HyperChar [HyperChar]: /pm xef yo i found 2 sealing foam
+[DEBUG](staffLog) 12:08:05/07-08 12:07:02(-1) logged MSG in 🌹: [2024-07-08 07:07:03.995 UTC] [Info] [Main] [Command] HyperChar [HyperChar]: /pm xef yo xef, you able to go to your apt rq?
+[DEBUG](staffLog) 12:13:13/07-08 12:12:08(-2) logged MSG in 🌹: [2024-07-08 07:12:10.539 UTC] [Info] [Main] [Command] HyperChar [HyperChar]: /pm xef yo, xef
+[DEBUG](staffLog) 12:13:24/07-08 12:12:22(-1) logged MSG in 🌹: [2024-07-08 07:12:23.155 UTC] [Info] [Main] [Command] HyperChar [HyperChar]: /pm xefzy yo, i got 2 sealing foam
+[DEBUG](staffLog) 12:13:33/07-08 12:12:27(-1) logged MSG in 🌹: [2024-07-08 07:12:28.748 UTC] [Info] [Main] [Command] HyperChar [HyperChar]: /pm xef yo
+[DEBUG](staffLog) 12:31:16/07-08 12:30:03(-3) logged MSG in 🌹: [2024-07-08 07:30:06.513 UTC] [Info] [Main] [Command] Ashley [Dusty]: /pm hacker @dustylilcat
+[DEBUG](staffLog) 12:38:35/07-08 12:37:28(-2) logged CONNECTING in 🤯: [2024-07-08 07:37:30.715 UTC] [Info] [Main] Connecting: PlayerID: 76561199511902294 Steam Name: Angel Character name: RDA | ANGEL Nick: Angel Group: 0 Join GUID: 9c511d98-5f44-4bfe-a172-6398d98bf7e0 Character Slot: 0 Language: English
+[DEBUG](staffLog) 12:41:13/07-08 12:40:13(-2) fakelogged DEBUG in 🤯: [2024-07-08 07:40:15.424 UTC] [Info] [Main] [Command] RDA | ANGEL [Angel]: /stuck
+[DEBUG](staffLog) 12:42:33/07-08 12:41:35(-2) logged MSG in 🌹: [2024-07-08 07:41:37.576 UTC] [Info] [Main] [Command] Ashley [Dusty]: /pm harm stay inside
+[DEBUG](staffLog) 12:45:43/07-08 12:44:39(-3) logged MSG in 🌹: [2024-07-08 07:44:42.500 UTC] [Info] [Main] [Command] Harm [Harm]: /pm ashley no one is selling onee
+[DEBUG](staffLog) 12:49:05/07-08 12:48:01(-1) logged MSG in 🌹: [2024-07-08 07:48:02.543 UTC] [Info] [Main] [Command] Ashley [Dusty]: /pm harm wya
+[DEBUG](staffLog) 12:49:36/07-08 12:48:31(-1) logged MSG in 🌹: [2024-07-08 07:48:32.518 UTC] [Info] [Main] [Command] Harm [Harm]: /pm ashley wya
+[DEBUG](staffLog) 12:49:36/07-08 12:48:34(-3) logged MSG in 🌹: [2024-07-08 07:48:37.731 UTC] [Info] [Main] [Command] Ashley [Dusty]: /pm harm basement
+[DEBUG](staffLog) 12:49:55/07-08 12:48:48(-2) logged MSG in 🌹: [2024-07-08 07:48:50.655 UTC] [Info] [Main] [Command] Harm [Harm]: /pm ashley labs might be dead
+[DEBUG](staffLog) 12:50:06/07-08 12:49:06(-1) logged MSG in 🌹: [2024-07-08 07:49:07.659 UTC] [Info] [Main] [Command] Ashley [Dusty]: /pm harm im at medical now
+[DEBUG](staffLog) 12:50:06/07-08 12:49:05(-3) logged MSG in 🌹: [2024-07-08 07:49:08.018 UTC] [Info] [Main] [Command] Harm [Harm]: /pm ashley im at one of the glass buildings
+[DEBUG](staffLog) 12:50:53/07-08 12:49:48(-3) logged MSG in 🌹: [2024-07-08 07:49:51.464 UTC] [Info] [Main] [Command] Harm [Harm]: /pm ashley im at the one with loot around it
+[DEBUG](staffLog) 12:51:35/07-08 12:50:37(-1) logged MSG in 🌹: [2024-07-08 07:50:38.133 UTC] [Info] [Main] [Command] Ashley [Dusty]: /pm harm can u be more specific
+[DEBUG](staffLog) 12:52:03/07-08 12:51:02(-1) logged MSG in 🌹: [2024-07-08 07:51:03.761 UTC] [Info] [Main] [Command] Harm [Harm]: /pm ashley lmao idk man i think i heard you a  minute ago \
+[DEBUG](staffLog) 12:54:43/07-08 12:53:36(-3) fakelogged DEBUG in 🤯: [2024-07-08 07:53:39.860 UTC] [Info] [Main] [Command] RDA | ANGEL [Angel]: /vault
+[DEBUG](staffLog) 12:58:23/07-08 12:57:20(-3) fakelogged DEBUG in 🤯: [2024-07-08 07:57:23.838 UTC] [Info] [Main] [Command] RDA | ANGEL [Angel]: /vault
+[DEBUG](staffLog) 12:58:23/07-08 12:57:22(-3) logged MSG in 🌹: [2024-07-08 07:57:25.049 UTC] [Info] [Main] [Command] Ashley [Dusty]: /pm harm @dustylilcat
+[DEBUG](staffLog) 12:59:15/07-08 12:58:07(-2) logged MSG in 🌹: [2024-07-08 07:58:09.987 UTC] [Info] [Main] [Command] Harm [Harm]: /pm ashley i added you
+[DEBUG](staffLog) 13:05:43/07-08 13:04:38(-1) fakelogged DEBUG in 🤯: [2024-07-08 08:04:39.219 UTC] [Info] [Main] [Command] RDA | ANGEL [Angel]: /vault
+[DEBUG](staffLog) 14:09:15/07-08 14:08:15(-1) logged CONNECTING in 🤯: [2024-07-08 09:08:16.619 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: 6b854b61-cf77-4895-986c-3589f08e9dc7 Character Slot: 0 Language: English
+[DEBUG](staffLog) 14:23:53/07-08 14:22:56(-2) logged CHAT in 🥶: [2024-07-08 09:22:58.453 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: top tier gaslighters in this server
+[ERROR](retrieveLog) resp returned 525

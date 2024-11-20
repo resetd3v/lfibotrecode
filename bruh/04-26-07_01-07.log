@@ -1,0 +1,52 @@
+[INFO](retrieveLog) wrote 2.531926MB to latest.log in 1.0501964092254639
+[INFO](listMonitors) succesfully listed 4 monitors for user resetdev
+[INFO](staffParse) CAUGHT UP TO LATEST 45
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'VANISH', 'aliases': ['mod', 'smod'], 'channel': 1256023689368047680, 'public': False, 'text': 'staff "{}" went into vanish', 'textArgs': ['sender'], 'color': 34001} | [2024-07-01 03:25:40.607 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+
+[DEBUG](staffLog) 08:26:32/07-01 08:25:39(-2) logged CHAT in 🥶: [2024-07-01 03:25:41.178 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: awu~
+[INFO](cancelMonitor) succesfully deleted monitor 76561199727404624 for user 1218944589994659850
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'VANISH', 'aliases': ['mod', 'smod'], 'channel': 1256023689368047680, 'public': False, 'text': 'staff "{}" went into vanish', 'textArgs': ['sender'], 'color': 34001} | [2024-07-01 03:26:01.847 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+
+[DEBUG](staffLog) 08:26:52/07-01 08:26:02(-2) logged DEBUG in debug-logs: [2024-07-01 03:26:04.401 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuckj
+[DEBUG](staffLog) 08:26:52/07-01 08:26:04(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:26:05.641 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 08:26:52/07-01 08:26:05(-3) logged CHAT in 🥶: [2024-07-01 03:26:08.513 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: lcome stuck
+[INFO](listMonitors) succesfully listed 3 monitors for user resetdev
+[DEBUG](staffLog) 08:27:02/07-01 08:26:09(-1) logged CHAT in 🥶: [2024-07-01 03:26:10.674 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: let me try
+[DEBUG](staffLog) 08:27:02/07-01 08:26:15(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:26:17.429 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'SPY', 'aliases': [], 'channel': 1256057797154705550, 'public': False, 'text': 'staff "{}" has spied "{}"', 'textArgs': ('sender', 'target'), 'color': 16711680} | [2024-07-01 03:26:30.692 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199567157953
+
+[DEBUG](staffLog) 08:27:22/07-01 08:26:32(-3) logged CHAT in 🥶: [2024-07-01 03:26:35.630 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: wdym
+[DEBUG](staffLog) 08:27:22/07-01 08:26:35(-1) logged CHAT in 🥶: [2024-07-01 03:26:36.783 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: i got it
+[DEBUG](staffLog) 08:27:32/07-01 08:26:38(-2) logged CHAT in 🥶: [2024-07-01 03:26:40.903 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: oh wait
+[DEBUG](staffLog) 08:27:32/07-01 08:26:38(-3) logged CHAT in 🥶: [2024-07-01 03:26:41.740 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: yea
+[DEBUG](staffLog) 08:27:32/07-01 08:26:41(-3) logged CHAT in 🥶: [2024-07-01 03:26:44.116 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: well
+[DEBUG](staffLog) 08:27:32/07-01 08:26:44(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:26:46.361 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:27:42/07-01 08:26:51(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:26:52.401 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'VANISH', 'aliases': ['mod', 'smod'], 'channel': 1256023689368047680, 'public': False, 'text': 'staff "{}" went into vanish', 'textArgs': ['sender'], 'color': 34001} | [2024-07-01 03:26:56.051 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+
+[DEBUG](staffLog) 08:27:52/07-01 08:26:58(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:26:59.972 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 08:28:02/07-01 08:27:11(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:27:12.375 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 08:28:02/07-01 08:27:13(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:27:14.760 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 08:28:22/07-01 08:27:28(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:27:29.922 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 08:28:22/07-01 08:27:29(-2) logged DEBUG in debug-logs: [2024-07-01 03:27:31.069 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55400 4
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'SC', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}"', 'textArgs': ['sender', 'all'], 'color': 34001} | [2024-07-01 03:27:46.492 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc Oh free mute?
+
+[DEBUG](staffLog) 08:28:32/07-01 08:27:46(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:27:47.374 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'SC', 'aliases': [], 'channel': 1257094197287321670, 'public': False, 'text': 'staff "{}" said "{}"', 'textArgs': ['sender', 'all'], 'color': 34001} | [2024-07-01 03:27:49.142 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /sc Bet
+
+[DEBUG](staffLog) 08:28:42/07-01 08:27:48(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:27:51.394 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault kappa
+[DEBUG](staffLog) 08:28:52/07-01 08:28:02(-1) logged DEBUG in debug-logs: [2024-07-01 03:28:03.434 UTC] [Info] [Main] [Command] ttaM [ItzJayJay=)]: /transferobj
+[DEBUG](staffLog) 08:29:02/07-01 08:28:09(-3) logged DEBUG in debug-logs: [2024-07-01 03:28:12.344 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /INSPECT
+[DEBUG](staffLog) 08:29:02/07-01 08:28:13(-2) logged DEBUG in debug-logs: [2024-07-01 03:28:15.203 UTC] [Info] [Main] [Command] ttaM [ItzJayJay=)]: /transferobj confirm
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'SPY', 'aliases': [], 'channel': 1256057797154705550, 'public': False, 'text': 'staff "{}" has spied "{}"', 'textArgs': ('sender', 'target'), 'color': 16711680} | [2024-07-01 03:28:23.066 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199567157953
+
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'SERVER', 'aliases': [], 'channel': 1256465626562822215, 'public': False, 'text': 'staff "{}" has switched to server "{}" from "19"', 'textArgs': ['sender', 'target'], 'color': 34001} | [2024-07-01 03:28:28.539 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /SERVER 19
+
+[DEBUG](staffLog) 08:29:32/07-01 08:28:38(-2) logged DEBUG in debug-logs: [2024-07-01 03:28:40.116 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /info nebula
+[DEBUG](staffLog) 08:29:32/07-01 08:28:40(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:28:42.159 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 08:29:42/07-01 08:28:47(-3) logged CHAT in 🥶: [2024-07-01 03:28:50.112 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: am in
+[DEBUG](staffLog) 08:29:42/07-01 08:28:50(-1) logged CHAT in 🥶: [2024-07-01 03:28:51.582 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: fac
+[ERROR](staffParse) error parsing cannot access local variable 'args' where it is not associated with a value | {'name': 'VANISH', 'aliases': ['mod', 'smod'], 'channel': 1256023689368047680, 'public': False, 'text': 'staff "{}" went into vanish', 'textArgs': ['sender'], 'color': 34001} | [2024-07-01 03:28:54.569 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /mod
+
+[DEBUG](staffLog) 08:29:42/07-01 08:28:52(-2) fakelogged DEBUG in 🤯: [2024-07-01 03:28:54.867 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 08:29:52/07-01 08:28:58(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:28:59.084 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault

@@ -1,0 +1,9 @@
+[INFO](retrieveLog) wrote 26.763121MB to latest.log in 2.0258662700653076
+[INFO](staffParse) CAUGHT UP TO LATEST 69
+[DEBUG](staffLog) 03:45:20/07-03 03:44:24(-2) logged STATS in stats: [2024-07-02 22:44:26.484 UTC] [Info] [Main] [Command] LooPy [LooPy]: /stats ha
+[DEBUG](staffLog) 03:45:41/07-03 03:44:42(-3) logged STATS in stats: [2024-07-02 22:44:45.825 UTC] [Info] [Main] [Command] chaos [chaos]: /sstats
+[DEBUG](staffLog) 03:45:41/07-03 03:44:49(-1) logged BAN in bans: [2024-07-02 22:44:50.393 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /ban 76561198415071867 "CA - 76561199171646901 | Perm" 0
+[DEBUG](staffLog) 03:46:01/07-03 03:45:11(-2) logged VANISH in vanish: [2024-07-02 22:45:13.671 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 03:46:11/07-03 03:45:13(-2) logged VANISH in vanish: [2024-07-02 22:45:15.703 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 03:46:11/07-03 03:45:16(-1) logged VANISH in vanish: [2024-07-02 22:45:17.440 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:47:51/07-03 03:46:58(-1) logged STATS in stats: [2024-07-02 22:46:59.228 UTC] [Info] [Main] [Command] chaos [chaos]: /sstats

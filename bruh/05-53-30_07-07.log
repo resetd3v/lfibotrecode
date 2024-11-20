@@ -1,0 +1,113 @@
+[INFO](retrieveLog) wrote 2.329027MB to latest.log in 1.0901646614074707
+[INFO](staffParse) CAUGHT UP TO LATEST 70
+[DEBUG](staffLog) 09:55:55/07-07 09:55:04(-3) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:55:07.252 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13005
+[DEBUG](staffLog) 09:56:05/07-07 09:55:09(-2) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:55:11.108 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13005
+[DEBUG](staffLog) 09:56:06/07-07 09:55:12(-3) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:55:15.767 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13004
+[DEBUG](staffLog) 09:56:06/07-07 09:55:18(-1) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:55:19.796 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13004
+[DEBUG](staffLog) 09:56:15/07-07 09:55:25(-3) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:55:28.712 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13003
+[DEBUG](staffLog) 09:56:26/07-07 09:55:30(-2) logged DEBUG in debug-logs mentioned 846641395581190155: [2024-07-07 04:55:32.600 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /sellto 76561198884479492 13003
+[DEBUG](staffLog) 09:56:35/07-07 09:55:39(-2) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:55:41.291 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:56:35/07-07 09:55:43(-1) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:55:44.001 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:56:35/07-07 09:55:45(-1) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:55:46.264 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:56:45/07-07 09:55:49(-2) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:55:51.157 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:56:45/07-07 09:55:52(-3) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:55:55.143 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:56:45/07-07 09:55:57(-1) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:55:58.954 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:56:55/07-07 09:55:59(-3) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:56:02.750 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:56:55/07-07 09:56:03(-3) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:56:06.693 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 09:57:05/07-07 09:56:14(-1) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-07 04:56:15.237 UTC] [Info] [Main] [Command] your dad in my bed [your dad in my bed]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 10:13:06/07-07 10:12:12(-1) fakelogged CONNECTING in 🤯: [2024-07-07 05:12:13.247 UTC] [Info] [Main] Connecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 112589999263478627 Join GUID: a58aeca2-09a4-4fbe-9cc2-05474239ca02 Character Slot: 0 Language: English
+[DEBUG](staffLog) 10:13:45/07-07 10:12:47(-3) logged VANISH in vanish: [2024-07-07 05:12:50.142 UTC] [Info] [Main] [Command] Godly [Godly]: /vanish
+[DEBUG](staffLog) 10:16:05/07-07 10:15:17(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-07 05:15:18.165 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to I MISS HIM (76561199732713785 at South East of gorge (3019.908 0.3000162 96.92541) from South East of Arena (2414.416 0.2122428 1359.381)
+[DEBUG](staffLog) 10:16:15/07-07 10:15:21(-1) logged MSG in 🌹: [2024-07-07 05:15:22.149 UTC] [Info] [Main] [Command] Ha [Ha]: /msg godly yo
+[DEBUG](staffLog) 10:16:15/07-07 10:15:23(-2) logged R in 🌹: [2024-07-07 05:15:25.539 UTC] [Info] [Main] [Command] Godly [Godly]: /r hi
+[DEBUG](staffLog) 10:16:16/07-07 10:15:29(-1) logged MSG in 🌹: [2024-07-07 05:15:30.008 UTC] [Info] [Main] [Command] Ha [Ha]: /msg godly can u tp 2 me for a second
+[DEBUG](staffLog) 10:16:26/07-07 10:15:32(-2) logged TP in tp mentioned 846641395581190155: [2024-07-07 05:15:34.316 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Ha (76561198884479492 at East of event (2537.783 0.3000083 -841.3523) from South East of gorge (3018.992 0.3000153 105.0221)
+[DEBUG](staffLog) 10:16:35/07-07 10:15:37(-3) logged MSG in 🌹: [2024-07-07 05:15:40.947 UTC] [Info] [Main] [Command] Ha [Ha]: /msg godly im @ my apartment & some dude built over it
+[DEBUG](staffLog) 10:16:45/07-07 10:15:51(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-07 05:15:52.551 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to I MISS HIM (76561199732713785 at South East of gorge (3019.908 0.3000162 96.92541) from East of event (2538.075 0.3000083 -840.705)
+[DEBUG](staffLog) 10:16:46/07-07 10:15:53(-2) logged SPY in 🍑 mentioned 1218944589994659850: [2024-07-07 05:15:55.756 UTC] [Info] [Main] [Command] Godly [Godly]: /spy 76561199732713785
+[DEBUG](staffLog) 10:16:56/07-07 10:16:03(-2) logged MSG in 🌹: [2024-07-07 05:16:05.482 UTC] [Info] [Main] [Command] Ha [Ha]: /msg godly its @ 15C appreciate it big dawg
+[DEBUG](staffLog) 10:16:56/07-07 10:16:08(-1) logged TP in tp mentioned 846641395581190155: [2024-07-07 05:16:09.263 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to Ha (76561198884479492 at East of event (2526.396 5.550011 -842.4368) from South East of gorge (3020.011 0.300016 101.7244)
+[DEBUG](staffLog) 10:17:06/07-07 10:16:11(-3) logged VANISH in vanish: [2024-07-07 05:16:14.352 UTC] [Info] [Main] [Command] Godly [Godly]: /vanish
+[DEBUG](staffLog) 10:17:15/07-07 10:16:28(-1) logged DEBUG in debug-logs: [2024-07-07 05:16:29.564 UTC] [Info] [Main] [Command] Godly [Godly]: /checkownerdm
+[DEBUG](staffLog) 10:17:45/07-07 10:16:57(-2) logged DEBUG in debug-logs: [2024-07-07 05:16:59.566 UTC] [Info] [Main] [Command] Godly [Godly]: /checkownerdm
+[DEBUG](staffLog) 10:17:55/07-07 10:17:02(-3) logged DEBUG in debug-logs: [2024-07-07 05:17:05.806 UTC] [Info] [Main] [Command] Godly [Godly]: /checkownerdm
+[DEBUG](staffLog) 10:17:56/07-07 10:17:03(-3) logged DEBUG in debug-logs: [2024-07-07 05:17:06.667 UTC] [Info] [Main] [Command] Godly [Godly]: /checkownerdm
+[DEBUG](staffLog) 10:17:56/07-07 10:17:06(-1) logged DEBUG in debug-logs: [2024-07-07 05:17:07.577 UTC] [Info] [Main] [Command] Godly [Godly]: /checkownerdm
+[DEBUG](staffLog) 10:20:46/07-07 10:19:49(-2) fakelogged CONNECTING in 🤯: [2024-07-07 05:19:51.756 UTC] [Info] [Main] Connecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 112589999263478627 Join GUID: 898e6e23-e49a-4014-ba9c-0e86a55b04d7 Character Slot: 0 Language: English
+[DEBUG](staffLog) 10:20:46/07-07 10:19:54(-3) logged DEBUG in debug-logs: [2024-07-07 05:19:57.497 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:20:46/07-07 10:19:57(-2) logged DEBUG in debug-logs: [2024-07-07 05:19:59.186 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:20:55/07-07 10:19:57(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:00.326 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:20:55/07-07 10:19:59(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:01.028 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:20:56/07-07 10:19:59(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:01.948 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:20:56/07-07 10:20:01(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:03.281 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:00/07-07 10:20:01(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:03.975 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:01/07-07 10:20:02(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:05.873 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:01/07-07 10:20:06(-1) logged DEBUG in debug-logs: [2024-07-07 05:20:07.401 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:01/07-07 10:20:07(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:09.208 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:05/07-07 10:20:07(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:10.229 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:06/07-07 10:20:08(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:11.639 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:06/07-07 10:20:09(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:12.443 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:06/07-07 10:20:11(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:14.437 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:10/07-07 10:20:13(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:15.414 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:11/07-07 10:20:15(-1) logged DEBUG in debug-logs: [2024-07-07 05:20:16.449 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:11/07-07 10:20:16(-1) logged DEBUG in debug-logs: [2024-07-07 05:20:17.247 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:11/07-07 10:20:18(-1) logged MSG in 🌹: [2024-07-07 05:20:19.235 UTC] [Info] [Main] [Command] Ha [Ha]: /msg godly ty man
+[DEBUG](staffLog) 10:21:11/07-07 10:20:16(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:19.416 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:16/07-07 10:20:20(-1) logged DEBUG in debug-logs: [2024-07-07 05:20:21.409 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:16/07-07 10:20:27(-1) logged R in 🌹: [2024-07-07 05:20:28.029 UTC] [Info] [Main] [Command] Godly [Godly]: /r np mb my internet went out
+[DEBUG](staffLog) 10:21:25/07-07 10:20:29(-3) logged R in 🌹: [2024-07-07 05:20:32.124 UTC] [Info] [Main] [Command] Ha [Ha]: /r ur good man
+[DEBUG](staffLog) 10:21:26/07-07 10:20:29(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:32.225 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:26/07-07 10:20:31(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:34.378 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:26/07-07 10:20:32(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:35.919 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:26/07-07 10:20:35(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:37.504 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:31/07-07 10:20:36(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:39.380 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:31/07-07 10:20:38(-1) logged R in 🌹: [2024-07-07 05:20:39.528 UTC] [Info] [Main] [Command] Ha [Ha]: /r idc ab that
+[DEBUG](staffLog) 10:21:35/07-07 10:20:37(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:40.744 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:36/07-07 10:20:38(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:41.961 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:36/07-07 10:20:40(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:42.815 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:36/07-07 10:20:41(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:43.823 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:40/07-07 10:20:43(-1) logged DEBUG in debug-logs: [2024-07-07 05:20:44.641 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:41/07-07 10:20:45(-1) logged DEBUG in debug-logs: [2024-07-07 05:20:46.375 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:41/07-07 10:20:46(-2) logged DEBUG in debug-logs: [2024-07-07 05:20:48.434 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:41/07-07 10:20:46(-3) logged DEBUG in debug-logs: [2024-07-07 05:20:49.450 UTC] [Info] [Main] [Command] Godly [Godly]: /wb
+[DEBUG](staffLog) 10:21:45/07-07 10:20:49(-3) logged VANISH in vanish: [2024-07-07 05:20:52.635 UTC] [Info] [Main] [Command] Godly [Godly]: /vanish
+[DEBUG](staffLog) 10:21:55/07-07 10:21:02(-2) logged MSG in 🌹: [2024-07-07 05:21:04.369 UTC] [Info] [Main] [Command] Ha [Ha]: /msg godly appreciate it
+[DEBUG](staffLog) 10:26:15/07-07 10:25:23(-3) logged VANISH in vanish: [2024-07-07 05:25:26.303 UTC] [Info] [Main] [Command] Godly [Godly]: /vanish
+[DEBUG](staffLog) 10:26:16/07-07 10:25:24(-3) logged VANISH in vanish: [2024-07-07 05:25:27.905 UTC] [Info] [Main] [Command] Godly [Godly]: /vanish
+[DEBUG](staffLog) 10:29:36/07-07 10:28:40(-1) logged BAN in bans: [2024-07-07 05:28:41.865 UTC] [Info] [Main] [Command] Godly [Godly]: /ban 76561199658568207 "STW | cheating" 0
+[DEBUG](staffLog) 10:30:56/07-07 10:30:04(-3) fakelogged CONNECTING in 🤯: [2024-07-07 05:30:07.331 UTC] [Info] [Main] Connecting: PlayerID: 76561199531161985 Steam Name: Andre Character name: drakos Nick: Supremacy Group: 112589999263479078 Join GUID: 6a1c8f2c-7b53-47d5-86de-5eff46977d1c Character Slot: 0 Language: English
+[DEBUG](staffLog) 10:33:26/07-07 10:32:34(-2) fakelogged CONNECTING in 🤯: [2024-07-07 05:32:36.780 UTC] [Info] [Main] Connecting: PlayerID: 76561199531161985 Steam Name: Andre Character name: drakos Nick: Supremacy Group: 112589999263479078 Join GUID: 1de12e9f-d625-44ad-bbbe-a5b571eb7b59 Character Slot: 0 Language: English
+[DEBUG](staffLog) 10:34:45/07-07 10:33:55(-2) fakelogged DEBUG in 🤯: [2024-07-07 05:33:57.863 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 10:39:15/07-07 10:38:25(-1) fakelogged DEBUG in 🤯: [2024-07-07 05:38:26.597 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 10:42:25/07-07 10:41:32(-1) fakelogged DEBUG in 🤯: [2024-07-07 05:41:33.612 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 11:19:55/07-07 11:19:01(-3) fakelogged DEBUG in 🤯: [2024-07-07 06:19:04.708 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 11:27:55/07-07 11:27:04(-2) fakelogged DEBUG in 🤯: [2024-07-07 06:27:06.039 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 11:28:55/07-07 11:28:04(-1) fakelogged DEBUG in 🤯: [2024-07-07 06:28:05.797 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 11:29:35/07-07 11:28:38(-3) fakelogged DEBUG in 🤯: [2024-07-07 06:28:41.884 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 11:30:36/07-07 11:29:43(-3) logged MSG in 🌹: [2024-07-07 06:29:46.586 UTC] [Info] [Main] [Command] [CyKo] V1per [Hanz0]: /pm icked wanana duo for a minute or you soloing?
+[DEBUG](staffLog) 11:30:36/07-07 11:29:48(-1) fakelogged DEBUG in 🤯: [2024-07-07 06:29:49.067 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 11:30:56/07-07 11:29:59(-2) logged MSG in 🌹: [2024-07-07 06:30:01.600 UTC] [Info] [Main] [Command] [CyKo] V1per [Hanz0]: /pm whats yoru disc
+[DEBUG](staffLog) 11:31:05/07-07 11:30:10(-1) logged MSG in 🌹: [2024-07-07 06:30:11.285 UTC] [Info] [Main] [Command] [CyKo] V1per [Hanz0]: /pm icked whats your disc
+[DEBUG](staffLog) 11:31:06/07-07 11:30:14(-1) logged DEBUG in debug-logs: [2024-07-07 06:30:15.752 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 11:31:06/07-07 11:30:17(-1) logged DEBUG in debug-logs: [2024-07-07 06:30:18.361 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 11:31:16/07-07 11:30:25(-1) logged MSG in 🌹: [2024-07-07 06:30:26.947 UTC] [Info] [Main] [Command] [CyKo] V1per [Hanz0]: /pm icked join gen in pandahut
+[DEBUG](staffLog) 11:31:36/07-07 11:30:42(-2) logged DEBUG in debug-logs: [2024-07-07 06:30:44.496 UTC] [Info] [Main] [Command] drakos [Andre]: /kick 76561198821328733 "Change Name"
+[DEBUG](staffLog) 11:31:56/07-07 11:31:03(-3) logged DEBUG in debug-logs: [2024-07-07 06:31:06.627 UTC] [Info] [Main] [Command] drakos [Andre]: /mute 76561198821328733 "Mic Spam | First Offense | 12hr" 12 h
+[DEBUG](staffLog) 11:32:06/07-07 11:31:10(-3) logged DEBUG in debug-logs: [2024-07-07 06:31:13.262 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 11:33:06/07-07 11:32:15(-2) logged MSG in 🌹: [2024-07-07 06:32:17.730 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm miyukii test
+[DEBUG](staffLog) 11:33:56/07-07 11:33:03(-2) logged DEBUG in debug-logs: [2024-07-07 06:33:05.254 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 11:33:56/07-07 11:33:04(-2) logged TP in tp: [2024-07-07 06:33:06.485 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to ohiorizzler (76561198821328733 at North West of Range (310.8512 65.31445 2660.73) from North West of Range (361.1502 65.06445 2674.255)
+[DEBUG](staffLog) 11:42:06/07-07 11:41:09(-1) logged VANISH in vanish: [2024-07-07 06:41:10.322 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 11:42:06/07-07 11:41:13(-1) logged TP in tp mentioned 709547527334002829: [2024-07-07 06:41:14.961 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to Confusing (76561199229177989 at North of Test (-139.2974 56.36071 -18.00909) from North West of Range (366.1233 65.31445 2653.909)
+[DEBUG](staffLog) 11:42:06/07-07 11:41:16(-2) logged TP in tp mentioned 709547527334002829: [2024-07-07 06:41:18.148 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to Confusing (76561199229177989 at North of Test (-134.8759 57.12693 -18.10141) from South East of City (-30.41498 36.8522 86.00227)
+[DEBUG](staffLog) 11:42:26/07-07 11:41:33(-3) logged TP in tp mentioned 709547527334002829: [2024-07-07 06:41:36.832 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to Confusing (76561199229177989 at South West of City (-179.6692 37.36157 64.16631) from South of City (-153.0727 36.8522 41.54429)
+[DEBUG](staffLog) 11:42:56/07-07 11:42:03(-2) logged DEBUG in debug-logs: [2024-07-07 06:42:05.343 UTC] [Info] [Main] [Command] drakos [Andre]: /bunker
+[DEBUG](staffLog) 11:43:05/07-07 11:42:11(-3) logged VANISH in vanish: [2024-07-07 06:42:14.941 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 11:43:06/07-07 11:42:17(-1) logged TP in tp: [2024-07-07 06:42:18.540 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to icked (76561199244598579 at North West of Range (314.3968 65.06445 2671.603) from North West of Range (361.8139 65.06445 2663.254)
+[DEBUG](staffLog) 11:44:36/07-07 11:43:46(-1) logged DEBUG in debug-logs: [2024-07-07 06:43:47.365 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 11:51:36/07-07 11:50:46(-2) fakelogged CONNECTING in 🤯: [2024-07-07 06:50:48.488 UTC] [Info] [Main] Connecting: PlayerID: 76561199531161985 Steam Name: Andre Character name: drakos Nick: Supremacy Group: 0 Join GUID: 4586ea69-e1f3-4036-9375-0858cdef0e3e Character Slot: 0 Language: English
+[DEBUG](staffLog) 11:51:56/07-07 11:51:02(-2) logged MSG in 🌹: [2024-07-07 06:51:04.339 UTC] [Info] [Main] [Command] I MISS HIM [I MISS HIM]: /msg drakos Hello
+[DEBUG](staffLog) 11:52:16/07-07 11:51:20(-1) logged VANISH in vanish: [2024-07-07 06:51:21.842 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 11:52:16/07-07 11:51:21(-2) logged TP in tp mentioned 709547527334002829: [2024-07-07 06:51:23.924 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to Confusing (76561199229177989 at North West of Range (360.0827 65.31445 2643.274) from North West of Range (380.2408 65.31445 2616.125)
+[DEBUG](staffLog) 11:52:16/07-07 11:51:23(-2) logged MSG in 🌹: [2024-07-07 06:51:25.803 UTC] [Info] [Main] [Command] I MISS HIM [I MISS HIM]: /msg drakos icked and V1per very suspicious ESP wise
+[DEBUG](staffLog) 11:52:36/07-07 11:51:40(-3) logged MSG in 🌹: [2024-07-07 06:51:43.935 UTC] [Info] [Main] [Command] I MISS HIM [I MISS HIM]: /msg drakos I gtg but pls spec them

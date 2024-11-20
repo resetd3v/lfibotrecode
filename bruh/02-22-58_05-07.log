@@ -1,0 +1,537 @@
+[INFO](retrieveLog) wrote 19.845962MB to latest.log in 3.8850784301757812
+[DEBUG](staffLog) 06:23:54/07-05 06:22:55(-3) fakelogged DEBUG in 🤯: [2024-07-05 01:22:58.900 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 06:26:24/07-05 06:25:22(-3) logged DEBUG in debug-logs: [2024-07-05 01:25:25.454 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /ls radio
+[DEBUG](staffLog) 06:26:44/07-05 06:25:50(-1) logged DEBUG in debug-logs: [2024-07-05 01:25:51.003 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 06:27:14/07-05 06:26:17(-3) logged DEBUG in debug-logs: [2024-07-05 01:26:20.289 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /ls radio
+[DEBUG](staffLog) 06:27:44/07-05 06:26:43(-1) logged DEBUG in debug-logs: [2024-07-05 01:26:44.176 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 06:29:54/07-05 06:28:57(-1) logged VANISH in vanish: [2024-07-05 01:28:58.566 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 06:31:04/07-05 06:30:07(-2) logged CHAT in 🥶: [2024-07-05 01:30:09.544 UTC] [Info] [Main] [Group] Waiter v0rtex [v0rtex]: actual lies
+[DEBUG](staffLog) 06:31:04/07-05 06:30:09(-2) logged CHAT in 🥶: [2024-07-05 01:30:11.142 UTC] [Info] [Main] [Global] Waiter v0rtex [v0rtex]: actual lies
+[DEBUG](staffLog) 07:01:14/07-05 07:00:13(-3) logged VANISH in vanish: [2024-07-05 02:00:16.219 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:02:34/07-05 07:01:37(-3) logged VANISH in vanish: [2024-07-05 02:01:40.514 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:04:33/07-05 07:03:38(-3) logged VANISH in vanish: [2024-07-05 02:03:41.026 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:06:14/07-05 07:05:14(-2) logged BAN in bans: [2024-07-05 02:05:16.438 UTC] [Info] [Main] [Command] drakos [Andre]: /ban 76561199087755199 "Spawn Camping | First Offense | 12 hr" 12 h
+[DEBUG](staffLog) 07:06:44/07-05 07:05:51(-2) logged VANISH in vanish: [2024-07-05 02:05:53.151 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:13:14/07-05 07:12:17(-1) logged VANISH in vanish: [2024-07-05 02:12:18.983 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:42:34/07-05 07:41:33(-3) logged VANISH in vanish: [2024-07-05 02:41:36.992 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:42:44/07-05 07:41:50(-3) logged MSG in 🌹: [2024-07-05 02:41:53.657 UTC] [Info] [Main] [Command] Baconator63 [Baconator63]: /pm E9
+[DEBUG](staffLog) 07:44:16/07-05 07:43:13(-2) logged VANISH in vanish: [2024-07-05 02:43:15.810 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:45:24/07-05 07:44:26(-2) logged VANISH in vanish: [2024-07-05 02:44:28.123 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:45:24/07-05 07:44:29(-1) logged VANISH in vanish: [2024-07-05 02:44:30.058 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 07:47:04/07-05 07:46:11(-2) logged MSG in 🌹: [2024-07-05 02:46:13.465 UTC] [Info] [Main] [Command] DJ [DJ_Julien]: /pm chaos tryna run labs?
+[DEBUG](staffLog) 07:47:14/07-05 07:46:15(-2) logged R in 🌹: [2024-07-05 02:46:17.243 UTC] [Info] [Main] [Command] chaos [chaos]: /r ye
+[DEBUG](staffLog) 07:47:24/07-05 07:46:25(-2) logged R in 🌹: [2024-07-05 02:46:27.329 UTC] [Info] [Main] [Command] chaos [chaos]: /r inv
+[DEBUG](staffLog) 07:54:04/07-05 07:53:11(-3) logged MSG in 🌹: [2024-07-05 02:53:14.008 UTC] [Info] [Main] [Command] Gaming 2.0 [Gaming 2.0]: /pm chaos yo dont tk me in labs, im comin back
+[DEBUG](staffLog) 07:54:34/07-05 07:53:40(-1) logged MSG in 🌹: [2024-07-05 02:53:41.488 UTC] [Info] [Main] [Command] Gaming 2.0 [Gaming 2.0]: /pm chaos i have chinese hat
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'SC', 'aliases': [], 'channel': 1256036383538024469, 'public': False, 'text': 'staff "{}" said "{}"', 'textArgs': ['sender', 'all'], 'color': 34001} | [2024-07-05 02:55:12.360 UTC] [Info] [Main] [Command] 'Canis lupus'. [Sylphian-SAMA]: /sc
+
+[DEBUG](staffLog) 08:19:44/07-05 08:18:50(-2) logged VANISH in vanish: [2024-07-05 03:18:52.721 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 08:20:04/07-05 08:19:02(-3) logged VANISH in vanish: [2024-07-05 03:19:05.519 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 08:22:24/07-05 08:21:25(-2) logged MSG in 🌹: [2024-07-05 03:21:27.805 UTC] [Info] [Main] [Command] vini is awful [$yq]: /msg tak yo
+[DEBUG](staffLog) 08:22:44/07-05 08:21:45(-1) logged MSG in 🌹: [2024-07-05 03:21:46.345 UTC] [Info] [Main] [Command] vini is awful [$yq]: /msg trak yo skibidi
+[DEBUG](staffLog) 08:22:44/07-05 08:21:51(-1) logged MSG in 🌹: [2024-07-05 03:21:52.377 UTC] [Info] [Main] [Command] vini is awful [$yq]: /msg trak uu trynna play or nah
+[DEBUG](staffLog) 08:23:04/07-05 08:22:01(-3) logged MSG in 🌹: [2024-07-05 03:22:04.494 UTC] [Info] [Main] [Command] SoaringBerry [That one hobo]: /pm accurse Yo skibussy
+[DEBUG](staffLog) 08:23:14/07-05 08:22:14(-2) logged MSG in 🌹: [2024-07-05 03:22:16.642 UTC] [Info] [Main] [Command] traktordriver42 [Accurse]: /pm vini in raid
+[DEBUG](staffLog) 08:23:14/07-05 08:22:20(-1) logged R in 🌹: [2024-07-05 03:22:21.771 UTC] [Info] [Main] [Command] vini is awful [$yq]: /r fsfs lmk
+[DEBUG](staffLog) 08:33:24/07-05 08:32:28(-2) logged MSG in 🌹: [2024-07-05 03:32:30.694 UTC] [Info] [Main] [Command] High [High]: /pm chaos ur a hoe
+[DEBUG](staffLog) 08:36:04/07-05 08:35:03(-2) logged VANISH in vanish: [2024-07-05 03:35:05.247 UTC] [Info] [Main] [Command] Clorox [Andre]: /vanish
+[DEBUG](staffLog) 08:36:04/07-05 08:35:05(-3) logged VANISH in vanish: [2024-07-05 03:35:08.763 UTC] [Info] [Main] [Command] Clorox [Andre]: /vanish
+[DEBUG](staffLog) 08:38:55/07-05 08:38:01(-1) logged MSG in 🌹: [2024-07-05 03:38:02.168 UTC] [Info] [Main] [Command] Scorched [TOXIC]: /pm godly im stuck in red room
+[DEBUG](staffLog) 08:48:14/07-05 08:47:14(-2) logged MSG in 🌹: [2024-07-05 03:47:16.071 UTC] [Info] [Main] [Command] Scorched [TOXIC]: /pm wxrd thx so much
+[DEBUG](staffLog) 08:48:34/07-05 08:47:39(-1) logged MSG in 🌹: [2024-07-05 03:47:40.725 UTC] [Info] [Main] [Command] Scorched [TOXIC]: /pm wxrd there kids here
+[DEBUG](staffLog) 08:52:24/07-05 08:51:29(-3) logged VANISH in vanish: [2024-07-05 03:51:32.991 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 08:53:24/07-05 08:52:32(-1) logged MSG in 🌹: [2024-07-05 03:52:33.663 UTC] [Info] [Main] [Command] DJ [DJ_Julien]: /pm john were cooked
+[DEBUG](staffLog) 08:53:44/07-05 08:52:44(-2) logged DEBUG in debug-logs: [2024-07-05 03:52:46.247 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:44/07-05 08:52:44(-2) logged DEBUG in debug-logs: [2024-07-05 03:52:46.955 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:44/07-05 08:52:46(-1) logged DEBUG in debug-logs: [2024-07-05 03:52:47.880 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:45/07-05 08:52:47(-1) logged DEBUG in debug-logs: [2024-07-05 03:52:48.902 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:49/07-05 08:52:47(-2) logged DEBUG in debug-logs: [2024-07-05 03:52:49.470 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:49/07-05 08:52:50(-1) logged DEBUG in debug-logs: [2024-07-05 03:52:51.383 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:49/07-05 08:52:51(-1) logged DEBUG in debug-logs: [2024-07-05 03:52:52.422 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:54/07-05 08:52:53(-1) logged DEBUG in debug-logs: [2024-07-05 03:52:54.160 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:54/07-05 08:52:54(-2) logged DEBUG in debug-logs: [2024-07-05 03:52:56.135 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:54/07-05 08:52:54(-3) logged DEBUG in debug-logs: [2024-07-05 03:52:57.460 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:53:55/07-05 08:52:57(-2) logged DEBUG in debug-logs: [2024-07-05 03:52:59.279 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /wb
+[DEBUG](staffLog) 08:54:04/07-05 08:53:11(-2) logged DEBUG in debug-logs: [2024-07-05 03:53:13.279 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /gravity v0r 0
+[DEBUG](staffLog) 08:54:34/07-05 08:53:36(-3) fakelogged DEBUG in 🤯: [2024-07-05 03:53:39.341 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /i pink
+[DEBUG](staffLog) 08:54:44/07-05 08:53:47(-3) fakelogged DEBUG in 🤯: [2024-07-05 03:53:50.222 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /trash
+[DEBUG](staffLog) 08:54:54/07-05 08:53:53(-1) logged DEBUG in debug-logs: [2024-07-05 03:53:54.623 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /gravity v0r 1
+[DEBUG](staffLog) 08:57:14/07-05 08:56:12(-3) logged DEBUG in debug-logs: [2024-07-05 03:56:15.106 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /pay monkey 100.0000000000
+[DEBUG](staffLog) 08:57:24/07-05 08:56:26(-3) logged DEBUG in debug-logs: [2024-07-05 03:56:29.502 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /pay monket 1000000
+[DEBUG](staffLog) 08:57:34/07-05 08:56:35(-1) logged DEBUG in debug-logs: [2024-07-05 03:56:36.046 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /pay monkey 1000000
+[DEBUG](staffLog) 08:57:54/07-05 08:57:01(-2) logged VANISH in vanish: [2024-07-05 03:57:03.156 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 09:00:55/07-05 08:59:58(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:00:01.872 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 09:01:04/07-05 09:00:01(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:00:04.671 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'BAN', 'aliases': ['globalban'], 'channel': 1256125540268769311, 'public': True, 'text': 'staff "{}" has {}banned "{}" get beamed bozo ur dtc for "{}"', 'textArgs': ['sender', 'global', 'target', 'reason'], 'color': 16711680} | [2024-07-05 04:00:15.287 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /ban "Mafia Monkey" Nazism| FirstOffense|30D" 30 d
+
+[DEBUG](staffLog) 09:01:14/07-05 09:00:17(-3) logged BAN in bans: [2024-07-05 04:00:20.720 UTC] [Info] [Main] [Command] Waiter v0rtex [v0rtex]: /ban "Mafia Monkey" "Nazism| FirstOffense|30D" 30 d
+[DEBUG](staffLog) 09:03:54/07-05 09:02:53(-3) logged MSG in 🌹: [2024-07-05 04:02:56.108 UTC] [Info] [Main] [Command] High [High]: /pm dillyrocket ur a whole hoe
+[DEBUG](staffLog) 09:03:55/07-05 09:02:55(-2) logged SC in _: [2024-07-05 04:02:57.056 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc smh
+[DEBUG](staffLog) 09:04:04/07-05 09:03:07(-3) logged MSG in 🌹: [2024-07-05 04:03:10.374 UTC] [Info] [Main] [Command] High [High]: /pm dillyrocket grab a tent
+[DEBUG](staffLog) 09:05:04/07-05 09:04:04(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:04:05.212 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:05:14/07-05 09:04:18(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:04:20.962 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 09:05:34/07-05 09:04:37(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:04:38.793 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 09:05:34/07-05 09:04:41(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:04:42.301 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 09:05:44/07-05 09:04:50(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:04:51.681 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 09:05:54/07-05 09:04:55(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:04:56.446 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash+
+[DEBUG](staffLog) 09:05:54/07-05 09:05:02(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:05:03.702 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash
+[DEBUG](staffLog) 09:06:54/07-05 09:05:55(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:05:56.053 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 09:12:24/07-05 09:11:29(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:11:30.520 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:12:54/07-05 09:11:53(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:11:56.511 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:15:24/07-05 09:14:27(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:14:29.098 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mc
+[DEBUG](staffLog) 09:15:34/07-05 09:14:39(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:14:42.217 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 09:15:44/07-05 09:14:49(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:14:50.383 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 09:15:54/07-05 09:14:52(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:14:54.832 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 09:22:44/07-05 09:21:44(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:21:47.149 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 09:24:14/07-05 09:23:21(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:23:22.549 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 09:24:24/07-05 09:23:26(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:23:27.610 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 09:24:34/07-05 09:23:41(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:23:42.615 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:25:04/07-05 09:24:02(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:24:05.385 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:27:04/07-05 09:26:04(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:26:05.598 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 09:28:04/07-05 09:27:08(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:27:10.194 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:28:44/07-05 09:27:45(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:27:47.950 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:28:54/07-05 09:27:54(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:27:56.877 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 09:29:24/07-05 09:28:28(-3) logged VANISH in vanish: [2024-07-05 04:28:31.462 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 09:29:34/07-05 09:28:35(-3) logged SC in _: [2024-07-05 04:28:38.935 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc ayo?
+[DEBUG](staffLog) 09:29:44/07-05 09:28:45(-1) logged SC in _: [2024-07-05 04:28:46.153 UTC] [Info] [Main] [Command] drakos [Andre]: /sc Hm?
+[DEBUG](staffLog) 09:29:44/07-05 09:28:47(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:28:48.576 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 09:29:44/07-05 09:28:50(-3) logged SC in _: [2024-07-05 04:28:53.423 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc going on duty
+[DEBUG](staffLog) 09:29:54/07-05 09:28:58(-3) logged SC in _: [2024-07-05 04:29:01.829 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc what for?
+[DEBUG](staffLog) 09:30:34/07-05 09:29:36(-3) logged VANISH in vanish: [2024-07-05 04:29:39.348 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 09:30:54/07-05 09:30:02(-1) logged VANISH in vanish: [2024-07-05 04:30:03.158 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 09:31:04/07-05 09:30:07(-1) logged SC in _: [2024-07-05 04:30:08.955 UTC] [Info] [Main] [Command] drakos [Andre]: /sc yeah
+[DEBUG](staffLog) 09:31:24/07-05 09:30:29(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:30:30.224 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 09:31:24/07-05 09:30:30(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:30:32.198 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 09:31:36/07-05 09:30:36(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:30:38.658 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 09:31:36/07-05 09:30:42(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:30:43.539 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash
+[DEBUG](staffLog) 09:31:54/07-05 09:30:56(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:30:57.671 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash+
+[DEBUG](staffLog) 09:32:14/07-05 09:31:20(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:31:23.436 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 09:32:34/07-05 09:31:36(-1) logged SPY in 🍑: [2024-07-05 04:31:37.331 UTC] [Info] [Main] [Command] drakos [Andre]: /spy epst
+[DEBUG](staffLog) 09:33:14/07-05 09:32:21(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:32:23.914 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:33:54/07-05 09:32:52(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:32:55.868 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 09:34:34/07-05 09:33:32(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:33:35.152 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mc
+[DEBUG](staffLog) 09:42:54/07-05 09:41:53(-1) logged VANISH in vanish: [2024-07-05 04:41:54.424 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 09:44:14/07-05 09:43:16(-3) logged VANISH in vanish: [2024-07-05 04:43:19.386 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 09:44:14/07-05 09:43:18(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:43:21.523 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Range (314.7977 65.06445 2670.582) from North West of Range (329.5469 65.06445 2671.038)
+[DEBUG](staffLog) 09:44:24/07-05 09:43:25(-2) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 04:43:27.480 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sstats 76561199729401405
+[DEBUG](staffLog) 09:44:24/07-05 09:43:31(-2) logged CHAT in 🥶: [2024-07-05 04:43:33.685 UTC] [Info] [Main] [Group] 猫猫糕 [stacey]: l/stats 76561199729401405
+[DEBUG](staffLog) 09:44:34/07-05 09:43:33(-3) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 04:43:36.276 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stats 76561199729401405
+[DEBUG](staffLog) 09:44:34/07-05 09:43:36(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:43:38.674 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at East of event (2546.77 0.3000082 -856.5503) from North West of Range (317.3287 65.06445 2673.991)
+[DEBUG](staffLog) 09:44:44/07-05 09:43:45(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:43:46.582 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 09:44:44/07-05 09:43:47(-3) logged DEBUG in debug-logs: [2024-07-05 04:43:50.394 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /j
+[DEBUG](staffLog) 09:44:55/07-05 09:43:55(-2) logged DEBUG in debug-logs: [2024-07-05 04:43:57.916 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 09:45:04/07-05 09:44:08(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:44:11.147 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 09:45:34/07-05 09:44:41(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:44:43.613 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 09:46:24/07-05 09:45:30(-1) logged MSG in 🌹: [2024-07-05 04:45:31.537 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm juicy wya
+[DEBUG](staffLog) 09:46:44/07-05 09:45:41(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:45:44.018 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 09:46:56/07-05 09:45:59(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:46:00.637 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Labs (-38.26272 46.17088 -1312.724) from North West of Range (322.0174 65.31709 2633.087)
+[DEBUG](staffLog) 09:46:56/07-05 09:46:00(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:46:03.700 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Labs (-38.26272 46.17088 -1312.724) from North West of Labs (-129.1841 35.81583 -1290.382)
+[DEBUG](staffLog) 09:47:04/07-05 09:46:03(-1) logged DEBUG in debug-logs: [2024-07-05 04:46:04.988 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /staff
+[DEBUG](staffLog) 09:47:04/07-05 09:46:08(-3) logged DEBUG in debug-logs: [2024-07-05 04:46:11.247 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /bunker
+[DEBUG](staffLog) 09:47:04/07-05 09:46:11(-1) fakelogged DEBUG in 🤯: [2024-07-05 04:46:12.648 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 09:47:56/07-05 09:46:54(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:46:56.273 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Labs (-40.02065 46.51086 -1239.409) from North West of Range (355.9761 65.31444 2610.613)
+[DEBUG](staffLog) 09:47:56/07-05 09:46:57(-2) logged DEBUG in debug-logs: [2024-07-05 04:46:59.642 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /bunker
+[DEBUG](staffLog) 09:47:56/07-05 09:46:58(-2) fakelogged DEBUG in 🤯: [2024-07-05 04:47:00.803 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 09:48:14/07-05 09:47:18(-1) logged VANISH in vanish: [2024-07-05 04:47:19.805 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 09:48:54/07-05 09:47:52(-2) logged VANISH in vanish: [2024-07-05 04:47:54.823 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 09:48:54/07-05 09:47:55(-3) fakelogged DEBUG in 🤯: [2024-07-05 04:47:58.076 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 09:49:04/07-05 09:48:11(-2) logged SC in _: [2024-07-05 04:48:13.472 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc so
+[DEBUG](staffLog) 09:49:14/07-05 09:48:14(-2) logged SC in _: [2024-07-05 04:48:16.624 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc did he do
+[DEBUG](staffLog) 09:49:14/07-05 09:48:17(-1) logged SC in _: [2024-07-05 04:48:18.966 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc any sus
+[DEBUG](staffLog) 09:49:15/07-05 09:48:19(-2) logged SC in _: [2024-07-05 04:48:21.754 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc dracos
+[DEBUG](staffLog) 09:49:24/07-05 09:48:21(-3) logged SC in _: [2024-07-05 04:48:24.533 UTC] [Info] [Main] [Command] drakos [Andre]: /sc Godly is not here
+[DEBUG](staffLog) 09:49:24/07-05 09:48:23(-2) logged SC in _: [2024-07-05 04:48:25.244 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc other then
+[DEBUG](staffLog) 09:49:34/07-05 09:48:39(-2) logged SC in _: [2024-07-05 04:48:41.090 UTC] [Info] [Main] [Command] drakos [Andre]: /sc Godly said 2 mins and it been like 15 mins
+[DEBUG](staffLog) 09:49:44/07-05 09:48:47(-2) logged SC in _: [2024-07-05 04:48:49.292 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc ye
+[DEBUG](staffLog) 09:49:55/07-05 09:48:53(-2) logged SC in _: [2024-07-05 04:48:55.191 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc his slow ccuz his in bed
+[DEBUG](staffLog) 09:49:55/07-05 09:49:02(-1) logged SC in _: [2024-07-05 04:49:03.359 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc it's also his
+[DEBUG](staffLog) 09:50:04/07-05 09:49:05(-2) logged SC in _: [2024-07-05 04:49:07.718 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc 4th day with no sleep
+[DEBUG](staffLog) 09:50:14/07-05 09:49:13(-2) logged SC in _: [2024-07-05 04:49:15.551 UTC] [Info] [Main] [Command] drakos [Andre]: /sc i would've done something but no abbreviations for it
+[DEBUG](staffLog) 09:51:24/07-05 09:50:26(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:50:28.602 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Range (360.7746 65.32442 2621.949) from South East of Arena (2407.463 0.2122438 1352.171)
+[DEBUG](staffLog) 09:51:44/07-05 09:50:49(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:50:51.742 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at East of event (2543.599 0.3000084 -857.1424) from North West of Range (365.0242 65.31444 2599.305)
+[DEBUG](staffLog) 09:52:04/07-05 09:51:05(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:51:06.553 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Range (360.0341 65.31445 2576.224) from East of event (2545.235 1.450436 -852.1433)
+[DEBUG](staffLog) 09:52:04/07-05 09:51:10(-3) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 04:51:13.367 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stats 76561199729401405
+[DEBUG](staffLog) 09:52:24/07-05 09:51:31(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:51:32.405 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at South East of Factory (-1830.849 55.11261 1819.221) from North West of Range (320.5864 65.06445 2671.984)
+[DEBUG](staffLog) 09:52:34/07-05 09:51:34(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:51:35.349 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at South East of Factory (-1850.886 55.11261 1829.231) from North of Factory (-1946.618 53.61261 1965.594)
+[DEBUG](staffLog) 09:54:06/07-05 09:53:08(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:53:09.845 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North of Factory (-1938.378 53.61261 1904.046) from South East of Factory (-1897.312 63.84972 1853.719)
+[DEBUG](staffLog) 09:54:24/07-05 09:53:26(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:53:28.434 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at South East of Factory (-1853.12 55.11261 1837.141) from North of Factory (-1937.09 53.61261 1911.035)
+[DEBUG](staffLog) 09:54:34/07-05 09:53:33(-1) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 04:53:34.031 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sstats 76561199729401405
+[DEBUG](staffLog) 09:55:14/07-05 09:54:18(-1) logged DEBUG in debug-logs: [2024-07-05 04:54:19.997 UTC] [Info] [Main] [Command] Godly [Godly]: /smod
+[DEBUG](staffLog) 09:55:34/07-05 09:54:32(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:54:34.639 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at West of Interchange (-1165.221 46.66531 149.4926) from North of Factory (-1935.603 53.61261 1921.249)
+[DEBUG](staffLog) 09:55:35/07-05 09:54:34(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:54:36.845 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at West of Interchange (-1146.835 49.65032 145.5251) from West of Interchange (-1270.51 46.86535 186.2173)
+[DEBUG](staffLog) 09:55:35/07-05 09:54:35(-3) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 04:54:38.938 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sstats 76561199729401405
+[DEBUG](staffLog) 09:56:54/07-05 09:55:57(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:55:59.524 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North of Factory (-1935.034 53.61261 1914.969) from West of Interchange (-1135.313 54.33409 73.91235)
+[DEBUG](staffLog) 09:56:54/07-05 09:56:00(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:56:02.734 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North of Factory (-1942.768 53.61261 1896.074) from South East of Factory (-1819.612 55.11261 1821.237)
+[DEBUG](staffLog) 09:57:04/07-05 09:56:02(-3) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 04:56:05.356 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sstats 76561199729401405
+[DEBUG](staffLog) 09:57:04/07-05 09:56:08(-3) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 04:56:11.989 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stats 76561199729401405
+[DEBUG](staffLog) 09:57:34/07-05 09:56:42(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:56:43.020 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Range (311.8257 66.27126 2665.071) from South West of Factory (-1948.545 53.61261 1867.589)
+[DEBUG](staffLog) 10:00:24/07-05 09:59:22(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:59:24.696 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at East of Factory (-1850.96 55.40008 1896.174) from North West of Range (310.4147 66.27701 2664.928)
+[DEBUG](staffLog) 10:00:24/07-05 09:59:25(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 04:59:26.798 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at East of Factory (-1854.297 53.61261 1907.888) from South East of Factory (-1821.055 55.11261 1820.811)
+[DEBUG](staffLog) 10:00:24/07-05 09:59:25(-2) logged MSG in 🌹: [2024-07-05 04:59:27.905 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm doge can you come to your base
+[DEBUG](staffLog) 10:00:34/07-05 09:59:35(-1) logged MSG in 🌹: [2024-07-05 04:59:36.816 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm doge8 can you come to your base
+[DEBUG](staffLog) 10:01:14/07-05 10:00:13(-3) logged VANISH in vanish: [2024-07-05 05:00:16.805 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:01:14/07-05 10:00:16(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:00:17.571 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at West of Test (-273.6363 37.00748 -16.99714) from North East of Factory (-1877.612 53.6126 1913.155)
+[DEBUG](staffLog) 10:01:14/07-05 10:00:17(-2) logged VANISH in vanish: [2024-07-05 05:00:19.732 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:01:15/07-05 10:00:16(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:00:19.878 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at West of Test (-275.7499 41.75748 -7.373799) from North West of firestationtest (-371.3072 36.8522 -54.42781)
+[DEBUG](staffLog) 10:01:34/07-05 10:00:38(-2) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 05:00:40.230 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sstats 76561199729401405
+[DEBUG](staffLog) 10:01:44/07-05 10:00:47(-3) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 05:00:50.541 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stats 76561199729401405
+[DEBUG](staffLog) 10:02:14/07-05 10:01:14(-1) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 05:01:15.109 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sstats 76561199729401405
+[DEBUG](staffLog) 10:02:14/07-05 10:01:22(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:01:23.446 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at South of Interchange (-905.184 46.49957 59.68997) from South West of City (-208.316 46.88432 61.58464)
+[DEBUG](staffLog) 10:02:25/07-05 10:01:24(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:01:26.554 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at South of Interchange (-931.6412 44.43369 57.23623) from West of Interchange (-1265.236 46.86535 184.1403)
+[DEBUG](staffLog) 10:02:54/07-05 10:01:52(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:01:54.831 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at East of event (2544.454 0.3000084 -856.5866) from West of Interchange (-1036.563 46.66531 125.3101)
+[DEBUG](staffLog) 10:03:55/07-05 10:02:54(-1) logged SC in _: [2024-07-05 05:02:55.737 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc ok
+[DEBUG](staffLog) 10:03:55/07-05 10:02:55(-3) logged SC in _: [2024-07-05 05:02:58.346 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc i might have
+[DEBUG](staffLog) 10:03:56/07-05 10:02:58(-2) logged SC in _: [2024-07-05 05:03:00.441 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc found
+[DEBUG](staffLog) 10:03:56/07-05 10:02:58(-3) logged SC in _: [2024-07-05 05:03:01.823 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc proof
+[DEBUG](staffLog) 10:04:04/07-05 10:03:03(-1) logged SC in _: [2024-07-05 05:03:04.507 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc of him
+[DEBUG](staffLog) 10:04:04/07-05 10:03:05(-2) logged SC in _: [2024-07-05 05:03:07.509 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc cheating
+[DEBUG](staffLog) 10:04:04/07-05 10:03:08(-1) logged DEBUG in debug-logs: [2024-07-05 05:03:09.467 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /staff
+[DEBUG](staffLog) 10:04:04/07-05 10:03:12(-1) logged SC in _: [2024-07-05 05:03:13.029 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc godly
+[DEBUG](staffLog) 10:04:16/07-05 10:03:14(-1) logged TP in tp: [2024-07-05 05:03:15.762 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to Godly (76561199183989090 at North West of Range (353.3424 65.31445 2643.174) from East of event (2551.695 5.550011 -860.1067)
+[DEBUG](staffLog) 10:04:16/07-05 10:03:13(-3) logged SC in _: [2024-07-05 05:03:16.129 UTC] [Info] [Main] [Command] drakos [Andre]: /sc Godly, you there?
+[DEBUG](staffLog) 10:04:17/07-05 10:03:19(-2) logged SC in _: [2024-07-05 05:03:21.945 UTC] [Info] [Main] [Command] Godly [Godly]: /sc send plz
+[DEBUG](staffLog) 10:04:24/07-05 10:03:26(-1) logged SC in _: [2024-07-05 05:03:27.767 UTC] [Info] [Main] [Command] Godly [Godly]: /sc also of who
+[DEBUG](staffLog) 10:04:24/07-05 10:03:30(-3) logged SC in _: [2024-07-05 05:03:33.852 UTC] [Info] [Main] [Command] Godly [Godly]: /sc wsp andrew
+[DEBUG](staffLog) 10:04:44/07-05 10:03:44(-1) logged CHAT in 🥶: [2024-07-05 05:03:45.943 UTC] [Info] [Main] [Global] Godly [Godly]: yp
+[DEBUG](staffLog) 10:04:44/07-05 10:03:47(-2) logged CHAT in 🥶: [2024-07-05 05:03:49.545 UTC] [Info] [Main] [Global] Godly [Godly]: bunker
+[DEBUG](staffLog) 10:05:04/07-05 10:04:09(-3) logged DEBUG in debug-logs: [2024-07-05 05:04:12.573 UTC] [Info] [Main] [Command] Godly [Godly]: /dooortp
+[DEBUG](staffLog) 10:05:16/07-05 10:04:13(-1) fakelogged DEBUG in 🤯: [2024-07-05 05:04:14.824 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 10:06:34/07-05 10:05:40(-1) logged MSG in 🌹: [2024-07-05 05:05:41.826 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm vortex what do you need again?
+[DEBUG](staffLog) 10:08:07/07-05 10:07:01(-3) logged MSG in 🌹: [2024-07-05 05:07:04.276 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm vortex im at your base
+[DEBUG](staffLog) 10:08:44/07-05 10:07:43(-1) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 05:07:44.624 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stats 76561199729401405
+[DEBUG](staffLog) 10:10:24/07-05 10:09:32(-1) fakelogged DEBUG in 🤯: [2024-07-05 05:09:33.355 UTC] [Info] [Main] [Command] Godly [Godly]: /buyfrom 76561198844615074 43000
+[DEBUG](staffLog) 10:10:36/07-05 10:09:32(-2) fakelogged DEBUG in 🤯: [2024-07-05 05:09:34.655 UTC] [Info] [Main] [Command] Godly [Godly]: /buyfrom 76561198844615074 43000
+[DEBUG](staffLog) 10:14:34/07-05 10:13:34(-2) logged MSG in 🌹: [2024-07-05 05:13:36.051 UTC] [Info] [Main] [Command] uwon [Youwon]: /pm xp yo
+[DEBUG](staffLog) 10:15:44/07-05 10:14:46(-1) logged VANISH in vanish: [2024-07-05 05:14:47.344 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:15:44/07-05 10:14:47(-2) logged VANISH in vanish: [2024-07-05 05:14:49.061 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:16:54/07-05 10:15:57(-2) fakelogged DEBUG in 🤯: [2024-07-05 05:15:59.817 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 10:16:54/07-05 10:15:58(-3) logged DEBUG in debug-logs: [2024-07-05 05:16:01.015 UTC] [Info] [Main] [Command] Godly [Godly]: /smod
+[DEBUG](staffLog) 10:17:04/07-05 10:16:05(-2) logged VANISH in vanish: [2024-07-05 05:16:07.953 UTC] [Info] [Main] [Command] Godly [Godly]: /vanish
+[DEBUG](staffLog) 10:19:24/07-05 10:18:26(-1) logged MSG in 🌹: [2024-07-05 05:18:27.145 UTC] [Info] [Main] [Command] Ha [Ha]: /msg epstein why tf did u buy that
+[DEBUG](staffLog) 10:19:34/07-05 10:18:32(-3) logged MSG in 🌹: [2024-07-05 05:18:35.271 UTC] [Info] [Main] [Command] Ha [Ha]: /msg epstein i made ts as a joke but thats cool ig
+[DEBUG](staffLog) 10:24:04/07-05 10:23:05(-1) logged DEBUG in debug-logs: [2024-07-05 05:23:06.839 UTC] [Info] [Main] [Command] Godly [Godly]: /unban 76561199087755199
+[DEBUG](staffLog) 10:26:04/07-05 10:25:03(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:25:05.136 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Range (313.9844 66.28088 2664.57) from North West of Range (347.3063 68.46565 2679.324)
+[DEBUG](staffLog) 10:26:36/07-05 10:25:41(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:25:42.341 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at North West of Range (358.0342 65.31445 2629.94) from North West of Range (310.8879 65.06444 2667.176)
+[DEBUG](staffLog) 10:26:44/07-05 10:25:52(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:25:53.779 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at South of Interchange (-907.8447 45.81339 59.03522) from North West of Range (317.2134 65.06445 2672.376)
+[DEBUG](staffLog) 10:26:54/07-05 10:25:53(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:25:56.254 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at South of Interchange (-927.7141 44.35111 56.39711) from West of Interchange (-1269.19 46.86535 185.9366)
+[DEBUG](staffLog) 10:27:34/07-05 10:26:40(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:26:42.207 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at East of Factory (-1926.903 53.61261 1883.574) from South West of Interchange (-1020.797 46.78264 32.43736)
+[DEBUG](staffLog) 10:27:44/07-05 10:26:43(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 05:26:45.358 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to epstein had drip (76561199729401405 at East of Factory (-1924.311 53.61261 1874.526) from South East of Factory (-1822.498 55.11261 1821.429)
+[DEBUG](staffLog) 10:27:44/07-05 10:26:48(-2) fakelogged DEBUG in 🤯: [2024-07-05 05:26:50.979 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 10:27:55/07-05 10:26:55(-2) logged DEBUG in debug-logs: [2024-07-05 05:26:57.093 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /bunker
+[DEBUG](staffLog) 10:27:55/07-05 10:26:55(-3) fakelogged DEBUG in 🤯: [2024-07-05 05:26:58.794 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 10:28:04/07-05 10:27:02(-3) logged DEBUG in debug-logs: [2024-07-05 05:27:05.380 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 10:29:54/07-05 10:28:56(-3) logged SC in _: [2024-07-05 05:28:59.397 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc sure
+[DEBUG](staffLog) 10:30:44/07-05 10:29:52(-1) logged VANISH in vanish: [2024-07-05 05:29:53.148 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:30:54/07-05 10:29:54(-2) logged VANISH in vanish: [2024-07-05 05:29:56.918 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 10:30:54/07-05 10:29:56(-2) logged VANISH in vanish: [2024-07-05 05:29:58.972 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 10:31:34/07-05 10:30:40(-2) fakelogged DEBUG in 🤯: [2024-07-05 05:30:42.652 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 10:34:35/07-05 10:33:22(-2) logged VANISH in vanish: [2024-07-05 05:33:24.543 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 10:34:36/07-05 10:33:26(-1) logged VANISH in vanish: [2024-07-05 05:33:27.022 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 10:34:36/07-05 10:33:30(-1) fakelogged DEBUG in 🤯: [2024-07-05 05:33:31.877 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 10:34:38/07-05 10:33:31(-3) fakelogged DEBUG in 🤯: [2024-07-05 05:33:34.643 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 10:36:36/07-05 10:35:32(-3) logged MSG in 🌹: [2024-07-05 05:35:35.838 UTC] [Info] [Main] [Command] Ha [Ha]: /msg godly stock yo sealing foam
+[DEBUG](staffLog) 10:36:36/07-05 10:35:38(-2) logged R in 🌹: [2024-07-05 05:35:40.621 UTC] [Info] [Main] [Command] Godly [Godly]: /r will soon
+[DEBUG](staffLog) 10:36:44/07-05 10:35:41(-3) logged R in 🌹: [2024-07-05 05:35:44.784 UTC] [Info] [Main] [Command] Ha [Ha]: /r appreciate it :3
+[DEBUG](staffLog) 10:36:44/07-05 10:35:49(-3) logged R in 🌹: [2024-07-05 05:35:52.777 UTC] [Info] [Main] [Command] Godly [Godly]: /r <3
+[DEBUG](staffLog) 10:37:04/07-05 10:36:05(-1) logged R in 🌹: [2024-07-05 05:36:06.155 UTC] [Info] [Main] [Command] Ha [Ha]: /r dm me when u stock those
+[DEBUG](staffLog) 10:37:04/07-05 10:36:08(-2) logged R in 🌹: [2024-07-05 05:36:10.598 UTC] [Info] [Main] [Command] Ha [Ha]: /r need it for therapist quest
+[DEBUG](staffLog) 10:37:44/07-05 10:36:44(-3) logged DEBUG in debug-logs: [2024-07-05 05:36:47.177 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vaukt
+[DEBUG](staffLog) 10:37:44/07-05 10:36:47(-2) logged DEBUG in debug-logs: [2024-07-05 05:36:49.465 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vaukt
+[DEBUG](staffLog) 10:37:44/07-05 10:36:50(-1) fakelogged DEBUG in 🤯: [2024-07-05 05:36:51.090 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 10:39:44/07-05 10:38:51(-1) logged VANISH in vanish: [2024-07-05 05:38:52.533 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:45:35/07-05 10:44:38(-2) logged VANISH in vanish: [2024-07-05 05:44:40.696 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:45:35/07-05 10:44:41(-1) logged VANISH in vanish: [2024-07-05 05:44:42.037 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:46:14/07-05 10:45:14(-3) fakelogged DEBUG in 🤯: [2024-07-05 05:45:17.665 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 10:48:44/07-05 10:47:44(-2) logged VANISH in vanish: [2024-07-05 05:47:46.159 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:54:04/07-05 10:53:04(-2) logged VANISH in vanish: [2024-07-05 05:53:06.138 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 10:55:34/07-05 10:54:38(-3) logged MSG in 🌹: [2024-07-05 05:54:41.780 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:55:54/07-05 10:54:56(-2) logged MSG in 🌹: [2024-07-05 05:54:58.998 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:55:54/07-05 10:54:58(-1) logged MSG in 🌹: [2024-07-05 05:54:59.829 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:55:54/07-05 10:54:58(-2) logged MSG in 🌹: [2024-07-05 05:55:00.378 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:55:55/07-05 10:54:59(-1) logged MSG in 🌹: [2024-07-05 05:55:00.800 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:55:59/07-05 10:54:59(-2) logged MSG in 🌹: [2024-07-05 05:55:01.237 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:55:59/07-05 10:54:58(-3) logged MSG in 🌹: [2024-07-05 05:55:01.737 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:55:59/07-05 10:55:01(-1) logged MSG in 🌹: [2024-07-05 05:55:02.189 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:56:00/07-05 10:55:01(-1) logged MSG in 🌹: [2024-07-05 05:55:02.655 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:56:14/07-05 10:55:20(-2) logged MSG in 🌹: [2024-07-05 05:55:22.314 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus go to arena
+[DEBUG](staffLog) 10:57:04/07-05 10:56:09(-1) logged MSG in 🌹: [2024-07-05 05:56:10.165 UTC] [Info] [Main] [Command] froggy's bane [devil creature of quang-bingh]: /pm tidus arena is on floor 1
+[DEBUG](staffLog) 10:57:24/07-05 10:56:30(-3) logged VANISH in vanish: [2024-07-05 05:56:33.366 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 11:04:04/07-05 11:03:05(-3) logged MSG in 🌹: [2024-07-05 06:03:08.659 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm juicy jackaims
+[DEBUG](staffLog) 11:05:24/07-05 11:04:26(-1) logged VANISH in vanish: [2024-07-05 06:04:27.321 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 11:05:25/07-05 11:04:27(-2) logged VANISH in vanish: [2024-07-05 06:04:29.517 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 11:16:24/07-05 11:15:26(-2) logged MSG in 🌹: [2024-07-05 06:15:28.993 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg nebula honestly
+[DEBUG](staffLog) 11:16:34/07-05 11:15:34(-3) logged MSG in 🌹: [2024-07-05 06:15:37.599 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg nebula js go factory and pick them up its so ez
+[DEBUG](staffLog) 11:16:44/07-05 11:15:49(-1) logged MSG in 🌹: [2024-07-05 06:15:50.880 UTC] [Info] [Main] [Command] Nebula [R8]: /msg epstein I tried that earlier but there werent many bodies
+[DEBUG](staffLog) 11:16:54/07-05 11:15:57(-1) logged R in 🌹: [2024-07-05 06:15:58.755 UTC] [Info] [Main] [Command] Nebula [R8]: /r ill run the route though and check it out
+[DEBUG](staffLog) 11:17:14/07-05 11:16:18(-2) logged R in 🌹: [2024-07-05 06:16:20.816 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /r factory and interchange best
+[DEBUG](staffLog) 11:17:24/07-05 11:16:28(-2) logged R in 🌹: [2024-07-05 06:16:30.608 UTC] [Info] [Main] [Command] Nebula [R8]: /r bet appreciate it
+[DEBUG](staffLog) 11:19:24/07-05 11:18:25(-3) logged VANISH in vanish: [2024-07-05 06:18:28.533 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 11:19:24/07-05 11:18:28(-1) logged DEBUG in debug-logs: [2024-07-05 06:18:29.506 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /god
+[DEBUG](staffLog) 11:19:25/07-05 11:18:28(-3) logged DEBUG in debug-logs: [2024-07-05 06:18:31.843 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /camera
+[DEBUG](staffLog) 11:19:34/07-05 11:18:33(-2) logged DEBUG in debug-logs: [2024-07-05 06:18:35.170 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spec
+[DEBUG](staffLog) 11:19:56/07-05 11:19:00(-2) logged SPY in 🍑: [2024-07-05 06:19:02.738 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spy 76561199728581714
+[DEBUG](staffLog) 11:20:07/07-05 11:19:04(-3) logged TP in tp: [2024-07-05 06:19:07.417 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to lucii (76561199728581714 at East of Customs (-1239.533 44.44167 940.8748) from North of Range (827.4508 62.27855 2636.643)
+[DEBUG](staffLog) 11:20:07/07-05 11:19:09(-2) logged TP in tp: [2024-07-05 06:19:11.274 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to lucii (76561199728581714 at South East of Customs (-1237.27 44.44167 910.7295) from North of Customs (-1422.44 39.33794 1033.382)
+[DEBUG](staffLog) 11:20:44/07-05 11:19:47(-1) logged MSG in 🌹: [2024-07-05 06:19:48.925 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg nebula yh'
+[DEBUG](staffLog) 11:21:25/07-05 11:20:26(-3) logged MSG in 🌹: [2024-07-05 06:20:29.763 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg nebula would you take 100 and 20 dog tags
+[DEBUG](staffLog) 11:22:46/07-05 11:21:43(-3) logged MSG in 🌹: [2024-07-05 06:21:46.440 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg neb another here
+[DEBUG](staffLog) 11:23:24/07-05 11:22:28(-3) logged SPY in 🍑: [2024-07-05 06:22:31.347 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spy 76561199728581714
+[DEBUG](staffLog) 11:23:54/07-05 11:22:54(-3) logged MSG in 🌹: [2024-07-05 06:22:57.322 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg neb how much for svdm
+[DEBUG](staffLog) 11:24:14/07-05 11:23:16(-1) logged MSG in 🌹: [2024-07-05 06:23:17.183 UTC] [Info] [Main] [Command] Nebula [R8]: /msg eptstein one sec
+[DEBUG](staffLog) 11:24:14/07-05 11:23:16(-3) logged R in 🌹: [2024-07-05 06:23:19.675 UTC] [Info] [Main] [Command] Nebula [R8]: /r one sec
+[DEBUG](staffLog) 11:26:34/07-05 11:25:40(-1) logged TP in tp: [2024-07-05 06:25:41.232 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to lucii (76561199728581714 at East of Customs (-1367.707 38.47732 1003.817) from East of Customs (-1339.95 38.47732 1009.539)
+[DEBUG](staffLog) 11:27:34/07-05 11:26:31(-3) logged R in 🌹: [2024-07-05 06:26:34.412 UTC] [Info] [Main] [Command] Nebula [R8]: /r which gun you need?
+[DEBUG](staffLog) 11:28:05/07-05 11:27:03(-2) logged MSG in 🌹: [2024-07-05 06:27:05.652 UTC] [Info] [Main] [Command] Nebula [R8]: /msg epstein which gun did you need?
+[DEBUG](staffLog) 11:28:14/07-05 11:27:20(-3) logged TP in tp: [2024-07-05 06:27:23.663 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to lucii (76561199728581714 at North West of firestationtest (-360.7636 36.8522 -59.49008) from North East of Customs (-1150.057 39.25438 1156.297)
+[DEBUG](staffLog) 11:28:24/07-05 11:27:24(-2) logged TP in tp: [2024-07-05 06:27:26.236 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to lucii (76561199728581714 at North West of firestationtest (-354.4753 36.8522 -61.54829) from East of City (80.32224 36.8522 106.7477)
+[DEBUG](staffLog) 11:30:04/07-05 11:29:03(-2) logged CHAT in 🥶: [2024-07-05 06:29:05.862 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: chat what do we think this guys really cracked right !!
+[DEBUG](staffLog) 11:30:14/07-05 11:29:20(-1) logged BAN in bans: [2024-07-05 06:29:21.089 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /globalban 76561199728581714 "Cheating | ESP, SAIM | Perm"
+[DEBUG](staffLog) 11:30:15/07-05 11:29:18(-3) logged MSG in 🌹: [2024-07-05 06:29:21.915 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg chaos bro
+[DEBUG](staffLog) 11:30:24/07-05 11:29:24(-2) logged MSG in 🌹: [2024-07-05 06:29:26.833 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg chaos you are a track star
+[DEBUG](staffLog) 11:30:24/07-05 11:29:27(-2) logged R in 🌹: [2024-07-05 06:29:29.740 UTC] [Info] [Main] [Command] chaos [chaos]: /r ??
+[DEBUG](staffLog) 11:30:25/07-05 11:29:29(-2) logged MSG in 🌹: [2024-07-05 06:29:31.293 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg chaos not even shit talking
+[DEBUG](staffLog) 11:30:35/07-05 11:29:33(-3) logged MSG in 🌹: [2024-07-05 06:29:36.669 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg chaos how tf did you get up so fast bro
+[DEBUG](staffLog) 11:30:46/07-05 11:29:45(-1) logged R in 🌹: [2024-07-05 06:29:46.186 UTC] [Info] [Main] [Command] chaos [chaos]: /r ??
+[DEBUG](staffLog) 11:30:46/07-05 11:29:48(-3) logged DEBUG in debug-logs: [2024-07-05 06:29:51.511 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 11:30:46/07-05 11:29:51(-2) logged MSG in 🌹: [2024-07-05 06:29:53.623 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg chaos in labs
+[DEBUG](staffLog) 11:30:54/07-05 11:29:55(-3) logged R in 🌹: [2024-07-05 06:29:58.066 UTC] [Info] [Main] [Command] chaos [chaos]: /r what/
+[DEBUG](staffLog) 11:31:14/07-05 11:30:10(-3) logged MSG in 🌹: [2024-07-05 06:30:13.961 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg chaos you maneuvered labs so perfectly
+[DEBUG](staffLog) 11:31:15/07-05 11:30:21(-2) logged R in 🌹: [2024-07-05 06:30:23.524 UTC] [Info] [Main] [Command] chaos [chaos]: /r and?
+[DEBUG](staffLog) 11:31:34/07-05 11:30:37(-1) logged MSG in 🌹: [2024-07-05 06:30:38.045 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg chaos and nothing im just complimenting you bro
+[DEBUG](staffLog) 11:32:04/07-05 11:31:04(-1) logged DEBUG in debug-logs: [2024-07-05 06:31:05.928 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setspeed silly 5
+[DEBUG](staffLog) 11:32:14/07-05 11:31:14(-3) logged DEBUG in debug-logs: [2024-07-05 06:31:17.167 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 11:32:25/07-05 11:31:27(-2) logged DEBUG in debug-logs: [2024-07-05 06:31:29.416 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setspeed silly 3
+[DEBUG](staffLog) 11:32:54/07-05 11:31:52(-3) logged DEBUG in debug-logs: [2024-07-05 06:31:55.767 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp scrod 750000
+[DEBUG](staffLog) 11:33:44/07-05 11:32:42(-2) logged VANISH in vanish: [2024-07-05 06:32:44.729 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 11:33:44/07-05 11:32:43(-2) logged VANISH in vanish: [2024-07-05 06:32:45.545 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 11:33:45/07-05 11:32:44(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:32:47.072 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to epstein had drip (76561199729401405 at North West of Range (314.7969 65.06445 2667.984) from North West of Range (338.3516 67.87701 2638.617)
+[DEBUG](staffLog) 11:33:45/07-05 11:32:51(-1) logged MSG in 🌹: [2024-07-05 06:32:52.694 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg neb u have svdm?
+[DEBUG](staffLog) 11:33:54/07-05 11:32:54(-1) logged MSG in 🌹: [2024-07-05 06:32:55.812 UTC] [Info] [Main] [Command] epstein had drip [epstein had drip]: /msg nebula yo
+[DEBUG](staffLog) 11:34:04/07-05 11:33:08(-2) logged TP in tp: [2024-07-05 06:33:10.552 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Scrodingdangular bob (76561198260111704 at West of Woods (-1631.149 68.17174 -1918.072) from North West of Range (359.5446 65.31445 2598.766)
+[DEBUG](staffLog) 11:34:05/07-05 11:33:10(-3) logged TP in tp: [2024-07-05 06:33:13.022 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Scrodingdangular bob (76561198260111704 at West of Woods (-1635.607 67.97023 -1915.459) from South West of Woods (-1980.981 62.41629 -1433.546)
+[DEBUG](staffLog) 11:34:15/07-05 11:33:20(-1) logged DEBUG in debug-logs: [2024-07-05 06:33:21.172 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 11:34:56/07-05 11:33:57(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:33:59.814 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to epstein had drip (76561199729401405 at North West of Range (364.7317 65.31445 2569.237) from North West of Range (361.7487 65.06444 2675.886)
+[DEBUG](staffLog) 11:35:44/07-05 11:34:50(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:34:51.930 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to epstein had drip (76561199729401405 at East of event (2548.36 0.300009 -860.055) from North West of Range (358.5544 65.31445 2616.041)
+[DEBUG](staffLog) 11:37:14/07-05 11:36:16(-2) fakelogged DEBUG in 🤯: [2024-07-05 06:36:18.555 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /stuck
+[DEBUG](staffLog) 11:38:16/07-05 11:37:18(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:37:19.263 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to epstein had drip (76561199729401405 at North West of Range (314.9674 65.06445 2671.547) from North West of Range (358.7063 65.31444 2653.335)
+[DEBUG](staffLog) 11:38:24/07-05 11:37:27(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:37:28.255 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to epstein had drip (76561199729401405 at North East of Customs (-1412.01 40.69683 1031.069) from North West of Range (327.109 66.34178 2674.873)
+[DEBUG](staffLog) 11:38:24/07-05 11:37:28(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:37:30.990 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to epstein had drip (76561199729401405 at North East of Customs (-1407.701 41.51948 1028.612) from West of C Big Red (-785.4406 38.86485 1037.763)
+[DEBUG](staffLog) 11:39:45/07-05 11:38:44(-1) fakelogged DEBUG in 🤯: [2024-07-05 06:38:45.509 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i cheater
+[DEBUG](staffLog) 11:39:45/07-05 11:38:49(-1) fakelogged DEBUG in 🤯: [2024-07-05 06:38:50.831 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /trash
+[DEBUG](staffLog) 11:39:58/07-05 11:38:53(-2) logged VANISH in vanish: [2024-07-05 06:38:55.569 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 11:39:58/07-05 11:38:53(-3) logged DEBUG in debug-logs: [2024-07-05 06:38:56.467 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /god
+[DEBUG](staffLog) 11:39:58/07-05 11:38:58(-2) logged DEBUG in debug-logs: [2024-07-05 06:39:00.691 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setspeed silly 1
+[DEBUG](staffLog) 11:42:44/07-05 11:41:48(-3) logged BAN in bans mentioned 1218944589994659850: [2024-07-05 06:41:51.329 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /globalban 76561199729401405 "Cheating | BLT | Perm"
+[DEBUG](staffLog) 11:43:04/07-05 11:42:08(-2) logged CHAT in 🥶: [2024-07-05 06:42:10.865 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: choas
+[DEBUG](staffLog) 11:43:14/07-05 11:42:21(-1) logged CHAT in 🥶: [2024-07-05 06:42:22.260 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: you want refund y/n
+[DEBUG](staffLog) 11:43:47/07-05 11:42:45(-2) logged CHAT in 🥶: [2024-07-05 06:42:47.155 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: the guy in labs
+[DEBUG](staffLog) 11:43:55/07-05 11:42:54(-1) logged CHAT in 🥶: [2024-07-05 06:42:55.860 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: yes
+[DEBUG](staffLog) 11:44:34/07-05 11:43:36(-3) logged MSG in 🌹: [2024-07-05 06:43:39.042 UTC] [Info] [Main] [Command] headtaps [headtaps]: /pm doge can i gamblr
+[DEBUG](staffLog) 11:45:14/07-05 11:44:19(-2) logged DEBUG in debug-logs: [2024-07-05 06:44:21.158 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp 76561199489978729 1250000
+[DEBUG](staffLog) 11:46:24/07-05 11:45:22(-2) logged MSG in 🌹: [2024-07-05 06:45:24.988 UTC] [Info] [Main] [Command] rockstarriley00 [rockstarriley00]: /msg cray fucking replace the door
+[DEBUG](staffLog) 11:47:04/07-05 11:46:09(-1) logged VANISH in vanish: [2024-07-05 06:46:10.919 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 11:47:05/07-05 11:46:11(-2) logged TP in tp: [2024-07-05 06:46:13.554 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Scrodingdangular bob (76561198260111704 at West of gorge (887.4786 50.97183 1103.662) from North West of Range (369.2974 66.73114 2668.477)
+[DEBUG](staffLog) 11:47:14/07-05 11:46:13(-2) logged TP in tp: [2024-07-05 06:46:15.632 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Scrodingdangular bob (76561198260111704 at West of gorge (883.8596 50.97184 1114.13) from South West of gorge (993.1012 47.42698 1009.186)
+[DEBUG](staffLog) 11:47:24/07-05 11:46:22(-2) logged CHAT in 🥶: [2024-07-05 06:46:24.082 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: firing range
+[DEBUG](staffLog) 11:47:44/07-05 11:46:45(-3) logged CHAT in 🥶: [2024-07-05 06:46:48.544 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: under estimated audio range
+[DEBUG](staffLog) 11:47:44/07-05 11:46:48(-2) logged CHAT in 🥶: [2024-07-05 06:46:50.471 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: sob
+[DEBUG](staffLog) 11:48:34/07-05 11:47:36(-2) logged CHAT in 🥶: [2024-07-05 06:47:38.579 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: I wish there was a way
+[DEBUG](staffLog) 11:48:44/07-05 11:47:42(-3) logged CHAT in 🥶: [2024-07-05 06:47:45.196 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: to stop audio
+[DEBUG](staffLog) 11:48:54/07-05 11:47:53(-3) logged CHAT in 🥶: [2024-07-05 06:47:56.339 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: inside an object
+[DEBUG](staffLog) 11:49:44/07-05 11:48:44(-1) logged CHAT in 🥶: [2024-07-05 06:48:45.802 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: Supression and the firerates have been fixed on my nordic build
+[DEBUG](staffLog) 11:50:14/07-05 11:49:13(-3) logged CHAT in 🥶: [2024-07-05 06:49:16.766 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: I was gonna have it maybe come next wipe to 19 and 30
+[DEBUG](staffLog) 11:50:15/07-05 11:49:20(-3) logged CHAT in 🥶: [2024-07-05 06:49:23.708 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: but I'm not sure right now
+[DEBUG](staffLog) 11:50:34/07-05 11:49:35(-1) logged DEBUG in debug-logs: [2024-07-05 06:49:36.745 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 11:51:14/07-05 11:50:22(-1) logged CHAT in 🥶: [2024-07-05 06:50:23.794 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: What will be in the realise is removed suppression, fixed fireates and lower damage along with armor adjustments
+[DEBUG](staffLog) 11:51:34/07-05 11:50:38(-2) logged CHAT in 🥶: [2024-07-05 06:50:40.865 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: I can't spell cuhhh
+[DEBUG](staffLog) 11:52:44/07-05 11:51:46(-3) logged CHAT in 🥶: [2024-07-05 06:51:49.846 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: but that might get delayed a tiny bit because of the nightmare that is the quests rn
+[DEBUG](staffLog) 11:53:34/07-05 11:52:37(-3) logged CHAT in 🥶: [2024-07-05 06:52:40.572 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: that's a banging idea
+[DEBUG](staffLog) 11:53:56/07-05 11:53:00(-3) logged CHAT in 🥶: [2024-07-05 06:53:03.203 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: add a cat the walks around bunker
+[DEBUG](staffLog) 11:54:04/07-05 11:53:03(-2) logged CHAT in 🥶: [2024-07-05 06:53:05.989 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: and it meows
+[DEBUG](staffLog) 11:55:27/07-05 11:54:33(-2) logged CHAT in 🥶: [2024-07-05 06:54:35.786 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: what's more likely to come next update/wipe is interchange overhaul, quests fixes and whatever else I can cast a spell on
+[DEBUG](staffLog) 11:56:14/07-05 11:55:14(-3) logged MSG in 🌹: [2024-07-05 06:55:17.230 UTC] [Info] [Main] [Command] chaos [chaos]: /pm Silly that certified guy is 99% a cheater btw
+[DEBUG](staffLog) 11:56:14/07-05 11:55:14(-3) logged CHAT in 🥶: [2024-07-05 06:55:17.395 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: all the quests will be fixed
+[DEBUG](staffLog) 11:56:54/07-05 11:55:52(-3) logged CHAT in 🥶: [2024-07-05 06:55:55.667 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: that will come with server wipe
+[DEBUG](staffLog) 11:56:54/07-05 11:55:58(-2) logged MSG in 🌹: [2024-07-05 06:56:00.104 UTC] [Info] [Main] [Command] Obi The Purple Rat [Obi]: /pm silly can you join vc if you're not busy
+[DEBUG](staffLog) 11:57:54/07-05 11:56:58(-2) logged CHAT in 🥶: [2024-07-05 06:57:00.361 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: rn to fix the quests you need to have them reset, that is partially my fault
+[DEBUG](staffLog) 11:58:24/07-05 11:57:31(-1) logged MSG in 🌹: [2024-07-05 06:57:32.461 UTC] [Info] [Main] [Command] chaos [chaos]: /pm Silly certified is cheater btw, same guy as before
+[DEBUG](staffLog) 11:58:25/07-05 11:57:30(-2) logged MSG in 🌹: [2024-07-05 06:57:32.962 UTC] [Info] [Main] [Command] chaos [chaos]: /pm Silly certified is cheater btw, same guy as before
+[DEBUG](staffLog) 11:58:25/07-05 11:57:31(-2) logged MSG in 🌹: [2024-07-05 06:57:33.354 UTC] [Info] [Main] [Command] chaos [chaos]: /pm Silly certified is cheater btw, same guy as before
+[DEBUG](staffLog) 11:58:44/07-05 11:57:51(-1) logged DEBUG in debug-logs: [2024-07-05 06:57:52.351 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /opsn
+[INFO](monitor) succesfully monitoring 76561199730099165 for user 1218944589994659850
+[DEBUG](staffLog) 11:59:08/07-05 11:57:53(-1) logged DEBUG in debug-logs: [2024-07-05 06:57:54.420 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /opsn
+[DEBUG](staffLog) 11:59:09/07-05 11:57:58(-1) logged DEBUG in debug-logs: [2024-07-05 06:57:59.734 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 11:59:11/07-05 11:58:16(-1) logged CHAT in 🥶: [2024-07-05 06:58:17.067 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: reseting the player data resets the flags that has been set on your player
+[DEBUG](staffLog) 11:59:11/07-05 11:58:19(-1) fakelogged DEBUG in 🤯: [2024-07-05 06:58:20.174 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 11:59:14/07-05 11:58:20(-1) logged DEBUG in debug-logs: [2024-07-05 06:58:21.574 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /smod
+[INFO](cancelMonitor) succesfully deleted monitor 76561199729401405 for user 1218944589994659850
+[DEBUG](staffLog) 11:59:34/07-05 11:58:37(-3) fakelogged DEBUG in 🤯: [2024-07-05 06:58:40.324 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 11:59:44/07-05 11:58:43(-3) logged CHAT in 🥶: [2024-07-05 06:58:46.413 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: that made no sense but wtv
+[DEBUG](staffLog) 11:59:45/07-05 11:58:49(-1) logged VANISH in vanish: [2024-07-05 06:58:50.173 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 11:59:45/07-05 11:58:48(-3) logged DEBUG in debug-logs: [2024-07-05 06:58:51.110 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /god
+[DEBUG](staffLog) 11:59:54/07-05 11:58:53(-1) logged VANISH in vanish: [2024-07-05 06:58:54.108 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 12:00:05/07-05 11:59:06(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:59:08.069 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to certified hater | ************ (76561199730099165 at North West of Woods (-1874.181 68.70078 -1727.185) from North West of Range (367.3028 68.35133 2662.449)
+[DEBUG](staffLog) 12:00:05/07-05 11:59:07(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 06:59:10.384 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to certified hater | ************ (76561199730099165 at North West of Woods (-1869.487 70.47071 -1723.982) from East of Woods (-1357.025 62.58782 -1937.046)
+[DEBUG](staffLog) 12:00:05/07-05 11:59:08(-2) fakelogged DEBUG in 🤯: [2024-07-05 06:59:10.384 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:00:44/07-05 11:59:49(-2) fakelogged DEBUG in 🤯: [2024-07-05 06:59:51.251 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 12:01:24/07-05 12:00:28(-1) logged VANISH in vanish: [2024-07-05 07:00:29.920 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 12:01:56/07-05 12:00:58(-1) logged SERVER in 😃: [2024-07-05 07:00:59.221 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /server 19
+[DEBUG](staffLog) 12:02:14/07-05 12:01:21(-1) logged VANISH in vanish: [2024-07-05 07:01:22.657 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 12:02:24/07-05 12:01:21(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:01:24.208 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Woods (-1872.066 63.92713 -1564.087) from South East of Arena (2408.624 0.2122432 1355.879)
+[DEBUG](staffLog) 12:02:24/07-05 12:01:22(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:01:25.863 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Woods (-1877.477 64.28741 -1577.74) from East of Woods (-1357.025 62.58782 -1937.046)
+[DEBUG](staffLog) 12:02:24/07-05 12:01:27(-1) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 07:01:28.132 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sstats 76561199730099165
+[DEBUG](staffLog) 12:03:04/07-05 12:02:09(-3) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 07:02:12.249 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stats 76561199730099165
+[DEBUG](staffLog) 12:03:26/07-05 12:02:21(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:02:24.501 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Range (313.9844 66.28088 2664.57) from North West of Woods (-1736.158 63.2308 -1503.172)
+[DEBUG](staffLog) 12:03:26/07-05 12:02:31(-1) logged R in 🌹: [2024-07-05 07:02:32.545 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /r idk if he's cheating
+[DEBUG](staffLog) 12:03:26/07-05 12:02:29(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:02:32.975 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1190.219 46.66531 -119.1953) from North West of Range (317.045 65.06445 2670.134)
+[DEBUG](staffLog) 12:03:34/07-05 12:02:38(-3) logged R in 🌹: [2024-07-05 07:02:41.966 UTC] [Info] [Main] [Command] chaos [chaos]: /r 99 % sure
+[DEBUG](staffLog) 12:03:45/07-05 12:02:44(-2) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 07:02:46.207 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stats 76561199730099165
+[DEBUG](staffLog) 12:03:45/07-05 12:02:47(-1) logged R in 🌹: [2024-07-05 07:02:48.749 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /r I don't think that's the same guy
+[DEBUG](staffLog) 12:03:55/07-05 12:02:58(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:02:59.727 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1191.81 46.67531 -120.7863) from North West of Range (314.5677 65.06444 2670.108)
+[DEBUG](staffLog) 12:03:55/07-05 12:02:59(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:03:01.373 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1191.81 46.67531 -120.7863) from West of Interchange (-1269.19 46.86535 185.9366)
+[DEBUG](staffLog) 12:04:06/07-05 12:03:12(-1) logged R in 🌹: [2024-07-05 07:03:13.060 UTC] [Info] [Main] [Command] chaos [chaos]: /r brand new account
+[DEBUG](staffLog) 12:04:14/07-05 12:03:12(-3) logged R in 🌹: [2024-07-05 07:03:15.982 UTC] [Info] [Main] [Command] chaos [chaos]: /r 7-8 kd
+[DEBUG](staffLog) 12:04:15/07-05 12:03:18(-2) logged R in 🌹: [2024-07-05 07:03:20.988 UTC] [Info] [Main] [Command] chaos [chaos]: /r like 10 min plytim
+[DEBUG](staffLog) 12:04:15/07-05 12:03:20(-3) logged SC in _: [2024-07-05 07:03:23.012 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc thats true
+[DEBUG](staffLog) 12:04:24/07-05 12:03:25(-2) logged SC in _: [2024-07-05 07:03:27.588 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc bucket is a cry baby
+[DEBUG](staffLog) 12:04:24/07-05 12:03:26(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:03:29.712 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1168.861 53.15901 -24.86909) from South West of Interchange (-1152.416 46.86532 -78.73872)
+[DEBUG](staffLog) 12:04:46/07-05 12:03:48(-2) logged SC in _: [2024-07-05 07:03:50.892 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc :trolley:
+[DEBUG](staffLog) 12:05:34/07-05 12:04:34(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:04:36.569 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to certified hater | ************ (76561199730099165 at West of Interchange (-1134.617 54.34649 72.21688) from North West of Woods (-1796.782 65.67821 -1558.624)
+[DEBUG](staffLog) 12:05:34/07-05 12:04:38(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:04:39.308 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to certified hater | ************ (76561199730099165 at West of Interchange (-1138.54 55.7212 75.58336) from West of Interchange (-1269.19 46.86535 185.9366)
+[DEBUG](staffLog) 12:05:44/07-05 12:04:40(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:04:43.987 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of Interchange (-1126.373 53.15899 60.54936) from West of Interchange (-1125.38 53.15899 65.87943)
+[DEBUG](staffLog) 12:05:45/07-05 12:04:49(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:04:51.613 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Range (313.6014 65.06445 2671.113) from West of Interchange (-1122.365 53.15899 63.36195)
+[DEBUG](staffLog) 12:06:04/07-05 12:05:06(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:05:07.837 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at East of Customs (-1355.029 38.47732 987.5325) from North West of Range (315.6281 65.31445 2676.679)
+[DEBUG](staffLog) 12:06:05/07-05 12:05:08(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:05:10.133 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at East of Customs (-1345.251 38.67736 999.2414) from North of Customs (-1425.479 39.05057 1035.748)
+[DEBUG](staffLog) 12:06:26/07-05 12:05:29(-2) logged STATS in stats mentioned 1218944589994659850: [2024-07-05 07:05:31.224 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /pp 76561199730099165
+[DEBUG](staffLog) 12:06:35/07-05 12:05:42(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:05:43.906 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at East of Customs (-1211.807 43.46456 1036.701) from East of Customs (-1275.322 43.88741 1027.687)
+[DEBUG](staffLog) 12:06:44/07-05 12:05:43(-3) logged DEBUG in debug-logs: [2024-07-05 07:05:46.432 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 12:06:55/07-05 12:05:54(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:05:56.302 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to certified hater | ************ (76561199730099165 at East of Customs (-1213.475 38.47732 1006.661) from North West of Range (363.8556 65.06444 2670.805)
+[DEBUG](staffLog) 12:06:56/07-05 12:05:55(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:05:58.175 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to certified hater | ************ (76561199730099165 at East of Customs (-1213.475 38.47732 1006.661) from North of Customs (-1425.479 39.05057 1035.748)
+[DEBUG](staffLog) 12:09:14/07-05 12:08:13(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:08:14.284 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Dorms (-1088.668 35.69857 842.1307) from North West of Dorms (-1127.259 36.20827 849.4302)
+[DEBUG](staffLog) 12:10:14/07-05 12:09:15(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:09:16.780 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of Interchange (-1269.195 46.86535 185.9297) from North of Dorms (-1030.58 38.47732 987.0045)
+[DEBUG](staffLog) 12:10:14/07-05 12:09:17(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:09:19.793 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of Interchange (-1259.335 46.86533 180.2152) from South of Interchange (-906.2523 46.22542 59.38163)
+[DEBUG](staffLog) 12:10:15/07-05 12:09:21(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:09:23.056 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of Interchange (-1259.335 46.86533 180.2152) from West of Interchange (-1251.912 46.86532 177.1629)
+[DEBUG](staffLog) 12:10:25/07-05 12:09:28(-1) logged DEBUG in debug-logs: [2024-07-05 07:09:29.920 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buker
+[DEBUG](staffLog) 12:10:26/07-05 12:09:31(-1) logged DEBUG in debug-logs: [2024-07-05 07:09:32.044 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 12:10:56/07-05 12:09:54(-1) logged VANISH in vanish: [2024-07-05 07:09:55.747 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 12:11:04/07-05 12:10:03(-3) logged DEBUG in debug-logs mentioned 1218944589994659850: [2024-07-05 07:10:06.841 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /psy 76561199730099165
+[DEBUG](staffLog) 12:11:05/07-05 12:10:10(-2) logged SPY in 🍑 mentioned 1218944589994659850: [2024-07-05 07:10:12.821 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /spy 76561199730099165
+[DEBUG](staffLog) 12:11:15/07-05 12:10:15(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:10:18.648 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of Interchange (-1169.311 46.78272 57.87679) from West of Interchange (-1186.888 46.66531 94.65281)
+[DEBUG](staffLog) 12:11:35/07-05 12:10:32(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:10:35.062 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of C Big Red (-786.957 38.86485 1043.645) from West of Interchange (-1164.708 46.78272 50.35167)
+[DEBUG](staffLog) 12:11:35/07-05 12:10:36(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:10:37.726 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of C Big Red (-769.3018 40.85821 1041.233) from North East of C Big Red (-295.4282 38.47732 1053.318)
+[DEBUG](staffLog) 12:11:56/07-05 12:10:55(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:10:56.992 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of C Big Red (-730.4911 35.93783 1058.477) from North West of C Big Red (-731.616 35.94344 1058.543)
+[DEBUG](staffLog) 12:11:56/07-05 12:10:56(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:10:58.892 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of C Big Red (-730.4911 35.93783 1058.477) from North West of C Big Red (-730.4911 35.92175 1058.477)
+[DEBUG](staffLog) 12:11:56/07-05 12:11:00(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:11:03.932 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of C Big Red (-730.4911 35.93783 1058.477) from North West of C Big Red (-731.7469 36.05069 1060.339)
+[DEBUG](staffLog) 12:12:04/07-05 12:11:03(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:11:05.426 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of C Big Red (-730.4911 35.93783 1058.477) from North West of C Big Red (-730.4911 35.92175 1058.477)
+[DEBUG](staffLog) 12:12:05/07-05 12:11:07(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:11:09.971 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of C Big Red (-730.4911 35.93783 1058.477) from North West of C Big Red (-732.2498 36.08178 1061.084)
+[DEBUG](staffLog) 12:12:14/07-05 12:11:15(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:11:16.717 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of C Big Red (-730.4911 35.93783 1058.477) from North West of C Big Red (-739.7678 36.5623 1058.916)
+[DEBUG](staffLog) 12:12:24/07-05 12:11:23(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:11:26.687 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of C Big Red (-730.4911 35.93783 1058.477) from North West of C Big Red (-730.4911 35.92175 1058.477)
+[DEBUG](staffLog) 12:12:46/07-05 12:11:47(-1) logged DEBUG in debug-logs: [2024-07-05 07:11:48.781 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /bunker
+[DEBUG](staffLog) 12:12:54/07-05 12:11:59(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:12:01.888 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Range (311.8506 66.26612 2665.065) from North West of Range (355.8711 65.06445 2665.637)
+[DEBUG](staffLog) 12:13:04/07-05 12:12:03(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:12:06.973 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at East of City (84.74692 38.38715 101.4937) from North West of Range (314.1699 65.06445 2669.099)
+[DEBUG](staffLog) 12:13:05/07-05 12:12:07(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:12:09.728 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at East of City (82.51276 38.17319 79.95365) from East of Test (151.1212 46.8607 -87.77297)
+[DEBUG](staffLog) 12:13:34/07-05 12:12:32(-3) logged SPY in 🍑 mentioned 1218944589994659850: [2024-07-05 07:12:35.687 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /spy 76561199730099165
+[DEBUG](staffLog) 12:13:44/07-05 12:12:44(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:12:45.893 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at East of Test (66.14716 44.62014 -110.3524) from East of Test (65.26884 39.87013 -102.7161)
+[DEBUG](staffLog) 12:15:24/07-05 12:14:28(-1) logged CHAT in 🥶: [2024-07-05 07:14:29.913 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: ooooo use the kit guy ooooooooo
+[DEBUG](staffLog) 12:15:34/07-05 12:14:33(-3) logged VANISH in vanish: [2024-07-05 07:14:36.304 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 12:15:44/07-05 12:14:42(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:14:44.995 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Range (313.2856 65.06445 2671.999) from North of firestationtest (-214.7136 36.8522 -114.7043)
+[DEBUG](staffLog) 12:15:45/07-05 12:14:47(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:14:49.224 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1181.606 49.05919 -101.8677) from North West of Range (313.251 65.06444 2668.348)
+[DEBUG](staffLog) 12:15:45/07-05 12:14:50(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:14:53.255 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1150.291 46.66531 -93.39357) from West of Interchange (-1267.062 46.86535 185.4843)
+[DEBUG](staffLog) 12:15:56/07-05 12:14:59(-3) fakelogged DEBUG in 🤯: [2024-07-05 07:15:02.763 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 12:16:05/07-05 12:15:04(-2) logged DEBUG in debug-logs: [2024-07-05 07:15:06.550 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stick
+[DEBUG](staffLog) 12:16:05/07-05 12:15:05(-3) fakelogged DEBUG in 🤯: [2024-07-05 07:15:08.514 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:16:05/07-05 12:15:10(-1) logged DEBUG in debug-logs: [2024-07-05 07:15:11.471 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /bunker
+[DEBUG](staffLog) 12:16:05/07-05 12:15:10(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:15:12.793 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 12:16:24/07-05 12:15:25(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:15:27.705 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1103.759 53.15899 14.54031) from South East of Arena (2420.033 1.848641 1359.582)
+[DEBUG](staffLog) 12:16:25/07-05 12:15:28(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:15:30.915 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at South West of Interchange (-1108.557 55.24561 14.81971) from South West of Interchange (-1190.217 46.66531 -119.1878)
+[DEBUG](staffLog) 12:16:56/07-05 12:15:53(-1) logged SPY in 🍑 mentioned 1218944589994659850: [2024-07-05 07:15:54.029 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /spy 76561199730099165
+[DEBUG](staffLog) 12:17:16/07-05 12:16:16(-3) logged DEBUG in debug-logs: [2024-07-05 07:16:19.910 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /exit
+[DEBUG](staffLog) 12:18:16/07-05 12:17:20(-1) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:17:21.026 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North West of Range (314.7969 65.06445 2667.984) from North West of Range (314.8025 65.06445 2667.992)
+[DEBUG](staffLog) 12:19:06/07-05 12:18:02(-2) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:18:04.623 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at North East of Customs (-1148.82 36.76133 1159.281) from North West of Range (314.3958 65.06445 2666.412)
+[DEBUG](staffLog) 12:19:07/07-05 12:18:03(-3) logged TP in tp mentioned 1218944589994659850: [2024-07-05 07:18:06.323 UTC] [Info] [Main] Pandahut >> 猫猫糕 (76561198878832149) - Teleported to certified hater | ************ (76561199730099165 at West of C Big Red (-785.7039 40.11442 1048.229) from North of Customs (-1425.479 39.05057 1035.748)
+[DEBUG](staffLog) 12:21:24/07-05 12:20:32(-1) logged DEBUG in debug-logs: [2024-07-05 07:20:33.000 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /bunker
+[DEBUG](staffLog) 12:21:35/07-05 12:20:36(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:20:38.064 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 12:21:35/07-05 12:20:41(-2) logged DEBUG in debug-logs: [2024-07-05 07:20:43.845 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 12:21:44/07-05 12:20:46(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:20:48.482 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:21:44/07-05 12:20:51(-2) logged VANISH in vanish: [2024-07-05 07:20:53.549 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vanish
+[DEBUG](staffLog) 12:21:54/07-05 12:20:52(-3) logged DEBUG in debug-logs: [2024-07-05 07:20:55.144 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /gd
+[DEBUG](staffLog) 12:21:54/07-05 12:20:55(-1) logged DEBUG in debug-logs: [2024-07-05 07:20:56.350 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /god
+[DEBUG](staffLog) 12:21:54/07-05 12:20:54(-3) logged DEBUG in debug-logs: [2024-07-05 07:20:57.439 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /god
+[DEBUG](staffLog) 12:22:16/07-05 12:21:20(-3) logged SERVER in 😃: [2024-07-05 07:21:23.068 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /server 30
+[DEBUG](staffLog) 12:43:54/07-05 12:42:59(-3) fakelogged DEBUG in 🤯: [2024-07-05 07:43:02.008 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:44:04/07-05 12:43:02(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:43:04.070 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 12:44:17/07-05 12:43:13(-2) logged DEBUG in debug-logs: [2024-07-05 07:43:15.267 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 12:44:17/07-05 12:43:15(-1) logged DEBUG in debug-logs: [2024-07-05 07:43:16.550 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /smod
+[DEBUG](staffLog) 12:44:26/07-05 12:43:27(-2) logged CHAT in 🥶: [2024-07-05 07:43:29.132 UTC] [Info] [Main] [Global] 猫猫糕 [stacey]: come to shop at ult a we got labs card quest guns and ques items
+[DEBUG](staffLog) 12:45:14/07-05 12:44:13(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:44:15.960 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:45:24/07-05 12:44:26(-1) fakelogged DEBUG in 🤯: [2024-07-05 07:44:27.273 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 12:45:24/07-05 12:44:29(-3) fakelogged DEBUG in 🤯: [2024-07-05 07:44:32.182 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash+
+[DEBUG](staffLog) 12:45:34/07-05 12:44:35(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:44:37.642 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash+
+[DEBUG](staffLog) 12:45:34/07-05 12:44:41(-1) fakelogged DEBUG in 🤯: [2024-07-05 07:44:42.206 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash++
+[DEBUG](staffLog) 12:46:54/07-05 12:45:56(-3) fakelogged DEBUG in 🤯: [2024-07-05 07:45:59.383 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:46:54/07-05 12:45:57(-3) fakelogged DEBUG in 🤯: [2024-07-05 07:46:00.841 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 12:47:54/07-05 12:46:59(-3) fakelogged DEBUG in 🤯: [2024-07-05 07:47:02.432 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:52:18/07-05 12:51:17(-1) logged MSG in 🌹: [2024-07-05 07:51:18.099 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm man ima go do a quest in city rq (real real)
+[DEBUG](staffLog) 12:52:34/07-05 12:51:38(-2) logged MSG in 🌹: [2024-07-05 07:51:40.345 UTC] [Info] [Main] [Command] Man or Bear [Taunting]: /pm pog "brotha giving me red pajama comms amen"
+[DEBUG](staffLog) 12:56:04/07-05 12:55:05(-2) logged SERVER in 😃: [2024-07-05 07:55:07.498 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /server 30
+[DEBUG](staffLog) 12:59:44/07-05 12:58:52(-1) logged DEBUG in debug-logs: [2024-07-05 07:58:53.766 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /smod
+[DEBUG](staffLog) 12:59:54/07-05 12:58:53(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:58:55.049 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 12:59:54/07-05 12:58:55(-2) fakelogged DEBUG in 🤯: [2024-07-05 07:58:57.931 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 13:00:26/07-05 12:59:25(-1) logged CHAT in 🥶: [2024-07-05 07:59:26.247 UTC] [Info] [Main] [Global] 猫猫糕 [stacey]: ult a
+[DEBUG](staffLog) 13:00:26/07-05 12:59:29(-1) logged CHAT in 🥶: [2024-07-05 07:59:30.508 UTC] [Info] [Main] [Global] 猫猫糕 [stacey]: selling lab cards
+[DEBUG](staffLog) 13:04:04/07-05 13:03:05(-1) logged MSG in 🌹: [2024-07-05 08:03:06.708 UTC] [Info] [Main] [Command] chaos [chaos]: /pm double u still in inter/?
+[DEBUG](staffLog) 13:04:14/07-05 13:03:19(-3) logged MSG in 🌹: [2024-07-05 08:03:22.091 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm chaos just left 2x team there
+[DEBUG](staffLog) 13:04:24/07-05 13:03:23(-2) logged R in 🌹: [2024-07-05 08:03:25.086 UTC] [Info] [Main] [Command] chaos [chaos]: /r alr
+[DEBUG](staffLog) 13:07:04/07-05 13:06:11(-2) logged MSG in 🌹: [2024-07-05 08:06:13.789 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm chaos i got the blue shirt
+[DEBUG](staffLog) 13:08:44/07-05 13:07:42(-2) logged R in 🌹: [2024-07-05 08:07:44.179 UTC] [Info] [Main] [Command] chaos [chaos]: /r sorry men i didnt see ur msg i was 1v3
+[DEBUG](staffLog) 13:08:54/07-05 13:07:52(-1) logged MSG in 🌹: [2024-07-05 08:07:53.937 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm chaos i was tryna help
+[DEBUG](staffLog) 13:08:54/07-05 13:07:59(-1) logged R in 🌹: [2024-07-05 08:08:00.342 UTC] [Info] [Main] [Command] chaos [chaos]: /r sorry my man, i will pay u back
+[DEBUG](staffLog) 13:09:16/07-05 13:08:13(-1) logged MSG in 🌹: [2024-07-05 08:08:14.838 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm man wya
+[DEBUG](staffLog) 13:09:17/07-05 13:08:18(-3) logged MSG in 🌹: [2024-07-05 08:08:21.938 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm chaos nah ur all g i usually have the green snake and blue shirt on
+[DEBUG](staffLog) 13:09:26/07-05 13:08:28(-3) logged R in 🌹: [2024-07-05 08:08:31.041 UTC] [Info] [Main] [Command] chaos [chaos]: /r alr i wont shoot u again or ill try
+[DEBUG](staffLog) 13:09:26/07-05 13:08:31(-1) logged R in 🌹: [2024-07-05 08:08:32.823 UTC] [Info] [Main] [Command] chaos [chaos]: /r sorry
+[DEBUG](staffLog) 13:09:44/07-05 13:08:50(-2) logged MSG in 🌹: [2024-07-05 08:08:52.789 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm chaos im in city atm
+[DEBUG](staffLog) 13:11:19/07-05 13:10:03(-1) logged R in 🌹: [2024-07-05 08:10:04.871 UTC] [Info] [Main] [Command] chaos [chaos]: /r alr im going labs
+[DEBUG](staffLog) 13:11:19/07-05 13:10:03(-3) logged MSG in 🌹: [2024-07-05 08:10:06.521 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm man extracting rn
+[DEBUG](staffLog) 13:11:19/07-05 13:10:11(-2) logged MSG in 🌹: [2024-07-05 08:10:13.089 UTC] [Info] [Main] [Command] Man or Bear [Taunting]: /pm pog ight
+[DEBUG](staffLog) 13:13:44/07-05 13:12:48(-2) logged R in 🌹: [2024-07-05 08:12:50.731 UTC] [Info] [Main] [Command] chaos [chaos]: /r what map are u rn
+[DEBUG](staffLog) 13:14:44/07-05 13:13:47(-3) logged R in 🌹: [2024-07-05 08:13:50.780 UTC] [Info] [Main] [Command] chaos [chaos]: /r what map are you
+[DEBUG](staffLog) 13:18:54/07-05 13:17:56(-3) logged MSG in 🌹: [2024-07-05 08:17:59.090 UTC] [Info] [Main] [Command] chaos [chaos]: /pm double i see you im on the road
+[DEBUG](staffLog) 13:18:55/07-05 13:17:57(-2) logged MSG in 🌹: [2024-07-05 08:17:59.562 UTC] [Info] [Main] [Command] chaos [chaos]: /pm double i see you im on the road
+[DEBUG](staffLog) 13:18:55/07-05 13:17:58(-2) logged MSG in 🌹: [2024-07-05 08:18:00.014 UTC] [Info] [Main] [Command] chaos [chaos]: /pm double i see you im on the road
+[DEBUG](staffLog) 13:18:55/07-05 13:17:58(-2) logged MSG in 🌹: [2024-07-05 08:18:00.478 UTC] [Info] [Main] [Command] chaos [chaos]: /pm double i see you im on the road
+[DEBUG](staffLog) 13:19:06/07-05 13:18:10(-3) logged MSG in 🌹: [2024-07-05 08:18:13.101 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm chaos im going into the building
+[DEBUG](staffLog) 13:19:16/07-05 13:18:19(-2) logged R in 🌹: [2024-07-05 08:18:21.825 UTC] [Info] [Main] [Command] chaos [chaos]: /r alr
+[DEBUG](staffLog) 13:19:24/07-05 13:18:30(-3) logged R in 🌹: [2024-07-05 08:18:33.716 UTC] [Info] [Main] [Command] chaos [chaos]: /r ima go cityy
+[DEBUG](staffLog) 13:19:34/07-05 13:18:39(-1) logged MSG in 🌹: [2024-07-05 08:18:40.420 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm chaos gl
+[DEBUG](staffLog) 13:21:44/07-05 13:20:45(-1) logged MSG in 🌹: [2024-07-05 08:20:46.411 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /pm pog which asian
+[DEBUG](staffLog) 13:21:57/07-05 13:20:53(-3) logged MSG in 🌹: [2024-07-05 08:20:56.508 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm ysa chinese
+[DEBUG](staffLog) 13:21:57/07-05 13:20:59(-1) logged R in 🌹: [2024-07-05 08:21:00.585 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r god damn
+[DEBUG](staffLog) 13:22:25/07-05 13:21:30(-3) logged MSG in 🌹: [2024-07-05 08:21:33.329 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm ysa i was out earlier in la-santa monica area for a few hours
+[DEBUG](staffLog) 13:22:36/07-05 13:21:40(-2) logged R in 🌹: [2024-07-05 08:21:42.811 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r oh
+[DEBUG](staffLog) 13:22:44/07-05 13:21:49(-1) logged R in 🌹: [2024-07-05 08:21:50.424 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r i went to go buy cat food
+[DEBUG](staffLog) 13:23:07/07-05 13:22:03(-2) logged MSG in 🌹: [2024-07-05 08:22:05.886 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm ysa from 8 pm my time to like 3 hours ago
+[DEBUG](staffLog) 13:23:07/07-05 13:22:10(-2) logged R in 🌹: [2024-07-05 08:22:12.307 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r wtf
+[DEBUG](staffLog) 13:23:14/07-05 13:22:14(-1) logged R in 🌹: [2024-07-05 08:22:15.496 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r arent u tired
+[DEBUG](staffLog) 13:23:15/07-05 13:22:21(-1) logged MSG in 🌹: [2024-07-05 08:22:22.132 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm caffine :>
+[DEBUG](staffLog) 13:23:26/07-05 13:22:25(-2) logged MSG in 🌹: [2024-07-05 08:22:27.852 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm ysa caffine
+[DEBUG](staffLog) 13:23:34/07-05 13:22:35(-2) logged R in 🌹: [2024-07-05 08:22:37.559 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r oml
+[DEBUG](staffLog) 13:26:34/07-05 13:25:40(-1) logged MSG in 🌹: [2024-07-05 08:25:41.300 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /pm chaos wru
+[DEBUG](staffLog) 13:26:44/07-05 13:25:44(-1) logged R in 🌹: [2024-07-05 08:25:45.049 UTC] [Info] [Main] [Command] chaos [chaos]: /r inter
+[DEBUG](staffLog) 13:26:45/07-05 13:25:47(-1) logged R in 🌹: [2024-07-05 08:25:48.917 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r okok thank god
+[DEBUG](staffLog) 13:26:45/07-05 13:25:51(-1) logged R in 🌹: [2024-07-05 08:25:52.031 UTC] [Info] [Main] [Command] chaos [chaos]: /r why
+[DEBUG](staffLog) 13:26:55/07-05 13:25:56(-2) logged R in 🌹: [2024-07-05 08:25:58.862 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r i got scared
+[DEBUG](staffLog) 13:26:55/07-05 13:26:00(-2) logged R in 🌹: [2024-07-05 08:26:02.939 UTC] [Info] [Main] [Command] chaos [chaos]: /r of what?
+[DEBUG](staffLog) 13:27:04/07-05 13:26:03(-3) logged R in 🌹: [2024-07-05 08:26:06.647 UTC] [Info] [Main] [Command] ysa<3 [Womp Womp < 3]: /r u
+[DEBUG](staffLog) 13:27:05/07-05 13:26:08(-2) logged R in 🌹: [2024-07-05 08:26:10.877 UTC] [Info] [Main] [Command] chaos [chaos]: /r :skull:
+[DEBUG](staffLog) 13:30:55/07-05 13:29:59(-3) logged SC in _: [2024-07-05 08:30:02.823 UTC] [Info] [Main] [Command] drakos [Andre]: /sc ima hop off, you got it from here.
+[DEBUG](staffLog) 13:32:05/07-05 13:31:08(-3) logged DEBUG in debug-logs: [2024-07-05 08:31:11.779 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open
+[DEBUG](staffLog) 13:32:14/07-05 13:31:18(-3) fakelogged DEBUG in 🤯: [2024-07-05 08:31:21.036 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 13:32:24/07-05 13:31:26(-3) fakelogged DEBUG in 🤯: [2024-07-05 08:31:29.365 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 13:33:14/07-05 13:32:17(-3) fakelogged DEBUG in 🤯: [2024-07-05 08:32:20.740 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 13:34:15/07-05 13:33:16(-2) fakelogged DEBUG in 🤯: [2024-07-05 08:33:18.105 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 13:34:36/07-05 13:33:40(-2) fakelogged DEBUG in 🤯: [2024-07-05 08:33:42.122 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 13:34:44/07-05 13:33:46(-1) fakelogged DEBUG in 🤯: [2024-07-05 08:33:47.652 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 13:48:04/07-05 13:47:05(-2) logged MSG in 🌹: [2024-07-05 08:47:07.815 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm ysa you wanna see a nice picture
+[DEBUG](staffLog) 13:59:54/07-05 13:58:58(-3) logged MSG in 🌹: [2024-07-05 08:59:01.790 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm man i lost 3m
+[DEBUG](staffLog) 14:00:06/07-05 13:59:05(-3) logged MSG in 🌹: [2024-07-05 08:59:08.276 UTC] [Info] [Main] [Command] Pog [Cheese]: /pm man im at 81k rn

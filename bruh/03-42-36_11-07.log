@@ -1,0 +1,13 @@
+[INFO](retrieveLog) wrote 0.178026MB to latest.log in 0.5938241481781006
+[INFO](staffParse) CAUGHT UP TO LATEST 84
+[DEBUG](staffLog) 07:43:23/07-11 07:42:20(-2) logged CONNECTING in 🤣: [2024-07-11 02:42:22.816 UTC] [Info] [Main] Connecting: PlayerID: 76561198301760563 Steam Name: coil Character name: call me a good boy Nick: kitty >.< Group: 103582791474518493 Join GUID: bb2e3cfd-246b-4a3a-bbea-fed99306bc39 Character Slot: 0 Language: English
+[DEBUG](staffLog) 07:44:11/07-11 07:43:02(-2) logged DEBUG in debug-logs: [2024-07-11 02:43:04.558 UTC] [Info] [Main] [Command] call me a good boy [coil]: /t pcoil
+[DEBUG](staffLog) 07:44:11/07-11 07:43:03(-3) logged TP in tp: [2024-07-11 02:43:06.129 UTC] [Info] [Main] Pandahut >> call me a good boy (76561198301760563) - Teleported to call me a good boy (76561198301760563 at North of Arena (1010.32 58.41406 2667.422) from North of Arena (1010.321 57.91926 2667.428)
+[DEBUG](staffLog) 07:44:21/07-11 07:43:19(-1) logged CHAT in 🥶: [2024-07-11 02:43:20.007 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: attempt number 2
+[DEBUG](staffLog) 07:44:21/07-11 07:43:19(-2) logged DEBUG in debug-logs: [2024-07-11 02:43:21.645 UTC] [Info] [Main] [Command] call me a good boy [coil]: /bunker
+[DEBUG](staffLog) 07:44:21/07-11 07:43:19(-3) logged DEBUG in debug-logs: [2024-07-11 02:43:22.386 UTC] [Info] [Main] [Command] call me a good boy [coil]: /heal
+[DEBUG](staffLog) 07:44:31/07-11 07:43:23(-1) logged SERVER in 😃: [2024-07-11 02:43:24.727 UTC] [Info] [Main] [Command] call me a good boy [coil]: /server 30
+[DEBUG](staffLog) 07:44:31/07-11 07:43:22(-2) logged DISCONNECTING in 🤐: [2024-07-11 02:43:24.980 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198301760563 Steam Name: coil Character name: call me a good boy Nick: kitty >.< Group: 103582791474518493 Session Length 1.04 Minutes
+[DEBUG](staffLog) 07:44:41/07-11 07:43:36(-1) logged DISCONNECTING in 🤐: [2024-07-11 02:43:37.008 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589999263479066 Session Length 6.47 Minutes
+[DEBUG](staffLog) 07:44:41/07-11 07:43:35(-2) logged DISCONNECTING in 🤐: [2024-07-11 02:43:37.078 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 112589999263478627 Session Length 5.43 Minutes
+[DEBUG](staffLog) 07:44:41/07-11 07:43:34(-3) logged DISCONNECTING in 🤐: [2024-07-11 02:43:37.178 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 103582791471593124 Session Length 6.43 Minutes

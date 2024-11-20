@@ -1,0 +1,7 @@
+[INFO](retrieveLog) wrote 31.739891MB to latest.log in 3.01139760017395
+[INFO](staffParse) CAUGHT UP TO LATEST 66
+[INFO](listMonitors) succesfully listed 3 monitors for user resetdev
+[INFO](cancelMonitor) succesfully deleted monitor 76561199727682787 for user resetdev
+[INFO](cancelMonitor) succesfully deleted monitor 76561199727468738 for user resetdev
+[INFO](monitor) succesfully monitoring 76561199727404624 for user moneromillionaire
+[INFO](listMonitors) succesfully listed 2 monitors for user resetdev
