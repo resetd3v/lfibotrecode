@@ -1,0 +1,4 @@
+[INFO](retrieveLog) wrote 66.003047MB to latest.log in 3.0050010681152344
+[DEBUG](staffLog) 08:19:46/07-06 08:18:52(-2) logged CONNECTING in 🤣: [2024-07-06 03:18:54.482 UTC] [Info] [Main] Connecting: PlayerID: 76561199588808662 Steam Name: Dasharthatoneguy Character name: Dasharthatoneguy Nick: Dasharthatoneguy Group: 0 Join GUID: fd554ee4-d4c2-44dd-8413-b741ee7d2715 Character Slot: 0 Language: English
+[DEBUG](staffLog) 08:20:07/07-06 08:19:03(-1) fakelogged DEBUG in 🤯: [2024-07-06 03:19:04.621 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 08:20:18/07-06 08:19:14(-1) logged VANISH in vanish: [2024-07-06 03:19:15.157 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish

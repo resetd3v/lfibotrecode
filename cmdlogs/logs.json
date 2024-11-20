@@ -1,0 +1,85 @@
+{
+    "valid": true,
+    "logs": {
+        "1260390236521758822": {
+            "id": 1260390236521758822,
+            "active": true,
+            "author": {
+                "name": "resetdev",
+                "id": 709547527334002829
+            },
+            "mention": {
+                "name": "elbinancebandito",
+                "id": 837703090345214022
+            },
+            "timestamp": "2024-07-10 01:20:48.304007",
+            "action": "ADD",
+            "user": 76561199734256436,
+            "display": "ballin420"
+        },
+        "1260390339446046721": {
+            "id": 1260390339446046721,
+            "active": true,
+            "author": {
+                "name": "resetdev",
+                "id": 709547527334002829
+            },
+            "mention": {
+                "name": "moneromillionaire",
+                "id": 1218944589994659850
+            },
+            "timestamp": "2024-07-10 01:21:12.279963",
+            "action": "ADD",
+            "user": 76561199732713785,
+            "display": "unk"
+        },
+        "1260390401840250970": {
+            "id": 1260390401840250970,
+            "active": true,
+            "author": {
+                "name": "resetdev",
+                "id": 709547527334002829
+            },
+            "mention": {
+                "name": "resetdev",
+                "id": 709547527334002829
+            },
+            "timestamp": "2024-07-10 01:21:27.131869",
+            "action": "ADD",
+            "user": 76561199229177989,
+            "display": "Confusing"
+        },
+        "1260390578265522337": {
+            "id": 1260390578265522337,
+            "active": true,
+            "author": {
+                "name": "resetdev",
+                "id": 709547527334002829
+            },
+            "mention": {
+                "name": "jamarionthe3rd",
+                "id": 846641395581190155
+            },
+            "timestamp": "2024-07-10 01:22:09.198406",
+            "action": "ADD",
+            "user": 76561198884479492,
+            "display": "Ha"
+        },
+        "1262645600923422751": {
+            "id": 1262645600923422751,
+            "active": true,
+            "author": {
+                "name": "resetdev",
+                "id": 709547527334002829
+            },
+            "mention": {
+                "name": "moneromillionaire",
+                "id": 1218944589994659850
+            },
+            "timestamp": "2024-07-16 06:42:49.599790",
+            "action": "ADD",
+            "user": 76561199733921942,
+            "display": "https://www.youtube.com/watch?v=3cxD5TSlM-8"
+        }
+    }
+}

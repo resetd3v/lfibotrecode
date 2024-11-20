@@ -1,0 +1,14 @@
+[INFO](retrieveLog) wrote 2.21092MB to latest.log in 1.148209810256958
+[INFO](staffParse) CAUGHT UP TO LATEST 94
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 16:27:51/07-18 16:27:22(-3) logged MSG in 🌹: [2024-07-18 11:27:25.978 UTC] [Info] [Main] [Command] why [blue]: /PM POG DO YOU HAVE DICORF
+[DEBUG](staffLog) 16:27:53/07-18 16:27:38(-2) logged R in 🌹: [2024-07-18 11:27:40.883 UTC] [Info] [Main] [Command] Pog [Cheese]: /r cant use it in china
+[DEBUG](staffLog) 16:28:11/07-18 16:27:56(-1) logged MSG in 🌹: [2024-07-18 11:27:57.721 UTC] [Info] [Main] [Command] why [blue]: /PM POG ADD ME
+[DEBUG](staffLog) 16:28:11/07-18 16:28:03(-1) logged R in 🌹: [2024-07-18 11:28:04.214 UTC] [Info] [Main] [Command] Pog [Cheese]: /r i cant
+[DEBUG](staffLog) 16:28:31/07-18 16:28:21(-1) logged MSG in 🌹: [2024-07-18 11:28:22.336 UTC] [Info] [Main] [Command] why [blue]: /PM POG WHAT IS YOUR NAME
+[ERROR](retrieveLog) resp returned 403
+[DEBUG](staffLog) 16:28:51/07-18 16:28:31(-1) logged R in 🌹: [2024-07-18 11:28:32.570 UTC] [Info] [Main] [Command] Pog [Cheese]: /r policefbi647
+[ERROR](retrieveLog) resp returned 403

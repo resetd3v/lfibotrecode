@@ -1,0 +1,182 @@
+[INFO](retrieveLog) wrote 144.457186MB to latest.log in 7.943153619766235
+[INFO](staffParse) CAUGHT UP TO LATEST 63
+[DEBUG](staffLog) 01:35:48/07-11 01:34:33(-3) logged MSG in 🌹: [2024-07-10 20:34:36.216 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg bouji yo where in labs did u die
+[DEBUG](staffLog) 01:40:11/07-11 01:39:00(-1) logged STATS in stats mentioned 1218944589994659850: [2024-07-10 20:39:01.985 UTC] [Info] [Main] [Command] Border Militant [DaDragon]: /stats unk
+[DEBUG](staffLog) 01:40:11/07-11 01:39:03(-3) logged STATS in stats mentioned 846641395581190155: [2024-07-10 20:39:06.663 UTC] [Info] [Main] [Command] Border Militant [DaDragon]: /stats ha
+[DEBUG](staffLog) 02:08:29/07-11 02:07:16(-3) logged MSG in 🌹: [2024-07-10 21:07:19.988 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg wykk yo can i get a kit rq?
+[DEBUG](staffLog) 02:08:36/07-11 02:07:29(-2) logged MSG in 🌹: [2024-07-10 21:07:31.194 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg wykk ill buy it from u i wanna kill that 4man in labs
+[DEBUG](staffLog) 02:13:54/07-11 02:12:48(-2) logged MSG in 🌹: [2024-07-10 21:12:50.533 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg bouji yp
+[DEBUG](staffLog) 02:14:05/07-11 02:12:53(-2) logged MSG in 🌹: [2024-07-10 21:12:55.492 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg bouji can i buy a kit
+[DEBUG](staffLog) 02:18:07/07-11 02:16:36(-1) fakelogged DEBUG in 🤯 mentioned 837703090345214022: [2024-07-10 21:16:37.161 UTC] [Info] [Main] [Command] ZachJay [ZachJay]: /vault b
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'color': 34001} | [2024-07-10 21:17:13.255 UTC] [Info] [Main] [Command] Sable [Sable]: /pm
+
+[DEBUG](staffLog) 02:18:24/07-11 02:17:15(-3) logged MSG in 🌹: [2024-07-10 21:17:18.106 UTC] [Info] [Main] [Command] Sable [Sable]: /pm slayer hey
+[DEBUG](staffLog) 02:18:33/07-11 02:17:23(-1) logged MSG in 🌹: [2024-07-10 21:17:24.385 UTC] [Info] [Main] [Command] Sable [Sable]: /pm slayer go to floor 2b
+[DEBUG](staffLog) 02:18:40/07-11 02:17:28(-1) logged MSG in 🌹: [2024-07-10 21:17:29.274 UTC] [Info] [Main] [Command] Sable [Sable]: /pm kermit go to floor 2b
+[DEBUG](staffLog) 02:19:48/07-11 02:18:38(-2) logged MSG in 🌹: [2024-07-10 21:18:40.998 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg wyk yo
+[DEBUG](staffLog) 02:20:16/07-11 02:18:46(-3) logged MSG in 🌹: [2024-07-10 21:18:49.005 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg wyk i need a kit again :3
+[DEBUG](staffLog) 02:21:44/07-11 02:20:33(-1) logged MSG in 🌹: [2024-07-10 21:20:34.264 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm where are youuuu
+[DEBUG](staffLog) 02:21:50/07-11 02:20:43(-2) logged MSG in 🌹: [2024-07-10 21:20:45.794 UTC] [Info] [Main] [Command] Harm [Harm]: /pm navi in my roommm
+[DEBUG](staffLog) 02:22:19/07-11 02:21:03(-1) logged MSG in 🌹: [2024-07-10 21:21:04.278 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm i smell youuu
+[DEBUG](staffLog) 02:22:21/07-11 02:21:10(-3) logged MSG in 🌹: [2024-07-10 21:21:13.588 UTC] [Info] [Main] [Command] Harm [Harm]: /pm navii ah mann cmon whaaa
+[DEBUG](staffLog) 02:22:27/07-11 02:21:23(-1) logged MSG in 🌹: [2024-07-10 21:21:24.412 UTC] [Info] [Main] [Command] Harm [Harm]: /pm navi ahh man wha cmon
+[DEBUG](staffLog) 02:23:14/07-11 02:22:05(-2) logged MSG in 🌹: [2024-07-10 21:22:07.580 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm quick i need you to choose if between me or white boy who do you pick
+[DEBUG](staffLog) 02:23:45/07-11 02:22:21(-1) logged MSG in 🌹: [2024-07-10 21:22:22.886 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm im in a vc with him
+[DEBUG](staffLog) 02:23:54/07-11 02:22:28(-1) logged MSG in 🌹: [2024-07-10 21:22:29.963 UTC] [Info] [Main] [Command] Harm [Harm]: /pm navi you ofc wha
+[DEBUG](staffLog) 02:23:54/07-11 02:22:39(-2) logged MSG in 🌹: [2024-07-10 21:22:41.162 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm yesssss
+[DEBUG](staffLog) 02:28:14/07-11 02:26:57(-2) logged CONNECTING in 🤣: [2024-07-10 21:26:59.835 UTC] [Info] [Main] Connecting: PlayerID: 76561198210222663 Steam Name: superb91 Character name: jack Nick: jack Group: 112589999263479396 Join GUID: f1be88f1-9994-44cd-9a65-bd975b1edc1e Character Slot: 0 Language: English
+[DEBUG](staffLog) 02:28:15/07-11 02:27:04(-1) logged VANISH in vanish: [2024-07-10 21:27:05.963 UTC] [Info] [Main] [Command] jack [superb91]: /vanish
+[DEBUG](staffLog) 02:28:45/07-11 02:27:34(-2) logged BAN in bans: [2024-07-10 21:27:36.816 UTC] [Info] [Main] [Command] jack [superb91]: /ban "76561199226729661" "Racism | First Offense | 7d" 7 d
+[DEBUG](staffLog) 02:28:46/07-11 02:27:38(-1) logged DEBUG in debug-logs: [2024-07-10 21:27:39.679 UTC] [Info] [Main] [Command] jack [superb91]: /wb
+[DEBUG](staffLog) 02:29:29/07-11 02:28:11(-2) logged DEBUG in debug-logs: [2024-07-10 21:28:13.305 UTC] [Info] [Main] [Command] jack [superb91]: /staff
+[DEBUG](staffLog) 02:29:30/07-11 02:28:12(-2) logged CHAT in 🥶: [2024-07-10 21:28:14.707 UTC] [Info] [Main] [Global] jack [superb91]: staff
+[DEBUG](staffLog) 02:29:44/07-11 02:28:24(-2) logged CHAT in 🥶: [2024-07-10 21:28:26.868 UTC] [Info] [Main] [Global] jack [superb91]: meant to do /staff
+[DEBUG](staffLog) 02:29:52/07-11 02:28:45(-2) logged CHAT in 🥶: [2024-07-10 21:28:47.760 UTC] [Info] [Main] [Global] jack [superb91]: woah chill with the hostility
+[DEBUG](staffLog) 02:29:59/07-11 02:28:48(-1) logged DEBUG in debug-logs: [2024-07-10 21:28:49.587 UTC] [Info] [Main] [Command] jack [superb91]: /bunker
+[DEBUG](staffLog) 02:30:35/07-11 02:29:22(-1) logged DEBUG in debug-logs: [2024-07-10 21:29:23.426 UTC] [Info] [Main] [Command] jack [superb91]: /mute "76561199259076487" "Racism | First Offense | 7d" 7 d
+[DEBUG](staffLog) 02:30:37/07-11 02:29:21(-3) logged CONNECTING in 🤣: [2024-07-10 21:29:24.979 UTC] [Info] [Main] Connecting: PlayerID: 76561199612445730 Steam Name: ItzJayJay=) Character name: ItzJay Nick: ItzJayJay Group: 0 Join GUID: fca6be06-3309-4303-b0ed-9b39601ab1bd Character Slot: 0 Language: English
+[DEBUG](staffLog) 02:30:38/07-11 02:29:27(-3) logged CHAT in 🥶: [2024-07-10 21:29:30.127 UTC] [Info] [Main] [Global] jack [superb91]: Sure
+[DEBUG](staffLog) 02:30:45/07-11 02:29:36(-3) logged VANISH in vanish: [2024-07-10 21:29:39.898 UTC] [Info] [Main] [Command] jack [superb91]: /vanish
+[DEBUG](staffLog) 02:31:21/07-11 02:30:13(-2) logged DEBUG in debug-logs: [2024-07-10 21:30:15.478 UTC] [Info] [Main] [Command] jack [superb91]: /mute "76561199403096053" "Mic Spam | First OFfense | 12h" 12 h
+[DEBUG](staffLog) 02:32:27/07-11 02:31:18(-3) logged DEBUG in debug-logs: [2024-07-10 21:31:21.160 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /staff
+[DEBUG](staffLog) 02:32:27/07-11 02:31:22(-3) logged SC in _: [2024-07-10 21:31:25.372 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /sc hi jack
+[DEBUG](staffLog) 02:32:46/07-11 02:31:39(-2) fakelogged DEBUG in 🤯: [2024-07-10 21:31:41.111 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /doortp
+[DEBUG](staffLog) 02:33:15/07-11 02:32:00(-3) logged SC in _: [2024-07-10 21:32:03.003 UTC] [Info] [Main] [Command] jack [superb91]: /sc hi
+[DEBUG](staffLog) 02:33:16/07-11 02:32:05(-2) logged SC in _: [2024-07-10 21:32:07.554 UTC] [Info] [Main] [Command] jack [superb91]: /sc muted 2 and banned 1 in past 5 mins
+[DEBUG](staffLog) 02:33:16/07-11 02:32:05(-3) logged SC in _: [2024-07-10 21:32:08.356 UTC] [Info] [Main] [Command] jack [superb91]: /sc gg
+[DEBUG](staffLog) 02:34:34/07-11 02:33:23(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:33:24.393 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /vault
+[DEBUG](staffLog) 02:35:18/07-11 02:34:02(-2) logged CONNECTING in 🤣: [2024-07-10 21:34:04.125 UTC] [Info] [Main] Connecting: PlayerID: 76561199531161985 Steam Name: Andre Character name: drakos Nick: Supremacy Group: 112589999263478627 Join GUID: 8ea99d73-a895-4f11-9cf5-397283ae75a0 Character Slot: 0 Language: English
+[DEBUG](staffLog) 02:35:18/07-11 02:34:11(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:34:12.903 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /vault
+[DEBUG](staffLog) 02:36:10/07-11 02:34:53(-3) fakelogged DEBUG in 🤯: [2024-07-10 21:34:56.728 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /vault
+[DEBUG](staffLog) 02:37:28/07-11 02:36:17(-2) fakelogged DEBUG in 🤯: [2024-07-10 21:36:19.675 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 02:37:58/07-11 02:36:51(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:36:52.878 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 02:39:15/07-11 02:38:02(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:38:03.726 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 02:39:51/07-11 02:38:39(-3) logged CHAT in 🥶: [2024-07-10 21:38:42.577 UTC] [Info] [Main] [Global] drakos [Andre]: dont know
+[DEBUG](staffLog) 02:39:57/07-11 02:38:45(-3) logged DEBUG in debug-logs: [2024-07-10 21:38:48.030 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 02:39:59/07-11 02:38:49(-2) logged SC in _: [2024-07-10 21:38:51.102 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /sc  hi
+[DEBUG](staffLog) 02:40:09/07-11 02:38:56(-1) logged SC in _: [2024-07-10 21:38:57.351 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /sc im getting back on soon
+[DEBUG](staffLog) 02:40:09/07-11 02:38:59(-2) logged SC in _: [2024-07-10 21:39:01.179 UTC] [Info] [Main] [Command] drakos [Andre]: /sc bet
+[DEBUG](staffLog) 02:40:16/07-11 02:39:07(-2) logged SC in _: [2024-07-10 21:39:09.194 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /sc free mute for ya
+[DEBUG](staffLog) 02:40:34/07-11 02:39:24(-1) logged SC in _: [2024-07-10 21:39:25.548 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /sc andre
+[DEBUG](staffLog) 02:40:34/07-11 02:39:30(-1) logged DEBUG in debug-logs: [2024-07-10 21:39:31.118 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 02:40:45/07-11 02:39:32(-3) logged TP in tp: [2024-07-10 21:39:35.735 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to Ramen & Oj (76561199621033770 at East of event (2471.277 0.3000011 -558.4368) from North West of Range (323.915 65.06445 2673.281)
+[DEBUG](staffLog) 02:40:55/07-11 02:39:44(-1) logged TP in tp: [2024-07-10 21:39:45.510 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to ItzJay (76561199612445730 at South East of gorge (2638.319 0.326044 378.9453) from East of event (2471.381 0.3000013 -557.5081)
+[DEBUG](staffLog) 02:42:00/07-11 02:40:49(-1) logged DEBUG in debug-logs: [2024-07-10 21:40:50.152 UTC] [Info] [Main] [Command] drakos [Andre]: /vanis
+[DEBUG](staffLog) 02:42:00/07-11 02:40:50(-2) logged VANISH in vanish: [2024-07-10 21:40:52.228 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 02:42:06/07-11 02:40:55(-1) logged VANISH in vanish: [2024-07-10 21:40:56.575 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 02:42:57/07-11 02:41:41(-3) logged VANISH in vanish: [2024-07-10 21:41:44.410 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 02:42:57/07-11 02:41:42(-2) logged DEBUG in debug-logs: [2024-07-10 21:41:44.411 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /mute 76561199621033770 "Sexual Content | First Offense 6h" 6 h
+[DEBUG](staffLog) 02:42:59/07-11 02:41:45(-2) logged VANISH in vanish: [2024-07-10 21:41:47.223 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 02:43:46/07-11 02:42:36(-1) logged SERVER in 😃: [2024-07-10 21:42:37.133 UTC] [Info] [Main] [Command] ItzJay [ItzJayJay=)]: /server 1
+[DEBUG](staffLog) 02:43:46/07-11 02:42:38(-2) logged DEBUG in debug-logs: [2024-07-10 21:42:40.397 UTC] [Info] [Main] [Command] drakos [Andre]: /bunker
+[DEBUG](staffLog) 02:43:52/07-11 02:42:40(-2) logged DEBUG in debug-logs: [2024-07-10 21:42:42.526 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 02:47:08/07-11 02:45:57(-3) logged DEBUG in debug-logs: [2024-07-10 21:46:00.303 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 02:47:16/07-11 02:45:58(-3) logged VANISH in vanish: [2024-07-10 21:46:01.707 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 02:47:17/07-11 02:46:04(-1) logged DEBUG in debug-logs: [2024-07-10 21:46:05.413 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 02:47:58/07-11 02:46:45(-2) fakelogged DEBUG in 🤯: [2024-07-10 21:46:47.984 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 02:49:52/07-11 02:48:21(-2) fakelogged DEBUG in 🤯: [2024-07-10 21:48:23.296 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 02:51:02/07-11 02:49:47(-3) fakelogged DEBUG in 🤯: [2024-07-10 21:49:50.956 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 02:51:33/07-11 02:50:11(-3) fakelogged DEBUG in 🤯: [2024-07-10 21:50:14.354 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 02:56:48/07-11 02:55:34(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:55:35.788 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 02:56:48/07-11 02:55:36(-2) fakelogged DEBUG in 🤯: [2024-07-10 21:55:38.716 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 02:57:16/07-11 02:56:09(-3) fakelogged DEBUG in 🤯: [2024-07-10 21:56:12.917 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 02:57:36/07-11 02:56:23(-3) fakelogged DEBUG in 🤯: [2024-07-10 21:56:26.805 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 02:57:38/07-11 02:56:29(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:56:30.726 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 02:57:47/07-11 02:56:40(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:56:41.797 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 02:58:13/07-11 02:56:44(-1) fakelogged DEBUG in 🤯: [2024-07-10 21:56:45.521 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 02:58:23/07-11 02:56:56(-3) logged CONNECTING in 🤣: [2024-07-10 21:56:59.663 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589999263479066 Join GUID: 4baf8bef-dcbd-4090-8b84-b984dda2ed46 Character Slot: 0 Language: English
+[DEBUG](staffLog) 02:58:25/07-11 02:57:06(-2) logged VANISH in vanish: [2024-07-10 21:57:08.429 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 02:58:33/07-11 02:57:24(-1) logged MSG in 🌹: [2024-07-10 21:57:25.011 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg vortex yo
+[DEBUG](staffLog) 02:59:26/07-11 02:58:10(-2) fakelogged DEBUG in 🤯: [2024-07-10 21:58:12.816 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 02:59:38/07-11 02:58:23(-1) logged MSG in 🌹: [2024-07-10 21:58:24.811 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg vortex yo
+[DEBUG](staffLog) 02:59:38/07-11 02:58:27(-3) logged MSG in 🌹: [2024-07-10 21:58:30.160 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg vortex hii??
+[DEBUG](staffLog) 03:00:02/07-11 02:58:55(-2) logged MSG in 🌹: [2024-07-10 21:58:57.090 UTC] [Info] [Main] [Command] JackyWacky [JackyWacky]: /pm matu u have t5000?
+[DEBUG](staffLog) 03:00:08/07-11 02:59:02(-3) fakelogged DEBUG in 🤯: [2024-07-10 21:59:05.614 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 03:02:29/07-11 03:01:15(-2) logged MSG in 🌹: [2024-07-10 22:01:17.821 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg kel0 yo where ru
+[DEBUG](staffLog) 03:02:29/07-11 03:01:19(-2) logged MSG in 🌹: [2024-07-10 22:01:21.152 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg kelo i can buy
+[DEBUG](staffLog) 03:02:38/07-11 03:01:26(-1) logged MSG in 🌹: [2024-07-10 22:01:27.172 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg kelo i can help
+[DEBUG](staffLog) 03:02:39/07-11 03:01:29(-2) logged MSG in 🌹: [2024-07-10 22:01:31.178 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg kel0 i can help
+[DEBUG](staffLog) 03:02:49/07-11 03:01:40(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:01:43.772 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 03:03:44/07-11 03:02:36(-2) logged MSG in 🌹: [2024-07-10 22:02:38.106 UTC] [Info] [Main] [Command] JackyWacky [JackyWacky]: /pm l9 how much ledx
+[DEBUG](staffLog) 03:04:12/07-11 03:02:50(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:02:53.387 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mc
+[DEBUG](staffLog) 03:04:58/07-11 03:03:49(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:03:50.060 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 03:05:04/07-11 03:03:54(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:03:56.701 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 03:05:04/07-11 03:03:57(-3) logged MSG in 🌹: [2024-07-10 22:04:00.716 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg harm yo can i buy a kit from  u?
+[DEBUG](staffLog) 03:05:53/07-11 03:04:13(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:04:15.876 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:05:54/07-11 03:04:19(-3) logged MSG in 🌹: [2024-07-10 22:04:22.613 UTC] [Info] [Main] [Command] Harm [Harm]: /pm jaquavius i dont sell em sry
+[DEBUG](staffLog) 03:05:54/07-11 03:04:28(-1) logged MSG in 🌹: [2024-07-10 22:04:29.840 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg harm pls i have none at all
+[DEBUG](staffLog) 03:06:04/07-11 03:04:39(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:04:42.264 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:06:05/07-11 03:04:41(-2) logged MSG in 🌹: [2024-07-10 22:04:43.738 UTC] [Info] [Main] [Command] Jaquavius [Jaquavius]: /msg harm i just need a level 4 vest, helmet and backpack
+[DEBUG](staffLog) 03:06:25/07-11 03:05:01(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:05:03.436 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 03:07:34/07-11 03:05:46(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:05:49.130 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:07:34/07-11 03:05:52(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:05:53.152 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 03:07:35/07-11 03:05:57(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:06:00.137 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:09:07/07-11 03:07:53(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:07:56.216 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:09:31/07-11 03:08:24(-2) logged CHAT in 🥶: [2024-07-10 22:08:26.372 UTC] [Info] [Main] [Global] drakos [Andre]: dropping a Free T4 Kit in Cafeteria + 3 Labs Access Cards
+[DEBUG](staffLog) 03:10:15/07-11 03:09:00(-2) logged CHAT in 🥶: [2024-07-10 22:09:02.398 UTC] [Info] [Main] [Global] drakos [Andre]: Dropping the T4 Kit, Labs access + kitted out gun
+[DEBUG](staffLog) 03:10:15/07-11 03:09:03(-3) logged CHAT in 🥶: [2024-07-10 22:09:06.378 UTC] [Info] [Main] [Global] drakos [Andre]: 10 seconds
+[DEBUG](staffLog) 03:10:22/07-11 03:09:07(-1) logged CHAT in 🥶: [2024-07-10 22:09:08.231 UTC] [Info] [Main] [Global] drakos [Andre]: Cafeteria
+[DEBUG](staffLog) 03:10:22/07-11 03:09:11(-2) logged DEBUG in debug-logs: [2024-07-10 22:09:13.511 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /staff
+[DEBUG](staffLog) 03:10:54/07-11 03:09:42(-2) logged DEBUG in debug-logs: [2024-07-10 22:09:44.240 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:10:55/07-11 03:09:42(-3) logged DEBUG in debug-logs: [2024-07-10 22:09:45.942 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:11:06/07-11 03:09:49(-2) logged CHAT in 🥶: [2024-07-10 22:09:51.387 UTC] [Info] [Main] [Global] drakos [Andre]: wym
+[DEBUG](staffLog) 03:11:06/07-11 03:09:51(-1) logged DEBUG in debug-logs: [2024-07-10 22:09:52.439 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:11:06/07-11 03:09:51(-2) logged VANISH in vanish: [2024-07-10 22:09:53.737 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 03:11:07/07-11 03:09:54(-1) logged TP in tp: [2024-07-10 22:09:55.165 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to sleep deprived (76561199230819117 at West of event (321.3138 37.84145 -1179.597) from North West of Range (362.3889 66.56231 2568.099)
+[DEBUG](staffLog) 03:11:07/07-11 03:09:57(-1) logged TP in tp: [2024-07-10 22:09:58.466 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to sleep deprived (76561199230819117 at West of event (321.3138 37.84145 -1179.597) from North West of Labs (102.3646 36.9147 -1534.043)
+[DEBUG](staffLog) 03:11:13/07-11 03:10:08(-3) logged DEBUG in debug-logs: [2024-07-10 22:10:11.015 UTC] [Info] [Main] [Command] drakos [Andre]: /bunker
+[DEBUG](staffLog) 03:11:19/07-11 03:10:09(-3) logged DEBUG in debug-logs: [2024-07-10 22:10:12.093 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:11:27/07-11 03:10:18(-2) logged CHAT in 🥶: [2024-07-10 22:10:20.028 UTC] [Info] [Main] [Global] drakos [Andre]: i cant tkae you out of key room
+[DEBUG](staffLog) 03:11:28/07-11 03:10:22(-1) logged CHAT in 🥶: [2024-07-10 22:10:23.286 UTC] [Info] [Main] [Global] drakos [Andre]: sorry
+[DEBUG](staffLog) 03:11:59/07-11 03:10:51(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:10:53.135 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 03:12:19/07-11 03:11:03(-1) logged SC in _: [2024-07-10 22:11:04.886 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc Drako go on duty and tp to me
+[DEBUG](staffLog) 03:12:19/07-11 03:11:08(-2) logged DEBUG in debug-logs: [2024-07-10 22:11:10.824 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:12:28/07-11 03:11:15(-2) logged TP in tp: [2024-07-10 22:11:17.975 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to Alastor (76561198397021503 at West of event (322.4458 37.84145 -1200.463) from South East of gorge (2962.673 0.3000088 159.5641)
+[DEBUG](staffLog) 03:12:28/07-11 03:11:18(-2) logged TP in tp: [2024-07-10 22:11:20.225 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to Alastor (76561198397021503 at West of event (323.6932 37.84145 -1198.744) from North West of Labs (-27.94531 78.3311 -1033.648)
+[DEBUG](staffLog) 03:14:46/07-11 03:13:38(-3) logged DEBUG in debug-logs: [2024-07-10 22:13:41.855 UTC] [Info] [Main] [Command] drakos [Andre]: /bunker
+[DEBUG](staffLog) 03:14:54/07-11 03:13:41(-2) logged DEBUG in debug-logs: [2024-07-10 22:13:43.756 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:15:37/07-11 03:14:26(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:14:29.199 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 03:15:47/07-11 03:14:32(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:14:34.132 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 03:16:17/07-11 03:15:06(-3) logged DEBUG in debug-logs: [2024-07-10 22:15:09.776 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:16:17/07-11 03:15:10(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:15:11.121 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 03:16:24/07-11 03:15:17(-3) logged DEBUG in debug-logs: [2024-07-10 22:15:20.008 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 03:16:43/07-11 03:15:36(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:15:38.854 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 03:17:14/07-11 03:16:01(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:16:03.232 UTC] [Info] [Main] [Command] drakos [Andre]: /stuck
+[DEBUG](staffLog) 03:17:15/07-11 03:16:06(-1) logged VANISH in vanish: [2024-07-10 22:16:07.122 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 03:17:46/07-11 03:16:41(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:16:42.819 UTC] [Info] [Main] [Command] drakos [Andre]: /doortp
+[DEBUG](staffLog) 03:17:54/07-11 03:16:44(-2) logged CHAT in 🥶: [2024-07-10 22:16:46.351 UTC] [Info] [Main] [Global] drakos [Andre]: yo
+[DEBUG](staffLog) 03:18:11/07-11 03:16:52(-3) logged CHAT in 🥶: [2024-07-10 22:16:55.054 UTC] [Info] [Main] [Global] drakos [Andre]: WRALLY/
+[DEBUG](staffLog) 03:18:11/07-11 03:16:55(-1) logged CHAT in 🥶: [2024-07-10 22:16:56.903 UTC] [Info] [Main] [Global] drakos [Andre]: REALLY?
+[DEBUG](staffLog) 03:18:11/07-11 03:16:58(-1) logged CHAT in 🥶: [2024-07-10 22:16:59.151 UTC] [Info] [Main] [Global] drakos [Andre]: VC RN
+[DEBUG](staffLog) 03:18:12/07-11 03:16:59(-3) logged CHAT in 🥶: [2024-07-10 22:17:02.824 UTC] [Info] [Main] [Global] drakos [Andre]: icked vc
+[DEBUG](staffLog) 03:18:17/07-11 03:17:13(-3) logged CHAT in 🥶: [2024-07-10 22:17:16.019 UTC] [Info] [Main] [Global] drakos [Andre]: Ill take it
+[DEBUG](staffLog) 03:18:36/07-11 03:17:22(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:17:24.056 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:18:36/07-11 03:17:23(-1) logged CHAT in 🥶: [2024-07-10 22:17:24.709 UTC] [Info] [Main] [Global] drakos [Andre]: join the panda hut vc
+[DEBUG](staffLog) 03:18:38/07-11 03:17:26(-2) logged CHAT in 🥶: [2024-07-10 22:17:28.515 UTC] [Info] [Main] [Global] drakos [Andre]: and add my steam code
+[DEBUG](staffLog) 03:18:38/07-11 03:17:27(-3) logged CHAT in 🥶: [2024-07-10 22:17:30.117 UTC] [Info] [Main] [Global] drakos [Andre]: ima send it
+[DEBUG](staffLog) 03:19:16/07-11 03:18:10(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:18:11.227 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 03:19:50/07-11 03:18:39(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:18:42.080 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 03:19:56/07-11 03:18:44(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:18:47.490 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 03:19:56/07-11 03:18:47(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:18:50.710 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:20:08/07-11 03:18:57(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:18:58.459 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault satsh
+[DEBUG](staffLog) 03:20:08/07-11 03:18:59(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:19:00.950 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash
+[DEBUG](staffLog) 03:20:27/07-11 03:19:14(-1) fakelogged DEBUG in 🤯 mentioned 846641395581190155: [2024-07-10 22:19:15.013 UTC] [Info] [Main] [Command] JackyWacky [JackyWacky]: /buyfrom 76561198884479492 43000
+[DEBUG](staffLog) 03:20:27/07-11 03:19:14(-3) logged CHAT in 🥶: [2024-07-10 22:19:17.207 UTC] [Info] [Main] [Global] drakos [Andre]: HMM?
+[DEBUG](staffLog) 03:20:28/07-11 03:19:15(-3) logged CHAT in 🥶: [2024-07-10 22:19:18.941 UTC] [Info] [Main] [Global] drakos [Andre]: hm?
+[DEBUG](staffLog) 03:20:28/07-11 03:19:17(-2) fakelogged DEBUG in 🤯: [2024-07-10 22:19:19.117 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 03:20:47/07-11 03:19:32(-1) logged CHAT in 🥶: [2024-07-10 22:19:33.272 UTC] [Info] [Main] [Global] drakos [Andre]: idk
+[DEBUG](staffLog) 03:20:47/07-11 03:19:35(-3) logged CHAT in 🥶: [2024-07-10 22:19:38.089 UTC] [Info] [Main] [Global] drakos [Andre]: icked, im in general 1
+[DEBUG](staffLog) 03:20:57/07-11 03:19:51(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:19:52.525 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 03:21:16/07-11 03:20:05(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:20:06.328 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 03:21:39/07-11 03:20:26(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:20:27.907 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 03:21:41/07-11 03:20:26(-2) logged CONNECTING in 🤣: [2024-07-10 22:20:28.299 UTC] [Info] [Main] Connecting: PlayerID: 76561199531161985 Steam Name: Andre Character name: drakos Nick: Supremacy Group: 112589999263478627 Join GUID: bf1fe68a-bb02-4c56-9943-c39607e77e8c Character Slot: 0 Language: English
+[DEBUG](staffLog) 03:23:06/07-11 03:21:59(-3) fakelogged DEBUG in 🤯: [2024-07-10 22:22:02.317 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 03:23:54/07-11 03:22:44(-1) fakelogged DEBUG in 🤯: [2024-07-10 22:22:45.071 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 03:23:55/07-11 03:22:46(-2) logged DEBUG in debug-logs: [2024-07-10 22:22:48.100 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /dortp
+[DEBUG](staffLog) 03:34:56/07-11 03:33:31(-1) logged MSG in 🌹: [2024-07-10 22:33:32.915 UTC] [Info] [Main] [Command] JackyWacky [JackyWacky]: /pm pavel come 11b
+[DEBUG](staffLog) 03:35:29/07-11 03:34:20(-1) logged MSG in 🌹: [2024-07-10 22:34:21.492 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm pavel go 6D
+[DEBUG](staffLog) 03:35:35/07-11 03:34:24(-3) logged MSG in 🌹: [2024-07-10 22:34:27.954 UTC] [Info] [Main] [Command] JackyWacky [JackyWacky]: /pm pavel i can buy for u for 1 million
+[DEBUG](staffLog) 03:35:41/07-11 03:34:38(-1) logged MSG in 🌹: [2024-07-10 22:34:39.225 UTC] [Info] [Main] [Command] JackyWacky [JackyWacky]: /pm pavel or go to his
+[DEBUG](staffLog) 03:38:22/07-11 03:37:11(-2) logged MSG in 🌹: [2024-07-10 22:37:13.538 UTC] [Info] [Main] [Command] sophie rain [mbappe]: /msg pain is toma sus?
+[DEBUG](staffLog) 03:38:33/07-11 03:37:23(-1) logged MSG in 🌹: [2024-07-10 22:37:24.826 UTC] [Info] [Main] [Command] sophie rain [mbappe]: /msg pain is toma sus?
+[DEBUG](staffLog) 03:38:33/07-11 03:37:23(-2) logged MSG in 🌹: [2024-07-10 22:37:25.281 UTC] [Info] [Main] [Command] sophie rain [mbappe]: /msg pain is toma sus?

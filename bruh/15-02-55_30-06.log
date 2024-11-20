@@ -1,0 +1,252 @@
+[INFO](retrieveLog) wrote 7.091891MB to latest.log in 1.4884834289550781
+[INFO](staffParse) CAUGHT UP TO LATEST 86
+[DEBUG](staffLog) 19:03:10/06-30 19:02:16(-3) logged DEBUG in 🤯: [2024-06-30 14:02:19.124 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:04:00/06-30 19:03:06(-2) logged DEBUG in 🤯: [2024-06-30 14:03:08.382 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 19:04:00/06-30 19:03:08(-1) logged DEBUG in 🤯: [2024-06-30 14:03:09.660 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:04:10/06-30 19:03:21(-2) logged DEBUG in 🤯: [2024-06-30 14:03:23.134 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 19:04:40/06-30 19:03:47(-3) logged DEBUG in 🤯: [2024-06-30 14:03:50.922 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:05:00/06-30 19:04:13(-2) logged DEBUG in 🤯: [2024-06-30 14:04:15.415 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:06:10/06-30 19:05:20(-2) logged VANISH in vanish: [2024-06-30 14:05:22.979 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /smod
+[DEBUG](staffLog) 19:06:50/06-30 19:06:00(-1) logged DEBUG in 🤯: [2024-06-30 14:06:01.301 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:06:50/06-30 19:06:03(-2) logged DEBUG in 🤯: [2024-06-30 14:06:05.083 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:08:00/06-30 19:07:06(-3) logged DEBUG in 🤯: [2024-06-30 14:07:09.084 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /buyfrom 76561199489978729 43000
+[DEBUG](staffLog) 19:08:30/06-30 19:07:35(-2) logged DEBUG in 🤯: [2024-06-30 14:07:37.368 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 19:08:30/06-30 19:07:35(-3) logged DEBUG in 🤯: [2024-06-30 14:07:38.273 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 19:08:41/06-30 19:07:48(-1) logged DEBUG in 🤯: [2024-06-30 14:07:49.159 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:08:42/06-30 19:07:50(-1) logged DEBUG in 🤯: [2024-06-30 14:07:51.441 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:08:50/06-30 19:08:00(-2) logged DEBUG in 🤯: [2024-06-30 14:08:02.571 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:09:00/06-30 19:08:08(-1) logged DEBUG in 🤯: [2024-06-30 14:08:09.141 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 19:09:00/06-30 19:08:14(-1) logged DEBUG in 🤯: [2024-06-30 14:08:15.608 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:09:20/06-30 19:08:27(-1) logged DEBUG in 🤯: [2024-06-30 14:08:28.380 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /buyfrom 76561199659951670 59373
+[DEBUG](staffLog) 19:09:21/06-30 19:08:29(-3) logged DEBUG in 🤯: [2024-06-30 14:08:32.430 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:09:30/06-30 19:08:38(-2) logged DEBUG in 🤯: [2024-06-30 14:08:40.939 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 19:09:30/06-30 19:08:42(-3) logged DEBUG in 🤯: [2024-06-30 14:08:45.922 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:09:50/06-30 19:08:57(-3) logged DEBUG in 🤯: [2024-06-30 14:09:00.564 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26002
+[DEBUG](staffLog) 19:09:50/06-30 19:09:03(-2) logged DEBUG in 🤯: [2024-06-30 14:09:05.463 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26002
+[DEBUG](staffLog) 19:10:00/06-30 19:09:08(-2) logged DEBUG in 🤯: [2024-06-30 14:09:10.512 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26000
+[DEBUG](staffLog) 19:10:01/06-30 19:09:10(-2) logged DEBUG in 🤯: [2024-06-30 14:09:12.506 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26001
+[DEBUG](staffLog) 19:10:01/06-30 19:09:10(-2) logged DEBUG in 🤯: [2024-06-30 14:09:12.607 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:10:02/06-30 19:09:12(-2) logged DEBUG in 🤯: [2024-06-30 14:09:14.760 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26001
+[DEBUG](staffLog) 19:10:10/06-30 19:09:14(-3) logged DEBUG in debug-logs: [2024-06-30 14:09:17.164 UTC] [Info] [Main] [Command] Godly [Godly]: /pay $yq 3000000
+[DEBUG](staffLog) 19:10:12/06-30 19:09:17(-1) logged DEBUG in 🤯: [2024-06-30 14:09:18.216 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26001
+[DEBUG](staffLog) 19:10:14/06-30 19:09:16(-3) logged DEBUG in 🤯: [2024-06-30 14:09:19.810 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26001
+[DEBUG](staffLog) 19:10:14/06-30 19:09:22(-1) logged DEBUG in 🤯: [2024-06-30 14:09:23.470 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26001
+[DEBUG](staffLog) 19:10:20/06-30 19:09:25(-2) logged DEBUG in 🤯: [2024-06-30 14:09:27.004 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 26001
+[DEBUG](staffLog) 19:10:30/06-30 19:09:41(-1) logged DEBUG in 🤯: [2024-06-30 14:09:42.321 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199207128597 26000
+[DEBUG](staffLog) 19:10:30/06-30 19:09:43(-3) logged DEBUG in 🤯: [2024-06-30 14:09:46.122 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199207128597 26000
+[DEBUG](staffLog) 19:10:40/06-30 19:09:48(-2) logged DEBUG in 🤯: [2024-06-30 14:09:50.022 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199207128597 26000
+[DEBUG](staffLog) 19:10:43/06-30 19:09:50(-3) logged DEBUG in 🤯: [2024-06-30 14:09:53.563 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199207128597 26000
+[DEBUG](staffLog) 19:10:50/06-30 19:09:55(-2) logged DEBUG in 🤯: [2024-06-30 14:09:57.104 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199207128597 26000
+[DEBUG](staffLog) 19:10:50/06-30 19:09:58(-2) logged DEBUG in 🤯: [2024-06-30 14:10:00.733 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199207128597 26001
+[DEBUG](staffLog) 19:11:00/06-30 19:10:06(-2) logged DEBUG in 🤯: [2024-06-30 14:10:08.311 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /stuck
+[DEBUG](staffLog) 19:11:00/06-30 19:10:06(-2) logged DEBUG in 🤯: [2024-06-30 14:10:08.902 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 19:11:00/06-30 19:10:12(-2) logged DEBUG in 🤯: [2024-06-30 14:10:14.281 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:11:10/06-30 19:10:20(-3) logged DEBUG in 🤯: [2024-06-30 14:10:23.103 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 19:11:20/06-30 19:10:29(-1) logged DEBUG in 🤯: [2024-06-30 14:10:30.100 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:11:22/06-30 19:10:31(-1) logged MSG in 🌹: [2024-06-30 14:10:32.013 UTC] [Info] [Main] [Command] IceCream [wAkEuP]: /pm godly u got any gunpowder hawks
+[DEBUG](staffLog) 19:11:30/06-30 19:10:37(-2) logged DEBUG in 🤯: [2024-06-30 14:10:39.521 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:11:40/06-30 19:10:46(-1) logged DEBUG in debug-logs: [2024-06-30 14:10:47.086 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vaut
+[DEBUG](staffLog) 19:11:40/06-30 19:10:45(-3) logged DEBUG in 🤯: [2024-06-30 14:10:48.550 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:11:41/06-30 19:10:53(-1) logged DEBUG in 🤯: [2024-06-30 14:10:54.900 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:11:49/06-30 19:10:54(-2) logged MSG in 🌹: [2024-06-30 14:10:56.084 UTC] [Info] [Main] [Command] Godly [Godly]: /r yes ult a
+[DEBUG](staffLog) 19:11:50/06-30 19:10:55(-2) logged DEBUG in 🤯: [2024-06-30 14:10:57.960 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 19:11:51/06-30 19:11:00(-3) logged DEBUG in 🤯: [2024-06-30 14:11:03.047 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /stuck
+[DEBUG](staffLog) 19:11:54/06-30 19:11:01(-3) logged MSG in 🌹: [2024-06-30 14:11:04.050 UTC] [Info] [Main] [Command] Godly [Godly]: /r nvm im out
+[DEBUG](staffLog) 19:12:05/06-30 19:11:03(-1) logged DEBUG in debug-logs: [2024-06-30 14:11:04.790 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vaults
+[DEBUG](staffLog) 19:12:05/06-30 19:11:04(-2) logged MSG in 🌹: [2024-06-30 14:11:06.864 UTC] [Info] [Main] [Command] IceCream [wAkEuP]: /pm godly it sias ur all out of em
+[DEBUG](staffLog) 19:12:07/06-30 19:11:13(-3) logged DEBUG in 🤯: [2024-06-30 14:11:16.378 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 19:12:08/06-30 19:11:21(-1) logged MSG in 🌹: [2024-06-30 14:11:22.405 UTC] [Info] [Main] [Command] Godly [Godly]: /r ima grind soon almost dont wityh quest
+[DEBUG](staffLog) 19:12:20/06-30 19:11:27(-1) logged DEBUG in 🤯: [2024-06-30 14:11:28.443 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 19:12:30/06-30 19:11:38(-1) logged DEBUG in 🤯: [2024-06-30 14:11:39.425 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:12:30/06-30 19:11:37(-3) logged DEBUG in 🤯: [2024-06-30 14:11:40.920 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:12:40/06-30 19:11:46(-2) logged DEBUG in 🤯: [2024-06-30 14:11:48.774 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 19:12:41/06-30 19:11:52(-3) logged DEBUG in 🤯: [2024-06-30 14:11:55.936 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:13:10/06-30 19:12:15(-2) logged DEBUG in 🤯: [2024-06-30 14:12:17.575 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:13:20/06-30 19:12:24(-3) logged DEBUG in 🤯: [2024-06-30 14:12:27.385 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:13:30/06-30 19:12:34(-3) logged DEBUG in 🤯: [2024-06-30 14:12:37.741 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:13:30/06-30 19:12:37(-2) logged DEBUG in 🤯: [2024-06-30 14:12:39.572 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:13:30/06-30 19:12:43(-2) logged DEBUG in 🤯: [2024-06-30 14:12:45.559 UTC] [Info] [Main] [Command] Godly [Godly]: /vault stash
+[DEBUG](staffLog) 19:13:40/06-30 19:12:47(-3) logged DEBUG in 🤯: [2024-06-30 14:12:50.782 UTC] [Info] [Main] [Command] Godly [Godly]: /vault kappa
+[DEBUG](staffLog) 19:13:40/06-30 19:12:49(-2) logged DEBUG in 🤯: [2024-06-30 14:12:51.822 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 19:14:10/06-30 19:13:24(-1) logged DEBUG in 🤯: [2024-06-30 14:13:25.344 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:14:20/06-30 19:13:29(-2) logged DEBUG in 🤯: [2024-06-30 14:13:31.441 UTC] [Info] [Main] [Command] Godly [Godly]: /vault stash
+[DEBUG](staffLog) 19:14:20/06-30 19:13:29(-3) logged DEBUG in 🤯: [2024-06-30 14:13:32.199 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:14:30/06-30 19:13:41(-2) logged DEBUG in 🤯: [2024-06-30 14:13:43.349 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 19:15:10/06-30 19:14:16(-3) logged DEBUG in 🤯: [2024-06-30 14:14:19.261 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:15:10/06-30 19:14:17(-3) logged DEBUG in 🤯: [2024-06-30 14:14:20.957 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:15:21/06-30 19:14:33(-1) logged DEBUG in 🤯: [2024-06-30 14:14:34.425 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:15:21/06-30 19:14:32(-2) logged DEBUG in 🤯: [2024-06-30 14:14:34.591 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:15:30/06-30 19:14:40(-2) logged DEBUG in 🤯: [2024-06-30 14:14:42.577 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:15:40/06-30 19:14:44(-2) logged DEBUG in 🤯: [2024-06-30 14:14:46.815 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 19:15:40/06-30 19:14:48(-1) logged DEBUG in 🤯: [2024-06-30 14:14:49.650 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:15:40/06-30 19:14:51(-3) logged MSG in 🌹: [2024-06-30 14:14:54.230 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq join my group
+[DEBUG](staffLog) 19:16:00/06-30 19:15:08(-1) logged DEBUG in 🤯: [2024-06-30 14:15:09.758 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:16:20/06-30 19:15:29(-2) logged DEBUG in 🤯: [2024-06-30 14:15:31.052 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55006
+[DEBUG](staffLog) 19:16:20/06-30 19:15:30(-2) logged MSG in 🌹: [2024-06-30 14:15:32.629 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq leave godly's group
+[DEBUG](staffLog) 19:16:20/06-30 19:15:31(-1) logged DEBUG in 🤯: [2024-06-30 14:15:32.714 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55000
+[DEBUG](staffLog) 19:16:20/06-30 19:15:31(-3) logged DEBUG in 🤯: [2024-06-30 14:15:34.161 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:16:21/06-30 19:15:32(-3) logged DEBUG in 🤯: [2024-06-30 14:15:35.377 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:16:30/06-30 19:15:34(-3) logged DEBUG in 🤯: [2024-06-30 14:15:37.801 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55000
+[DEBUG](staffLog) 19:16:30/06-30 19:15:39(-1) logged MSG in 🌹: [2024-06-30 14:15:40.629 UTC] [Info] [Main] [Command] careful [$yq]: /r im doing raids with them uu monkey
+[DEBUG](staffLog) 19:16:30/06-30 19:15:43(-1) logged DEBUG in 🤯: [2024-06-30 14:15:44.204 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55007
+[DEBUG](staffLog) 19:16:30/06-30 19:15:42(-2) logged DEBUG in 🤯: [2024-06-30 14:15:44.597 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault kappa
+[DEBUG](staffLog) 19:16:31/06-30 19:15:42(-3) logged DEBUG in 🤯: [2024-06-30 14:15:45.074 UTC] [Info] [Main] [Command] Godly [Godly]: /mc
+[DEBUG](staffLog) 19:16:31/06-30 19:15:44(-1) logged MSG in 🌹: [2024-06-30 14:15:45.761 UTC] [Info] [Main] [Command] careful [$yq]: /r they wanted to play for my bday
+[DEBUG](staffLog) 19:16:40/06-30 19:15:46(-2) logged DEBUG in 🤯: [2024-06-30 14:15:48.381 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:16:40/06-30 19:15:49(-3) logged DEBUG in 🤯: [2024-06-30 14:15:52.005 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:16:40/06-30 19:15:50(-2) logged DEBUG in 🤯: [2024-06-30 14:15:52.961 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:16:40/06-30 19:15:51(-3) logged DEBUG in 🤯: [2024-06-30 14:15:54.203 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:16:50/06-30 19:15:55(-3) logged MSG in 🌹: [2024-06-30 14:15:58.183 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq im going to kill everyoner of them
+[DEBUG](staffLog) 19:16:50/06-30 19:15:59(-1) logged DEBUG in 🤯: [2024-06-30 14:16:00.959 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:17:00/06-30 19:16:10(-2) logged MSG in 🌹: [2024-06-30 14:16:12.483 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm Godly your taking my duo thats wild
+[DEBUG](staffLog) 19:18:00/06-30 19:17:07(-1) logged DEBUG in 🤯: [2024-06-30 14:17:08.461 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:18:10/06-30 19:17:22(-2) logged DEBUG in 🤯: [2024-06-30 14:17:24.656 UTC] [Info] [Main] [Command] Godly [Godly]: /mc
+[DEBUG](staffLog) 19:18:20/06-30 19:17:29(-2) logged DEBUG in 🤯: [2024-06-30 14:17:31.198 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:18:20/06-30 19:17:31(-1) logged DEBUG in 🤯: [2024-06-30 14:17:32.500 UTC] [Info] [Main] [Command] Godly [Godly]: /mc
+[DEBUG](staffLog) 19:18:20/06-30 19:17:35(-1) logged VANISH in vanish: [2024-06-30 14:17:36.591 UTC] [Info] [Main] [Command] What [yes62844]: /mod
+[DEBUG](staffLog) 19:18:29/06-30 19:17:37(-3) logged DEBUG in 🤯: [2024-06-30 14:17:40.567 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:19:00/06-30 19:18:07(-1) logged DEBUG in 🤯: [2024-06-30 14:18:08.294 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:19:10/06-30 19:18:23(-1) logged DEBUG in 🤯: [2024-06-30 14:18:24.953 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:19:30/06-30 19:18:38(-2) logged DEBUG in debug-logs: [2024-06-30 14:18:40.323 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /nc
+[DEBUG](staffLog) 19:19:30/06-30 19:18:38(-3) logged DEBUG in 🤯: [2024-06-30 14:18:41.722 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:19:30/06-30 19:18:41(-1) logged DEBUG in 🤯: [2024-06-30 14:18:42.758 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:19:40/06-30 19:18:46(-2) logged DEBUG in 🤯: [2024-06-30 14:18:48.074 UTC] [Info] [Main] [Command] Godly [Godly]: /mc
+[DEBUG](staffLog) 19:19:50/06-30 19:19:01(-3) logged DEBUG in 🤯: [2024-06-30 14:19:04.418 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:20:00/06-30 19:19:11(-2) logged DEBUG in 🤯: [2024-06-30 14:19:13.486 UTC] [Info] [Main] [Command] Godly [Godly]: /mc
+[DEBUG](staffLog) 19:21:20/06-30 19:20:25(-2) logged DEBUG in 🤯: [2024-06-30 14:20:27.314 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:21:20/06-30 19:20:24(-3) logged MSG in 🌹: [2024-06-30 14:20:27.975 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm obi i kllled vortex
+[DEBUG](staffLog) 19:21:20/06-30 19:20:31(-3) logged DEBUG in 🤯: [2024-06-30 14:20:34.859 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:21:30/06-30 19:20:36(-3) logged DEBUG in 🤯: [2024-06-30 14:20:39.750 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:21:40/06-30 19:20:49(-2) logged DEBUG in 🤯: [2024-06-30 14:20:51.376 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:21:41/06-30 19:20:51(-3) logged DEBUG in 🤯: [2024-06-30 14:20:54.391 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /trash
+[DEBUG](staffLog) 19:21:50/06-30 19:20:59(-2) logged DEBUG in 🤯: [2024-06-30 14:21:01.462 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault satsh+
+[DEBUG](staffLog) 19:22:00/06-30 19:21:05(-2) logged DEBUG in 🤯: [2024-06-30 14:21:07.001 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:22:00/06-30 19:21:13(-2) logged DEBUG in 🤯: [2024-06-30 14:21:15.700 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:22:10/06-30 19:21:23(-1) logged DEBUG in 🤯: [2024-06-30 14:21:24.148 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 19:22:20/06-30 19:21:25(-3) logged DEBUG in 🤯: [2024-06-30 14:21:28.761 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:22:20/06-30 19:21:32(-1) logged DEBUG in debug-logs: [2024-06-30 14:21:33.683 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doort[
+[DEBUG](staffLog) 19:22:20/06-30 19:21:34(-1) logged DEBUG in 🤯: [2024-06-30 14:21:35.690 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 19:22:30/06-30 19:21:34(-2) logged MSG in 🌹: [2024-06-30 14:21:36.780 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq ok so when do we actually start duoing
+[DEBUG](staffLog) 19:22:40/06-30 19:21:52(-2) logged DEBUG in 🤯: [2024-06-30 14:21:54.824 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55014
+[DEBUG](staffLog) 19:22:50/06-30 19:21:55(-3) logged DEBUG in 🤯: [2024-06-30 14:21:58.340 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55014
+[DEBUG](staffLog) 19:22:50/06-30 19:21:59(-1) logged DEBUG in 🤯: [2024-06-30 14:22:00.878 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:22:50/06-30 19:22:01(-3) logged DEBUG in 🤯: [2024-06-30 14:22:04.083 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault gamma
+[DEBUG](staffLog) 19:23:00/06-30 19:22:06(-2) logged DEBUG in debug-logs: [2024-06-30 14:22:08.467 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vaiult kappa
+[DEBUG](staffLog) 19:23:00/06-30 19:22:07(-2) logged MSG in 🌹: [2024-06-30 14:22:09.122 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm godly you stole my duo
+[DEBUG](staffLog) 19:23:00/06-30 19:22:08(-3) logged DEBUG in 🤯: [2024-06-30 14:22:11.265 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault kappa
+[DEBUG](staffLog) 19:23:00/06-30 19:22:12(-3) logged DEBUG in 🤯: [2024-06-30 14:22:15.389 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:23:10/06-30 19:22:17(-1) logged DEBUG in 🤯: [2024-06-30 14:22:18.797 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:23:10/06-30 19:22:22(-2) logged DEBUG in 🤯: [2024-06-30 14:22:24.283 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:23:20/06-30 19:22:25(-2) logged DEBUG in 🤯: [2024-06-30 14:22:27.041 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:23:20/06-30 19:22:25(-2) logged DEBUG in 🤯: [2024-06-30 14:22:27.603 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:23:30/06-30 19:22:40(-2) logged MSG in 🌹: [2024-06-30 14:22:42.104 UTC] [Info] [Main] [Command] Godly [Godly]: /r i didnt
+[DEBUG](staffLog) 19:23:40/06-30 19:22:47(-2) logged MSG in 🌹: [2024-06-30 14:22:49.129 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm godly you did
+[DEBUG](staffLog) 19:23:40/06-30 19:22:48(-1) logged DEBUG in 🤯: [2024-06-30 14:22:49.967 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 19:23:50/06-30 19:22:59(-2) logged MSG in 🌹: [2024-06-30 14:23:01.589 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm godly who's team is he in rn
+[DEBUG](staffLog) 19:23:50/06-30 19:23:00(-1) logged MSG in 🌹: [2024-06-30 14:23:01.737 UTC] [Info] [Main] [Command] Godly [Godly]: /r how?
+[DEBUG](staffLog) 19:23:50/06-30 19:23:04(-1) logged DEBUG in debug-logs: [2024-06-30 14:23:05.557 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /pay careful 60000
+[DEBUG](staffLog) 19:24:00/06-30 19:23:10(-2) logged MSG in 🌹: [2024-06-30 14:23:12.314 UTC] [Info] [Main] [Command] Godly [Godly]: /r who want on when he was
+[DEBUG](staffLog) 19:24:10/06-30 19:23:23(-1) logged MSG in 🌹: [2024-06-30 14:23:24.695 UTC] [Info] [Main] [Command] Godly [Godly]: /r wasnt*
+[DEBUG](staffLog) 19:24:20/06-30 19:23:27(-2) logged MSG in 🌹: [2024-06-30 14:23:29.943 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm godly he saids you guys wanted to play with him for his birthday
+[DEBUG](staffLog) 19:24:50/06-30 19:23:57(-3) logged SC in _: [2024-06-30 14:24:00.157 UTC] [Info] [Main] [Command] What [yes62844]: /sc cant u just spawn it ;(
+[DEBUG](staffLog) 19:24:50/06-30 19:24:02(-1) logged DEBUG in 🤯: [2024-06-30 14:24:03.856 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:25:00/06-30 19:24:06(-3) logged SC in _: [2024-06-30 14:24:09.135 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc n one got mcx
+[DEBUG](staffLog) 19:25:00/06-30 19:24:10(-1) logged SC in _: [2024-06-30 14:24:11.273 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc no one
+[DEBUG](staffLog) 19:25:00/06-30 19:24:14(-2) logged SC in _: [2024-06-30 14:24:16.000 UTC] [Info] [Main] [Command] What [yes62844]: /sc bucket does
+[DEBUG](staffLog) 19:25:10/06-30 19:24:15(-2) logged SC in _: [2024-06-30 14:24:17.089 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc fr?
+[DEBUG](staffLog) 19:25:10/06-30 19:24:21(-2) logged SC in _: [2024-06-30 14:24:23.428 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc i had one but i sold it
+[DEBUG](staffLog) 19:25:10/06-30 19:24:23(-1) logged SC in _: [2024-06-30 14:24:24.071 UTC] [Info] [Main] [Command] What [yes62844]: /sc my teamate does
+[DEBUG](staffLog) 19:25:10/06-30 19:24:23(-1) logged SC in _: [2024-06-30 14:24:24.923 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc well
+[DEBUG](staffLog) 19:25:20/06-30 19:24:25(-3) logged SC in _: [2024-06-30 14:24:28.729 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc some one
+[DEBUG](staffLog) 19:25:20/06-30 19:24:30(-2) logged SC in _: [2024-06-30 14:24:32.353 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc is buidng that shit
+[DEBUG](staffLog) 19:25:20/06-30 19:24:31(-3) logged SC in _: [2024-06-30 14:24:34.508 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc for 3m
+[DEBUG](staffLog) 19:25:20/06-30 19:24:32(-3) logged MSG in 🌹: [2024-06-30 14:24:35.479 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq so godly said you joined him because i wasn't on when you joined so which one of you is telling the truth
+[DEBUG](staffLog) 19:25:40/06-30 19:24:45(-3) logged MSG in 🌹: [2024-06-30 14:24:48.625 UTC] [Info] [Main] [Command] careful [$yq]: /r both of them r true
+[DEBUG](staffLog) 19:25:50/06-30 19:25:00(-1) logged SC in _: [2024-06-30 14:25:01.482 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc i been
+[DEBUG](staffLog) 19:26:00/06-30 19:25:05(-2) logged SC in _: [2024-06-30 14:25:07.723 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc sitting in server 30
+[DEBUG](staffLog) 19:26:00/06-30 19:25:08(-1) logged SC in _: [2024-06-30 14:25:09.028 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc st
+[DEBUG](staffLog) 19:26:00/06-30 19:25:07(-3) logged MSG in 🌹: [2024-06-30 14:25:10.114 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq ok so when are we actually starting the duo
+[DEBUG](staffLog) 19:26:00/06-30 19:25:10(-1) logged SC in _: [2024-06-30 14:25:11.398 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc for like
+[DEBUG](staffLog) 19:26:01/06-30 19:25:11(-2) logged SC in _: [2024-06-30 14:25:13.687 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc 2 hour
+[DEBUG](staffLog) 19:26:10/06-30 19:25:14(-2) logged SC in _: [2024-06-30 14:25:16.762 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc and no mcx
+[DEBUG](staffLog) 19:26:30/06-30 19:25:40(-1) logged DEBUG in 🤯: [2024-06-30 14:25:41.186 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:26:40/06-30 19:25:51(-3) logged DEBUG in 🤯: [2024-06-30 14:25:54.256 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 19:27:40/06-30 19:26:53(-2) logged DEBUG in 🤯: [2024-06-30 14:26:55.361 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:27:50/06-30 19:26:56(-2) logged DEBUG in 🤯: [2024-06-30 14:26:58.351 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 19:28:30/06-30 19:27:36(-3) logged MSG in 🌹: [2024-06-30 14:27:39.569 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm godly inv me to the group
+[DEBUG](staffLog) 19:28:50/06-30 19:28:00(-1) logged DEBUG in 🤯: [2024-06-30 14:28:01.512 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:28:50/06-30 19:28:03(-1) logged MSG in 🌹: [2024-06-30 14:28:04.688 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq im goign to whoop you
+[DEBUG](staffLog) 19:29:30/06-30 19:28:37(-1) logged DEBUG in 🤯: [2024-06-30 14:28:38.808 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:29:41/06-30 19:28:52(-3) logged MSG in 🌹: [2024-06-30 14:28:55.957 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq im going to slap the shit out of godly
+[DEBUG](staffLog) 19:30:10/06-30 19:29:20(-2) logged MSG in 🌹: [2024-06-30 14:29:22.641 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq go 3a
+[DEBUG](staffLog) 19:30:30/06-30 19:29:44(-1) logged MSG in 🌹: [2024-06-30 14:29:45.463 UTC] [Info] [Main] [Command] Luna [Alyssa]: /pm $yq open the door
+[DEBUG](staffLog) 19:32:30/06-30 19:31:44(-1) logged DEBUG in 🤯: [2024-06-30 14:31:45.369 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:33:00/06-30 19:32:06(-2) logged DEBUG in 🤯: [2024-06-30 14:32:08.797 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /trash
+[DEBUG](staffLog) 19:33:00/06-30 19:32:12(-3) logged DEBUG in 🤯: [2024-06-30 14:32:15.219 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /trash
+[DEBUG](staffLog) 19:34:00/06-30 19:33:06(-2) logged DEBUG in 🤯: [2024-06-30 14:33:08.622 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:34:10/06-30 19:33:21(-2) logged DEBUG in 🤯: [2024-06-30 14:33:23.424 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 19:34:40/06-30 19:33:49(-3) logged SC in _: [2024-06-30 14:33:52.721 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc vortex
+[DEBUG](staffLog) 19:34:40/06-30 19:33:54(-1) logged SC in _: [2024-06-30 14:33:55.321 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc uyou got
+[DEBUG](staffLog) 19:34:50/06-30 19:33:53(-3) logged SC in _: [2024-06-30 14:33:56.800 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /sc akm
+[DEBUG](staffLog) 19:34:50/06-30 19:33:58(-3) logged SC in _: [2024-06-30 14:34:01.937 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc no
+[DEBUG](staffLog) 19:35:00/06-30 19:34:05(-2) logged MSG in 🌹: [2024-06-30 14:34:07.343 UTC] [Info] [Main] [Command] Luna [Alyssa]: /PM $yq when we get in our own group we are living together
+[DEBUG](staffLog) 19:35:00/06-30 19:34:06(-1) logged SC in _: [2024-06-30 14:34:07.573 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc i said im buying it
+[DEBUG](staffLog) 19:35:20/06-30 19:34:33(-2) logged DEBUG in 🤯: [2024-06-30 14:34:35.290 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:35:30/06-30 19:34:38(-3) logged DEBUG in 🤯: [2024-06-30 14:34:41.302 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:35:40/06-30 19:34:45(-3) logged DEBUG in 🤯: [2024-06-30 14:34:48.382 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:35:40/06-30 19:34:51(-3) logged DEBUG in 🤯: [2024-06-30 14:34:54.001 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /mc
+[DEBUG](staffLog) 19:35:40/06-30 19:34:53(-2) logged DEBUG in 🤯: [2024-06-30 14:34:55.169 UTC] [Info] [Main] [Command] What [yes62844]: /vault kappa
+[DEBUG](staffLog) 19:35:40/06-30 19:34:54(-1) logged DEBUG in 🤯: [2024-06-30 14:34:55.385 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault gamma
+[DEBUG](staffLog) 19:36:00/06-30 19:35:05(-1) logged DEBUG in 🤯: [2024-06-30 14:35:06.822 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:36:10/06-30 19:35:19(-3) logged DEBUG in 🤯: [2024-06-30 14:35:22.251 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 19:36:20/06-30 19:35:25(-2) logged DEBUG in 🤯: [2024-06-30 14:35:27.862 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 19:36:20/06-30 19:35:31(-1) logged DEBUG in 🤯: [2024-06-30 14:35:32.354 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash]
+[DEBUG](staffLog) 19:36:20/06-30 19:35:33(-2) logged DEBUG in 🤯: [2024-06-30 14:35:35.945 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 19:36:40/06-30 19:35:51(-3) logged DEBUG in 🤯: [2024-06-30 14:35:54.495 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault kappa
+[DEBUG](staffLog) 19:36:50/06-30 19:35:58(-2) logged DEBUG in 🤯: [2024-06-30 14:36:00.862 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 19:37:20/06-30 19:36:26(-2) logged DEBUG in 🤯: [2024-06-30 14:36:28.402 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:37:20/06-30 19:36:30(-1) logged DEBUG in 🤯: [2024-06-30 14:36:31.862 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault kappa
+[DEBUG](staffLog) 19:37:20/06-30 19:36:33(-3) logged DEBUG in 🤯: [2024-06-30 14:36:36.503 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:37:30/06-30 19:36:36(-1) logged DEBUG in 🤯: [2024-06-30 14:36:37.709 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault stash
+[DEBUG](staffLog) 19:37:30/06-30 19:36:45(-1) logged DEBUG in 🤯: [2024-06-30 14:36:46.062 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:37:40/06-30 19:36:49(-3) logged DEBUG in 🤯: [2024-06-30 14:36:52.587 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 19:37:50/06-30 19:36:58(-2) logged DEBUG in 🤯: [2024-06-30 14:37:00.160 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault gamma
+[DEBUG](staffLog) 19:37:50/06-30 19:36:58(-3) logged MSG in 🌹: [2024-06-30 14:37:01.942 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r stacy
+[DEBUG](staffLog) 19:37:50/06-30 19:37:00(-2) logged DEBUG in 🤯: [2024-06-30 14:37:02.829 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:37:50/06-30 19:37:00(-3) logged DEBUG in 🤯: [2024-06-30 14:37:03.439 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault kappa
+[DEBUG](staffLog) 19:37:51/06-30 19:37:01(-3) logged MSG in 🌹: [2024-06-30 14:37:04.739 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r ye
+[DEBUG](staffLog) 19:37:51/06-30 19:37:02(-3) logged MSG in 🌹: [2024-06-30 14:37:05.217 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r come back
+[DEBUG](staffLog) 19:38:00/06-30 19:37:09(-2) logged MSG in 🌹: [2024-06-30 14:37:11.171 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r to?
+[DEBUG](staffLog) 19:38:00/06-30 19:37:09(-3) logged DEBUG in 🤯: [2024-06-30 14:37:12.476 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 19:38:00/06-30 19:37:12(-2) logged MSG in 🌹: [2024-06-30 14:37:14.101 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r i need to steal a cordura from u
+[DEBUG](staffLog) 19:38:20/06-30 19:37:29(-2) logged DEBUG in 🤯: [2024-06-30 14:37:31.183 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:38:20/06-30 19:37:28(-3) logged DEBUG in 🤯: [2024-06-30 14:37:31.866 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:38:20/06-30 19:37:32(-1) logged DEBUG in 🤯: [2024-06-30 14:37:33.492 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:38:30/06-30 19:37:36(-1) logged MSG in 🌹: [2024-06-30 14:37:37.255 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r what color
+[DEBUG](staffLog) 19:38:30/06-30 19:37:42(-1) logged MSG in 🌹: [2024-06-30 14:37:43.994 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r shit brown
+[DEBUG](staffLog) 19:38:40/06-30 19:37:49(-1) logged MSG in 🌹: [2024-06-30 14:37:50.070 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r come stuck
+[DEBUG](staffLog) 19:38:40/06-30 19:37:48(-3) logged DEBUG in 🤯: [2024-06-30 14:37:51.450 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:38:40/06-30 19:37:52(-2) logged MSG in 🌹: [2024-06-30 14:37:54.889 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r i was outside ur door
+[DEBUG](staffLog) 19:38:40/06-30 19:37:53(-2) logged MSG in 🌹: [2024-06-30 14:37:55.875 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r you got a akm
+[DEBUG](staffLog) 19:38:50/06-30 19:37:58(-2) logged MSG in 🌹: [2024-06-30 14:38:00.389 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r na
+[DEBUG](staffLog) 19:38:50/06-30 19:37:59(-3) logged MSG in 🌹: [2024-06-30 14:38:02.438 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r stuck
+[DEBUG](staffLog) 19:39:00/06-30 19:38:04(-3) logged MSG in 🌹: [2024-06-30 14:38:07.493 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r 1 sec
+[DEBUG](staffLog) 19:39:30/06-30 19:38:33(-3) logged DEBUG in 🤯: [2024-06-30 14:38:36.848 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:39:30/06-30 19:38:40(-2) logged MSG in 🌹: [2024-06-30 14:38:42.649 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r bless
+[DEBUG](staffLog) 19:39:30/06-30 19:38:43(-2) logged MSG in 🌹: [2024-06-30 14:38:45.460 UTC] [Info] [Main] [Command] Vampie B. [Superior Vampie]: /r no akm sorry
+[DEBUG](staffLog) 19:39:40/06-30 19:38:46(-3) logged MSG in 🌹: [2024-06-30 14:38:49.063 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /r kk
+[DEBUG](staffLog) 19:39:40/06-30 19:38:51(-2) logged DEBUG in 🤯: [2024-06-30 14:38:53.101 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:39:50/06-30 19:38:58(-2) logged DEBUG in 🤯: [2024-06-30 14:39:00.142 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /stuck
+[DEBUG](staffLog) 19:39:50/06-30 19:39:01(-2) logged DEBUG in 🤯: [2024-06-30 14:39:03.910 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:40:30/06-30 19:39:43(-2) logged DEBUG in 🤯: [2024-06-30 14:39:45.991 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /vault
+[DEBUG](staffLog) 19:41:01/06-30 19:40:10(-1) logged DEBUG in 🤯: [2024-06-30 14:40:11.972 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:42:00/06-30 19:40:53(-3) logged DEBUG in 🤯: [2024-06-30 14:40:56.961 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:42:40/06-30 19:41:52(-1) logged DEBUG in 🤯: [2024-06-30 14:41:53.301 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:42:40/06-30 19:41:50(-3) logged MSG in 🌹: [2024-06-30 14:41:53.823 UTC] [Info] [Main] [Command] Bubbles [Bubbles]: /msg v0rtex do u want ur keycard back when im out of labs
+[DEBUG](staffLog) 19:42:40/06-30 19:41:52(-3) logged DEBUG in 🤯: [2024-06-30 14:41:55.533 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 19:43:00/06-30 19:42:07(-1) logged MSG in 🌹: [2024-06-30 14:42:08.535 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /r nah keep it, its my mistake for bringing it out too early :P
+[DEBUG](staffLog) 19:43:00/06-30 19:42:10(-2) logged DEBUG in 🤯: [2024-06-30 14:42:12.918 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 19:43:10/06-30 19:42:18(-3) logged DEBUG in 🤯: [2024-06-30 14:42:21.382 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 19:43:10/06-30 19:42:18(-3) logged MSG in 🌹: [2024-06-30 14:42:21.914 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /r i was more just in there for the adreniline for the quest
+[DEBUG](staffLog) 19:43:20/06-30 19:42:29(-1) logged DEBUG in 🤯: [2024-06-30 14:42:30.667 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 19:43:20/06-30 19:42:31(-3) logged MSG in 🌹: [2024-06-30 14:42:34.781 UTC] [Info] [Main] [Command] Bubbles [Bubbles]: /msg v0rtex oh that things a pain i did it yesterday

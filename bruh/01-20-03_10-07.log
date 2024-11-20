@@ -1,0 +1,11 @@
+[INFO](retrieveLog) wrote 111.823708MB to latest.log in 3.9710686206817627
+[INFO](staffParse) CAUGHT UP TO LATEST 134
+[DEBUG](staffLog) 05:20:26/07-10 05:19:19(-1) logged DEBUG in debug-logs: [2024-07-10 00:19:20.064 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanosh
+[DEBUG](staffLog) 05:20:27/07-10 05:19:18(-3) logged VANISH in vanish: [2024-07-10 00:19:21.993 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 05:20:27/07-10 05:19:24(-2) logged DEBUG in debug-logs: [2024-07-10 00:19:26.477 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[INFO](monitor) succesfully monitoring 76561199734256436 for user 837703090345214022
+[INFO](monitor) succesfully monitoring 76561199732713785 for user 1218944589994659850
+[INFO](monitor) succesfully monitoring 76561199229177989 for user 709547527334002829
+[INFO](monitor) succesfully monitoring 76561198884479492 for user 846641395581190155
+[INFO](listMonitors) succesfully listed 4 monitors for user resetdev
+[DEBUG](staffLog) 05:22:59/07-10 05:21:51(-3) logged DEBUG in debug-logs: [2024-07-10 00:21:54.804 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /exit

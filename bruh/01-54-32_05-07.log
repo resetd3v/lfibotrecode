@@ -1,0 +1,4 @@
+[INFO](retrieveLog) wrote 18.776327MB to latest.log in 1.6939427852630615
+[INFO](staffParse) CAUGHT UP TO LATEST 112
+[DEBUG](staffLog) 05:55:18/07-05 05:54:20(-3) logged VANISH in vanish: [2024-07-05 00:54:23.231 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 05:55:18/07-05 05:54:23(-1) logged VANISH in vanish: [2024-07-05 00:54:24.916 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish

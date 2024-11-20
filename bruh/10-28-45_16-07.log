@@ -1,0 +1,47 @@
+[INFO](retrieveLog) wrote 0.436971MB to latest.log in 0.6976876258850098
+[INFO](staffParse) CAUGHT UP TO LATEST 139
+[DEBUG](staffLog) 14:45:50/07-16 14:45:39(-3) logged MSG in 🌹: [2024-07-16 09:45:42.333 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm humble ult b
+[DEBUG](staffLog) 14:46:10/07-16 14:46:00(-3) logged MSG in 🌹: [2024-07-16 09:46:03.713 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm humble ult b
+[DEBUG](staffLog) 14:46:30/07-16 14:46:25(-1) logged R in 🌹: [2024-07-16 09:46:26.281 UTC] [Info] [Main] [Command] Humble [Fenix Flexin #Rustypot]: /r its not here
+[DEBUG](staffLog) 14:47:10/07-16 14:47:04(-1) logged MSG in 🌹: [2024-07-16 09:47:05.884 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm humble should be on mailboxes
+[DEBUG](staffLog) 14:48:20/07-16 14:48:09(-2) logged MSG in 🌹: [2024-07-16 09:48:11.975 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm humble should be on mailboxes
+[DEBUG](staffLog) 15:22:52/07-16 15:22:35(-2) logged CONNECTING in 🤣: [2024-07-16 10:22:37.124 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Join GUID: 0cc0a34e-b25d-4bfb-9590-ef34ecb3031a Character Slot: 0 Language: English
+[DEBUG](staffLog) 15:45:40/07-16 15:45:31(-3) logged MSG in 🌹: [2024-07-16 10:45:34.510 UTC] [Info] [Main] [Command] Lazy_Seal [Lazy_Seal]: /pm man im just going nakey
+[DEBUG](staffLog) 15:52:00/07-16 15:51:55(-1) logged CHAT in 🥶: [2024-07-16 10:51:56.265 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: wdym
+[DEBUG](staffLog) 15:53:20/07-16 15:53:15(-1) logged CHAT in 🥶: [2024-07-16 10:53:16.118 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: hmm
+[DEBUG](staffLog) 15:57:10/07-16 15:56:57(-2) logged DEBUG in debug-logs: [2024-07-16 10:56:59.854 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /flag 76561198362436299 55432 30
+[DEBUG](staffLog) 15:57:11/07-16 15:57:00(-2) logged DEBUG in debug-logs: [2024-07-16 10:57:02.799 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag 76561198362436299 55432 30
+[DEBUG](staffLog) 15:57:30/07-16 15:57:17(-2) logged MSG in 🌹 mentioned 1218944589994659850: [2024-07-16 10:57:19.422 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /pm you should be able to hand in your quest now
+[DEBUG](staffLog) 16:02:40/07-16 16:02:24(-2) logged MSG in 🌹: [2024-07-16 11:02:26.525 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm sage how much u paying?
+[DEBUG](staffLog) 16:02:41/07-16 16:02:29(-2) logged MSG in 🌹: [2024-07-16 11:02:31.278 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm sage i got 3
+[DEBUG](staffLog) 16:18:20/07-16 16:18:13(-2) fakelogged DEBUG in 🤯: [2024-07-16 11:18:15.204 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198024342616 55007
+[DEBUG](staffLog) 16:18:30/07-16 16:18:16(-2) fakelogged DEBUG in 🤯: [2024-07-16 11:18:18.839 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198024342616 55007
+[DEBUG](staffLog) 16:18:30/07-16 16:18:21(-1) fakelogged DEBUG in 🤯: [2024-07-16 11:18:22.182 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198024342616 55007
+[DEBUG](staffLog) 16:18:30/07-16 16:18:21(-3) fakelogged DEBUG in 🤯: [2024-07-16 11:18:24.915 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198024342616 55007
+[DEBUG](staffLog) 16:19:01/07-16 16:18:47(-2) fakelogged DEBUG in 🤯: [2024-07-16 11:18:49.533 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198362436299 55007
+[DEBUG](staffLog) 16:19:30/07-16 16:19:17(-1) fakelogged DEBUG in 🤯: [2024-07-16 11:19:18.978 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 16:19:30/07-16 16:19:20(-3) fakelogged DEBUG in 🤯: [2024-07-16 11:19:23.755 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault gamma
+[DEBUG](staffLog) 16:20:00/07-16 16:19:47(-1) logged SERVER in 😃: [2024-07-16 11:19:48.424 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /server 30
+[DEBUG](staffLog) 16:20:00/07-16 16:19:45(-3) logged DISCONNECTING in 🤐: [2024-07-16 11:19:48.876 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Session Length 57.2 Minutes
+[DEBUG](staffLog) 16:21:32/07-16 16:21:22(-1) logged CONNECTING in 🤣: [2024-07-16 11:21:23.449 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Join GUID: a27475e4-1f5c-429a-b325-e2f1a61a068a Character Slot: 0 Language: English
+[DEBUG](staffLog) 16:22:10/07-16 16:22:03(-2) logged CHAT in 🥶: [2024-07-16 11:22:05.222 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: anyone selling ledxs I don't feel like hitting safes
+[DEBUG](staffLog) 16:22:30/07-16 16:22:18(-2) logged CHAT in 🥶: [2024-07-16 11:22:20.667 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: how much
+[DEBUG](staffLog) 16:22:50/07-16 16:22:40(-2) logged CHAT in 🥶: [2024-07-16 11:22:42.179 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: just needed the 1
+[DEBUG](staffLog) 16:23:00/07-16 16:22:53(-1) fakelogged DEBUG in 🤯: [2024-07-16 11:22:54.685 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198362436299 55007
+[DEBUG](staffLog) 16:23:30/07-16 16:23:24(-2) logged MSG in 🌹: [2024-07-16 11:23:26.350 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm ill buy it for 150k
+[DEBUG](staffLog) 16:24:00/07-16 16:23:48(-3) logged R in 🌹 mentioned 1218944589994659850: [2024-07-16 11:23:51.754 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /r you pm'd me
+[DEBUG](staffLog) 16:24:00/07-16 16:23:51(-3) logged R in 🌹: [2024-07-16 11:23:54.883 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /r not him
+[DEBUG](staffLog) 16:24:10/07-16 16:24:04(-1) logged MSG in 🌹: [2024-07-16 11:24:05.658 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm nex 150k
+[DEBUG](staffLog) 16:24:20/07-16 16:24:12(-2) logged MSG in 🌹: [2024-07-16 11:24:14.967 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm nex 160k
+[DEBUG](staffLog) 16:24:30/07-16 16:24:22(-1) logged MSG in 🌹: [2024-07-16 11:24:23.614 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm nex 150k
+[DEBUG](staffLog) 16:24:40/07-16 16:24:30(-1) logged MSG in 🌹: [2024-07-16 11:24:31.496 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm nex 160k*
+[DEBUG](staffLog) 16:25:00/07-16 16:24:45(-2) logged MSG in 🌹: [2024-07-16 11:24:47.344 UTC] [Info] [Main] [Command] Nex XYZ [Nex XYZ]: /pm miyukii we can do 160k exclusive d
+[DEBUG](staffLog) 16:28:00/07-16 16:27:54(-1) fakelogged DEBUG in 🤯: [2024-07-16 11:27:55.385 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 16:28:10/07-16 16:28:00(-2) fakelogged DEBUG in 🤯: [2024-07-16 11:28:02.982 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 16:37:00/07-16 16:36:52(-3) logged CHAT in 🥶: [2024-07-16 11:36:55.401 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: anyone else just hella lag
+[DEBUG](staffLog) 16:40:12/07-16 16:38:13(-2) logged DISCONNECTING in 🤐: [2024-07-16 11:38:15.235 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Session Length 16.86 Minutes
+[DEBUG](staffLog) 16:40:45/07-16 16:40:31(-2) logged CONNECTING in 🤣: [2024-07-16 11:40:33.323 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Join GUID: 2b1f942b-426d-4cf8-aee8-0655940a5860 Character Slot: 0 Language: English
+[DEBUG](staffLog) 16:49:50/07-16 16:49:43(-3) logged CHAT in 🥶: [2024-07-16 11:49:46.052 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: that is
+[DEBUG](staffLog) 16:50:00/07-16 16:49:52(-2) logged CHAT in 🥶: [2024-07-16 11:49:54.531 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: increadbily lame
+[DEBUG](staffLog) 16:50:50/07-16 16:50:44(-2) logged CHAT in 🥶: [2024-07-16 11:50:46.221 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: no footstep audio
+[DEBUG](staffLog) 16:51:01/07-16 16:50:49(-1) logged CHAT in 🥶: [2024-07-16 11:50:50.404 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: at al

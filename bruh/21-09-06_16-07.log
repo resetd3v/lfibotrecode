@@ -1,0 +1,455 @@
+[INFO](retrieveLog) wrote 15.71501MB to latest.log in 1.4480347633361816
+[INFO](staffParse) CAUGHT UP TO LATEST 60
+[DEBUG](staffLog) 01:13:21/07-17 01:13:10(-1) fakelogged DEBUG in 🤯: [2024-07-16 20:13:11.668 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 01:14:31/07-17 01:14:22(-2) logged DISCONNECTING in 🤐: [2024-07-16 20:14:24.039 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 12.27 Minutes
+[DEBUG](staffLog) 01:14:51/07-17 01:14:41(-2) logged CONNECTING in 🤣: [2024-07-16 20:14:43.313 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: 434a63a0-2534-4459-9e4d-00770888f59a Character Slot: 0 Language: English
+[DEBUG](staffLog) 01:25:21/07-17 01:25:08(-2) logged DISCONNECTING in 🤐: [2024-07-16 20:25:10.694 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 10.46 Minutes
+[DEBUG](staffLog) 01:25:51/07-17 01:25:47(-1) logged CONNECTING in 🤣: [2024-07-16 20:25:48.083 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: 49c7416c-23db-4854-987d-11d230745580 Character Slot: 0 Language: English
+[DEBUG](staffLog) 01:26:50/07-17 01:26:41(-2) fakelogged DEBUG in 🤯: [2024-07-16 20:26:43.920 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 01:28:41/07-17 01:28:29(-1) logged DISCONNECTING in 🤐: [2024-07-16 20:28:30.977 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 2.72 Minutes
+[DEBUG](staffLog) 02:08:51/07-17 02:08:39(-2) logged SPY in 🍑: [2024-07-16 21:08:41.541 UTC] [Info] [Main] [Command] Has anybody seen me? [Has anybody seen me?]: /spy wipe
+[DEBUG](staffLog) 02:24:51/07-17 02:24:41(-2) logged MSG in 🌹: [2024-07-16 21:24:43.034 UTC] [Info] [Main] [Command] [BlueDevils] Emerald_dragon [Emerald_dragon]: /msg yoraze we can team mjust like old times
+[DEBUG](staffLog) 02:25:41/07-17 02:25:32(-2) logged MSG in 🌹: [2024-07-16 21:25:34.580 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm harm you in labs and were you laggin
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'autocomplete': True, 'color': 34001} | [2024-07-16 21:25:55.921 UTC] [Info] [Main] [Command] DeveloperOne [CoolAssSquidWithSunglasses]: /pm
+
+[DEBUG](staffLog) 02:26:11/07-17 02:25:59(-2) logged MSG in 🌹: [2024-07-16 21:26:01.121 UTC] [Info] [Main] [Command] DeveloperOne [CoolAssSquidWithSunglasses]: /pm Nex hi
+[DEBUG](staffLog) 02:29:01/07-17 02:28:51(-1) logged SPY in 🍑: [2024-07-16 21:28:52.868 UTC] [Info] [Main] [Command] Has anybody seen me? [Has anybody seen me?]: /spy 76561199382057807
+[DEBUG](staffLog) 02:29:11/07-17 02:29:04(-3) logged SPY in 🍑: [2024-07-16 21:29:07.172 UTC] [Info] [Main] [Command] Has anybody seen me? [Has anybody seen me?]: /spy 76561199382057807
+[DEBUG](staffLog) 02:29:31/07-17 02:29:18(-3) logged BAN in bans: [2024-07-16 21:29:21.241 UTC] [Info] [Main] [Command] Has anybody seen me? [Has anybody seen me?]: /ban 76561199382057807 "cheating | CC | perm" 0
+[DEBUG](staffLog) 02:31:21/07-17 02:31:14(-3) logged MSG in 🌹: [2024-07-16 21:31:17.651 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie yo
+[DEBUG](staffLog) 02:31:31/07-17 02:31:21(-2) logged MSG in 🌹: [2024-07-16 21:31:23.714 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie its me
+[DEBUG](staffLog) 02:31:41/07-17 02:31:26(-3) logged MSG in 🌹: [2024-07-16 21:31:29.365 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie wya
+[DEBUG](staffLog) 02:31:51/07-17 02:31:43(-3) logged MSG in 🌹: [2024-07-16 21:31:46.118 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie  hellooooo
+[DEBUG](staffLog) 02:32:41/07-17 02:32:30(-1) logged MSG in 🌹: [2024-07-16 21:32:31.690 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie yo
+[DEBUG](staffLog) 02:33:31/07-17 02:33:24(-1) logged MSG in 🌹: [2024-07-16 21:33:25.900 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snoie yo
+[DEBUG](staffLog) 02:33:41/07-17 02:33:26(-3) logged MSG in 🌹: [2024-07-16 21:33:29.301 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie yo
+[DEBUG](staffLog) 02:37:11/07-17 02:37:04(-1) logged MSG in 🌹: [2024-07-16 21:37:05.905 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie yo
+[DEBUG](staffLog) 02:41:01/07-17 02:40:49(-3) logged MSG in 🌹: [2024-07-16 21:40:52.645 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie yo
+[DEBUG](staffLog) 02:41:19/07-17 02:40:59(-1) logged MSG in 🌹: [2024-07-16 21:41:00.150 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie u there
+[DEBUG](staffLog) 02:51:41/07-17 02:51:27(-3) logged MSG in 🌹: [2024-07-16 21:51:30.007 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie yo
+[DEBUG](staffLog) 02:51:41/07-17 02:51:31(-1) logged MSG in 🌹: [2024-07-16 21:51:32.490 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie its me
+[DEBUG](staffLog) 02:51:51/07-17 02:51:39(-2) logged MSG in 🌹: [2024-07-16 21:51:41.786 UTC] [Info] [Main] [Command] Snowie [...]: /pm meow hi go to
+[DEBUG](staffLog) 02:52:41/07-17 02:52:33(-1) logged MSG in 🌹: [2024-07-16 21:52:34.620 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie yo
+[DEBUG](staffLog) 02:52:51/07-17 02:52:43(-1) logged MSG in 🌹: [2024-07-16 21:52:44.305 UTC] [Info] [Main] [Command] Snowie [...]: /pm meow ye?
+[DEBUG](staffLog) 02:52:51/07-17 02:52:44(-2) logged MSG in 🌹: [2024-07-16 21:52:46.996 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie its me
+[DEBUG](staffLog) 02:53:01/07-17 02:52:49(-1) logged MSG in 🌹: [2024-07-16 21:52:50.665 UTC] [Info] [Main] [Command] Snowie [...]: /pm meow ik
+[DEBUG](staffLog) 02:53:01/07-17 02:52:53(-2) logged MSG in 🌹: [2024-07-16 21:52:55.363 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie tema?
+[DEBUG](staffLog) 02:53:11/07-17 02:53:00(-2) logged MSG in 🌹: [2024-07-16 21:53:02.673 UTC] [Info] [Main] [Command] Snowie [...]: /pm meow team sure
+[DEBUG](staffLog) 02:53:11/07-17 02:53:02(-2) logged MSG in 🌹: [2024-07-16 21:53:04.014 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg snowie inv me to grup
+[DEBUG](staffLog) 02:53:21/07-17 02:53:15(-2) logged MSG in 🌹: [2024-07-16 21:53:17.716 UTC] [Info] [Main] [Command] Snowie [...]: /pm meow done
+[DEBUG](staffLog) 03:05:51/07-17 03:05:42(-1) logged MSG in 🌹: [2024-07-16 22:05:43.272 UTC] [Info] [Main] [Command] why [blue]: /pm legion wanna play
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'R', 'aliases': [], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}"', 'textArgs': ['sender', 'all'], 'autocomplete': True, 'color': 34001} | [2024-07-16 22:16:44.387 UTC] [Info] [Main] [Command] [cbp]moe Leicester [killing time]: /R
+
+[DEBUG](staffLog) 03:17:01/07-17 03:16:50(-2) logged R in 🌹: [2024-07-16 22:16:52.118 UTC] [Info] [Main] [Command] [cbp]moe Leicester [killing time]: /R H
+[DEBUG](staffLog) 03:21:31/07-17 03:21:27(-1) logged MSG in 🌹: [2024-07-16 22:21:28.105 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage yo
+[DEBUG](staffLog) 03:21:41/07-17 03:21:31(-3) logged R in 🌹: [2024-07-16 22:21:34.335 UTC] [Info] [Main] [Command] Sage [Sage]: /r ?
+[DEBUG](staffLog) 03:22:01/07-17 03:21:53(-2) logged MSG in 🌹: [2024-07-16 22:21:55.747 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage how much money u got?
+[DEBUG](staffLog) 03:22:11/07-17 03:21:59(-3) logged R in 🌹: [2024-07-16 22:22:02.473 UTC] [Info] [Main] [Command] Sage [Sage]: /r 1m
+[DEBUG](staffLog) 03:22:21/07-17 03:22:08(-3) logged MSG in 🌹: [2024-07-16 22:22:11.193 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage nice nice nvm
+[DEBUG](staffLog) 03:27:31/07-17 03:27:16(-3) logged MSG in 🌹: [2024-07-16 22:27:19.074 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage yo
+[DEBUG](staffLog) 03:27:31/07-17 03:27:20(-3) logged R in 🌹: [2024-07-16 22:27:23.360 UTC] [Info] [Main] [Command] Sage [Sage]: /r ?
+[DEBUG](staffLog) 03:27:32/07-17 03:27:23(-1) logged MSG in 🌹: [2024-07-16 22:27:24.043 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage can u buy me a labs card?
+[DEBUG](staffLog) 03:27:41/07-17 03:27:26(-2) logged R in 🌹: [2024-07-16 22:27:28.970 UTC] [Info] [Main] [Command] Sage [Sage]: /r not rn
+[DEBUG](staffLog) 03:27:51/07-17 03:27:43(-2) logged MSG in 🌹: [2024-07-16 22:27:45.471 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage oki, lmk when u can
+[DEBUG](staffLog) 03:30:51/07-17 03:30:43(-3) logged API in 😶: [2024-07-16 22:30:46.173 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action f63d15f13bd8479587f7754e851d3691 with type "rank" for 76561199447292829 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/16/2024 10:30:44 PM
+[DEBUG](staffLog) 03:32:31/07-17 03:32:20(-2) logged MSG in 🌹: [2024-07-16 22:32:22.257 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy bruh
+[DEBUG](staffLog) 03:32:32/07-17 03:32:25(-3) logged MSG in 🌹: [2024-07-16 22:32:28.103 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy can i get some money bakc?
+[DEBUG](staffLog) 03:35:41/07-17 03:35:28(-3) logged MSG in 🌹: [2024-07-16 22:35:31.137 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage yo
+[DEBUG](staffLog) 03:35:41/07-17 03:35:32(-3) logged MSG in 🌹: [2024-07-16 22:35:35.944 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage can i get that labs card now?
+[DEBUG](staffLog) 03:36:21/07-17 03:36:07(-1) logged MSG in 🌹: [2024-07-16 22:36:08.632 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg sage can i get that labs card pls
+[DEBUG](staffLog) 03:36:41/07-17 03:36:36(-2) logged MSG in 🌹: [2024-07-16 22:36:38.390 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy yo
+[DEBUG](staffLog) 03:36:51/07-17 03:36:40(-2) logged MSG in 🌹: [2024-07-16 22:36:42.701 UTC] [Info] [Main] [Command] Meowavius [Jaquavius]: /msg whiteboy can i get another labs card
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'autocomplete': True, 'color': 34001} | [2024-07-16 22:38:44.408 UTC] [Info] [Main] [Command] Ciaparito [Mateo]: /pm
+
+[DEBUG](staffLog) 03:41:31/07-17 03:41:25(-2) logged CONNECTING in 🤣: [2024-07-16 22:41:27.329 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: 0447bce9-c91b-45dd-9e4c-d9e0fd5ab802 Character Slot: 0 Language: English
+[DEBUG](staffLog) 03:50:31/07-17 03:50:19(-1) logged MSG in 🌹: [2024-07-16 22:50:20.023 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm hunter Ult b
+[DEBUG](staffLog) 03:51:31/07-17 03:51:17(-1) logged DISCONNECTING in 🤐: [2024-07-16 22:51:18.793 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 9.86 Minutes
+[DEBUG](staffLog) 03:51:42/07-17 03:51:37(-1) logged CONNECTING in 🤣: [2024-07-16 22:51:38.275 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: 168386a1-c746-4170-9076-15f649edbf74 Character Slot: 0 Language: English
+[DEBUG](staffLog) 03:56:11/07-17 03:56:00(-3) logged MSG in 🌹: [2024-07-16 22:56:03.333 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm any more keys?
+[DEBUG](staffLog) 03:57:41/07-17 03:57:30(-3) logged DISCONNECTING in 🤐: [2024-07-16 22:57:33.749 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 5.92 Minutes
+[DEBUG](staffLog) 03:58:01/07-17 03:57:53(-3) logged CONNECTING in 🤣: [2024-07-16 22:57:56.061 UTC] [Info] [Main] Connecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 0 Join GUID: 2dbbc5d0-433f-4772-8c07-9592bc7f8612 Character Slot: 0 Language: English
+[DEBUG](staffLog) 03:59:31/07-17 03:59:16(-3) logged DISCONNECTING in 🤐: [2024-07-16 22:59:19.075 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 0 Session Length 1.38 Minutes
+[DEBUG](staffLog) 04:02:01/07-17 04:01:48(-2) logged CONNECTING in 🤣: [2024-07-16 23:01:50.213 UTC] [Info] [Main] Connecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 0 Join GUID: 8575a5de-bd77-41af-a90e-a2d1c906f753 Character Slot: 0 Language: English
+[DEBUG](staffLog) 04:02:11/07-17 04:01:57(-1) logged TP in tp: [2024-07-16 23:01:58.765 UTC] [Info] [Main] Pandahut >> Godly (76561199183989090) - Teleported to puppet (76561199192217312 at North West of Range (321.1557 65.06445 2673.533) from North West of Range (355.987 65.06445 2669.939)
+[DEBUG](staffLog) 04:02:11/07-17 04:02:00(-3) logged SPY in 🍑: [2024-07-16 23:02:03.603 UTC] [Info] [Main] [Command] Godly [Godly]: /spy 76561199192217312
+[DEBUG](staffLog) 04:02:41/07-17 04:02:29(-1) logged BAN in bans: [2024-07-16 23:02:30.261 UTC] [Info] [Main] [Command] Godly [Godly]: /ban 76561198972418681 "NC | cheating" 0
+[DEBUG](staffLog) 04:03:01/07-17 04:02:46(-3) logged BAN in bans: [2024-07-16 23:02:49.040 UTC] [Info] [Main] [Command] Godly [Godly]: /ban 76561199192217312 "NC | cheating" 0
+[DEBUG](staffLog) 04:03:32/07-17 04:03:22(-3) logged API in 😶: [2024-07-16 23:03:25.628 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 3886dd84d7104c1faed3d504ced83015 with type "rank" for 76561199528287183 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/16/2024 11:03:22 PM
+[DEBUG](staffLog) 04:03:41/07-17 04:03:26(-3) logged CHAT in 🥶: [2024-07-16 23:03:29.017 UTC] [Info] [Main] [Global] Godly [Godly]: <3
+[DEBUG](staffLog) 04:04:02/07-17 04:03:50(-3) logged CHAT in 🥶: [2024-07-16 23:03:53.037 UTC] [Info] [Main] [Global] Godly [Godly]: i just got home
+[DEBUG](staffLog) 04:06:01/07-17 04:05:49(-2) logged SERVER in 😃: [2024-07-16 23:05:51.599 UTC] [Info] [Main] [Command] Godly [Godly]: /server 1
+[DEBUG](staffLog) 04:06:01/07-17 04:05:49(-3) logged DISCONNECTING in 🤐: [2024-07-16 23:05:52.035 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199183989090 Steam Name: Godly Character name: Godly Nick: Godly Group: 0 Session Length 4.03 Minutes
+[DEBUG](staffLog) 04:34:02/07-17 04:33:50(-3) logged API in 😶: [2024-07-16 23:33:53.901 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 4c2942974e8e458a83ff3e454ab70833 with type "rank" for 76561199079960807 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/16/2024 11:33:51 PM
+[DEBUG](staffLog) 04:41:52/07-17 04:41:40(-3) logged MSG in 🌹: [2024-07-16 23:41:43.969 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm where are you from
+[DEBUG](staffLog) 04:42:11/07-17 04:41:57(-3) logged MSG in 🌹: [2024-07-16 23:42:00.440 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm canada? USA?
+[DEBUG](staffLog) 04:42:11/07-17 04:42:04(-2) logged MSG in 🌹: [2024-07-16 23:42:06.052 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm levi i got 2 akms i can give u for free
+[DEBUG](staffLog) 04:42:31/07-17 04:42:17(-1) logged MSG in 🌹: [2024-07-16 23:42:18.538 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm levi come to 10a
+[DEBUG](staffLog) 04:43:01/07-17 04:42:52(-1) logged MSG in 🌹: [2024-07-16 23:42:53.857 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm levi aight
+[DEBUG](staffLog) 04:43:11/07-17 04:43:02(-3) logged MSG in 🌹: [2024-07-16 23:43:05.891 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm levi ult b
+[DEBUG](staffLog) 04:47:42/07-17 04:47:25(-3) logged CONNECTING in 🤣: [2024-07-16 23:47:28.653 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Join GUID: 977e33b1-f76a-4d9b-9013-c717f42a7294 Character Slot: 0 Language: English
+[DEBUG](staffLog) 04:50:23/07-17 04:50:09(-2) logged MSG in 🌹: [2024-07-16 23:50:11.755 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Soup Sorry about that I am just trying to get my city kills
+[DEBUG](staffLog) 04:52:11/07-17 04:52:01(-1) logged MSG in 🌹: [2024-07-16 23:52:02.460 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Darkzz you want 100k for that?
+[DEBUG](staffLog) 04:52:41/07-17 04:52:34(-3) logged CHAT in 🥶: [2024-07-16 23:52:37.975 UTC] [Info] [Main] [Group] Silly Person :3 [Angel_Abov3]: come here
+[DEBUG](staffLog) 04:52:51/07-17 04:52:39(-2) logged CHAT in 🥶: [2024-07-16 23:52:41.464 UTC] [Info] [Main] [Group] Silly Person :3 [Angel_Abov3]: doortp
+[DEBUG](staffLog) 04:54:41/07-17 04:54:32(-3) logged MSG in 🌹: [2024-07-16 23:54:35.563 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Darkzz Do you want to be paid back for me camping?
+[DEBUG](staffLog) 05:05:21/07-17 05:05:07(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:05:09.962 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198321020494 58014
+[DEBUG](staffLog) 05:05:21/07-17 05:05:13(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:05:16.068 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198321020494 58014
+[DEBUG](staffLog) 05:06:21/07-17 05:06:14(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:06:15.121 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 05:07:51/07-17 05:07:43(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:07:45.610 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 05:08:21/07-17 05:08:16(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:08:17.105 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 05:13:11/07-17 05:13:02(-2) logged MSG in 🌹: [2024-07-17 00:13:04.602 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm only 3
+[DEBUG](staffLog) 05:22:51/07-17 05:22:42(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:22:45.854 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 05:25:01/07-17 05:24:47(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:24:50.135 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell Pumpstation 35000
+[DEBUG](staffLog) 05:25:02/07-17 05:24:54(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:24:55.353 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell 'Pumpstation" 35000
+[DEBUG](staffLog) 05:25:11/07-17 05:24:56(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:24:59.443 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell "Pumpstation" 35000
+[DEBUG](staffLog) 05:25:21/07-17 05:25:07(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:25:08.781 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell "46202" 35000
+[DEBUG](staffLog) 05:25:31/07-17 05:25:15(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:25:18.503 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell "46201" 35000
+[DEBUG](staffLog) 05:25:31/07-17 05:25:19(-2) logged MSG in 🌹: [2024-07-17 00:25:21.153 UTC] [Info] [Main] [Command] sigil [bucket]: /pm silly yo this kid is stw
+[DEBUG](staffLog) 05:25:31/07-17 05:25:19(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:25:22.907 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell "46200" 35000
+[DEBUG](staffLog) 05:25:41/07-17 05:25:31(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:25:34.377 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell "46200" 350000
+[DEBUG](staffLog) 05:25:41/07-17 05:25:33(-2) logged MSG in 🌹: [2024-07-17 00:25:35.537 UTC] [Info] [Main] [Command] sigil [bucket]: /pm silly esk something or other
+[DEBUG](staffLog) 05:25:51/07-17 05:25:36(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:25:39.770 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop sell "46201" 350000
+[DEBUG](staffLog) 05:26:11/07-17 05:25:58(-1) logged SPY in 🍑: [2024-07-17 00:25:59.814 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spy 76561199744780775
+[DEBUG](staffLog) 05:26:41/07-17 05:26:29(-2) logged TP in tp: [2024-07-17 00:26:31.041 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to esk山, 车,信 (76561199744780775 at West of Interchange (-1165.59 53.15901 45.7568) from East of gorge (2352.766 0.2144251 784.3813)
+[DEBUG](staffLog) 05:26:41/07-17 05:26:32(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:26:35.266 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 334
+[DEBUG](staffLog) 05:26:51/07-17 05:26:38(-2) logged TP in tp: [2024-07-17 00:26:40.383 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to esk山, 车,信 (76561199744780775 at West of Interchange (-1164.554 53.15901 45.03317) from West of Interchange (-1261.813 46.86535 184.5555)
+[DEBUG](staffLog) 05:27:51/07-17 05:27:45(-1) logged TP in tp: [2024-07-17 00:27:46.276 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to esk山, 车,信 (76561199744780775 at North West of Range (316.1051 65.06445 2669.177) from West of Interchange (-1143.234 53.15901 42.81808)
+[DEBUG](staffLog) 05:28:01/07-17 05:27:48(-1) logged SPY in 🍑: [2024-07-17 00:27:49.395 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spy 76561199744780775
+[DEBUG](staffLog) 05:28:11/07-17 05:28:01(-1) logged TP in tp: [2024-07-17 00:28:02.223 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to esk山, 车,信 (76561199744780775 at East of Customs (-981.3658 41.85257 1174.125) from North West of Range (319.6981 65.06445 2672.023)
+[DEBUG](staffLog) 05:28:12/07-17 05:28:01(-3) logged TP in tp: [2024-07-17 00:28:04.338 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to esk山, 车,信 (76561199744780775 at East of Customs (-978.696 42.25257 1167.326) from South of Customs (-1467.836 35.8647 829.394)
+[DEBUG](staffLog) 05:29:41/07-17 05:29:33(-1) logged MSG in 🌹: [2024-07-17 00:29:34.214 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm double ult b
+[DEBUG](staffLog) 05:31:31/07-17 05:31:18(-2) logged SPY in 🍑: [2024-07-17 00:31:20.694 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /spy 76561199744780775
+[DEBUG](staffLog) 05:32:02/07-17 05:31:53(-1) logged CHAT in 🥶: [2024-07-17 00:31:54.363 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: bro please
+[DEBUG](staffLog) 05:32:02/07-17 05:31:56(-2) logged CHAT in 🥶: [2024-07-17 00:31:58.275 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: if you are cheating
+[DEBUG](staffLog) 05:32:11/07-17 05:32:00(-2) logged CHAT in 🥶: [2024-07-17 00:32:02.381 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: be funny
+[DEBUG](staffLog) 05:32:11/07-17 05:32:04(-2) logged CHAT in 🥶: [2024-07-17 00:32:06.232 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: your boring
+[DEBUG](staffLog) 05:32:31/07-17 05:32:23(-1) logged BAN in bans: [2024-07-17 00:32:24.302 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /globalban 76561199744780775 "Cheating | ESP | Perm"
+[DEBUG](staffLog) 05:35:11/07-17 05:34:57(-2) logged MSG in 🌹: [2024-07-17 00:34:59.697 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm pulse ult b
+[DEBUG](staffLog) 05:35:21/07-17 05:35:13(-3) logged R in 🌹: [2024-07-17 00:35:16.992 UTC] [Info] [Main] [Command] Pulse.mp4 [shift w player]: /r ty
+[DEBUG](staffLog) 05:37:42/07-17 05:37:33(-3) logged CONNECTING in 🤣: [2024-07-17 00:37:36.838 UTC] [Info] [Main] Connecting: PlayerID: 76561198844615074 Steam Name: v0rtex Character name: v0rtex Nick: v0rtex Group: 112589997979171786 Join GUID: a393f771-97d0-4770-90db-18b8ed03b57d Character Slot: 0 Language: English
+[DEBUG](staffLog) 05:39:12/07-17 05:39:04(-1) logged DEBUG in debug-logs: [2024-07-17 00:39:05.781 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /pay tnt 4000000
+[DEBUG](staffLog) 05:40:51/07-17 05:40:38(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:40:39.189 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 05:40:51/07-17 05:40:41(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:40:42.108 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 05:41:11/07-17 05:41:03(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:41:06.564 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198835684363 46206
+[DEBUG](staffLog) 05:41:11/07-17 05:41:05(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:41:08.103 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198835684363 46207
+[DEBUG](staffLog) 05:41:21/07-17 05:41:08(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:41:10.276 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198835684363 46207
+[DEBUG](staffLog) 05:41:21/07-17 05:41:14(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:41:15.809 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198835684363 46208
+[DEBUG](staffLog) 05:41:31/07-17 05:41:16(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:41:19.108 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198835684363 46205
+[DEBUG](staffLog) 05:41:31/07-17 05:41:19(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:41:20.086 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198835684363 46205
+[DEBUG](staffLog) 05:42:01/07-17 05:41:57(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:41:58.038 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198120368678 46205
+[DEBUG](staffLog) 05:42:11/07-17 05:42:05(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:42:08.405 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46208
+[DEBUG](staffLog) 05:44:22/07-17 05:44:09(-2) logged MSG in 🌹: [2024-07-17 00:44:11.301 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm Hey where do you put the transmitter on the Hospital in City?
+[DEBUG](staffLog) 05:44:41/07-17 05:44:31(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:44:32.574 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 8953
+[DEBUG](staffLog) 05:44:41/07-17 05:44:31(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:44:34.745 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46208
+[DEBUG](staffLog) 05:44:41/07-17 05:44:33(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:44:35.435 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 8953
+[DEBUG](staffLog) 05:44:51/07-17 05:44:40(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:44:43.967 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46208
+[DEBUG](staffLog) 05:45:01/07-17 05:44:49(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:44:50.601 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46208
+[DEBUG](staffLog) 05:45:01/07-17 05:44:54(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:44:55.153 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46208
+[DEBUG](staffLog) 05:45:11/07-17 05:45:00(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:45:01.704 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46205
+[DEBUG](staffLog) 05:45:11/07-17 05:45:05(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:45:06.620 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46205
+[DEBUG](staffLog) 05:45:31/07-17 05:45:19(-1) logged CHAT in 🥶: [2024-07-17 00:45:20.027 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: Buying RB-ST and Rb-MP21 keys
+[DEBUG](staffLog) 05:45:31/07-17 05:45:18(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:45:21.546 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46205
+[DEBUG](staffLog) 05:45:31/07-17 05:45:22(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:45:25.785 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46205
+[DEBUG](staffLog) 05:46:04/07-17 05:45:49(-3) logged CHAT in 🥶: [2024-07-17 00:45:52.516 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: hell no 3m max for one
+[DEBUG](staffLog) 05:46:04/07-17 05:45:54(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:45:55.929 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46207
+[DEBUG](staffLog) 05:46:11/07-17 05:45:58(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:46:00.444 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46207
+[DEBUG](staffLog) 05:46:11/07-17 05:46:04(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:46:06.658 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46207
+[DEBUG](staffLog) 05:46:52/07-17 05:46:44(-3) logged DEBUG in debug-logs: [2024-07-17 00:46:47.472 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /p ay dachamp 3000000
+[DEBUG](staffLog) 05:47:01/07-17 05:46:48(-2) logged DEBUG in debug-logs: [2024-07-17 00:46:50.190 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /pay dachamp 3000000
+[DEBUG](staffLog) 05:47:02/07-17 05:46:49(-2) logged DEBUG in debug-logs: [2024-07-17 00:46:51.180 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /pay dachamp 3000000
+[DEBUG](staffLog) 05:47:21/07-17 05:47:15(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:47:16.406 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198024342616 46206
+[DEBUG](staffLog) 05:47:41/07-17 05:47:30(-3) fakelogged DEBUG in 🤯: [2024-07-17 00:47:33.979 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198835684363 46206
+[DEBUG](staffLog) 05:49:41/07-17 05:49:26(-3) logged MSG in 🌹: [2024-07-17 00:49:29.074 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm champ who the kid you know in city
+[DEBUG](staffLog) 05:49:51/07-17 05:49:38(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:49:39.039 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 394
+[DEBUG](staffLog) 05:49:51/07-17 05:49:41(-2) logged CHAT in 🥶: [2024-07-17 00:49:43.027 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: buying cordura and fleece
+[DEBUG](staffLog) 05:50:02/07-17 05:49:56(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:49:57.965 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561199000511386 46207
+[DEBUG](staffLog) 05:50:11/07-17 05:50:01(-2) logged CHAT in 🥶: [2024-07-17 00:50:03.589 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: shiro you have none lol
+[DEBUG](staffLog) 05:51:21/07-17 05:51:13(-2) logged MSG in 🌹: [2024-07-17 00:51:15.674 UTC] [Info] [Main] [Command] Pulse.mp4 [shift w player]: /pm silly yes
+[DEBUG](staffLog) 05:51:32/07-17 05:51:19(-1) logged TP in tp: [2024-07-17 00:51:20.222 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Pulse.mp4 (76561199538619443 at East of event (2471.264 3.36047 -1054.205) from North West of Range (365.1295 65.31445 2586.72)
+[DEBUG](staffLog) 05:51:51/07-17 05:51:39(-1) logged MSG in 🌹: [2024-07-17 00:51:40.578 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm champ im going in were gonna fight or na
+[DEBUG](staffLog) 05:51:52/07-17 05:51:44(-3) logged MSG in 🌹: [2024-07-17 00:51:47.614 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm champ and if not where you at
+[DEBUG](staffLog) 05:51:52/07-17 05:51:47(-1) logged TP in tp: [2024-07-17 00:51:48.437 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Pulse.mp4 (76561199538619443 at East of event (2471.554 0.7887347 -1055.747) from East of gorge (2360.683 0.214425 787.6712)
+[DEBUG](staffLog) 05:52:31/07-17 05:52:21(-2) logged CHAT in 🥶: [2024-07-17 00:52:23.362 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: who was selling cordura and fleece again?
+[DEBUG](staffLog) 05:52:42/07-17 05:52:33(-2) logged CHAT in 🥶: [2024-07-17 00:52:35.624 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: ok
+[DEBUG](staffLog) 05:53:01/07-17 05:52:50(-1) fakelogged DEBUG in 🤯: [2024-07-17 00:52:51.467 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561199079960807 46206
+[DEBUG](staffLog) 05:53:01/07-17 05:52:53(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:52:55.130 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561199079960807 46206
+[DEBUG](staffLog) 05:53:11/07-17 05:53:00(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:53:02.151 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561199079960807 46207
+[DEBUG](staffLog) 05:53:11/07-17 05:53:05(-2) fakelogged DEBUG in 🤯: [2024-07-17 00:53:07.004 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561199079960807 46207
+[DEBUG](staffLog) 05:54:31/07-17 05:54:15(-3) logged CHAT in 🥶: [2024-07-17 00:54:18.514 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: Selling labs Cards Sup A
+[DEBUG](staffLog) 05:55:21/07-17 05:55:12(-3) logged CHAT in 🥶: [2024-07-17 00:55:15.620 UTC] [Info] [Main] [Group] v0rtex [v0rtex]: hello gentlemen
+[DEBUG](staffLog) 05:55:41/07-17 05:55:30(-1) logged CHAT in 🥶: [2024-07-17 00:55:31.970 UTC] [Info] [Main] [Group] v0rtex [v0rtex]: so real
+[DEBUG](staffLog) 05:55:42/07-17 05:55:32(-2) logged CHAT in 🥶: [2024-07-17 00:55:34.136 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: so real
+[DEBUG](staffLog) 05:55:51/07-17 05:55:41(-3) logged CHAT in 🥶: [2024-07-17 00:55:44.745 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: ./stuck
+[DEBUG](staffLog) 05:56:21/07-17 05:56:13(-1) logged CHAT in 🥶: [2024-07-17 00:56:14.184 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: who's the guy I killed
+[DEBUG](staffLog) 05:56:51/07-17 05:56:43(-3) logged CHAT in 🥶: [2024-07-17 00:56:46.062 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: you didn't shoot
+[DEBUG](staffLog) 05:57:11/07-17 05:57:04(-1) logged CHAT in 🥶: [2024-07-17 00:57:05.046 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: who's the catboy I killed
+[DEBUG](staffLog) 05:57:21/07-17 05:57:09(-3) logged CHAT in 🥶: [2024-07-17 00:57:12.821 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: at oil esc
+[DEBUG](staffLog) 06:00:22/07-17 06:00:14(-3) logged DEBUG in debug-logs: [2024-07-17 01:00:17.618 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp 76561199383405250 1000000
+[DEBUG](staffLog) 06:01:11/07-17 06:00:57(-3) logged MSG in 🌹: [2024-07-17 01:01:00.352 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /PM SILLYPERSON HEY?
+[DEBUG](staffLog) 06:02:12/07-17 06:02:04(-3) logged CHAT in 🥶: [2024-07-17 01:02:07.796 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: buying cordura
+[DEBUG](staffLog) 06:02:21/07-17 06:02:17(-1) logged MSG in 🌹: [2024-07-17 01:02:18.414 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /PM SILLY HEY?
+[DEBUG](staffLog) 06:02:31/07-17 06:02:24(-2) logged MSG in 🌹: [2024-07-17 01:02:26.733 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /PM SILLY U ARE ADMIN?
+[DEBUG](staffLog) 06:02:41/07-17 06:02:32(-1) logged R in 🌹: [2024-07-17 01:02:33.791 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /r yes
+[DEBUG](staffLog) 06:02:52/07-17 06:02:45(-1) logged MSG in 🌹: [2024-07-17 01:02:46.741 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /PM SILLY OHH OKAY THANKS
+[DEBUG](staffLog) 06:03:12/07-17 06:02:59(-3) logged MSG in 🌹: [2024-07-17 01:03:02.620 UTC] [Info] [Main] [Command] /2D CHEAPEST SHOP/ Bouji [Bouji]: /msg called 2D
+[DEBUG](staffLog) 06:03:31/07-17 06:03:19(-1) logged DEBUG in debug-logs: [2024-07-17 01:03:20.957 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp 76561199013143411 1000000
+[DEBUG](staffLog) 06:04:11/07-17 06:04:04(-3) logged MSG in 🌹: [2024-07-17 01:04:07.194 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /pm 76561199013143411 "refunding you just incase cuz a admin command wen't silly"
+[DEBUG](staffLog) 06:04:51/07-17 06:04:40(-2) logged DEBUG in debug-logs: [2024-07-17 01:04:42.890 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp 76561199214139024 1000000
+[DEBUG](staffLog) 06:05:01/07-17 06:04:48(-3) fakelogged DEBUG in 🤯: [2024-07-17 01:04:51.329 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198844615074 8902
+[DEBUG](staffLog) 06:05:31/07-17 06:05:19(-2) logged DEBUG in debug-logs: [2024-07-17 01:05:21.123 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp 76561198342013834 1000000
+[DEBUG](staffLog) 06:10:11/07-17 06:10:00(-1) logged API in 😶: [2024-07-17 01:10:01.164 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action ecdf772072434c7392ca83083419501b with type "Spy @" for 76561199742269472 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 1:09:54 AM
+[DEBUG](staffLog) 06:11:12/07-17 06:10:57(-3) logged DEBUG in debug-logs: [2024-07-17 01:11:00.269 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /mute ForTrappers0nly "Sexual Cont. | FirstOffense | 12H" 12 h
+[DEBUG](staffLog) 06:11:31/07-17 06:11:23(-1) logged CHAT in 🥶: [2024-07-17 01:11:24.792 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: no
+[DEBUG](staffLog) 06:13:01/07-17 06:12:48(-2) logged CHAT in 🥶: [2024-07-17 01:12:50.157 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: im logging of for a bit
+[DEBUG](staffLog) 06:13:01/07-17 06:12:49(-3) logged CHAT in 🥶: [2024-07-17 01:12:52.431 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: peace out
+[DEBUG](staffLog) 06:13:21/07-17 06:13:11(-1) logged CHAT in 🥶: [2024-07-17 01:13:12.348 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: Buying GPU's SUP A
+[DEBUG](staffLog) 06:13:32/07-17 06:13:19(-3) logged DISCONNECTING in 🤐: [2024-07-17 01:13:22.868 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198844615074 Steam Name: v0rtex Character name: v0rtex Nick: v0rtex Group: 112589997979171786 Session Length 35.77 Minutes
+[DEBUG](staffLog) 06:23:21/07-17 06:23:11(-1) logged DEBUG in debug-logs: [2024-07-17 01:23:12.296 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /pay notqq 1000000
+[DEBUG](staffLog) 06:28:41/07-17 06:28:33(-3) logged API in 😶: [2024-07-17 01:28:36.177 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 4c5078175d94456c8b03bbc0b126e998 with type "Spy @" for 76561199658647475 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 1:28:28 AM
+[DEBUG](staffLog) 06:32:41/07-17 06:32:31(-2) logged DEBUG in debug-logs: [2024-07-17 01:32:33.202 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /removeshop buy 46200 350000
+[DEBUG](staffLog) 06:32:51/07-17 06:32:39(-3) fakelogged DEBUG in 🤯: [2024-07-17 01:32:42.780 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46200 350000
+[DEBUG](staffLog) 06:33:11/07-17 06:33:01(-2) fakelogged DEBUG in 🤯: [2024-07-17 01:33:03.467 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46201 350000
+[DEBUG](staffLog) 06:33:11/07-17 06:33:05(-2) fakelogged DEBUG in 🤯: [2024-07-17 01:33:07.657 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46202 350000
+[DEBUG](staffLog) 06:33:21/07-17 06:33:07(-3) fakelogged DEBUG in 🤯: [2024-07-17 01:33:10.812 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46203 350000
+[DEBUG](staffLog) 06:33:21/07-17 06:33:12(-1) fakelogged DEBUG in 🤯: [2024-07-17 01:33:13.956 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46204 350000
+[DEBUG](staffLog) 06:33:21/07-17 06:33:15(-2) fakelogged DEBUG in 🤯: [2024-07-17 01:33:17.376 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46205 350000
+[DEBUG](staffLog) 06:33:31/07-17 06:33:17(-3) fakelogged DEBUG in 🤯: [2024-07-17 01:33:20.987 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 462011 350000
+[DEBUG](staffLog) 06:34:01/07-17 06:33:51(-2) fakelogged DEBUG in 🤯: [2024-07-17 01:33:53.485 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46211 350000
+[DEBUG](staffLog) 06:34:21/07-17 06:34:10(-3) fakelogged DEBUG in 🤯: [2024-07-17 01:34:13.417 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46211 1
+[DEBUG](staffLog) 06:34:21/07-17 06:34:14(-1) fakelogged DEBUG in 🤯: [2024-07-17 01:34:15.140 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198856241780 46211
+[DEBUG](staffLog) 06:34:31/07-17 06:34:18(-3) fakelogged DEBUG in 🤯: [2024-07-17 01:34:21.715 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addshop buy 46211 350000
+[DEBUG](staffLog) 06:35:11/07-17 06:34:58(-3) logged CHAT in 🥶: [2024-07-17 01:35:01.486 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: Selling factory exit and Directors office Sup A
+[DEBUG](staffLog) 06:35:11/07-17 06:35:05(-2) logged API in 😶: [2024-07-17 01:35:07.898 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 827c71bfa6a54464b32baec47793284d with type "Spy @" for 76561199658647475 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 1:34:58 AM
+[DEBUG](staffLog) 06:35:41/07-17 06:35:27(-3) logged CHAT in 🥶: [2024-07-17 01:35:30.367 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: 3rd story factory
+[DEBUG](staffLog) 06:35:42/07-17 06:35:35(-1) logged CHAT in 🥶: [2024-07-17 01:35:36.350 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: the locked foor
+[DEBUG](staffLog) 06:35:51/07-17 06:35:37(-3) logged CHAT in 🥶: [2024-07-17 01:35:40.890 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: for the quest
+[DEBUG](staffLog) 06:38:11/07-17 06:38:04(-3) logged MSG in 🌹: [2024-07-17 01:38:07.276 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm coomer check discord
+[DEBUG](staffLog) 06:38:51/07-17 06:38:37(-1) logged API in 😶: [2024-07-17 01:38:38.971 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 4db9a35126e44eb0bf0d9f9faf872647 with type "Spy @" for 76561199658647475 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 1:38:35 AM
+[DEBUG](staffLog) 06:41:01/07-17 06:40:51(-1) fakelogged DEBUG in 🤯: [2024-07-17 01:40:52.261 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 06:41:11/07-17 06:40:58(-1) fakelogged DEBUG in 🤯: [2024-07-17 01:40:59.827 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 06:44:51/07-17 06:44:37(-3) logged API in 😶: [2024-07-17 01:44:40.717 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action f2bfefe356124335a78e9b0e4a332317 with type "Spy @" for 76561199658647475 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 1:44:37 AM
+[DEBUG](staffLog) 06:45:11/07-17 06:44:58(-1) logged MSG in 🌹: [2024-07-17 01:44:59.690 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm coomer check hets discord server
+[DEBUG](staffLog) 06:49:22/07-17 06:49:09(-1) logged MSG in 🌹: [2024-07-17 01:49:10.325 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm coomer check hets discord server
+[DEBUG](staffLog) 07:09:52/07-17 07:09:35(-2) logged API in 😶: [2024-07-17 02:09:37.626 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 36f9fa3563a342f28704d39a44b7f3da with type "Spy @" for 76561199744094820 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 2:09:36 AM
+[DEBUG](staffLog) 07:12:42/07-17 07:12:26(-1) logged MSG in 🌹: [2024-07-17 02:12:27.188 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm xefz Can I just get my mechanic quest done?
+[DEBUG](staffLog) 07:24:02/07-17 07:23:48(-1) logged CONNECTING in 🤣: [2024-07-17 02:23:49.824 UTC] [Info] [Main] Connecting: PlayerID: 76561198844615074 Steam Name: v0rtex Character name: v0rtex Nick: v0rtex Group: 112589997979171786 Join GUID: 50369dbe-ffcd-493e-8235-e3cb481e00a8 Character Slot: 0 Language: English
+[DEBUG](staffLog) 07:26:51/07-17 07:26:37(-2) fakelogged DEBUG in 🤯: [2024-07-17 02:26:39.444 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198024342616 69
+[DEBUG](staffLog) 07:26:51/07-17 07:26:40(-3) fakelogged DEBUG in 🤯: [2024-07-17 02:26:43.600 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198024342616 69
+[DEBUG](staffLog) 07:27:01/07-17 07:26:46(-1) fakelogged DEBUG in 🤯: [2024-07-17 02:26:47.454 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198024342616 69
+[DEBUG](staffLog) 07:28:41/07-17 07:28:29(-2) fakelogged DEBUG in 🤯: [2024-07-17 02:28:31.845 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198802153579 55013
+[DEBUG](staffLog) 07:31:41/07-17 07:31:30(-3) fakelogged DEBUG in 🤯: [2024-07-17 02:31:33.718 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561199206292872 55013
+[DEBUG](staffLog) 07:32:21/07-17 07:32:13(-1) fakelogged DEBUG in 🤯: [2024-07-17 02:32:14.593 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /buyfrom 76561198802153579 55013
+[DEBUG](staffLog) 07:34:51/07-17 07:34:34(-2) logged SERVER in 😃: [2024-07-17 02:34:36.332 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /server 30
+[DEBUG](staffLog) 07:34:51/07-17 07:34:34(-2) logged DISCONNECTING in 🤐: [2024-07-17 02:34:36.647 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198844615074 Steam Name: v0rtex Character name: v0rtex Nick: v0rtex Group: 112589997979171786 Session Length 10.78 Minutes
+[DEBUG](staffLog) 07:40:42/07-17 07:40:33(-1) logged MSG in 🌹: [2024-07-17 02:40:34.681 UTC] [Info] [Main] [Command] Nana [破裂的]: /pm lazy yo man team?
+[DEBUG](staffLog) 07:41:01/07-17 07:40:46(-1) logged R in 🌹: [2024-07-17 02:40:47.591 UTC] [Info] [Main] [Command] Lazy_Seal [Lazy_Seal]: /r Im in one right now
+[DEBUG](staffLog) 07:41:11/07-17 07:40:54(-2) logged MSG in 🌹: [2024-07-17 02:40:56.975 UTC] [Info] [Main] [Command] Nana [破裂的]: /pm lazy can join?¡
+[DEBUG](staffLog) 07:41:41/07-17 07:41:23(-2) logged R in 🌹: [2024-07-17 02:41:25.911 UTC] [Info] [Main] [Command] Lazy_Seal [Lazy_Seal]: /r if you want to
+[DEBUG](staffLog) 07:41:54/07-17 07:41:36(-2) logged MSG in 🌹: [2024-07-17 02:41:38.727 UTC] [Info] [Main] [Command] Nana [破裂的]: /pm  lazy inv me and give me your ds
+[DEBUG](staffLog) 07:42:11/07-17 07:41:56(-2) logged MSG in 🌹: [2024-07-17 02:41:58.821 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm apg ult b
+[DEBUG](staffLog) 07:43:11/07-17 07:43:02(-1) logged MSG in 🌹: [2024-07-17 02:43:03.262 UTC] [Info] [Main] [Command] Lazy_Seal [Lazy_Seal]: /pm nana i invited you
+[DEBUG](staffLog) 07:43:22/07-17 07:43:03(-3) logged API in 😶: [2024-07-17 02:43:06.316 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action e84c2dfd576241e19a17326ab630efc3 with type "Spy @" for 905409557092786216 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 2:42:57 AM
+[DEBUG](staffLog) 07:43:31/07-17 07:43:15(-2) logged MSG in 🌹: [2024-07-17 02:43:17.273 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm touchme meet me at cafe in sz
+[DEBUG](staffLog) 07:43:51/07-17 07:43:33(-3) logged API in 😶: [2024-07-17 02:43:36.441 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action b434f334512041c3bc5d8481e5908ad2 with type "Spy @" for 76561199114694794 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 2:43:28 AM
+[DEBUG](staffLog) 07:44:01/07-17 07:43:46(-2) logged MSG in 🌹: [2024-07-17 02:43:48.145 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm touchme come to cafe across from peacekeeper i got da stuff
+[DEBUG](staffLog) 07:48:02/07-17 07:47:50(-3) logged MSG in 🌹: [2024-07-17 02:47:53.958 UTC] [Info] [Main] [Command] ami [ami]: /pm angel invite
+[DEBUG](staffLog) 07:50:51/07-17 07:50:37(-2) logged MSG in 🌹: [2024-07-17 02:50:39.746 UTC] [Info] [Main] [Command] Retro (Ult B Best Shop) [Cumdog10]: /pm champ give me a min, gf drunk asf
+[DEBUG](staffLog) 07:51:01/07-17 07:50:48(-2) logged MSG in 🌹: [2024-07-17 02:50:50.865 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm cumdog lol gg
+[DEBUG](staffLog) 07:51:11/07-17 07:51:01(-1) logged MSG in 🌹: [2024-07-17 02:51:02.111 UTC] [Info] [Main] [Command] Retro (Ult B Best Shop) [Cumdog10]: /pm champ shes cooked
+[DEBUG](staffLog) 07:51:51/07-17 07:51:40(-3) logged DISCONNECTING in 🤐: [2024-07-17 02:51:43.690 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 112589998502859633 Session Length 3.07 Hours
+[DEBUG](staffLog) 07:54:22/07-17 07:54:11(-3) logged MSG in 🌹: [2024-07-17 02:54:14.754 UTC] [Info] [Main] [Command] Nana [破裂的]: /pm alucard sato?=
+[DEBUG](staffLog) 08:08:42/07-17 08:08:23(-3) logged MSG in 🌹: [2024-07-17 03:08:26.040 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm tyt akm yes
+[DEBUG](staffLog) 08:08:42/07-17 08:08:33(-1) logged MSG in 🌹: [2024-07-17 03:08:34.932 UTC] [Info] [Main] [Command] ForTrappers0nly [reavesdamian871]: /PM tytbeast yo i got tags
+[DEBUG](staffLog) 08:09:02/07-17 08:08:49(-3) logged MSG in 🌹: [2024-07-17 03:08:52.152 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm tyt yes ult b
+[DEBUG](staffLog) 08:21:11/07-17 08:21:00(-1) logged STATS in stats: [2024-07-17 03:21:01.528 UTC] [Info] [Main] [Command] antibiotik [ᵁʳᵇᵃⁿ]: /stats xd
+[DEBUG](staffLog) 08:38:14/07-17 08:38:01(-3) logged MSG in 🌹: [2024-07-17 03:38:04.289 UTC] [Info] [Main] [Command] Harm [Harm]: /pm opeth gotta another key
+[DEBUG](staffLog) 08:38:32/07-17 08:38:13(-3) logged MSG in 🌹: [2024-07-17 03:38:16.571 UTC] [Info] [Main] [Command] Harm [Harm]: /pm opeth rb kprl
+[DEBUG](staffLog) 08:44:02/07-17 08:43:52(-3) logged MSG in 🌹: [2024-07-17 03:43:55.273 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm ban 136000
+[DEBUG](staffLog) 08:44:33/07-17 08:44:20(-2) logged MSG in 🌹: [2024-07-17 03:44:22.955 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm hacker
+[DEBUG](staffLog) 08:44:42/07-17 08:44:29(-3) logged MSG in 🌹: [2024-07-17 03:44:32.815 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm hacker getting camped on City
+[DEBUG](staffLog) 08:46:01/07-17 08:45:51(-2) logged MSG in 🌹: [2024-07-17 03:45:53.901 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm cxl interesting one of your friends has a Changed pfp
+[DEBUG](staffLog) 08:47:02/07-17 08:46:44(-2) logged MSG in 🌹: [2024-07-17 03:46:46.310 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm eagle interesting one of your friends has a changed pfp
+[DEBUG](staffLog) 08:57:22/07-17 08:57:06(-3) logged MSG in 🌹: [2024-07-17 03:57:09.316 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm yoraze remember het?
+[DEBUG](staffLog) 09:06:22/07-17 09:06:10(-1) logged MSG in 🌹: [2024-07-17 04:06:11.195 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm Nice let me know when you are back to your appartment
+[DEBUG](staffLog) 09:06:31/07-17 09:06:18(-3) logged MSG in 🌹: [2024-07-17 04:06:21.207 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm for the RB key
+[DEBUG](staffLog) 09:28:42/07-17 09:28:31(-1) logged MSG in 🌹: [2024-07-17 04:28:32.234 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman u on yo 40 kills xD?
+[DEBUG](staffLog) 09:28:52/07-17 09:28:36(-2) logged R in 🌹: [2024-07-17 04:28:38.011 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r maybe lol
+[DEBUG](staffLog) 09:29:21/07-17 09:29:07(-1) logged MSG in 🌹: [2024-07-17 04:29:08.354 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman good luck bro almost broke my mouse doing that xD
+[DEBUG](staffLog) 09:29:22/07-17 09:29:08(-2) logged MSG in 🌹: [2024-07-17 04:29:10.473 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg grey why u ask? im almost tempted to say fk pk4 and not do it
+[DEBUG](staffLog) 09:29:41/07-17 09:29:31(-1) logged R in 🌹: [2024-07-17 04:29:32.384 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r fair, yea i might just fk pk and not do it
+[DEBUG](staffLog) 09:30:02/07-17 09:29:47(-1) logged MSG in 🌹: [2024-07-17 04:29:48.497 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman i did it yesterday, its honestly not worth
+[DEBUG](staffLog) 09:30:32/07-17 09:30:12(-3) logged MSG in 🌹: [2024-07-17 04:30:15.537 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman it only give u mrad vector and couple others
+[DEBUG](staffLog) 10:09:22/07-17 10:09:12(-1) logged MSG in 🌹: [2024-07-17 05:09:13.073 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm hr ult b
+[DEBUG](staffLog) 10:11:52/07-17 10:11:34(-3) logged MSG in 🌹: [2024-07-17 05:11:37.666 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm can you buy me three of those red dots from lvl4 and three angled grips
+[DEBUG](staffLog) 10:11:52/07-17 10:11:41(-3) logged MSG in 🌹: [2024-07-17 05:11:44.604 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm kitt ult b
+[DEBUG](staffLog) 10:18:43/07-17 10:18:31(-3) logged MSG in 🌹: [2024-07-17 05:18:34.230 UTC] [Info] [Main] [Command] Harm [Harm]: /pm opeth i got kprl but i think i already sold tht one to you ii dont remember
+[DEBUG](staffLog) 10:20:22/07-17 10:20:08(-1) logged MSG in 🌹: [2024-07-17 05:20:09.460 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm sonic ult b
+[DEBUG](staffLog) 10:21:02/07-17 10:20:50(-3) logged MSG in 🌹: [2024-07-17 05:20:53.058 UTC] [Info] [Main] [Command] Sonic [Sabri]: /pm champ there is no one selling there
+[DEBUG](staffLog) 10:21:23/07-17 10:21:08(-2) logged MSG in 🌹: [2024-07-17 05:21:10.606 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm sonic on sign
+[DEBUG](staffLog) 10:21:42/07-17 10:21:24(-1) logged MSG in 🌹: [2024-07-17 05:21:25.937 UTC] [Info] [Main] [Command] Sonic [Sabri]: /pm champ yeah there is no one selling it
+[DEBUG](staffLog) 10:23:02/07-17 10:22:47(-2) logged CONNECTING in 🤣: [2024-07-17 05:22:49.564 UTC] [Info] [Main] Connecting: PlayerID: 76561199185423648 Steam Name: ke Character name: cake Nick: cake Group: 0 Join GUID: f203f0d3-dd99-4e39-9bb2-7e9b3bcfdd43 Character Slot: 0 Language: English
+[DEBUG](staffLog) 10:29:33/07-17 10:29:16(-3) logged MSG in 🌹: [2024-07-17 05:29:19.932 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm mum find the mpcs around lobby
+[DEBUG](staffLog) 10:29:33/07-17 10:29:24(-1) logged MSG in 🌹: [2024-07-17 05:29:25.441 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm mum find the npcs around lobby
+[DEBUG](staffLog) 10:30:32/07-17 10:30:21(-2) logged MSG in 🌹: [2024-07-17 05:30:23.984 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm ballbearing below green room glass box
+[DEBUG](staffLog) 10:31:02/07-17 10:30:48(-1) logged MSG in 🌹: [2024-07-17 05:30:49.674 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm ballbearing take nvgs hard to see without
+[DEBUG](staffLog) 10:34:22/07-17 10:34:07(-1) logged MSG in 🌹: [2024-07-17 05:34:08.577 UTC] [Info] [Main] [Command] why [blue]: /PM LANDON WANNA PLAY
+[DEBUG](staffLog) 10:35:32/07-17 10:35:22(-1) logged DISCONNECTING in 🤐: [2024-07-17 05:35:23.342 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199185423648 Steam Name: ke Character name: cake Nick: cake Group: 0 Session Length 12.56 Minutes
+[DEBUG](staffLog) 10:45:55/07-17 10:45:41(-2) logged MSG in 🌹: [2024-07-17 05:45:43.589 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm kolob ult b
+[DEBUG](staffLog) 11:14:34/07-17 11:14:17(-3) logged CONNECTING in 🤣: [2024-07-17 06:14:20.511 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: 17b4abbc-abfb-45da-b27f-ee7f6329c4bf Character Slot: 0 Language: English
+[DEBUG](staffLog) 11:15:13/07-17 11:14:59(-3) logged SPY in 🍑: [2024-07-17 06:15:02.822 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199348399984
+[DEBUG](staffLog) 11:17:24/07-17 11:17:10(-2) fakelogged DEBUG in 🤯: [2024-07-17 06:17:12.877 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash+
+[DEBUG](staffLog) 11:22:33/07-17 11:22:21(-2) logged SPY in 🍑: [2024-07-17 06:22:23.014 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199348399984
+[DEBUG](staffLog) 11:23:53/07-17 11:23:39(-2) logged MSG in 🌹: [2024-07-17 06:23:41.075 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman how yo 40 kills going gang
+[DEBUG](staffLog) 11:31:52/07-17 11:31:42(-1) logged SERVER in 😃: [2024-07-17 06:31:43.080 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /server 26
+[DEBUG](staffLog) 11:31:52/07-17 11:31:40(-3) logged DISCONNECTING in 🤐: [2024-07-17 06:31:43.352 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 17.38 Minutes
+[DEBUG](staffLog) 11:32:22/07-17 11:32:14(-1) logged MSG in 🌹: [2024-07-17 06:32:15.053 UTC] [Info] [Main] [Command] banana [dirty bubble bandit.camp]: /pm harm im disapoted in u
+[DEBUG](staffLog) 11:32:32/07-17 11:32:20(-3) logged MSG in 🌹: [2024-07-17 06:32:23.689 UTC] [Info] [Main] [Command] Harm [Harm]: /pm lman yo
+[DEBUG](staffLog) 11:42:02/07-17 11:41:50(-1) logged MSG in 🌹: [2024-07-17 06:41:51.175 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm i love ult b
+[DEBUG](staffLog) 11:44:32/07-17 11:44:14(-1) logged MSG in 🌹: [2024-07-17 06:44:15.905 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm GoingMango ult b selling beryl m762's
+[DEBUG](staffLog) 11:51:42/07-17 11:51:31(-2) logged MSG in 🌹: [2024-07-17 06:51:33.646 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm GoingMango ult b
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'autocomplete': True, 'color': 34001} | [2024-07-17 06:58:15.922 UTC] [Info] [Main] [Command] Toast4Puppy [Toast4Puppy]: /msg
+
+[DEBUG](staffLog) 11:58:42/07-17 11:58:26(-2) logged MSG in 🌹: [2024-07-17 06:58:28.037 UTC] [Info] [Main] [Command] Toast4Puppy [Toast4Puppy]: /msg dachamp got some foam from a raid
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'R', 'aliases': [], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}"', 'textArgs': ['sender', 'all'], 'autocomplete': True, 'color': 34001} | [2024-07-17 07:39:42.654 UTC] [Info] [Main] [Command] pyeyyyed [pyeyyyed]: /r
+
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'group' | {'name': 'R', 'aliases': [], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}"', 'textArgs': ['sender', 'all'], 'autocomplete': True, 'color': 34001} | [2024-07-17 07:40:17.838 UTC] [Info] [Main] [Command] damolol1245 <9 [ProbsnotBetter_Than_You]: /r
+
+[INFO](retrieveLog) server restarted 16 4634
+[INFO](retrieveLog) wrote 1.6e-05MB to latest.log in 0.6078603267669678
+[INFO](staffParse) CAUGHT UP TO LATEST 0
+[DEBUG](staffLog) 15:21:31/07-17 15:21:13(-3) logged API in 😶: [2024-07-17 10:21:16.100 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 7f52bd285468459fbf50551795acb5ec with type "rank" for 76561199049223246 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 10:21:08 AM
+[DEBUG](staffLog) 15:34:41/07-17 15:34:31(-1) logged MSG in 🌹: [2024-07-17 10:34:32.527 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm pan ill buy it for 200k go to 3B
+[DEBUG](staffLog) 15:47:01/07-17 15:46:45(-2) logged MSG in 🌹: [2024-07-17 10:46:47.024 UTC] [Info] [Main] [Command] /2D CHEAPEST SHOP/ Bouji [Bouji]: /pm rena annen
+[DEBUG](staffLog) 15:57:01/07-17 15:56:43(-2) logged R in 🌹: [2024-07-17 10:56:45.954 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r nc
+[DEBUG](staffLog) 15:57:01/07-17 15:56:47(-3) logged R in 🌹: [2024-07-17 10:56:50.686 UTC] [Info] [Main] [Command] Pog [Cheese]: /r THERES PEOPLE
+[DEBUG](staffLog) 15:57:01/07-17 15:56:49(-3) logged R in 🌹: [2024-07-17 10:56:52.503 UTC] [Info] [Main] [Command] Pog [Cheese]: /r WITH GUNS
+[DEBUG](staffLog) 16:03:31/07-17 16:03:15(-3) logged MSG in 🌹: [2024-07-17 11:03:18.740 UTC] [Info] [Main] [Command] /2D CHEAPEST SHOP/ Bouji [Bouji]: /pm reaqr sa
+[DEBUG](staffLog) 16:09:31/07-17 16:09:13(-3) logged MSG in 🌹: [2024-07-17 11:09:16.469 UTC] [Info] [Main] [Command] Nex XYZ [Nex XYZ]: /pm mntjew78 thanks again man if u need help for any other quest just ask me
+[DEBUG](staffLog) 16:15:41/07-17 16:15:26(-2) logged R in 🌹: [2024-07-17 11:15:28.609 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r fuck labs
+[DEBUG](staffLog) 16:16:11/07-17 16:15:58(-1) logged R in 🌹: [2024-07-17 11:15:59.877 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lol
+[DEBUG](staffLog) 16:16:31/07-17 16:16:15(-1) logged R in 🌹: [2024-07-17 11:16:16.489 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r like if i shoot i lag im better off with 1 tap
+[DEBUG](staffLog) 16:16:41/07-17 16:16:27(-1) logged R in 🌹: [2024-07-17 11:16:28.305 UTC] [Info] [Main] [Command] Pog [Cheese]: /r bring grenades
+[DEBUG](staffLog) 16:16:41/07-17 16:16:27(-3) logged R in 🌹: [2024-07-17 11:16:30.280 UTC] [Info] [Main] [Command] Pog [Cheese]: /r and flash
+[DEBUG](staffLog) 16:16:51/07-17 16:16:42(-3) logged R in 🌹: [2024-07-17 11:16:45.217 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r nah jus naked with 5 mags and 1 belt
+[DEBUG](staffLog) 16:17:01/07-17 16:16:50(-1) logged R in 🌹: [2024-07-17 11:16:51.481 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lol
+[DEBUG](staffLog) 16:17:11/07-17 16:16:57(-2) logged R in 🌹: [2024-07-17 11:16:59.758 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r that have 2 diff scope mid and long range
+[DEBUG](staffLog) 16:17:21/07-17 16:17:08(-3) logged R in 🌹: [2024-07-17 11:17:11.804 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lol
+[DEBUG](staffLog) 16:17:41/07-17 16:17:28(-3) logged R in 🌹: [2024-07-17 11:17:31.896 UTC] [Info] [Main] [Command] Pog [Cheese]: /r i can get a trg 42
+[DEBUG](staffLog) 16:17:51/07-17 16:17:36(-3) logged R in 🌹: [2024-07-17 11:17:39.177 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r how much?
+[DEBUG](staffLog) 16:18:11/07-17 16:17:55(-3) logged MSG in 🌹: [2024-07-17 11:17:58.168 UTC] [Info] [Main] [Command] Sopita [Sopita-Kun]: /pm miyuki 200k TRG-42
+[DEBUG](staffLog) 16:18:31/07-17 16:18:13(-2) logged R in 🌹: [2024-07-17 11:18:15.790 UTC] [Info] [Main] [Command] Pog [Cheese]: /r is it jaeger lvl 4
+[DEBUG](staffLog) 16:18:31/07-17 16:18:19(-2) logged R in 🌹: [2024-07-17 11:18:21.800 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r yea
+[DEBUG](staffLog) 16:18:41/07-17 16:18:27(-1) logged R in 🌹: [2024-07-17 11:18:28.781 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r under the grenade luncher
+[DEBUG](staffLog) 16:19:11/07-17 16:19:03(-1) logged R in 🌹: [2024-07-17 11:19:04.650 UTC] [Info] [Main] [Command] Pog [Cheese]: /r 200k
+[DEBUG](staffLog) 16:19:21/07-17 16:19:12(-2) logged R in 🌹: [2024-07-17 11:19:14.200 UTC] [Info] [Main] [Command] Pog [Cheese]: /r scammed
+[DEBUG](staffLog) 16:19:21/07-17 16:19:14(-1) logged R in 🌹: [2024-07-17 11:19:15.503 UTC] [Info] [Main] [Command] Pog [Cheese]: /r real
+[DEBUG](staffLog) 16:19:51/07-17 16:19:36(-3) logged R in 🌹: [2024-07-17 11:19:39.873 UTC] [Info] [Main] [Command] Pog [Cheese]: /r this mfer
+[DEBUG](staffLog) 16:21:11/07-17 16:21:02(-1) logged R in 🌹: [2024-07-17 11:21:03.870 UTC] [Info] [Main] [Command] Pog [Cheese]: /r city?
+[DEBUG](staffLog) 16:21:21/07-17 16:21:08(-2) logged R in 🌹: [2024-07-17 11:21:10.032 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r customs
+[DEBUG](staffLog) 16:21:21/07-17 16:21:12(-3) logged R in 🌹: [2024-07-17 11:21:15.169 UTC] [Info] [Main] [Command] Pog [Cheese]: /r is that pk
+[DEBUG](staffLog) 16:21:31/07-17 16:21:17(-2) logged R in 🌹: [2024-07-17 11:21:19.185 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r yea
+[DEBUG](staffLog) 16:21:41/07-17 16:21:30(-1) logged R in 🌹: [2024-07-17 11:21:31.649 UTC] [Info] [Main] [Command] Pog [Cheese]: /r then its not rags donut
+[DEBUG](staffLog) 16:22:11/07-17 16:21:59(-1) logged R in 🌹: [2024-07-17 11:22:00.528 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r yea ik but i think ragman is better doing firs
+[DEBUG](staffLog) 16:22:11/07-17 16:22:02(-1) logged R in 🌹: [2024-07-17 11:22:03.539 UTC] [Info] [Main] [Command] Pog [Cheese]: /r u got the beryls lol
+[DEBUG](staffLog) 16:22:11/07-17 16:22:03(-1) logged R in 🌹: [2024-07-17 11:22:04.508 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r yea ik but i think ragman is better doing first
+[DEBUG](staffLog) 16:22:21/07-17 16:22:08(-1) logged R in 🌹: [2024-07-17 11:22:09.717 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r yea
+[DEBUG](staffLog) 16:22:41/07-17 16:22:25(-2) logged R in 🌹: [2024-07-17 11:22:27.690 UTC] [Info] [Main] [Command] Pog [Cheese]: /r ima borrow that xD
+[DEBUG](staffLog) 16:22:51/07-17 16:22:41(-2) logged R in 🌹: [2024-07-17 11:22:43.603 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r wya?
+[DEBUG](staffLog) 16:23:01/07-17 16:22:48(-2) logged R in 🌹: [2024-07-17 11:22:50.073 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r go to cafe
+[DEBUG](staffLog) 16:23:01/07-17 16:22:49(-2) logged R in 🌹: [2024-07-17 11:22:51.077 UTC] [Info] [Main] [Command] Pog [Cheese]: /r ur shop
+[DEBUG](staffLog) 16:23:11/07-17 16:22:52(-3) logged R in 🌹: [2024-07-17 11:22:55.786 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r ok
+[DEBUG](staffLog) 16:23:11/07-17 16:22:58(-1) logged R in 🌹: [2024-07-17 11:22:59.196 UTC] [Info] [Main] [Command] Pog [Cheese]: /r thats kinda empty
+[DEBUG](staffLog) 16:23:21/07-17 16:23:09(-1) logged R in 🌹: [2024-07-17 11:23:10.035 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lol
+[DEBUG](staffLog) 16:24:31/07-17 16:24:13(-3) logged R in 🌹: [2024-07-17 11:24:16.777 UTC] [Info] [Main] [Command] Pog [Cheese]: /r what the fuck is bro selling a mosin
+[DEBUG](staffLog) 16:24:31/07-17 16:24:24(-1) logged R in 🌹: [2024-07-17 11:24:25.490 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r hes new i think
+[DEBUG](staffLog) 16:25:11/07-17 16:24:54(-2) logged R in 🌹: [2024-07-17 11:24:56.716 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r imma rush labs again with sniper
+[DEBUG](staffLog) 16:25:31/07-17 16:25:17(-3) logged R in 🌹: [2024-07-17 11:25:20.996 UTC] [Info] [Main] [Command] Pog [Cheese]: /r this mfer
+[DEBUG](staffLog) 16:25:51/07-17 16:25:35(-2) logged R in 🌹: [2024-07-17 11:25:37.008 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r im using not even acog scope xD
+[DEBUG](staffLog) 16:25:51/07-17 16:25:38(-1) logged R in 🌹: [2024-07-17 11:25:39.118 UTC] [Info] [Main] [Command] Pog [Cheese]: /r ima make the new guy broke
+[DEBUG](staffLog) 16:26:01/07-17 16:25:44(-3) logged R in 🌹: [2024-07-17 11:25:47.456 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r dont
+[DEBUG](staffLog) 16:26:01/07-17 16:25:50(-2) logged R in 🌹: [2024-07-17 11:25:52.646 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lol
+[DEBUG](staffLog) 16:26:01/07-17 16:25:53(-1) logged R in 🌹: [2024-07-17 11:25:54.668 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r just teach him
+[DEBUG](staffLog) 16:28:31/07-17 16:28:18(-1) logged R in 🌹: [2024-07-17 11:28:19.006 UTC] [Info] [Main] [Command] Pog [Cheese]: /r tell the lx to sell the mosin for 15k
+[DEBUG](staffLog) 16:28:42/07-17 16:28:32(-1) logged R in 🌹: [2024-07-17 11:28:33.860 UTC] [Info] [Main] [Command] Pog [Cheese]: /r nvm i got it
+[DEBUG](staffLog) 16:33:11/07-17 16:32:53(-3) logged R in 🌹: [2024-07-17 11:32:56.011 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lol
+[DEBUG](staffLog) 16:33:51/07-17 16:33:40(-3) logged API in 😶: [2024-07-17 11:33:43.824 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 06b9a92a2b5a4b538bda7b5d905996b2 with type "Spy @" for 76561198209731633 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 11:33:39 AM
+[DEBUG](staffLog) 16:40:21/07-17 16:40:06(-3) logged R in 🌹: [2024-07-17 11:40:09.031 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r i found a m200 wtf
+[DEBUG](staffLog) 16:43:41/07-17 16:43:24(-2) logged R in 🌹: [2024-07-17 11:43:26.156 UTC] [Info] [Main] [Command] Pog [Cheese]: /r u should gimme a free lab card fr
+[DEBUG](staffLog) 16:43:51/07-17 16:43:39(-1) logged R in 🌹: [2024-07-17 11:43:40.121 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r no ones here
+[DEBUG](staffLog) 16:44:11/07-17 16:43:55(-1) logged R in 🌹: [2024-07-17 11:43:56.079 UTC] [Info] [Main] [Command] Pog [Cheese]: /r need to grab intel in tents
+[DEBUG](staffLog) 16:45:21/07-17 16:45:04(-3) logged R in 🌹: [2024-07-17 11:45:07.697 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r wtf i almost jynx myself
+[DEBUG](staffLog) 16:45:22/07-17 16:45:10(-3) logged R in 🌹: [2024-07-17 11:45:13.350 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lmao
+[DEBUG](staffLog) 16:45:41/07-17 16:45:26(-3) logged R in 🌹: [2024-07-17 11:45:29.693 UTC] [Info] [Main] [Command] Pog [Cheese]: /r bringing a revovler to labs
+[DEBUG](staffLog) 16:48:01/07-17 16:47:45(-2) logged R in 🌹: [2024-07-17 11:47:47.589 UTC] [Info] [Main] [Command] Pog [Cheese]: /r wheres the lab sintel
+[DEBUG](staffLog) 16:48:11/07-17 16:47:57(-2) logged R in 🌹: [2024-07-17 11:47:59.858 UTC] [Info] [Main] [Command] Pog [Cheese]: /r idk where the labs intel in the tents is
+[DEBUG](staffLog) 16:48:31/07-17 16:48:17(-1) logged R in 🌹: [2024-07-17 11:48:18.075 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r same spot at the baricaded tent
+[DEBUG](staffLog) 16:48:51/07-17 16:48:34(-3) logged R in 🌹: [2024-07-17 11:48:37.170 UTC] [Info] [Main] [Command] Pog [Cheese]: /r cant see shit rn
+[DEBUG](staffLog) 16:48:51/07-17 16:48:43(-2) logged R in 🌹: [2024-07-17 11:48:45.406 UTC] [Info] [Main] [Command] Pog [Cheese]: /r got it
+[DEBUG](staffLog) 16:49:21/07-17 16:49:11(-3) logged R in 🌹: [2024-07-17 11:49:14.040 UTC] [Info] [Main] [Command] Pog [Cheese]: /r btw im at 1.17m
+[DEBUG](staffLog) 16:49:51/07-17 16:49:36(-3) logged R in 🌹: [2024-07-17 11:49:39.898 UTC] [Info] [Main] [Command] Pog [Cheese]: /r go to stuck
+[DEBUG](staffLog) 16:50:01/07-17 16:49:45(-1) logged R in 🌹: [2024-07-17 11:49:46.778 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r wha
+[DEBUG](staffLog) 16:50:01/07-17 16:49:47(-1) logged R in 🌹: [2024-07-17 11:49:48.077 UTC] [Info] [Main] [Command] Pog [Cheese]: /r actually ur apartmetn
+[DEBUG](staffLog) 16:50:21/07-17 16:50:12(-1) logged R in 🌹: [2024-07-17 11:50:13.521 UTC] [Info] [Main] [Command] Pog [Cheese]: /r go ur apartment
+[DEBUG](staffLog) 16:50:31/07-17 16:50:20(-3) logged R in 🌹: [2024-07-17 11:50:23.283 UTC] [Info] [Main] [Command] Pog [Cheese]: /r ima sell u a svdm
+[DEBUG](staffLog) 16:58:21/07-17 16:58:11(-3) logged MSG in 🌹: [2024-07-17 11:58:14.138 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm pog where?
+[DEBUG](staffLog) 16:58:31/07-17 16:58:15(-3) logged R in 🌹: [2024-07-17 11:58:18.076 UTC] [Info] [Main] [Command] Pog [Cheese]: /r inter
+[DEBUG](staffLog) 16:58:31/07-17 16:58:23(-2) logged R in 🌹: [2024-07-17 11:58:25.080 UTC] [Info] [Main] [Command] Pog [Cheese]: /r FUCKING ON ME
+[DEBUG](staffLog) 16:58:31/07-17 16:58:22(-3) logged R in 🌹: [2024-07-17 11:58:25.345 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r the drop?
+[DEBUG](staffLog) 16:58:41/07-17 16:58:28(-2) logged R in 🌹: [2024-07-17 11:58:30.509 UTC] [Info] [Main] [Command] Pog [Cheese]: /r YES
+[DEBUG](staffLog) 16:58:41/07-17 16:58:32(-1) logged R in 🌹: [2024-07-17 11:58:33.269 UTC] [Info] [Main] [Command] Pog [Cheese]: /r ITS FUCKING ON ME
+[DEBUG](staffLog) 16:58:41/07-17 16:58:34(-1) logged R in 🌹: [2024-07-17 11:58:35.099 UTC] [Info] [Main] [Command] Pog [Cheese]: /R WTF
+[DEBUG](staffLog) 16:58:51/07-17 16:58:36(-2) logged R in 🌹: [2024-07-17 11:58:38.361 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r im here
+[DEBUG](staffLog) 16:59:01/07-17 16:58:44(-2) logged R in 🌹: [2024-07-17 11:58:46.273 UTC] [Info] [Main] [Command] Pog [Cheese]: /r front door
+[DEBUG](staffLog) 16:59:02/07-17 16:58:50(-3) logged R in 🌹: [2024-07-17 11:58:53.920 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r ill cover go
+[DEBUG](staffLog) 16:59:21/07-17 16:59:12(-1) logged R in 🌹: [2024-07-17 11:59:13.667 UTC] [Info] [Main] [Command] Pog [Cheese]: /r come get
+[DEBUG](staffLog) 16:59:41/07-17 16:59:29(-3) logged R in 🌹: [2024-07-17 11:59:32.668 UTC] [Info] [Main] [Command] Pog [Cheese]: /r fuck
+[DEBUG](staffLog) 17:01:01/07-17 17:00:49(-3) logged R in 🌹: [2024-07-17 12:00:52.829 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r im 50%
+[DEBUG](staffLog) 17:01:11/07-17 17:00:54(-2) logged R in 🌹: [2024-07-17 12:00:56.230 UTC] [Info] [Main] [Command] Pog [Cheese]: /r what
+[DEBUG](staffLog) 17:01:11/07-17 17:00:56(-1) logged R in 🌹: [2024-07-17 12:00:57.828 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r hp here
+[DEBUG](staffLog) 17:01:11/07-17 17:00:57(-3) logged R in 🌹: [2024-07-17 12:01:00.775 UTC] [Info] [Main] [Command] Pog [Cheese]: /r lmao
+[DEBUG](staffLog) 17:01:21/07-17 17:01:04(-1) logged R in 🌹: [2024-07-17 12:01:05.682 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r what did u get?
+[DEBUG](staffLog) 17:01:21/07-17 17:01:05(-2) logged R in 🌹: [2024-07-17 12:01:07.335 UTC] [Info] [Main] [Command] Pog [Cheese]: /r go ur apartment btw
+[DEBUG](staffLog) 17:01:21/07-17 17:01:10(-1) logged R in 🌹: [2024-07-17 12:01:11.054 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r ok
+[DEBUG](staffLog) 17:07:01/07-17 17:06:49(-1) logged R in 🌹: [2024-07-17 12:06:50.138 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r imma go to customs
+[DEBUG](staffLog) 17:15:01/07-17 17:14:42(-3) logged R in 🌹: [2024-07-17 12:14:45.603 UTC] [Info] [Main] [Command] Pog [Cheese]: /r should i sell the color lab cards
+[DEBUG](staffLog) 17:23:51/07-17 17:23:40(-3) logged R in 🌹: [2024-07-17 12:23:43.952 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r imma get itt back
+[DEBUG](staffLog) 17:24:31/07-17 17:24:18(-2) logged R in 🌹: [2024-07-17 12:24:20.029 UTC] [Info] [Main] [Command] Pog [Cheese]: /r hes over there fence
+[DEBUG](staffLog) 17:24:41/07-17 17:24:29(-1) logged R in 🌹: [2024-07-17 12:24:30.956 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r i can
+[DEBUG](staffLog) 17:30:22/07-17 17:30:11(-3) logged R in 🌹: [2024-07-17 12:30:14.446 UTC] [Info] [Main] [Command] Pog [Cheese]: /r i lied to red i got 300k
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'autocomplete': True, 'color': 34001} | [2024-07-17 12:48:17.756 UTC] [Info] [Main] [Command] sophie rain [mbappe]: /MSG
+
+[DEBUG](staffLog) 18:50:11/07-17 18:49:54(-2) logged MSG in 🌹: [2024-07-17 13:49:56.456 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm pog fck labs so many rats
+[DEBUG](staffLog) 18:50:11/07-17 18:50:02(-3) logged R in 🌹: [2024-07-17 13:50:05.629 UTC] [Info] [Main] [Command] Pog [Cheese]: /r i need interchagne kills
+[DEBUG](staffLog) 18:51:51/07-17 18:51:42(-1) logged MSG in 🌹: [2024-07-17 13:51:43.428 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm pog dont go to city
+[DEBUG](staffLog) 18:52:01/07-17 18:51:45(-3) logged R in 🌹: [2024-07-17 13:51:48.664 UTC] [Info] [Main] [Command] Pog [Cheese]: /r why
+[DEBUG](staffLog) 18:52:11/07-17 18:51:54(-3) logged R in 🌹: [2024-07-17 13:51:57.155 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r everyone is gonna die
+[DEBUG](staffLog) 18:52:11/07-17 18:51:59(-1) logged R in 🌹: [2024-07-17 13:52:00.710 UTC] [Info] [Main] [Command] Pog [Cheese]: /r wydm
+[DEBUG](staffLog) 18:52:31/07-17 18:52:19(-2) logged R in 🌹: [2024-07-17 13:52:21.683 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r anyone peeking is dead
+[DEBUG](staffLog) 18:52:51/07-17 18:52:36(-1) logged R in 🌹: [2024-07-17 13:52:37.306 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r anyone peeking is dead
+[DEBUG](staffLog) 18:52:52/07-17 18:52:41(-2) logged R in 🌹: [2024-07-17 13:52:43.791 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r oops
+[DEBUG](staffLog) 18:53:01/07-17 18:52:43(-3) logged R in 🌹: [2024-07-17 13:52:46.525 UTC] [Info] [Main] [Command] Pog [Cheese]: /r i cans see that
+[DEBUG](staffLog) 18:53:21/07-17 18:53:10(-1) logged R in 🌹: [2024-07-17 13:53:11.911 UTC] [Info] [Main] [Command] Pog [Cheese]: /r when was last full moon
+[DEBUG](staffLog) 18:53:31/07-17 18:53:16(-3) logged R in 🌹: [2024-07-17 13:53:19.647 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r last night
+[DEBUG](staffLog) 18:53:31/07-17 18:53:22(-2) logged R in 🌹: [2024-07-17 13:53:24.040 UTC] [Info] [Main] [Command] Pog [Cheese]: /r bruh
+[DEBUG](staffLog) 18:59:41/07-17 18:59:33(-1) logged MSG in 🌹: [2024-07-17 13:59:34.484 UTC] [Info] [Main] [Command] Man or Bear [Taunting]: /pm pog not customs
+[DEBUG](staffLog) 18:59:51/07-17 18:59:41(-2) logged R in 🌹: [2024-07-17 13:59:43.220 UTC] [Info] [Main] [Command] Pog [Cheese]: /r in interchange rn
+[DEBUG](staffLog) 19:00:01/07-17 18:59:46(-1) logged R in 🌹: [2024-07-17 13:59:47.941 UTC] [Info] [Main] [Command] Pog [Cheese]: /r nto iner
+[DEBUG](staffLog) 19:00:01/07-17 18:59:49(-1) logged MSG in 🌹: [2024-07-17 13:59:50.576 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm pog where/
+[DEBUG](staffLog) 19:00:02/07-17 18:59:52(-2) logged R in 🌹: [2024-07-17 13:59:54.027 UTC] [Info] [Main] [Command] Pog [Cheese]: /r city
+[DEBUG](staffLog) 19:00:11/07-17 18:59:57(-1) logged R in 🌹: [2024-07-17 13:59:58.664 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r really?
+[DEBUG](staffLog) 19:00:21/07-17 19:00:04(-3) logged R in 🌹: [2024-07-17 14:00:07.309 UTC] [Info] [Main] [Command] Pog [Cheese]: /r yeah
+[DEBUG](staffLog) 19:00:21/07-17 19:00:05(-3) logged R in 🌹: [2024-07-17 14:00:08.892 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r wa?
+[DEBUG](staffLog) 19:00:22/07-17 19:00:09(-2) logged R in 🌹: [2024-07-17 14:00:11.788 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r wyya?
+[DEBUG](staffLog) 19:00:22/07-17 19:00:08(-3) logged R in 🌹: [2024-07-17 14:00:11.977 UTC] [Info] [Main] [Command] Pog [Cheese]: /r customs
+[DEBUG](staffLog) 19:00:26/07-17 19:00:13(-2) logged R in 🌹: [2024-07-17 14:00:15.544 UTC] [Info] [Main] [Command] Pog [Cheese]: /r i think
+[DEBUG](staffLog) 19:00:41/07-17 19:00:25(-2) logged R in 🌹: [2024-07-17 14:00:27.672 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r its ccity
+[DEBUG](staffLog) 19:01:21/07-17 19:01:05(-3) logged R in 🌹: [2024-07-17 14:01:08.271 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r u got i?
+[DEBUG](staffLog) 19:01:21/07-17 19:01:10(-2) logged R in 🌹: [2024-07-17 14:01:12.450 UTC] [Info] [Main] [Command] Pog [Cheese]: /r no
+[DEBUG](staffLog) 19:02:11/07-17 19:01:55(-2) logged R in 🌹: [2024-07-17 14:01:57.087 UTC] [Info] [Main] [Command] Pog [Cheese]: /r its gone
+[DEBUG](staffLog) 19:02:22/07-17 19:02:10(-3) logged R in 🌹: [2024-07-17 14:02:13.348 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r i saw him extract F
+[DEBUG](staffLog) 19:02:41/07-17 19:02:30(-2) logged MSG in 🌹: [2024-07-17 14:02:32.805 UTC] [Info] [Main] [Command] Man or Bear [Taunting]: /pm pog "i aint gon lieeee b i got the droppp"
+[DEBUG](staffLog) 19:03:01/07-17 19:02:44(-3) logged R in 🌹: [2024-07-17 14:02:47.665 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r i cant type with this broken t keyyboard
+[DEBUG](staffLog) 19:03:02/07-17 19:02:51(-2) logged MSG in 🌹: [2024-07-17 14:02:53.411 UTC] [Info] [Main] [Command] Man or Bear [Taunting]: /pm pog "come to sewers and vault ts"
+[DEBUG](staffLog) 19:03:02/07-17 19:02:53(-2) logged R in 🌹: [2024-07-17 14:02:55.499 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /r so fucking annoyign
+[DEBUG](staffLog) 19:09:36/07-17 19:09:23(-1) logged API in 😶: [2024-07-17 14:09:24.772 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action d59236590b874fd2b97a7652fc5d27d2 with type "limbshot @" for 76561197969119004 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/17/2024 2:09:15 PM
+[DEBUG](staffLog) 19:10:12/07-17 19:09:57(-2) logged CONNECTING in 🤣: [2024-07-17 14:09:59.155 UTC] [Info] [Main] Connecting: PlayerID: 76561199125711591 Steam Name: jack Character name: jack Nick: jack Group: 112589998357433873 Join GUID: f36b98df-a530-4ea4-aa9a-93417313da42 Character Slot: 0 Language: English

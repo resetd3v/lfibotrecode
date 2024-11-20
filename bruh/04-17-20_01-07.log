@@ -1,0 +1,5 @@
+[INFO](retrieveLog) wrote 2.036827MB to latest.log in 1.2030003070831299
+[INFO](staffParse) CAUGHT UP TO LATEST 63
+[DEBUG](staffLog) 08:17:45/07-01 08:16:51(-3) fakelogged DEBUG in 🤯: [2024-07-01 03:16:54.687 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /addshop buy l115a3 450000
+[DEBUG](staffLog) 08:18:05/07-01 08:17:11(-1) fakelogged DEBUG in 🤯: [2024-07-01 03:17:12.977 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /doortp
+[DEBUG](staffLog) 08:18:45/07-01 08:17:53(-1) logged DEBUG in debug-logs: [2024-07-01 03:17:54.077 UTC] [Info] [Main] [Command] 猫猫糕 [stacey]: /open

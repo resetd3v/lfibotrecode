@@ -1,0 +1,6 @@
+[INFO](retrieveLog) wrote 6.132843MB to latest.log in 1.6246371269226074
+[INFO](staffParse) CAUGHT UP TO LATEST 121
+[INFO](listMonitors) succesfully listed 5 monitors for user resetdev
+[DEBUG](staffLog) 06:24:47/08-20 06:24:33(-1) logged MSG in 🌹: [2024-08-20 01:24:34.327 UTC] [Info] [Main] [Command] Dyxx [xXDylanXx]: /PM EMPA DOWN
+[DEBUG](staffLog) 06:24:47/08-20 06:24:38(-1) logged MSG in 🌹: [2024-08-20 01:24:39.415 UTC] [Info] [Main] [Command] Dyxx [xXDylanXx]: /PM MK DOWN
+[DEBUG](staffLog) 06:38:11/08-20 06:37:46(-2) logged API in 😶: [2024-08-20 01:37:48.849 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 34b7ddfc45c84bb6bdda6963ba696be4 with type "rank" for 76561199013302328 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 8/20/2024 1:37:45 AM

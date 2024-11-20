@@ -1,0 +1,365 @@
+[INFO](retrieveLog) wrote 7.918818MB to latest.log in 1.4230332374572754
+[INFO](staffParse) CAUGHT UP TO LATEST 37
+[DEBUG](staffLog) 12:24:02/07-15 12:23:55(-3) logged MSG in 🌹: [2024-07-15 07:23:58.091 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm lman come 3C i can give you like 60 or how many you need
+[DEBUG](staffLog) 12:42:13/07-15 12:42:12(-2) logged CONNECTING in 🤣: [2024-07-15 07:42:14.035 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: 994e7fdb-cbe8-4405-94c0-c275f7bcd307 Character Slot: 0 Language: English
+[DEBUG](staffLog) 12:43:12/07-15 12:43:08(-2) logged DEBUG in debug-logs: [2024-07-15 07:43:10.723 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /heal
+[DEBUG](staffLog) 12:43:22/07-15 12:43:21(-3) logged DEBUG in debug-logs: [2024-07-15 07:43:24.611 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sduty
+[DEBUG](staffLog) 12:44:42/07-15 12:44:40(-1) logged DEBUG in debug-logs: [2024-07-15 07:44:41.716 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /w * 10
+[DEBUG](staffLog) 12:44:42/07-15 12:44:43(-2) logged DEBUG in debug-logs: [2024-07-15 07:44:45.346 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /wreck confirm
+[DEBUG](staffLog) 12:45:32/07-15 12:45:25(-3) logged DEBUG in debug-logs: [2024-07-15 07:45:28.951 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 12:45:42/07-15 12:45:35(-2) logged MSG in 🌹: [2024-07-15 07:45:37.940 UTC] [Info] [Main] [Command] Ramen & Oj [Ramen & Oj]: /pm angel can u tp to me rq i need to see if you can remove these storages someone placed so i  can decorate
+[DEBUG](staffLog) 12:46:42/07-15 12:46:34(-3) logged DEBUG in debug-logs: [2024-07-15 07:46:37.382 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /w * 10
+[DEBUG](staffLog) 12:46:43/07-15 12:46:37(-1) logged DEBUG in debug-logs: [2024-07-15 07:46:38.937 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /wreck confirm
+[DEBUG](staffLog) 12:46:43/07-15 12:46:38(-1) logged MSG in 🌹: [2024-07-15 07:46:39.182 UTC] [Info] [Main] [Command] Ramen & Oj [Ramen & Oj]: /pm angel can u tp to me rq i need to see if you can remove these storages someone placed so i  can decorate
+[DEBUG](staffLog) 12:47:22/07-15 12:47:17(-3) logged DEBUG in debug-logs: [2024-07-15 07:47:20.819 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /w * 10
+[DEBUG](staffLog) 12:47:22/07-15 12:47:19(-2) logged DEBUG in debug-logs: [2024-07-15 07:47:21.991 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /wreck confirm
+[DEBUG](staffLog) 12:47:42/07-15 12:47:43(-1) logged DEBUG in debug-logs: [2024-07-15 07:47:44.397 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 12:50:12/07-15 12:50:07(-3) fakelogged DEBUG in 🤯: [2024-07-15 07:50:10.849 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i grot
+[DEBUG](staffLog) 12:53:42/07-15 12:53:35(-1) logged MSG in 🌹: [2024-07-15 07:53:36.881 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm bcox you got a mrad
+[DEBUG](staffLog) 12:56:32/07-15 12:56:33(-1) logged MSG in 🌹: [2024-07-15 07:56:34.582 UTC] [Info] [Main] [Command] bucket! [bucket]: /pm imred enjoy the 400k
+[DEBUG](staffLog) 12:56:42/07-15 12:56:40(-3) logged DEBUG in debug-logs: [2024-07-15 07:56:43.047 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 12:57:02/07-15 12:56:56(-1) logged DEBUG in debug-logs: [2024-07-15 07:56:57.495 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 12:57:52/07-15 12:57:45(-3) fakelogged DEBUG in 🤯: [2024-07-15 07:57:48.658 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i ak9
+[DEBUG](staffLog) 12:58:02/07-15 12:57:58(-1) logged DEBUG in debug-logs: [2024-07-15 07:57:59.277 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 12:58:52/07-15 12:58:47(-1) logged DEBUG in debug-logs: [2024-07-15 07:58:48.870 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55000 3
+[DEBUG](staffLog) 12:58:52/07-15 12:58:47(-2) logged API in 😶 mentioned 846641395581190155: [2024-07-15 07:58:49.415 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 64e5a1a758694241a7eb1b378ccaf0e2 with type "Spy @" for 76561198884479492 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/15/2024 7:58:49 AM
+[DEBUG](staffLog) 12:58:52/07-15 12:58:51(-1) logged DEBUG in debug-logs: [2024-07-15 07:58:52.131 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55000 4
+[DEBUG](staffLog) 12:59:22/07-15 12:59:16(-2) logged CHAT in 🥶: [2024-07-15 07:59:18.189 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: wha
+[DEBUG](staffLog) 12:59:22/07-15 12:59:17(-2) logged API in 😶 mentioned 846641395581190155: [2024-07-15 07:59:19.473 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action a7c220dad15e4d2585868065b422cb04 with type "Spy @" for 76561198884479492 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/15/2024 7:59:09 AM
+[DEBUG](staffLog) 12:59:32/07-15 12:59:28(-3) logged DEBUG in debug-logs: [2024-07-15 07:59:31.496 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55400 4
+[DEBUG](staffLog) 12:59:52/07-15 12:59:47(-1) logged VANISH in vanish: [2024-07-15 07:59:48.752 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 12:59:52/07-15 12:59:51(-3) logged TP in tp: [2024-07-15 07:59:54.051 UTC] [Info] [Main] Pandahut >> Silly Person :3 (76561198856241780) - Teleported to Ramen & Oj (76561199621033770 at East of Arena (2857.479 0.300001 1659.194) from North West of Range (360.5386 65.31445 2599.547)
+[DEBUG](staffLog) 12:59:52/07-15 12:59:52(-3) logged MSG in 🌹: [2024-07-15 07:59:55.929 UTC] [Info] [Main] [Command] Ramen & Oj [Ramen & Oj]: /pm angel can you tp and move these storages someone placed im trying to decorate but they are in the way
+[DEBUG](staffLog) 13:00:02/07-15 13:00:02(-1) logged VANISH in vanish: [2024-07-15 08:00:03.050 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 13:00:12/07-15 13:00:10(-1) logged DEBUG in debug-logs: [2024-07-15 08:00:11.469 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkowner'
+[DEBUG](staffLog) 13:00:13/07-15 13:00:14(-1) logged DEBUG in debug-logs: [2024-07-15 08:00:15.270 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkowner
+[DEBUG](staffLog) 13:00:22/07-15 13:00:14(-2) logged MSG in 🌹: [2024-07-15 08:00:16.442 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm silly thanks for all the mpx and ak-74m this morning
+[DEBUG](staffLog) 13:00:22/07-15 13:00:19(-1) logged DEBUG in debug-logs: [2024-07-15 08:00:20.097 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkowner
+[DEBUG](staffLog) 13:00:22/07-15 13:00:19(-3) logged DEBUG in debug-logs: [2024-07-15 08:00:22.748 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkowner
+[DEBUG](staffLog) 13:00:23/07-15 13:00:23(-1) logged DEBUG in debug-logs: [2024-07-15 08:00:24.231 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkowner
+[DEBUG](staffLog) 13:00:42/07-15 13:00:36(-2) logged DEBUG in debug-logs: [2024-07-15 08:00:38.070 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkownerdm
+[DEBUG](staffLog) 13:00:42/07-15 13:00:38(-1) logged DEBUG in debug-logs: [2024-07-15 08:00:39.425 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkownerdm
+[DEBUG](staffLog) 13:00:42/07-15 13:00:39(-1) logged DEBUG in debug-logs: [2024-07-15 08:00:40.927 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkownerdm
+[DEBUG](staffLog) 13:00:43/07-15 13:00:39(-3) logged DEBUG in debug-logs: [2024-07-15 08:00:42.469 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /checkownerdm
+[DEBUG](staffLog) 13:00:52/07-15 13:00:47(-1) logged R in 🌹: [2024-07-15 08:00:48.421 UTC] [Info] [Main] [Command] Ramen & Oj [Ramen & Oj]: /r my friend ows the other door
+[DEBUG](staffLog) 13:01:02/07-15 13:00:57(-1) logged DEBUG in debug-logs: [2024-07-15 08:00:58.697 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /wb
+[DEBUG](staffLog) 13:01:03/07-15 13:00:57(-3) logged DEBUG in debug-logs: [2024-07-15 08:01:00.001 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /wb
+[DEBUG](staffLog) 13:01:04/07-15 13:01:02(-3) logged DEBUG in debug-logs: [2024-07-15 08:01:05.826 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 13:01:22/07-15 13:01:23(-2) logged DEBUG in debug-logs: [2024-07-15 08:01:25.035 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 13:03:12/07-15 13:03:07(-3) logged MSG in 🌹: [2024-07-15 08:03:10.054 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg moose cleared all of my horded items . . . got to 9m
+[DEBUG](staffLog) 13:03:32/07-15 13:03:32(-1) logged DISCONNECTING in 🤐: [2024-07-15 08:03:33.339 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Session Length 21.32 Minutes
+[DEBUG](staffLog) 13:04:12/07-15 13:04:09(-3) logged MSG in 🌹: [2024-07-15 08:04:12.877 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg grey yo grey hows ur wipe goin
+[DEBUG](staffLog) 13:05:12/07-15 13:05:04(-3) logged MSG in 🌹: [2024-07-15 08:05:07.610 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm shmegma want me to come city
+[DEBUG](staffLog) 13:06:12/07-15 13:06:09(-1) logged MSG in 🌹: [2024-07-15 08:06:10.384 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg Lman good bro just struggling on these kill quest
+[DEBUG](staffLog) 13:06:22/07-15 13:06:18(-2) logged R in 🌹: [2024-07-15 08:06:20.026 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r ah yea, if you need help homie lmk
+[DEBUG](staffLog) 13:06:52/07-15 13:06:53(-2) logged MSG in 🌹: [2024-07-15 08:06:55.048 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman 40 kills for pc is crazy xD but im 15 in
+[DEBUG](staffLog) 13:07:02/07-15 13:07:03(-1) logged R in 🌹: [2024-07-15 08:07:04.980 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r havent even gotten that far
+[DEBUG](staffLog) 13:07:12/07-15 13:07:05(-2) logged MSG in 🌹: [2024-07-15 08:07:07.022 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman wbu gang
+[DEBUG](staffLog) 13:07:22/07-15 13:07:15(-2) logged R in 🌹: [2024-07-15 08:07:17.088 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r good good, havent played too much
+[DEBUG](staffLog) 13:07:52/07-15 13:07:51(-3) logged MSG in 🌹: [2024-07-15 08:07:54.723 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman yea was wondering where u was did so u on wipe day
+[DEBUG](staffLog) 13:08:12/07-15 13:08:06(-3) logged R in 🌹 mentioned None: [2024-07-15 08:08:09.689 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r i was on for like an hour lol
+[DEBUG](staffLog) 13:08:22/07-15 13:08:24(-1) logged MSG in 🌹: [2024-07-15 08:08:25.267 UTC] [Info] [Main] [Command] Sopita [Sopita-Kun]: /pm imredneck i have AKM i sell you for 100k
+[DEBUG](staffLog) 13:08:32/07-15 13:08:25(-3) logged MSG in 🌹: [2024-07-15 08:08:28.096 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman lol was grinding task like crazy that day
+[DEBUG](staffLog) 13:08:42/07-15 13:08:34(-2) logged MSG in 🌹: [2024-07-15 08:08:36.558 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg grey im mostly through all quests, like t3 almost all traders already, got like 9m currently too
+[DEBUG](staffLog) 13:09:53/07-15 13:09:44(-2) logged MSG in 🌹: [2024-07-15 08:09:46.418 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman nice, im currently t4 and t3 everything rn but only got 3.4 to my name lol
+[DEBUG](staffLog) 13:10:02/07-15 13:10:02(-1) logged R in 🌹: [2024-07-15 08:10:03.460 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r hey thats still good, 5 mins ago i had sub 1m
+[DEBUG](staffLog) 13:10:32/07-15 13:10:30(-3) logged MSG in 🌹: [2024-07-15 08:10:33.829 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman im bouta go broke again cuz of ther 3
+[DEBUG](staffLog) 13:10:42/07-15 13:10:39(-2) logged R in 🌹 mentioned None: [2024-07-15 08:10:41.297 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /r u keep the money
+[DEBUG](staffLog) 13:11:12/07-15 13:11:13(-2) logged MSG in 🌹: [2024-07-15 08:11:15.089 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg grey if you turn it in you keep the money it doesnt take it
+[DEBUG](staffLog) 13:11:23/07-15 13:11:19(-1) logged MSG in 🌹: [2024-07-15 08:11:20.887 UTC] [Info] [Main] [Command] Grey5nine23 [Grey5nine23]: /msg lman omg frrrr? was stressing xD
+[DEBUG](staffLog) 13:11:23/07-15 13:11:19(-3) logged MSG in 🌹: [2024-07-15 08:11:22.350 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg grey you just gotta prove you have it typa thing
+[DEBUG](staffLog) 13:20:02/07-15 13:19:56(-1) logged MSG in 🌹: [2024-07-15 08:19:57.192 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg tomcat lol noooo, i will guard ur stuff
+[DEBUG](staffLog) 13:23:42/07-15 13:23:43(-2) logged MSG in 🌹: [2024-07-15 08:23:45.447 UTC] [Info] [Main] [Command] bucket! [bucket]: /pm tnt i have a job for you
+[DEBUG](staffLog) 13:26:12/07-15 13:26:12(-2) logged MSG in 🌹: [2024-07-15 08:26:14.532 UTC] [Info] [Main] [Command] ImRedneckBandit [ImRedneckBandit]: /pm bucket! you need transmitter?
+[DEBUG](staffLog) 13:27:43/07-15 13:27:40(-2) logged CONNECTING in 🤣: [2024-07-15 08:27:42.829 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: ea763b74-6e1b-4040-b57c-c64b4e3e3c41 Character Slot: 0 Language: English
+[DEBUG](staffLog) 13:29:12/07-15 13:29:08(-3) fakelogged DEBUG in 🤯: [2024-07-15 08:29:11.868 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i mxc
+[DEBUG](staffLog) 13:29:12/07-15 13:29:15(-1) fakelogged DEBUG in 🤯: [2024-07-15 08:29:16.063 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i mcx
+[DEBUG](staffLog) 13:29:22/07-15 13:29:17(-3) fakelogged DEBUG in 🤯: [2024-07-15 08:29:20.336 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 253
+[DEBUG](staffLog) 13:33:52/07-15 13:33:51(-3) logged MSG in 🌹: [2024-07-15 08:33:54.591 UTC] [Info] [Main] [Command] Lman [Cat With A Gat]: /msg tom idk why he did that
+[DEBUG](staffLog) 13:34:02/07-15 13:33:58(-1) logged DEBUG in debug-logs: [2024-07-15 08:33:59.122 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /camera
+[DEBUG](staffLog) 13:34:39/07-15 13:34:27(-3) logged API in 😶: [2024-07-15 08:34:30.663 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action 49878884830d478c849795db6751643e with type "Spy @" for 76561199741593687 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/15/2024 8:34:23 AM
+[DEBUG](staffLog) 13:36:43/07-15 13:36:38(-3) logged CHAT in 🥶: [2024-07-15 08:36:41.871 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: PK sells the mrad
+[DEBUG](staffLog) 13:45:22/07-15 13:45:21(-1) logged DISCONNECTING in 🤐: [2024-07-15 08:45:22.834 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Session Length 17.67 Minutes
+[DEBUG](staffLog) 13:50:32/07-15 13:50:26(-2) logged MSG in 🌹: [2024-07-15 08:50:28.300 UTC] [Info] [Main] [Command] ForTrappers0nly [reavesdamian871]: /pm whiteboy i see you
+[DEBUG](staffLog) 13:52:02/07-15 13:51:57(-2) logged MSG in 🌹: [2024-07-15 08:51:59.310 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm trapper can i buy the gun you got from the dude
+[DEBUG](staffLog) 13:52:12/07-15 13:52:11(-2) logged MSG in 🌹: [2024-07-15 08:52:13.532 UTC] [Info] [Main] [Command] ForTrappers0nly [reavesdamian871]: /pm whiteboy which one bro?
+[DEBUG](staffLog) 13:52:32/07-15 13:52:27(-1) logged MSG in 🌹: [2024-07-15 08:52:28.812 UTC] [Info] [Main] [Command] ForTrappers0nly [reavesdamian871]: /pm yall just smoked me so its out there if thats what you mean
+[DEBUG](staffLog) 13:52:32/07-15 13:52:29(-1) logged MSG in 🌹: [2024-07-15 08:52:30.181 UTC] [Info] [Main] [Command] whiteboy [whiteboy5632 notfound.tech]: /pm trapper hk433
+[DEBUG](staffLog) 13:52:42/07-15 13:52:41(-3) logged MSG in 🌹: [2024-07-15 08:52:44.859 UTC] [Info] [Main] [Command] ForTrappers0nly [reavesdamian871]: /pm whiteboy yall just smoked me its out there on the street
+[DEBUG](staffLog) 14:00:02/07-15 13:59:53(-3) logged API in 😶: [2024-07-15 08:59:56.850 UTC] [Info] [Thread Pool Worker] Pandahut >> Dealt with Action ec97e8e21f754d41aa3bbf80c9467f3b with type "Spy @" for 76561199621033770 on Pandahut #19 [Unturnov 1.0 Remastered] [US-East] at 7/15/2024 8:59:51 AM
+[DEBUG](staffLog) 14:15:22/07-15 14:15:14(-3) logged MSG in 🌹: [2024-07-15 09:15:17.328 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm pog wasup
+[DEBUG](staffLog) 14:15:32/07-15 14:15:27(-3) logged MSG in 🌹: [2024-07-15 09:15:30.520 UTC] [Info] [Main] [Command] RetroKing [Retro~]: /pm pog yus
+[INFO](retrieveLog) server restarted 16 757
+[INFO](retrieveLog) server restarted 23987 758
+[DEBUG](staffLog) 14:21:42/07-15 14:21:33(-3) logged CONNECTING in 🤣: [2024-07-15 09:21:36.695 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: c58a5d19-419a-460d-b416-f8304ff76077 Character Slot: 0 Language: English
+[DEBUG](staffLog) 14:25:50/07-15 14:25:48(-3) fakelogged DEBUG in 🤯: [2024-07-15 09:25:51.580 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /trash
+[DEBUG](staffLog) 14:30:11/07-15 14:30:12(-2) logged DISCONNECTING in 🤐: [2024-07-15 09:30:14.194 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Session Length 8.63 Minutes
+[DEBUG](staffLog) 14:30:41/07-15 14:30:41(-2) logged CONNECTING in 🤣: [2024-07-15 09:30:43.220 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: 6ceabe4f-319b-4c24-b9c5-54a5926c7dde Character Slot: 0 Language: English
+[DEBUG](staffLog) 14:33:01/07-15 14:32:59(-2) logged VANISH in vanish: [2024-07-15 09:33:01.379 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 14:33:21/07-15 14:33:18(-3) logged DEBUG in debug-logs: [2024-07-15 09:33:21.355 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 14:33:41/07-15 14:33:39(-3) logged DEBUG in debug-logs: [2024-07-15 09:33:42.916 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55300
+[DEBUG](staffLog) 14:33:51/07-15 14:33:43(-3) logged DEBUG in debug-logs: [2024-07-15 09:33:46.142 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55300 4
+[DEBUG](staffLog) 14:34:10/07-15 14:34:05(-3) fakelogged DEBUG in 🤯: [2024-07-15 09:34:08.767 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i afak
+[DEBUG](staffLog) 14:36:01/07-15 14:35:55(-3) logged VANISH in vanish: [2024-07-15 09:35:58.932 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 14:36:11/07-15 14:36:05(-1) logged DEBUG in debug-logs: [2024-07-15 09:36:06.963 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setspeed silly 4
+[DEBUG](staffLog) 14:36:11/07-15 14:36:06(-2) logged VANISH in vanish: [2024-07-15 09:36:08.906 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 14:36:11/07-15 14:36:08(-1) logged VANISH in vanish: [2024-07-15 09:36:09.781 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 14:36:11/07-15 14:36:07(-3) logged VANISH in vanish: [2024-07-15 09:36:10.470 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 14:36:31/07-15 14:36:26(-1) logged DEBUG in debug-logs: [2024-07-15 09:36:27.114 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:36:31/07-15 14:36:30(-2) logged DEBUG in debug-logs: [2024-07-15 09:36:32.348 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:36:31/07-15 14:36:32(-3) logged DEBUG in debug-logs: [2024-07-15 09:36:35.047 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:36:41/07-15 14:36:34(-3) logged DEBUG in debug-logs: [2024-07-15 09:36:37.664 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:36:51/07-15 14:36:50(-2) logged DEBUG in debug-logs: [2024-07-15 09:36:52.093 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:37:20/07-15 14:37:14(-3) fakelogged DEBUG in 🤯: [2024-07-15 09:37:17.691 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 334
+[DEBUG](staffLog) 14:37:21/07-15 14:37:22(-1) logged DEBUG in debug-logs: [2024-07-15 09:37:23.757 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:37:41/07-15 14:37:42(-3) logged DEBUG in debug-logs: [2024-07-15 09:37:45.848 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /camera
+[DEBUG](staffLog) 14:38:01/07-15 14:37:55(-2) logged DEBUG in debug-logs: [2024-07-15 09:37:57.712 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:38:01/07-15 14:38:00(-2) logged DEBUG in debug-logs: [2024-07-15 09:38:02.172 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:38:31/07-15 14:38:30(-1) logged DEBUG in debug-logs: [2024-07-15 09:38:31.889 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:38:51/07-15 14:38:46(-1) logged DEBUG in debug-logs: [2024-07-15 09:38:47.801 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:38:51/07-15 14:38:48(-1) logged DEBUG in debug-logs: [2024-07-15 09:38:49.993 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:38:52/07-15 14:38:52(-1) logged DEBUG in debug-logs: [2024-07-15 09:38:53.202 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:41:31/07-15 14:41:30(-2) logged DEBUG in debug-logs: [2024-07-15 09:41:32.835 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 14:44:10/07-15 14:44:07(-1) fakelogged DEBUG in 🤯: [2024-07-15 09:44:08.385 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i grizzly
+[DEBUG](staffLog) 14:44:20/07-15 14:44:18(-3) fakelogged DEBUG in 🤯: [2024-07-15 09:44:21.682 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /trash
+[DEBUG](staffLog) 14:44:31/07-15 14:44:23(-3) logged VANISH in vanish: [2024-07-15 09:44:26.472 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 14:44:32/07-15 14:44:25(-2) logged VANISH in vanish: [2024-07-15 09:44:27.279 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vanish
+[DEBUG](staffLog) 14:44:41/07-15 14:44:42(-3) logged DEBUG in debug-logs: [2024-07-15 09:44:45.482 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:44:51/07-15 14:44:47(-1) logged DEBUG in debug-logs: [2024-07-15 09:44:48.476 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /j
+[DEBUG](staffLog) 14:45:20/07-15 14:45:17(-1) fakelogged DEBUG in 🤯: [2024-07-15 09:45:18.201 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 334
+[DEBUG](staffLog) 14:45:21/07-15 14:45:23(-1) logged DEBUG in debug-logs: [2024-07-15 09:45:24.886 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 14:46:31/07-15 14:46:24(-2) logged CHAT in 🥶: [2024-07-15 09:46:26.670 UTC] [Info] [Main] [Group] Silly Person :3 [Angel_Abov3]: chat might do another restart to fix afaks
+[DEBUG](staffLog) 14:46:31/07-15 14:46:32(-3) logged CHAT in 🥶: [2024-07-15 09:46:35.921 UTC] [Info] [Main] [Group] Silly Person :3 [Angel_Abov3]: Chat might to another restart
+[DEBUG](staffLog) 14:46:52/07-15 14:46:47(-1) logged CHAT in 🥶: [2024-07-15 09:46:48.168 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: Chat might do another restart
+[DEBUG](staffLog) 14:46:53/07-15 14:46:49(-3) logged CHAT in 🥶: [2024-07-15 09:46:52.062 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: to fix afaks
+[DEBUG](staffLog) 14:47:21/07-15 14:47:18(-1) logged CHAT in 🥶: [2024-07-15 09:47:19.193 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: I don't feel like waking up to 700 dms "Mane plz fix afak not on shop"
+[DEBUG](staffLog) 14:47:41/07-15 14:47:35(-3) logged CHAT in 🥶: [2024-07-15 09:47:38.646 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: I make the game
+[DEBUG](staffLog) 14:47:41/07-15 14:47:44(-1) logged DEBUG in debug-logs: [2024-07-15 09:47:45.234 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sduty
+[DEBUG](staffLog) 14:48:01/07-15 14:47:58(-3) logged CHAT in 🥶: [2024-07-15 09:48:01.016 UTC] [Info] [Main] [Global] Silly Person :3 [Angel_Abov3]: yes
+[DEBUG](staffLog) 14:48:41/07-15 14:48:41(-1) logged DEBUG in debug-logs: [2024-07-15 09:48:42.514 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /exit
+[DEBUG](staffLog) 14:48:41/07-15 14:48:40(-2) logged DISCONNECTING in 🤐: [2024-07-15 09:48:42.518 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Session Length 17.99 Minutes
+[DEBUG](staffLog) 14:58:41/07-15 14:58:40(-3) logged MSG in 🌹: [2024-07-15 09:58:43.685 UTC] [Info] [Main] [Command] Sopita [Sopita-Kun]: /pm ReAQR tengo 100k
+[DEBUG](staffLog) 14:58:51/07-15 14:58:48(-2) logged MSG in 🌹: [2024-07-15 09:58:50.941 UTC] [Info] [Main] [Command] Sopita [Sopita-Kun]: /pm ReAQR I HAVE 100k
+[INFO](retrieveLog) server restarted 16 1026
+[DEBUG](staffLog) 15:04:22/07-15 15:04:15(-1) logged CONNECTING in 🤣: [2024-07-15 10:04:16.499 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: f26ecc66-3c13-4885-86f7-45a6d45da4fb Character Slot: 0 Language: English
+[DEBUG](staffLog) 15:06:12/07-15 15:06:04(-2) logged CONNECTING in 🤣: [2024-07-15 10:06:06.170 UTC] [Info] [Main] Connecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 0 Join GUID: aedb80d5-9feb-4014-80f7-d9a17f3e71c5 Character Slot: 0 Language: English
+[DEBUG](staffLog) 15:06:21/07-15 15:06:15(-3) logged CHAT in 🥶: [2024-07-15 10:06:18.546 UTC] [Info] [Main] [Global] dsod [dsod]: hmm
+[DEBUG](staffLog) 15:06:21/07-15 15:06:18(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:06:19.937 UTC] [Info] [Main] [Command] dsod [dsod]: /stuck
+[DEBUG](staffLog) 15:06:21/07-15 15:06:22(-3) logged CHAT in 🥶: [2024-07-15 10:06:25.520 UTC] [Info] [Main] [Global] dsod [dsod]: this server stinks
+[DEBUG](staffLog) 15:06:51/07-15 15:06:46(-1) logged CHAT in 🥶: [2024-07-15 10:06:47.479 UTC] [Info] [Main] [Global] dsod [dsod]: like 20
+[DEBUG](staffLog) 15:06:51/07-15 15:06:46(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:06:48.977 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 15:07:11/07-15 15:07:05(-1) logged CHAT in 🥶: [2024-07-15 10:07:06.546 UTC] [Info] [Main] [Global] dsod [dsod]: nah i sell all of them after i get 1 of each
+[DEBUG](staffLog) 15:07:21/07-15 15:07:18(-2) logged CHAT in 🥶: [2024-07-15 10:07:20.914 UTC] [Info] [Main] [Global] dsod [dsod]: not muted anymore ig
+[DEBUG](staffLog) 15:07:41/07-15 15:07:40(-3) logged SC in _: [2024-07-15 10:07:43.959 UTC] [Info] [Main] [Command] dsod [dsod]: /sc angel
+[DEBUG](staffLog) 15:07:51/07-15 15:07:47(-2) logged SC in _: [2024-07-15 10:07:49.014 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc whar
+[DEBUG](staffLog) 15:07:51/07-15 15:07:50(-1) logged MSG in 🌹: [2024-07-15 10:07:51.648 UTC] [Info] [Main] [Command] Bouji [Bouji]: /msg labs where are you
+[DEBUG](staffLog) 15:08:01/07-15 15:07:57(-2) logged SC in _: [2024-07-15 10:07:59.663 UTC] [Info] [Main] [Command] dsod [dsod]: /sc can you dm me a list of the new med items you added please
+[DEBUG](staffLog) 15:08:01/07-15 15:08:00(-3) logged SC in _ mentioned None: [2024-07-15 10:08:03.499 UTC] [Info] [Main] [Command] dsod [dsod]: /sc i wanna dd them to the id list
+[DEBUG](staffLog) 15:08:11/07-15 15:08:05(-2) logged SC in _: [2024-07-15 10:08:07.648 UTC] [Info] [Main] [Command] dsod [dsod]: /sc add*
+[DEBUG](staffLog) 15:08:31/07-15 15:08:25(-3) logged SC in _: [2024-07-15 10:08:28.477 UTC] [Info] [Main] [Command] dsod [dsod]: /sc you dont have to do it now just like
+[DEBUG](staffLog) 15:08:31/07-15 15:08:32(-2) logged SC in _: [2024-07-15 10:08:34.438 UTC] [Info] [Main] [Command] dsod [dsod]: /sc whenever u get a chance
+[DEBUG](staffLog) 15:10:01/07-15 15:10:02(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:10:04.917 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /trash
+[DEBUG](staffLog) 15:10:21/07-15 15:10:20(-2) logged SC in _: [2024-07-15 10:10:22.072 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc now that everything is fixed
+[DEBUG](staffLog) 15:10:31/07-15 15:10:29(-1) logged SC in _ mentioned None: [2024-07-15 10:10:30.352 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /sc I can work on fucking interchange finally
+[DEBUG](staffLog) 15:11:01/07-15 15:10:56(-3) logged DEBUG in debug-logs: [2024-07-15 10:10:59.384 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /exit
+[DEBUG](staffLog) 15:11:01/07-15 15:10:58(-1) logged DISCONNECTING in 🤐: [2024-07-15 10:10:59.386 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Session Length 6.71 Minutes
+[DEBUG](staffLog) 15:12:40/07-15 15:12:38(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:12:41.237 UTC] [Info] [Main] [Command] dsod [dsod]: /i 8908
+[DEBUG](staffLog) 15:12:50/07-15 15:12:45(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:12:47.494 UTC] [Info] [Main] [Command] dsod [dsod]: /i 8931
+[DEBUG](staffLog) 15:12:50/07-15 15:12:49(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:12:52.859 UTC] [Info] [Main] [Command] dsod [dsod]: /i 8930
+[DEBUG](staffLog) 15:13:10/07-15 15:13:09(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:13:11.118 UTC] [Info] [Main] [Command] dsod [dsod]: /i 8908
+[DEBUG](staffLog) 15:17:40/07-15 15:17:42(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:17:45.328 UTC] [Info] [Main] [Command] dsod [dsod]: /trash
+[DEBUG](staffLog) 15:18:11/07-15 15:18:04(-2) logged CHAT in 🥶: [2024-07-15 10:18:06.497 UTC] [Info] [Main] [Global] dsod [dsod]: hmm
+[DEBUG](staffLog) 15:25:01/07-15 15:24:59(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:25:00.568 UTC] [Info] [Main] [Command] dsod [dsod]: /stuck
+[DEBUG](staffLog) 15:25:40/07-15 15:25:41(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:25:42.837 UTC] [Info] [Main] [Command] dsod [dsod]: /i 13003
+[DEBUG](staffLog) 15:25:40/07-15 15:25:41(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:25:44.995 UTC] [Info] [Main] [Command] dsod [dsod]: /i 13004
+[DEBUG](staffLog) 15:27:41/07-15 15:27:43(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:27:44.495 UTC] [Info] [Main] [Command] dsod [dsod]: /i 13005
+[DEBUG](staffLog) 15:27:50/07-15 15:27:44(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:27:47.624 UTC] [Info] [Main] [Command] dsod [dsod]: /i 13006
+[DEBUG](staffLog) 15:27:51/07-15 15:27:47(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:27:50.010 UTC] [Info] [Main] [Command] dsod [dsod]: /i 13009
+[DEBUG](staffLog) 15:28:40/07-15 15:28:38(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:28:40.319 UTC] [Info] [Main] [Command] dsod [dsod]: /TRASH
+[DEBUG](staffLog) 15:29:10/07-15 15:29:11(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:29:14.615 UTC] [Info] [Main] [Command] dsod [dsod]: /i gpu
+[DEBUG](staffLog) 15:30:00/07-15 15:30:01(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:30:04.695 UTC] [Info] [Main] [Command] dsod [dsod]: /trash
+[DEBUG](staffLog) 15:30:10/07-15 15:30:10(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:30:13.339 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 15:30:31/07-15 15:30:26(-1) logged DEBUG in debug-logs: [2024-07-15 10:30:27.998 UTC] [Info] [Main] [Command] dsod [dsod]: /antispy
+[DEBUG](staffLog) 15:30:31/07-15 15:30:30(-1) logged DEBUG in debug-logs: [2024-07-15 10:30:31.158 UTC] [Info] [Main] [Command] dsod [dsod]: /aimspy
+[DEBUG](staffLog) 15:30:42/07-15 15:30:42(-2) logged DEBUG in debug-logs: [2024-07-15 10:30:44.651 UTC] [Info] [Main] [Command] dsod [dsod]: /aimspy dsod 60
+[DEBUG](staffLog) 15:31:01/07-15 15:31:01(-1) logged SPY in 🍑: [2024-07-15 10:31:02.908 UTC] [Info] [Main] [Command] dsod [dsod]: /spy "7a la
+[DEBUG](staffLog) 15:33:01/07-15 15:32:56(-2) logged SERVER in 😃: [2024-07-15 10:32:58.524 UTC] [Info] [Main] [Command] dsod [dsod]: /server 19
+[DEBUG](staffLog) 15:33:01/07-15 15:32:56(-2) logged DISCONNECTING in 🤐: [2024-07-15 10:32:58.909 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 0 Session Length 26.88 Minutes
+[DEBUG](staffLog) 15:33:22/07-15 15:33:23(-1) logged CONNECTING in 🤣: [2024-07-15 10:33:24.347 UTC] [Info] [Main] Connecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 0 Join GUID: 40be1ec0-a9ee-4974-b81a-6c9b444ca622 Character Slot: 0 Language: English
+[DEBUG](staffLog) 15:33:41/07-15 15:33:33(-3) logged DEBUG in debug-logs: [2024-07-15 10:33:36.904 UTC] [Info] [Main] [Command] dsod [dsod]: /plugins
+[DEBUG](staffLog) 15:33:41/07-15 15:33:39(-2) logged DEBUG in debug-logs: [2024-07-15 10:33:41.428 UTC] [Info] [Main] [Command] dsod [dsod]: /permits
+[DEBUG](staffLog) 15:37:11/07-15 15:37:09(-2) logged DEBUG in debug-logs: [2024-07-15 10:37:11.208 UTC] [Info] [Main] [Command] dsod [dsod]: /command
+[DEBUG](staffLog) 15:37:11/07-15 15:37:10(-3) logged DEBUG in debug-logs: [2024-07-15 10:37:13.267 UTC] [Info] [Main] [Command] dsod [dsod]: /commands
+[DEBUG](staffLog) 15:37:12/07-15 15:37:12(-3) logged DEBUG in debug-logs: [2024-07-15 10:37:15.026 UTC] [Info] [Main] [Command] dsod [dsod]: /commandsa
+[DEBUG](staffLog) 15:37:21/07-15 15:37:16(-2) logged DEBUG in debug-logs: [2024-07-15 10:37:18.350 UTC] [Info] [Main] [Command] dsod [dsod]: /comm
+[DEBUG](staffLog) 15:37:21/07-15 15:37:20(-1) logged DEBUG in debug-logs: [2024-07-15 10:37:21.277 UTC] [Info] [Main] [Command] dsod [dsod]: /coe
+[DEBUG](staffLog) 15:37:21/07-15 15:37:22(-2) logged DEBUG in debug-logs: [2024-07-15 10:37:24.662 UTC] [Info] [Main] [Command] dsod [dsod]: /mode
+[DEBUG](staffLog) 15:37:31/07-15 15:37:25(-1) logged DEBUG in debug-logs: [2024-07-15 10:37:26.738 UTC] [Info] [Main] [Command] dsod [dsod]: /mode 1
+[DEBUG](staffLog) 15:37:31/07-15 15:37:26(-3) logged DEBUG in debug-logs: [2024-07-15 10:37:29.254 UTC] [Info] [Main] [Command] dsod [dsod]: /mode 2
+[DEBUG](staffLog) 15:37:31/07-15 15:37:29(-2) logged DEBUG in debug-logs: [2024-07-15 10:37:31.358 UTC] [Info] [Main] [Command] dsod [dsod]: /mode god
+[DEBUG](staffLog) 15:37:31/07-15 15:37:31(-3) logged DEBUG in debug-logs: [2024-07-15 10:37:34.899 UTC] [Info] [Main] [Command] dsod [dsod]: /mo
+[DEBUG](staffLog) 15:37:41/07-15 15:37:33(-3) logged DEBUG in debug-logs: [2024-07-15 10:37:36.969 UTC] [Info] [Main] [Command] dsod [dsod]: /mor
+[DEBUG](staffLog) 15:37:41/07-15 15:37:36(-2) logged DEBUG in debug-logs: [2024-07-15 10:37:38.779 UTC] [Info] [Main] [Command] dsod [dsod]: /more
+[DEBUG](staffLog) 15:37:41/07-15 15:37:39(-1) logged DEBUG in debug-logs: [2024-07-15 10:37:40.891 UTC] [Info] [Main] [Command] dsod [dsod]: /more 1
+[DEBUG](staffLog) 15:37:42/07-15 15:37:40(-3) logged DEBUG in debug-logs: [2024-07-15 10:37:43.178 UTC] [Info] [Main] [Command] dsod [dsod]: /more 1
+[DEBUG](staffLog) 15:37:51/07-15 15:37:43(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:37:46.939 UTC] [Info] [Main] [Command] dsod [dsod]: /trash
+[DEBUG](staffLog) 15:38:01/07-15 15:38:02(-1) logged DEBUG in debug-logs: [2024-07-15 10:38:03.388 UTC] [Info] [Main] [Command] dsod [dsod]: /tr
+[DEBUG](staffLog) 15:38:01/07-15 15:38:02(-3) logged DEBUG in debug-logs: [2024-07-15 10:38:05.640 UTC] [Info] [Main] [Command] dsod [dsod]: /t
+[DEBUG](staffLog) 15:38:11/07-15 15:38:07(-3) logged DEBUG in debug-logs: [2024-07-15 10:38:10.913 UTC] [Info] [Main] [Command] dsod [dsod]: /nr
+[DEBUG](staffLog) 15:38:11/07-15 15:38:11(-3) logged DEBUG in debug-logs: [2024-07-15 10:38:14.089 UTC] [Info] [Main] [Command] dsod [dsod]: /lp
+[DEBUG](staffLog) 15:38:21/07-15 15:38:15(-2) logged DEBUG in debug-logs: [2024-07-15 10:38:17.114 UTC] [Info] [Main] [Command] dsod [dsod]: /lpr
+[DEBUG](staffLog) 15:38:21/07-15 15:38:17(-3) logged DEBUG in debug-logs: [2024-07-15 10:38:20.360 UTC] [Info] [Main] [Command] dsod [dsod]: /pr
+[DEBUG](staffLog) 15:38:21/07-15 15:38:19(-3) logged DEBUG in debug-logs: [2024-07-15 10:38:22.088 UTC] [Info] [Main] [Command] dsod [dsod]: /pr 1
+[DEBUG](staffLog) 15:38:22/07-15 15:38:20(-3) logged DEBUG in debug-logs: [2024-07-15 10:38:23.817 UTC] [Info] [Main] [Command] dsod [dsod]: /pr dsod
+[DEBUG](staffLog) 15:38:26/07-15 15:38:24(-1) logged DEBUG in debug-logs: [2024-07-15 10:38:25.279 UTC] [Info] [Main] [Command] dsod [dsod]: /pr dsod 1
+[DEBUG](staffLog) 15:38:31/07-15 15:38:32(-1) logged DEBUG in debug-logs: [2024-07-15 10:38:33.072 UTC] [Info] [Main] [Command] dsod [dsod]: /p
+[DEBUG](staffLog) 15:38:51/07-15 15:38:47(-3) logged DEBUG in debug-logs: [2024-07-15 10:38:50.725 UTC] [Info] [Main] [Command] dsod [dsod]: /slay
+[DEBUG](staffLog) 15:39:22/07-15 15:39:20(-1) logged CHAT in 🥶: [2024-07-15 10:39:21.012 UTC] [Info] [Main] [Global] dsod [dsod]: pbp interchange
+[DEBUG](staffLog) 15:39:23/07-15 15:39:22(-2) logged CHAT in 🥶: [2024-07-15 10:39:24.852 UTC] [Info] [Main] [Global] dsod [dsod]: pvp*
+[DEBUG](staffLog) 15:39:23/07-15 15:39:25(-1) logged DEBUG in debug-logs: [2024-07-15 10:39:26.000 UTC] [Info] [Main] [Command] dsod [dsod]: /sd
+[DEBUG](staffLog) 15:39:31/07-15 15:39:24(-2) logged DEBUG in debug-logs: [2024-07-15 10:39:26.496 UTC] [Info] [Main] [Command] dsod [dsod]: /sd
+[DEBUG](staffLog) 15:40:51/07-15 15:40:45(-1) logged CHAT in 🥶: [2024-07-15 10:40:46.816 UTC] [Info] [Main] [Global] dsod [dsod]: maybe it was on safety
+[DEBUG](staffLog) 15:41:11/07-15 15:41:08(-2) logged CHAT in 🥶: [2024-07-15 10:41:10.912 UTC] [Info] [Main] [Global] dsod [dsod]: dying to a bear is brutal
+[DEBUG](staffLog) 15:42:11/07-15 15:42:07(-2) logged CHAT in 🥶: [2024-07-15 10:42:09.279 UTC] [Info] [Main] [Global] dsod [dsod]: waht mf legit looted the whole interchange
+[DEBUG](staffLog) 15:42:11/07-15 15:42:08(-2) logged CHAT in 🥶: [2024-07-15 10:42:10.874 UTC] [Info] [Main] [Global] dsod [dsod]: and dipper
+[DEBUG](staffLog) 15:43:01/07-15 15:42:56(-1) logged CHAT in 🥶: [2024-07-15 10:42:57.164 UTC] [Info] [Main] [Global] dsod [dsod]: yea same
+[DEBUG](staffLog) 15:43:31/07-15 15:43:26(-1) logged CHAT in 🥶: [2024-07-15 10:43:27.269 UTC] [Info] [Main] [Global] dsod [dsod]: my quest guide is now out dated ;-;
+[DEBUG](staffLog) 15:43:31/07-15 15:43:34(-1) logged CHAT in 🥶: [2024-07-15 10:43:35.281 UTC] [Info] [Main] [Global] dsod [dsod]: i have to re write it for the like fifth time
+[DEBUG](staffLog) 15:45:40/07-15 15:45:41(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:45:43.276 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 15:46:11/07-15 15:46:07(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:46:10.518 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 15:46:31/07-15 15:46:30(-2) logged CHAT in 🥶: [2024-07-15 10:46:32.280 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 1 aramid and 1 fleece?
+[DEBUG](staffLog) 15:46:31/07-15 15:46:34(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:46:35.900 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 15:46:41/07-15 15:46:40(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:46:41.252 UTC] [Info] [Main] [Command] dsod [dsod]: /vault kappa
+[DEBUG](staffLog) 15:46:41/07-15 15:46:41(-3) logged CHAT in 🥶: [2024-07-15 10:46:44.460 UTC] [Info] [Main] [Global] dsod [dsod]: where yall at
+[DEBUG](staffLog) 15:46:51/07-15 15:46:50(-3) logged CHAT in 🥶: [2024-07-15 10:46:53.669 UTC] [Info] [Main] [Global] dsod [dsod]: alr bet
+[DEBUG](staffLog) 15:46:51/07-15 15:46:55(-1) logged CHAT in 🥶: [2024-07-15 10:46:56.074 UTC] [Info] [Main] [Global] dsod [dsod]: where u at
+[DEBUG](staffLog) 15:47:01/07-15 15:46:58(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:47:01.765 UTC] [Info] [Main] [Command] dsod [dsod]: /stuck
+[DEBUG](staffLog) 15:47:11/07-15 15:47:09(-1) logged CHAT in 🥶: [2024-07-15 10:47:10.293 UTC] [Info] [Main] [Global] dsod [dsod]: how much are they
+[DEBUG](staffLog) 15:47:31/07-15 15:47:29(-3) logged DEBUG in debug-logs: [2024-07-15 10:47:32.465 UTC] [Info] [Main] [Command] dsod [dsod]: /pay "7a labs" 32000
+[DEBUG](staffLog) 15:47:41/07-15 15:47:34(-2) logged CHAT in 🥶: [2024-07-15 10:47:36.894 UTC] [Info] [Main] [Global] dsod [dsod]: ty
+[DEBUG](staffLog) 15:47:41/07-15 15:47:36(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:47:39.740 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 15:48:01/07-15 15:48:03(-2) logged CHAT in 🥶: [2024-07-15 10:48:05.458 UTC] [Info] [Main] [Global] dsod [dsod]: bruh 3 transmitters in woods to place
+[DEBUG](staffLog) 15:48:11/07-15 15:48:06(-3) logged CHAT in 🥶: [2024-07-15 10:48:09.078 UTC] [Info] [Main] [Global] dsod [dsod]: might as well go on a hike
+[DEBUG](staffLog) 15:48:21/07-15 15:48:17(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:48:19.457 UTC] [Info] [Main] [Command] dsod [dsod]: /vault kappa
+[DEBUG](staffLog) 15:48:21/07-15 15:48:22(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:48:23.935 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 15:49:51/07-15 15:49:53(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:49:55.347 UTC] [Info] [Main] [Command] dsod [dsod]: /vault stash
+[DEBUG](staffLog) 15:50:01/07-15 15:49:54(-3) fakelogged DEBUG in 🤯: [2024-07-15 10:49:57.978 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 15:51:41/07-15 15:51:36(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:51:37.070 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 15:53:41/07-15 15:53:37(-1) logged CHAT in 🥶: [2024-07-15 10:53:38.263 UTC] [Info] [Main] [Global] dsod [dsod]: where on dam is the transmitter location
+[DEBUG](staffLog) 15:54:01/07-15 15:54:00(-3) logged CHAT in 🥶: [2024-07-15 10:54:03.862 UTC] [Info] [Main] [Global] dsod [dsod]: no theres another
+[DEBUG](staffLog) 15:54:11/07-15 15:54:05(-2) logged CHAT in 🥶: [2024-07-15 10:54:07.001 UTC] [Info] [Main] [Global] dsod [dsod]: for a different quest
+[DEBUG](staffLog) 15:54:21/07-15 15:54:15(-1) logged CHAT in 🥶: [2024-07-15 10:54:16.849 UTC] [Info] [Main] [Global] dsod [dsod]: for ragman lvl 2 part 2
+[DEBUG](staffLog) 15:54:21/07-15 15:54:20(-3) logged CHAT in 🥶: [2024-07-15 10:54:23.628 UTC] [Info] [Main] [Global] dsod [dsod]: "place transmitter on woods dam"
+[DEBUG](staffLog) 15:54:52/07-15 15:54:47(-1) logged CHAT in 🥶: [2024-07-15 10:54:48.726 UTC] [Info] [Main] [Global] dsod [dsod]: yea?
+[DEBUG](staffLog) 15:54:52/07-15 15:54:49(-3) logged CHAT in 🥶: [2024-07-15 10:54:52.233 UTC] [Info] [Main] [Global] dsod [dsod]: ah alr bet
+[DEBUG](staffLog) 15:54:53/07-15 15:54:51(-1) logged CHAT in 🥶: [2024-07-15 10:54:52.874 UTC] [Info] [Main] [Global] dsod [dsod]: ty
+[DEBUG](staffLog) 15:55:01/07-15 15:55:02(-1) logged CHAT in 🥶: [2024-07-15 10:55:03.494 UTC] [Info] [Main] [Global] dsod [dsod]: sopita
+[DEBUG](staffLog) 15:55:11/07-15 15:55:07(-1) logged CHAT in 🥶: [2024-07-15 10:55:08.595 UTC] [Info] [Main] [Global] dsod [dsod]: im aware of what the dam is
+[DEBUG](staffLog) 15:55:21/07-15 15:55:14(-2) logged CHAT in 🥶: [2024-07-15 10:55:16.236 UTC] [Info] [Main] [Global] dsod [dsod]: i was asking for a more specifc location
+[DEBUG](staffLog) 15:55:21/07-15 15:55:19(-1) logged CHAT in 🥶: [2024-07-15 10:55:20.075 UTC] [Info] [Main] [Global] dsod [dsod]: which part of the dam
+[DEBUG](staffLog) 15:55:21/07-15 15:55:18(-3) logged CHAT in 🥶: [2024-07-15 10:55:21.719 UTC] [Info] [Main] [Global] dsod [dsod]: like bruh
+[DEBUG](staffLog) 15:55:41/07-15 15:55:43(-1) fakelogged DEBUG in 🤯: [2024-07-15 10:55:44.478 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 15:55:51/07-15 15:55:48(-2) logged CHAT in 🥶: [2024-07-15 10:55:50.535 UTC] [Info] [Main] [Global] dsod [dsod]: i got it nice
+[DEBUG](staffLog) 15:56:21/07-15 15:56:13(-3) logged CHAT in 🥶: [2024-07-15 10:56:16.238 UTC] [Info] [Main] [Global] dsod [dsod]: ive figured it out already
+[DEBUG](staffLog) 15:56:21/07-15 15:56:23(-2) logged CHAT in 🥶: [2024-07-15 10:56:25.081 UTC] [Info] [Main] [Global] dsod [dsod]: but ty anyway
+[DEBUG](staffLog) 15:57:01/07-15 15:56:58(-1) logged CHAT in 🥶: [2024-07-15 10:56:59.571 UTC] [Info] [Main] [Global] dsod [dsod]: no idea
+[DEBUG](staffLog) 15:59:31/07-15 15:59:29(-2) fakelogged DEBUG in 🤯: [2024-07-15 10:59:31.821 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:00:21/07-15 16:00:20(-1) logged CHAT in 🥶: [2024-07-15 11:00:21.993 UTC] [Info] [Main] [Global] dsod [dsod]: sure
+[DEBUG](staffLog) 16:00:31/07-15 16:00:27(-3) logged CHAT in 🥶: [2024-07-15 11:00:30.374 UTC] [Info] [Main] [Global] dsod [dsod]: yea
+[DEBUG](staffLog) 16:00:31/07-15 16:00:33(-1) logged CHAT in 🥶: [2024-07-15 11:00:34.044 UTC] [Info] [Main] [Global] dsod [dsod]: its dsodd
+[DEBUG](staffLog) 16:00:41/07-15 16:00:42(-1) logged CHAT in 🥶: [2024-07-15 11:00:43.140 UTC] [Info] [Main] [Global] dsod [dsod]: ah hold on
+[DEBUG](staffLog) 16:03:11/07-15 16:03:10(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:03:13.479 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:10:21/07-15 16:10:15(-1) fakelogged DEBUG in 🤯: [2024-07-15 11:10:16.345 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:10:21/07-15 16:10:20(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:10:22.818 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 16:11:31/07-15 16:11:23(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:11:26.760 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:12:11/07-15 16:12:08(-1) fakelogged DEBUG in 🤯: [2024-07-15 11:12:09.448 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:12:41/07-15 16:12:34(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:12:36.126 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:12:51/07-15 16:12:45(-1) fakelogged DEBUG in 🤯: [2024-07-15 11:12:46.193 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 16:12:51/07-15 16:12:51(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:12:54.741 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:13:01/07-15 16:12:56(-2) logged DEBUG in debug-logs: [2024-07-15 11:12:58.980 UTC] [Info] [Main] [Command] dsod [dsod]: /vailt kappa
+[DEBUG](staffLog) 16:13:01/07-15 16:13:00(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:13:02.651 UTC] [Info] [Main] [Command] dsod [dsod]: /vault kappa
+[DEBUG](staffLog) 16:13:11/07-15 16:13:13(-1) fakelogged DEBUG in 🤯: [2024-07-15 11:13:14.538 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:15:31/07-15 16:15:27(-1) logged CHAT in 🥶: [2024-07-15 11:15:28.841 UTC] [Info] [Main] [Global] dsod [dsod]: nop
+[DEBUG](staffLog) 16:16:31/07-15 16:16:33(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:16:35.321 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 16:16:51/07-15 16:16:53(-1) logged DEBUG in debug-logs: [2024-07-15 11:16:54.690 UTC] [Info] [Main] [Command] dsod [dsod]: /vualt kappa
+[DEBUG](staffLog) 16:17:01/07-15 16:16:57(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:16:59.398 UTC] [Info] [Main] [Command] dsod [dsod]: /vault kappa
+[DEBUG](staffLog) 16:19:01/07-15 16:18:57(-2) logged CHAT in 🥶: [2024-07-15 11:18:59.290 UTC] [Info] [Main] [Global] dsod [dsod]: skill issue
+[DEBUG](staffLog) 16:19:01/07-15 16:19:01(-1) logged CHAT in 🥶: [2024-07-15 11:19:02.286 UTC] [Info] [Main] [Global] dsod [dsod]: pre aim
+[DEBUG](staffLog) 16:19:41/07-15 16:19:39(-3) logged CHAT in 🥶: [2024-07-15 11:19:42.551 UTC] [Info] [Main] [Global] dsod [dsod]: lmfao
+[DEBUG](staffLog) 16:20:01/07-15 16:19:55(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:19:57.146 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:20:01/07-15 16:20:03(-2) logged CHAT in 🥶: [2024-07-15 11:20:05.587 UTC] [Info] [Main] [Global] dsod [dsod]: crazy
+[DEBUG](staffLog) 16:20:11/07-15 16:20:10(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:20:13.800 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 16:20:21/07-15 16:20:21(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:20:23.860 UTC] [Info] [Main] [Command] dsod [dsod]: /stuck
+[DEBUG](staffLog) 16:20:21/07-15 16:20:23(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:20:25.160 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:21:51/07-15 16:21:45(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:21:47.557 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:23:11/07-15 16:23:09(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:23:12.752 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:23:31/07-15 16:23:31(-2) fakelogged DEBUG in 🤯: [2024-07-15 11:23:33.505 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:23:41/07-15 16:23:40(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:23:43.047 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 16:24:32/07-15 16:24:27(-1) fakelogged DEBUG in 🤯: [2024-07-15 11:24:28.692 UTC] [Info] [Main] [Command] dsod [dsod]: /vault kappa
+[DEBUG](staffLog) 16:28:21/07-15 16:28:16(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:28:19.859 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 16:28:21/07-15 16:28:19(-1) logged MSG in 🌹: [2024-07-15 11:28:20.813 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm bouji was it a sus kill on you?
+[DEBUG](staffLog) 16:28:31/07-15 16:28:25(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:28:28.055 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 16:29:41/07-15 16:29:38(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:29:41.980 UTC] [Info] [Main] [Command] dsod [dsod]: /stuck
+[DEBUG](staffLog) 16:32:31/07-15 16:32:27(-1) fakelogged DEBUG in 🤯: [2024-07-15 11:32:28.417 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 16:33:01/07-15 16:33:02(-3) fakelogged DEBUG in 🤯: [2024-07-15 11:33:05.587 UTC] [Info] [Main] [Command] dsod [dsod]: /vault kappa
+[DEBUG](staffLog) 16:33:33/07-15 16:33:26(-1) logged CHAT in 🥶: [2024-07-15 11:33:27.316 UTC] [Info] [Main] [Global] dsod [dsod]: selling rb-bk for 3 mil
+[DEBUG](staffLog) 16:34:01/07-15 16:33:55(-2) logged MSG in 🌹: [2024-07-15 11:33:57.106 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm dsod could i do 2.5mil?
+[DEBUG](staffLog) 17:00:21/07-15 17:00:18(-1) logged DEBUG in debug-logs: [2024-07-15 12:00:19.435 UTC] [Info] [Main] [Command] dsod [dsod]: /heal
+[DEBUG](staffLog) 17:01:01/07-15 17:01:00(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:01:01.560 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 17:01:31/07-15 17:01:27(-3) fakelogged DEBUG in 🤯: [2024-07-15 12:01:30.372 UTC] [Info] [Main] [Command] dsod [dsod]: /stuck
+[DEBUG](staffLog) 17:02:24/07-15 17:02:24(-1) logged MSG in 🌹: [2024-07-15 12:02:25.156 UTC] [Info] [Main] [Command] GamingDead [GamerInBlue]: /pm double 100k
+[DEBUG](staffLog) 17:02:33/07-15 17:02:27(-1) logged DEBUG in debug-logs: [2024-07-15 12:02:28.200 UTC] [Info] [Main] [Command] dsod [dsod]: /pay "mini tes" 870000
+[DEBUG](staffLog) 17:02:33/07-15 17:02:26(-2) logged MSG in 🌹: [2024-07-15 12:02:28.678 UTC] [Info] [Main] [Command] Nex XYZ [Nex XYZ]: /pm double 700k
+[DEBUG](staffLog) 17:02:41/07-15 17:02:38(-3) fakelogged DEBUG in 🤯: [2024-07-15 12:02:41.630 UTC] [Info] [Main] [Command] dsod [dsod]: /doortp
+[DEBUG](staffLog) 17:02:51/07-15 17:02:45(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:02:46.932 UTC] [Info] [Main] [Command] dsod [dsod]: /stuck
+[DEBUG](staffLog) 17:03:01/07-15 17:03:01(-1) logged MSG in 🌹: [2024-07-15 12:03:02.478 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm gaming yo say 1mil
+[DEBUG](staffLog) 17:03:11/07-15 17:03:08(-3) logged MSG in 🌹: [2024-07-15 12:03:11.599 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm gaming trust it will be funny
+[DEBUG](staffLog) 17:03:21/07-15 17:03:18(-3) logged MSG in 🌹: [2024-07-15 12:03:21.464 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm gaming say 1mil trust
+[DEBUG](staffLog) 17:03:31/07-15 17:03:30(-2) logged MSG in 🌹: [2024-07-15 12:03:32.006 UTC] [Info] [Main] [Command] GamingDead [GamerInBlue]: /pm double 2mil
+[DEBUG](staffLog) 17:03:41/07-15 17:03:36(-3) logged MSG in 🌹: [2024-07-15 12:03:39.200 UTC] [Info] [Main] [Command] GamingDead [GamerInBlue]: /pm double jk
+[DEBUG](staffLog) 17:03:51/07-15 17:03:45(-2) fakelogged DEBUG in 🤯: [2024-07-15 12:03:47.612 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 17:03:51/07-15 17:03:45(-2) logged MSG in 🌹: [2024-07-15 12:03:47.956 UTC] [Info] [Main] [Command] Nex XYZ [Nex XYZ]: /pm double 1.1m
+[DEBUG](staffLog) 17:04:11/07-15 17:04:09(-3) logged MSG in 🌹: [2024-07-15 12:04:12.259 UTC] [Info] [Main] [Command] Nex XYZ [Nex XYZ]: /pm double 1.25
+[DEBUG](staffLog) 17:04:31/07-15 17:04:26(-3) logged MSG in 🌹: [2024-07-15 12:04:29.734 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm gaming ill give u some money just go outside rq
+[DEBUG](staffLog) 17:06:12/07-15 17:06:07(-2) fakelogged DEBUG in 🤯: [2024-07-15 12:06:09.904 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 17:06:31/07-15 17:06:26(-2) logged MSG in 🌹: [2024-07-15 12:06:28.341 UTC] [Info] [Main] [Command] DoubleTwuuble [DoubleTwuuble]: /pm gaming dont speak of this ever hehehehehe
+[DEBUG](staffLog) 17:10:01/07-15 17:10:00(-2) fakelogged DEBUG in 🤯: [2024-07-15 12:10:02.474 UTC] [Info] [Main] [Command] dsod [dsod]: /vault
+[DEBUG](staffLog) 17:11:31/07-15 17:11:31(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:11:32.246 UTC] [Info] [Main] [Command] dsod [dsod]: /mc
+[DEBUG](staffLog) 17:11:41/07-15 17:11:36(-3) logged DISCONNECTING in 🤐: [2024-07-15 12:11:39.951 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998357433869 Session Length 1.64 Hours
+[DEBUG](staffLog) 17:50:23/07-15 17:50:22(-1) logged CONNECTING in 🤣: [2024-07-15 12:50:23.346 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 0 Join GUID: 0a1d6cb3-fe4c-4c91-a721-0090edc3120d Character Slot: 0 Language: English
+[DEBUG](staffLog) 17:51:11/07-15 17:51:10(-2) logged DEBUG in debug-logs: [2024-07-15 12:51:12.146 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55000 1
+[DEBUG](staffLog) 17:51:31/07-15 17:51:27(-2) logged DEBUG in debug-logs: [2024-07-15 12:51:29.217 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55400 1
+[DEBUG](staffLog) 17:52:01/07-15 17:51:58(-1) logged DEBUG in debug-logs: [2024-07-15 12:51:59.144 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /setflag silly 55300 2
+[DEBUG](staffLog) 17:52:13/07-15 17:52:11(-2) fakelogged DEBUG in 🤯: [2024-07-15 12:52:13.640 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault
+[DEBUG](staffLog) 17:53:41/07-15 17:53:35(-2) logged DEBUG in debug-logs: [2024-07-15 12:53:37.775 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /door
+[DEBUG](staffLog) 17:54:01/07-15 17:53:55(-1) logged DEBUG in debug-logs: [2024-07-15 12:53:56.700 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp silly 900000
+[DEBUG](staffLog) 17:54:02/07-15 17:53:59(-3) logged DEBUG in debug-logs: [2024-07-15 12:54:02.300 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp silly -900000
+[DEBUG](staffLog) 17:54:11/07-15 17:54:06(-2) logged DEBUG in debug-logs: [2024-07-15 12:54:08.026 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp silly
+[DEBUG](staffLog) 17:54:21/07-15 17:54:17(-1) logged DEBUG in debug-logs: [2024-07-15 12:54:18.362 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /removexp silly -900000
+[DEBUG](staffLog) 17:54:21/07-15 17:54:20(-1) logged DEBUG in debug-logs: [2024-07-15 12:54:21.671 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /removexp silly 900000
+[DEBUG](staffLog) 17:54:31/07-15 17:54:27(-2) logged DEBUG in debug-logs: [2024-07-15 12:54:29.176 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp silly 90000
+[DEBUG](staffLog) 17:54:41/07-15 17:54:37(-1) logged DEBUG in debug-logs: [2024-07-15 12:54:38.589 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /removexp silly 90000
+[DEBUG](staffLog) 17:54:51/07-15 17:54:46(-1) logged DEBUG in debug-logs: [2024-07-15 12:54:47.973 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /removexp silly 41000
+[DEBUG](staffLog) 17:55:01/07-15 17:55:00(-3) logged DEBUG in debug-logs: [2024-07-15 12:55:03.960 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /addxp silly 500000
+[DEBUG](staffLog) 17:55:11/07-15 17:55:08(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:55:09.030 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i lucky
+[DEBUG](staffLog) 17:55:11/07-15 17:55:11(-3) logged DEBUG in debug-logs: [2024-07-15 12:55:14.561 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 17:56:01/07-15 17:55:59(-3) fakelogged DEBUG in 🤯: [2024-07-15 12:56:02.308 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /doortp
+[DEBUG](staffLog) 17:56:11/07-15 17:56:10(-2) fakelogged DEBUG in 🤯: [2024-07-15 12:56:12.607 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i m4a1 2
+[DEBUG](staffLog) 17:56:21/07-15 17:56:20(-3) fakelogged DEBUG in 🤯: [2024-07-15 12:56:23.616 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i 58001 5
+[DEBUG](staffLog) 17:56:41/07-15 17:56:35(-3) fakelogged DEBUG in 🤯: [2024-07-15 12:56:38.586 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /i ifak 5
+[DEBUG](staffLog) 17:56:51/07-15 17:56:50(-1) logged DEBUG in debug-logs: [2024-07-15 12:56:51.288 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /bunker
+[DEBUG](staffLog) 17:56:51/07-15 17:56:53(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:56:54.659 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /doortp
+[DEBUG](staffLog) 17:56:51/07-15 17:56:54(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:56:55.764 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /stuck
+[DEBUG](staffLog) 17:57:41/07-15 17:57:42(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:57:43.599 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault gamma
+[DEBUG](staffLog) 17:57:51/07-15 17:57:45(-2) fakelogged DEBUG in 🤯: [2024-07-15 12:57:47.016 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault kappa
+[DEBUG](staffLog) 17:59:01/07-15 17:58:56(-1) fakelogged DEBUG in 🤯: [2024-07-15 12:58:57.488 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault
+[DEBUG](staffLog) 17:59:31/07-15 17:59:24(-3) fakelogged DEBUG in 🤯: [2024-07-15 12:59:27.281 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault
+[DEBUG](staffLog) 17:59:31/07-15 17:59:28(-2) fakelogged DEBUG in 🤯: [2024-07-15 12:59:30.538 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault
+[DEBUG](staffLog) 18:00:31/07-15 18:00:25(-3) fakelogged DEBUG in 🤯: [2024-07-15 13:00:28.686 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault
+[DEBUG](staffLog) 18:01:21/07-15 18:01:22(-1) fakelogged DEBUG in 🤯: [2024-07-15 13:01:23.379 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /vault
+[DEBUG](staffLog) 18:01:33/07-15 18:01:25(-1) logged CONNECTING in 🤣: [2024-07-15 13:01:26.956 UTC] [Info] [Main] Connecting: PlayerID: 76561198301760563 Steam Name: coil Character name: call me a good boy Nick: kitty >.< Group: 0 Join GUID: 0f23ab9d-08f8-402c-8814-b2aea0f48810 Character Slot: 0 Language: English
+[DEBUG](staffLog) 18:05:01/07-15 18:04:59(-2) fakelogged DEBUG in 🤯: [2024-07-15 13:05:01.136 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /doortp
+[DEBUG](staffLog) 18:05:31/07-15 18:05:31(-1) fakelogged DEBUG in 🤯: [2024-07-15 13:05:32.662 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 18:05:31/07-15 18:05:30(-3) fakelogged DEBUG in 🤯: [2024-07-15 13:05:33.513 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /stuck
+[DEBUG](staffLog) 18:05:31/07-15 18:05:33(-2) fakelogged DEBUG in 🤯: [2024-07-15 13:05:35.391 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault stash
+[DEBUG](staffLog) 18:05:51/07-15 18:05:47(-3) fakelogged DEBUG in 🤯: [2024-07-15 13:05:50.499 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /doortp

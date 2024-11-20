@@ -1,0 +1,13 @@
+[INFO](retrieveLog) wrote 113.541451MB to latest.log in 4.279112815856934
+[INFO](staffParse) CAUGHT UP TO LATEST 75
+[ERROR](staffParse) error parsing 'in <string>' requires string as left operand, not int | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:12:08.879 UTC] [Info] [Main] [Command] UnknownHuntR [UnknownHuntR]: /buyfrom 76561199183989090 26004
+
+[DEBUG](staffLog) 06:13:24/07-10 06:12:16(-1) logged STATS in stats mentioned 846641395581190155: [2024-07-10 01:12:17.520 UTC] [Info] [Main] [Command] unk [I MISS HIM]: /stats ha
+[ERROR](staffParse) error parsing 'in <string>' requires string as left operand, not int | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:12:25.662 UTC] [Info] [Main] [Command] Sopita [Sopita-Kun]: /buyfrom 76561198334721536 43000
+
+[ERROR](staffParse) error parsing 'in <string>' requires string as left operand, not int | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:13:32.145 UTC] [Info] [Main] [Command] amansa boi [Safadão do bigodin]: /buyfrom 76561199252816386 13008
+
+[ERROR](staffParse) error parsing 'in <string>' requires string as left operand, not int | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:13:35.515 UTC] [Info] [Main] [Command] elliottwanderer [elliottwanderer]: /buyfrom 76561199183989090 76
+
+[ERROR](staffParse) error parsing 'in <string>' requires string as left operand, not int | {'name': 'DEBUG', 'aliases': [], 'channel': 1256018442784608287, 'public': False, 'text': 'staff "{}" has performed "{}" on "{}"', 'textArgs': [], 'color': 34001} | [2024-07-10 01:13:35.757 UTC] [Info] [Main] [Command] amansa boi [Safadão do bigodin]: /buyfrom 76561199252816386 55014
+

@@ -1,0 +1,105 @@
+[INFO](retrieveLog) wrote 5.448235MB to latest.log in 9.204631328582764
+[DEBUG](staffLog) 19:35:35/07-16 19:35:22(-3) fakelogged DEBUG in 🤯: [2024-07-16 14:35:25.229 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198844615074 8911
+[DEBUG](staffLog) 19:35:35/07-16 19:35:24(-2) fakelogged DEBUG in 🤯: [2024-07-16 14:35:26.891 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /buyfrom 76561198844615074 8902
+[DEBUG](staffLog) 19:35:46/07-16 19:35:35(-1) logged CHAT in 🥶: [2024-07-16 14:35:36.392 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: back corner
+[DEBUG](staffLog) 19:35:56/07-16 19:35:47(-3) logged DEBUG in debug-logs: [2024-07-16 14:35:50.771 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vautl stash
+[DEBUG](staffLog) 19:36:05/07-16 19:35:51(-3) fakelogged DEBUG in 🤯: [2024-07-16 14:35:54.967 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 19:36:05/07-16 19:35:56(-2) fakelogged DEBUG in 🤯: [2024-07-16 14:35:58.034 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vault stash+
+[DEBUG](staffLog) 19:36:05/07-16 19:35:58(-3) fakelogged DEBUG in 🤯: [2024-07-16 14:36:01.760 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vault stash+++
+[DEBUG](staffLog) 19:36:15/07-16 19:36:01(-3) fakelogged DEBUG in 🤯: [2024-07-16 14:36:04.218 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 19:38:55/07-16 19:38:43(-2) fakelogged DEBUG in 🤯: [2024-07-16 14:38:45.012 UTC] [Info] [Main] [Command] v0rtex [v0rtex]: /vault kappa
+[DEBUG](staffLog) 19:39:56/07-16 19:39:42(-1) logged CHAT in 🥶: [2024-07-16 14:39:43.480 UTC] [Info] [Main] [Global] v0rtex [v0rtex]: buying RB KEYS
+[DEBUG](staffLog) 19:55:45/07-16 19:55:35(-2) logged DISCONNECTING in 🤐: [2024-07-16 14:55:37.372 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198844615074 Steam Name: v0rtex Character name: v0rtex Nick: v0rtex Group: 112589997979171786 Session Length 45.61 Minutes
+[DEBUG](staffLog) 20:17:28/07-16 20:17:14(-1) logged CONNECTING in 🤣: [2024-07-16 15:17:15.743 UTC] [Info] [Main] Connecting: PlayerID: 76561198843696538 Steam Name: okbinoutube Character name: okbinoutube Nick: okbinoutube Group: 0 Join GUID: 903d853e-dae6-46d5-8097-af00c55f90dd Character Slot: 0 Language: English
+[DEBUG](staffLog) 20:17:35/07-16 20:17:28(-3) logged SERVER in 😃: [2024-07-16 15:17:31.464 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /server 30
+[DEBUG](staffLog) 20:17:36/07-16 20:17:28(-3) logged DISCONNECTING in 🤐: [2024-07-16 15:17:31.906 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198843696538 Steam Name: okbinoutube Character name: okbinoutube Nick: okbinoutube Group: 0 Session Length 16.17 Seconds
+[DEBUG](staffLog) 20:25:40/07-16 20:25:24(-1) logged CONNECTING in 🤣: [2024-07-16 15:25:25.451 UTC] [Info] [Main] Connecting: PlayerID: 76561198843696538 Steam Name: okbinoutube Character name: okbinoutube Nick: okbinoutube Group: 0 Join GUID: 7c7dab89-2ed7-42d0-9fe8-3d89034a8861 Character Slot: 0 Language: English
+[DEBUG](staffLog) 20:30:36/07-16 20:30:31(-1) logged DEBUG in debug-logs: [2024-07-16 15:30:32.592 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /mute 76561199036165753 "player diss | 1st offense | 6 hours" 6 h
+[DEBUG](staffLog) 20:32:35/07-16 20:32:24(-2) logged MSG in 🌹: [2024-07-16 15:32:26.391 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /pm rusty hey
+[DEBUG](staffLog) 20:33:06/07-16 20:32:51(-2) logged MSG in 🌹: [2024-07-16 15:32:53.357 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /pm rusty that can be considered as mic-spam
+[DEBUG](staffLog) 20:33:26/07-16 20:33:20(-2) logged MSG in 🌹: [2024-07-16 15:33:22.154 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /pm rusty is it alright if you keep it down a little or not use your microphone to "scream"
+[DEBUG](staffLog) 20:36:16/07-16 20:36:05(-2) logged CHAT in 🥶: [2024-07-16 15:36:07.618 UTC] [Info] [Main] [Global] okbinoutube [okbinoutube]: lol
+[DEBUG](staffLog) 20:37:56/07-16 20:37:44(-3) logged DEBUG in debug-logs: [2024-07-16 15:37:47.676 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /mute 76561199145379605 "player-diss | 1st offense | 6 hours" 6 h
+[DEBUG](staffLog) 20:39:26/07-16 20:39:12(-3) logged MSG in 🌹: [2024-07-16 15:39:15.602 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /pm touchback please be respectful to other players , we do not tolerate any toxicity in here
+[DEBUG](staffLog) 20:58:49/07-16 20:58:37(-2) logged MSG in 🌹: [2024-07-16 15:58:39.188 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm est ult b
+[DEBUG](staffLog) 20:58:56/07-16 20:58:46(-2) logged MSG in 🌹: [2024-07-16 15:58:48.105 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm estich 2nd door at 3B
+[DEBUG](staffLog) 20:59:09/07-16 20:58:58(-3) logged MSG in 🌹: [2024-07-16 15:59:01.277 UTC] [Info] [Main] [Command] estich [pato]: /pm miyukki ok
+[DEBUG](staffLog) 21:00:26/07-16 21:00:16(-1) logged MSG in 🌹: [2024-07-16 16:00:17.689 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm est ult b akm
+[DEBUG](staffLog) 21:01:36/07-16 21:01:20(-3) logged SERVER in 😃: [2024-07-16 16:01:23.239 UTC] [Info] [Main] [Command] okbinoutube [okbinoutube]: /server 30
+[DEBUG](staffLog) 21:01:37/07-16 21:01:21(-2) logged DISCONNECTING in 🤐: [2024-07-16 16:01:23.691 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198843696538 Steam Name: okbinoutube Character name: okbinoutube Nick: okbinoutube Group: 0 Session Length 35.97 Minutes
+[DEBUG](staffLog) 21:13:46/07-16 21:13:31(-3) logged MSG in 🌹: [2024-07-16 16:13:34.975 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm uno ult b
+[DEBUG](staffLog) 21:13:56/07-16 21:13:44(-2) logged MSG in 🌹: [2024-07-16 16:13:46.462 UTC] [Info] [Main] [Command] [3-B QUEST SHOP] Miyukii [Miyuki]: /pm uno how many u need and whats your offer?
+[DEBUG](staffLog) 21:14:26/07-16 21:14:10(-3) logged MSG in 🌹: [2024-07-16 16:14:13.522 UTC] [Info] [Main] [Command] Bouji [Bouji]: /pm unocie hello??
+[DEBUG](staffLog) 21:14:26/07-16 21:14:17(-2) logged MSG in 🌹: [2024-07-16 16:14:19.316 UTC] [Info] [Main] [Command] Bouji [Bouji]: /pm unocie hello?
+[DEBUG](staffLog) 21:14:36/07-16 21:14:24(-1) logged MSG in 🌹: [2024-07-16 16:14:25.595 UTC] [Info] [Main] [Command] Unocie [Unocie]: /pm bouji alredy got 2
+[DEBUG](staffLog) 21:14:36/07-16 21:14:28(-1) logged MSG in 🌹: [2024-07-16 16:14:29.817 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm jack ult b
+[DEBUG](staffLog) 21:14:46/07-16 21:14:31(-3) logged R in 🌹: [2024-07-16 16:14:34.301 UTC] [Info] [Main] [Command] Unocie [Unocie]: /r thanks anyways
+[DEBUG](staffLog) 21:14:46/07-16 21:14:39(-1) logged MSG in 🌹: [2024-07-16 16:14:40.756 UTC] [Info] [Main] [Command] Bouji [Bouji]: /pm unocie alright <3
+[DEBUG](staffLog) 21:18:26/07-16 21:18:11(-3) logged MSG in 🌹: [2024-07-16 16:18:14.007 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm bou ult b
+[DEBUG](staffLog) 21:18:38/07-16 21:18:22(-2) logged CONNECTING in 🤣: [2024-07-16 16:18:24.645 UTC] [Info] [Main] Connecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998357433869 Join GUID: 0a057b4c-f5bf-474d-b941-734a325f35af Character Slot: 0 Language: English
+[DEBUG](staffLog) 21:23:28/07-16 21:23:15(-1) logged CONNECTING in 🤣: [2024-07-16 16:23:16.780 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: 6cc6dbd2-aeba-4635-a4c8-97dd2072a3ac Character Slot: 0 Language: English
+[DEBUG](staffLog) 21:23:36/07-16 21:23:27(-3) logged MSG in 🌹: [2024-07-16 16:23:30.765 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /pm shiro Hai
+[DEBUG](staffLog) 21:23:56/07-16 21:23:41(-3) logged MSG in 🌹: [2024-07-16 16:23:44.563 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /pm pog Hai
+[DEBUG](staffLog) 21:23:59/07-16 21:23:48(-3) logged SC in _: [2024-07-16 16:23:51.499 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc Hai Dsod
+[DEBUG](staffLog) 21:25:08/07-16 21:24:52(-3) fakelogged DEBUG in 🤯: [2024-07-16 16:24:55.853 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 21:25:26/07-16 21:25:10(-3) fakelogged DEBUG in 🤯: [2024-07-16 16:25:13.492 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 21:26:56/07-16 21:26:43(-3) fakelogged DEBUG in 🤯: [2024-07-16 16:26:46.031 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash+
+[DEBUG](staffLog) 21:26:56/07-16 21:26:49(-3) fakelogged DEBUG in 🤯: [2024-07-16 16:26:52.066 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash
+[DEBUG](staffLog) 21:27:06/07-16 21:26:55(-2) fakelogged DEBUG in 🤯: [2024-07-16 16:26:57.294 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash
+[DEBUG](staffLog) 21:27:16/07-16 21:27:01(-1) fakelogged DEBUG in 🤯: [2024-07-16 16:27:02.897 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash
+[DEBUG](staffLog) 21:27:16/07-16 21:27:05(-3) fakelogged DEBUG in 🤯: [2024-07-16 16:27:08.136 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash+
+[DEBUG](staffLog) 21:28:26/07-16 21:28:16(-3) logged SC in _: [2024-07-16 16:28:19.253 UTC] [Info] [Main] [Command] dsod [dsod]: /sc hi foxbro
+[DEBUG](staffLog) 21:29:06/07-16 21:28:53(-2) logged SC in _: [2024-07-16 16:28:55.384 UTC] [Info] [Main] [Command] dsod [dsod]: /sc didnt even need to see you lol, heard you say "what the fuck" and recognized ur voice
+[DEBUG](staffLog) 21:29:06/07-16 21:28:59(-1) logged SC in _: [2024-07-16 16:29:00.059 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc can I mute this kid with the voice changer that keep emitting a high pitched sound
+[DEBUG](staffLog) 21:29:16/07-16 21:29:05(-3) logged SC in _: [2024-07-16 16:29:08.139 UTC] [Info] [Main] [Command] dsod [dsod]: /sc yes
+[DEBUG](staffLog) 21:30:16/07-16 21:30:09(-2) logged CHAT in 🥶: [2024-07-16 16:30:11.037 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 2 hawk gun powder?
+[DEBUG](staffLog) 21:30:16/07-16 21:30:08(-3) logged DEBUG in debug-logs: [2024-07-16 16:30:11.807 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mute 76561199557735173 "Mic Spam | 1st offense | 12h" 12 h
+[DEBUG](staffLog) 21:30:26/07-16 21:30:14(-1) logged DEBUG in debug-logs: [2024-07-16 16:30:15.439 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mute 76561199557735173 "Mic Spam | 1st offense | 12h" 12 h
+[DEBUG](staffLog) 21:31:26/07-16 21:31:17(-1) logged CHAT in 🥶: [2024-07-16 16:31:18.697 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 2 hawk gun powder?
+[DEBUG](staffLog) 21:31:36/07-16 21:31:25(-2) fakelogged DEBUG in 🤯: [2024-07-16 16:31:27.966 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 21:31:36/07-16 21:31:29(-2) logged CHAT in 🥶: [2024-07-16 16:31:31.487 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: 76561199557735173vault
+[DEBUG](staffLog) 21:31:46/07-16 21:31:39(-2) fakelogged DEBUG in 🤯: [2024-07-16 16:31:41.967 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 21:32:06/07-16 21:31:53(-3) logged CHAT in 🥶: [2024-07-16 16:31:56.936 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: Now you two respond to me lol. Hi
+[DEBUG](staffLog) 21:32:19/07-16 21:32:08(-1) logged CHAT in 🥶: [2024-07-16 16:32:09.009 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: I pmed ya both hai, alls good
+[DEBUG](staffLog) 21:32:36/07-16 21:32:22(-2) logged CHAT in 🥶: [2024-07-16 16:32:24.120 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: ah
+[DEBUG](staffLog) 21:32:56/07-16 21:32:43(-1) logged CHAT in 🥶: [2024-07-16 16:32:44.147 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: Happy pog didnt
+[DEBUG](staffLog) 21:33:06/07-16 21:32:57(-3) logged CHAT in 🥶: [2024-07-16 16:33:00.944 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: lol
+[DEBUG](staffLog) 21:33:36/07-16 21:33:21(-2) fakelogged DEBUG in 🤯: [2024-07-16 16:33:23.675 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash
+[DEBUG](staffLog) 21:34:16/07-16 21:34:09(-1) logged CHAT in 🥶: [2024-07-16 16:34:10.146 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 2 hawk gun powder?
+[DEBUG](staffLog) 21:36:26/07-16 21:36:16(-2) logged CHAT in 🥶: [2024-07-16 16:36:18.539 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 2 hawk gun powder?
+[DEBUG](staffLog) 21:36:46/07-16 21:36:36(-2) logged DEBUG in debug-logs: [2024-07-16 16:36:38.968 UTC] [Info] [Main] [Command] dsod [dsod]: /kick "neggerman" "Change name"
+[DEBUG](staffLog) 21:36:56/07-16 21:36:44(-2) logged CHAT in 🥶: [2024-07-16 16:36:46.486 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: nice name lol
+[DEBUG](staffLog) 21:37:18/07-16 21:37:03(-3) logged CHAT in 🥶: [2024-07-16 16:37:06.385 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: already did lol
+[DEBUG](staffLog) 21:37:29/07-16 21:37:15(-3) logged CHAT in 🥶: [2024-07-16 16:37:18.686 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: I did 20 min ago :)
+[DEBUG](staffLog) 21:38:36/07-16 21:38:25(-3) logged CHAT in 🥶: [2024-07-16 16:38:28.781 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: wdym your ladder doesnt work?
+[DEBUG](staffLog) 21:43:36/07-16 21:43:22(-3) logged CHAT in 🥶: [2024-07-16 16:43:25.147 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 2 hawk gun powder?
+[DEBUG](staffLog) 21:45:06/07-16 21:44:54(-2) logged CHAT in 🥶: [2024-07-16 16:44:56.591 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 2 hawk gun powder?
+[DEBUG](staffLog) 21:45:16/07-16 21:45:07(-3) logged MSG in 🌹: [2024-07-16 16:45:10.961 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm wipe hey
+[DEBUG](staffLog) 21:49:56/07-16 21:49:48(-1) logged CHAT in 🥶: [2024-07-16 16:49:49.171 UTC] [Info] [Main] [Global] dsod [dsod]: bottom right corner
+[DEBUG](staffLog) 21:50:26/07-16 21:50:16(-2) logged CHAT in 🥶: [2024-07-16 16:50:18.812 UTC] [Info] [Main] [Global] dsod [dsod]: any1 got 1 hawk gunpowder?
+[DEBUG](staffLog) 21:51:36/07-16 21:51:27(-3) logged MSG in 🌹: [2024-07-16 16:51:30.946 UTC] [Info] [Main] [Command] dsod [dsod]: /pm dark sup?
+[DEBUG](staffLog) 21:51:46/07-16 21:51:36(-1) logged CHAT in 🥶: [2024-07-16 16:51:37.567 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: What do ya need Darkzz
+[DEBUG](staffLog) 21:51:56/07-16 21:51:43(-1) logged MSG in 🌹: [2024-07-16 16:51:44.078 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm dsod take a look to waste
+[DEBUG](staffLog) 21:51:56/07-16 21:51:49(-2) logged R in 🌹: [2024-07-16 16:51:51.534 UTC] [Info] [Main] [Command] dsod [dsod]: /r alr, dont say anytihng in world caht
+[DEBUG](staffLog) 21:52:26/07-16 21:52:17(-3) logged MSG in 🌹: [2024-07-16 16:52:20.816 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm dsod he die just now but he kill 7 head in city
+[DEBUG](staffLog) 21:52:46/07-16 21:52:33(-1) logged MSG in 🌹: [2024-07-16 16:52:34.368 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm dsod and now alastor xd
+[DEBUG](staffLog) 21:52:46/07-16 21:52:35(-3) logged BAN in bans: [2024-07-16 16:52:38.321 UTC] [Info] [Main] [Command] dsod [dsod]: /globalban 76561199382530754 "Cheating/SAim/AC"
+[DEBUG](staffLog) 21:58:16/07-16 21:58:07(-2) logged DISCONNECTING in 🤐: [2024-07-16 16:58:09.051 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998357433869 Session Length 39.74 Minutes
+[DEBUG](staffLog) 21:58:58/07-16 21:58:46(-3) logged CONNECTING in 🤣: [2024-07-16 16:58:49.504 UTC] [Info] [Main] Connecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998357433869 Join GUID: c9bce979-6af1-45f0-90a3-7392b6060589 Character Slot: 0 Language: English
+[DEBUG](staffLog) 21:59:56/07-16 21:59:43(-2) logged DISCONNECTING in 🤐: [2024-07-16 16:59:45.124 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 36.47 Minutes
+[DEBUG](staffLog) 22:00:28/07-16 22:00:12(-1) logged CONNECTING in 🤣: [2024-07-16 17:00:13.751 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: bc9cd79a-656a-4e78-a801-4a7d9ecfff99 Character Slot: 0 Language: English
+[DEBUG](staffLog) 22:01:36/07-16 22:01:22(-2) logged DISCONNECTING in 🤐: [2024-07-16 17:01:24.148 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 1.17 Minutes
+[DEBUG](staffLog) 22:02:09/07-16 22:01:53(-1) logged CONNECTING in 🤣: [2024-07-16 17:01:54.394 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Join GUID: 4fa31b6b-c45e-4050-b74b-5f93e331aca0 Character Slot: 0 Language: English
+[DEBUG](staffLog) 22:02:36/07-16 22:02:23(-1) fakelogged DEBUG in 🤯: [2024-07-16 17:02:24.125 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash+
+[DEBUG](staffLog) 22:02:46/07-16 22:02:38(-2) fakelogged DEBUG in 🤯: [2024-07-16 17:02:40.835 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash+
+[DEBUG](staffLog) 22:02:56/07-16 22:02:46(-3) fakelogged DEBUG in 🤯: [2024-07-16 17:02:49.746 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /Vault Stash+
+[DEBUG](staffLog) 22:04:56/07-16 22:04:48(-2) logged MSG in 🌹: [2024-07-16 17:04:50.601 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm ninga just got some DPSU
+[DEBUG](staffLog) 22:05:06/07-16 22:04:53(-2) logged MSG in 🌹: [2024-07-16 17:04:55.445 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm ninja just got some DPSU
+[DEBUG](staffLog) 22:05:06/07-16 22:04:55(-2) logged DISCONNECTING in 🤐: [2024-07-16 17:04:57.350 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589997979171786 Session Length 3.05 Minutes
+[DEBUG](staffLog) 22:11:06/07-16 22:10:51(-2) logged MSG in 🌹: [2024-07-16 17:10:53.848 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm ani wya
+[DEBUG](staffLog) 22:11:46/07-16 22:11:34(-1) logged MSG in 🌹: [2024-07-16 17:11:35.939 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm ani black building
+[DEBUG](staffLog) 22:22:36/07-16 22:22:24(-3) logged MSG in 🌹: [2024-07-16 17:22:27.298 UTC] [Info] [Main] [Command] DaChamp [DaChamp]: /pm iss ult b
+[DEBUG](staffLog) 22:23:06/07-16 22:22:51(-2) logged DISCONNECTING in 🤐: [2024-07-16 17:22:53.506 UTC] [Info] [Main] Disconnecting: PlayerID: 76561199078055336 Steam Name: dsod Character name: dsod Nick: dsod Group: 112589998357433869 Session Length 24.07 Minutes
+[DEBUG](staffLog) 22:45:09/07-16 22:44:55(-3) logged MSG in 🌹: [2024-07-16 17:44:58.894 UTC] [Info] [Main] [Command] Darkzz [Darkzz]: /pm wipe ola
+[DEBUG](staffLog) 23:18:26/07-16 23:18:19(-3) logged MSG in 🌹: [2024-07-16 18:18:22.083 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm Hey, you have any RB keys?
+[DEBUG](staffLog) 23:18:46/07-16 23:18:38(-1) logged MSG in 🌹: [2024-07-16 18:18:39.026 UTC] [Info] [Main] [Command] Opeth [561st_Flak]: /pm Harm Hey do you have any RB keys yet?

@@ -1,0 +1,21 @@
+[INFO](retrieveLog) wrote 0.233946MB to latest.log in 0.6575872898101807
+[INFO](staffParse) CAUGHT UP TO LATEST 98
+[INFO](retrieveLog) server restarted 8186 98
+[DEBUG](staffLog) 08:15:36/07-11 08:14:29(-3) logged CONNECTING in 🤣: [2024-07-11 03:14:32.041 UTC] [Info] [Main] Connecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 103582791471593124 Join GUID: e0ef9b66-1f03-49de-a5dd-bb499b083986 Character Slot: 0 Language: English
+[DEBUG](staffLog) 08:15:54/07-11 08:14:46(-1) logged DEBUG in debug-logs: [2024-07-11 03:14:47.901 UTC] [Info] [Main] [Command] Silly Person :3 [Angel_Abov3]: /kill silly
+[DEBUG](staffLog) 08:19:45/07-11 08:18:43(-2) logged CONNECTING in 🤣: [2024-07-11 03:18:45.043 UTC] [Info] [Main] Connecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589999263479066 Join GUID: 3d80414e-9e4a-4d64-9329-3548e71b9e33 Character Slot: 0 Language: English
+[DEBUG](staffLog) 08:20:35/07-11 08:19:35(-1) logged DEBUG in debug-logs: [2024-07-11 03:19:36.850 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mod
+[DEBUG](staffLog) 08:20:43/07-11 08:19:36(-2) logged DEBUG in debug-logs: [2024-07-11 03:19:38.281 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /mod
+[DEBUG](staffLog) 08:21:05/07-11 08:20:04(-1) logged MSG in 🌹: [2024-07-11 03:20:05.159 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm you
+[DEBUG](staffLog) 08:21:14/07-11 08:20:12(-1) logged MSG in 🌹: [2024-07-11 03:20:13.576 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm  lied too?
+[DEBUG](staffLog) 08:21:54/07-11 08:20:53(-2) logged MSG in 🌹: [2024-07-11 03:20:55.378 UTC] [Info] [Main] [Command] navi [Navi]: /pm harm def not 'wink wink'
+[DEBUG](staffLog) 08:25:15/07-11 08:24:07(-3) logged CHAT in 🥶: [2024-07-11 03:24:10.882 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: Server is still bugged
+[DEBUG](staffLog) 08:25:23/07-11 08:24:15(-3) logged CHAT in 🥶: [2024-07-11 03:24:18.772 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: do not enter raids
+[DEBUG](staffLog) 08:25:34/07-11 08:24:31(-3) logged CHAT in 🥶: [2024-07-11 03:24:34.665 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: activly fixing it rn
+[DEBUG](staffLog) 08:25:44/07-11 08:24:37(-2) logged CHAT in 🥶: [2024-07-11 03:24:39.717 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: its nelson's fault
+[DEBUG](staffLog) 08:25:54/07-11 08:24:54(-1) logged CHAT in 🥶: [2024-07-11 03:24:55.584 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: Nelson updated something an it broke most servers
+[DEBUG](staffLog) 08:27:16/07-11 08:26:13(-1) logged CHAT in 🥶: [2024-07-11 03:26:14.924 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: Nelson fucked up
+[DEBUG](staffLog) 08:28:54/07-11 08:27:47(-1) logged CHAT in 🥶: [2024-07-11 03:27:48.610 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: DO NOT GO TO ARENA
+[DEBUG](staffLog) 08:29:24/07-11 08:28:22(-1) logged CHAT in 🥶: [2024-07-11 03:28:23.153 UTC] [Info] [Main] [Global] Alastor [Foxbro37]: If you die in arena you will NOT BE REFUNDED
+[DEBUG](staffLog) 08:29:44/07-11 08:28:36(-1) logged DISCONNECTING in 🤐: [2024-07-11 03:28:37.595 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198397021503 Steam Name: Foxbro37 Character name: Alastor Nick: Alastor Group: 112589999263479066 Session Length 9.88 Minutes
+[DEBUG](staffLog) 08:29:44/07-11 08:28:34(-3) logged DISCONNECTING in 🤐: [2024-07-11 03:28:37.703 UTC] [Info] [Main] Disconnecting: PlayerID: 76561198856241780 Steam Name: Angel_Abov3 Character name: Silly Person :3 Nick: Silly Person :3 Group: 103582791471593124 Session Length 14.09 Minutes

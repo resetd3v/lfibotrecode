@@ -1,0 +1,345 @@
+[INFO](retrieveLog) wrote 28.61145MB to latest.log in 2.450054168701172
+[INFO](staffParse) CAUGHT UP TO LATEST 52
+[DEBUG](staffLog) 04:32:35/07-02 04:31:43(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:31:45.019 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:32:42/07-02 04:31:55(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:31:57.808 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:32:53/07-02 04:32:00(-3) logged DEBUG in debug-logs: [2024-07-01 23:32:03.046 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /checkxp tnt
+[DEBUG](staffLog) 04:33:02/07-02 04:32:10(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:32:12.963 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:33:22/07-02 04:32:32(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:32:34.901 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198274468278 26007
+[DEBUG](staffLog) 04:33:34/07-02 04:32:38(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:32:41.337 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198274468278 26006
+[DEBUG](staffLog) 04:33:42/07-02 04:32:47(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:32:50.980 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198414136680 26006
+[DEBUG](staffLog) 04:33:42/07-02 04:32:51(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:32:54.339 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198414136680 55014
+[DEBUG](staffLog) 04:33:42/07-02 04:32:53(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:32:55.569 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198414136680 55014
+[DEBUG](staffLog) 04:33:52/07-02 04:33:02(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:33:04.708 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199207128597 58014
+[DEBUG](staffLog) 04:33:52/07-02 04:33:07(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:33:09.423 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199207128597 58014
+[DEBUG](staffLog) 04:34:02/07-02 04:33:12(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:33:13.542 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199207128597 58014
+[DEBUG](staffLog) 04:34:12/07-02 04:33:20(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:33:23.734 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199207128597 26007
+[DEBUG](staffLog) 04:34:22/07-02 04:33:32(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:33:35.695 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199183989090 26007
+[DEBUG](staffLog) 04:34:22/07-02 04:33:35(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:33:38.409 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199183989090 26006
+[DEBUG](staffLog) 04:34:32/07-02 04:33:36(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:33:39.554 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199183989090 26006
+[DEBUG](staffLog) 04:34:32/07-02 04:33:41(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:33:43.344 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199183989090 26006
+[DEBUG](staffLog) 04:34:32/07-02 04:33:45(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:33:47.151 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199183989090 55014
+[DEBUG](staffLog) 04:34:52/07-02 04:34:06(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:34:09.067 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198240400144 26006
+[DEBUG](staffLog) 04:35:02/07-02 04:34:08(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:34:10.890 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:35:02/07-02 04:34:13(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:34:15.627 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:35:22/07-02 04:34:31(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:34:34.381 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:35:22/07-02 04:34:37(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:34:38.338 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:35:32/07-02 04:34:41(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:34:42.315 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:35:32/07-02 04:34:46(-3) logged CHAT in 🥶: [2024-07-01 23:34:49.058 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: thanks benji
+[DEBUG](staffLog) 04:35:42/07-02 04:34:51(-1) logged CHAT in 🥶: [2024-07-01 23:34:52.832 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: i do appreciate it
+[DEBUG](staffLog) 04:36:02/07-02 04:35:13(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:35:16.555 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 04:36:12/07-02 04:35:25(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:35:28.201 UTC] [Info] [Main] [Command] Godly [Godly]: /buyfrom 76561199183989090 55006
+[DEBUG](staffLog) 04:36:22/07-02 04:35:27(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:35:30.688 UTC] [Info] [Main] [Command] Godly [Godly]: /buyfrom 76561199183989090 55006
+[DEBUG](staffLog) 04:36:42/07-02 04:35:48(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:35:51.349 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:38:02/07-02 04:37:14(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:37:17.962 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 04:38:22/07-02 04:37:38(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:37:39.277 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:38:32/07-02 04:37:38(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:37:39.827 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 04:38:42/07-02 04:37:53(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:37:55.493 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:39:03/07-02 04:38:07(-2) logged CHAT in 🥶: [2024-07-01 23:38:09.829 UTC] [Info] [Main] [Global] Godly [Godly]: chaos dms
+[DEBUG](staffLog) 04:39:32/07-02 04:38:44(-2) logged CHAT in 🥶: [2024-07-01 23:38:46.692 UTC] [Info] [Main] [Global] Godly [Godly]: added
+[DEBUG](staffLog) 04:39:52/07-02 04:39:02(-3) logged SC in _: [2024-07-01 23:39:05.293 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc godly
+[DEBUG](staffLog) 04:39:52/07-02 04:39:05(-3) logged SC in _: [2024-07-01 23:39:08.404 UTC] [Info] [Main] [Command] Godly [Godly]: /sc wsp
+[DEBUG](staffLog) 04:40:02/07-02 04:39:08(-2) logged SC in _: [2024-07-01 23:39:10.530 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc where mlrs truck on woods
+[DEBUG](staffLog) 04:40:14/07-02 04:39:23(-1) logged SC in _: [2024-07-01 23:39:24.034 UTC] [Info] [Main] [Command] Godly [Godly]: /sc its on dam
+[DEBUG](staffLog) 04:40:16/07-02 04:39:26(-2) logged SC in _: [2024-07-01 23:39:28.459 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc fck
+[DEBUG](staffLog) 04:40:22/07-02 04:39:34(-3) logged SC in _: [2024-07-01 23:39:37.205 UTC] [Info] [Main] [Command] Godly [Godly]: /sc free muteeeeee
+[DEBUG](staffLog) 04:40:32/07-02 04:39:39(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:39:40.983 UTC] [Info] [Main] [Command] call me a good boy [coil]: /mc
+[DEBUG](staffLog) 04:40:32/07-02 04:39:38(-3) logged SC in _: [2024-07-01 23:39:41.848 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sc go
+[DEBUG](staffLog) 04:40:51/07-02 04:39:59(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:40:01.423 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:41:03/07-02 04:40:11(-2) logged VANISH in vanish: [2024-07-01 23:40:13.537 UTC] [Info] [Main] [Command] Godly [Godly]: /smod
+[DEBUG](staffLog) 04:41:12/07-02 04:40:26(-2) logged DEBUG in debug-logs: [2024-07-01 23:40:28.877 UTC] [Info] [Main] [Command] Godly [Godly]: /mute 76561198973346761 "Rasicm | first offense 7 days" 7 days
+[DEBUG](staffLog) 04:41:22/07-02 04:40:29(-2) logged VANISH in vanish: [2024-07-01 23:40:31.906 UTC] [Info] [Main] [Command] Godly [Godly]: /smod
+[DEBUG](staffLog) 04:42:12/07-02 04:41:20(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:41:21.166 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:42:32/07-02 04:41:41(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:41:44.517 UTC] [Info] [Main] [Command] call me a good boy [coil]: /mc
+[DEBUG](staffLog) 04:42:42/07-02 04:41:47(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:41:49.573 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:43:02/07-02 04:42:16(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:42:17.827 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:43:22/07-02 04:42:33(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:42:36.968 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:43:32/07-02 04:42:37(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:42:40.772 UTC] [Info] [Main] [Command] call me a good boy [coil]: /mc
+[DEBUG](staffLog) 04:43:52/07-02 04:43:05(-3) logged TP in tp: [2024-07-01 23:43:08.886 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /TP STAFF
+[DEBUG](staffLog) 04:44:12/07-02 04:43:20(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:43:22.564 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 04:44:52/07-02 04:44:03(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:44:05.680 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:45:12/07-02 04:44:26(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:44:27.463 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:45:22/07-02 04:44:34(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:44:37.722 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:46:07/07-02 04:45:16(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:45:18.245 UTC] [Info] [Main] [Command] call me a good boy [coil]: /mc
+[DEBUG](staffLog) 04:46:12/07-02 04:45:25(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:45:26.495 UTC] [Info] [Main] [Command] call me a good boy [coil]: /mc
+[DEBUG](staffLog) 04:46:22/07-02 04:45:26(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:45:29.593 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:46:32/07-02 04:45:39(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:45:41.506 UTC] [Info] [Main] [Command] call me a good boy [coil]: /mc
+[DEBUG](staffLog) 04:48:24/07-02 04:47:32(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:47:35.545 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 04:48:42/07-02 04:47:54(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:47:55.217 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55001
+[DEBUG](staffLog) 04:48:42/07-02 04:47:56(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:47:58.872 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55001
+[DEBUG](staffLog) 04:48:52/07-02 04:48:00(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:48:02.372 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55001
+[DEBUG](staffLog) 04:48:52/07-02 04:48:00(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:48:03.327 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55001
+[DEBUG](staffLog) 04:49:01/07-02 04:48:15(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:48:16.439 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 04:49:52/07-02 04:49:01(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:49:02.517 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:50:02/07-02 04:49:07(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:49:09.637 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:50:02/07-02 04:49:11(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:49:13.837 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:50:13/07-02 04:49:22(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:49:24.202 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 04:50:13/07-02 04:49:26(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:49:29.388 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash
+[DEBUG](staffLog) 04:50:22/07-02 04:49:32(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:49:34.183 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault stash++
+[DEBUG](staffLog) 04:50:32/07-02 04:49:44(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:49:47.373 UTC] [Info] [Main] [Command] Godly [Godly]: //Doortp
+[DEBUG](staffLog) 04:50:52/07-02 04:49:58(-2) logged VANISH in vanish: [2024-07-01 23:50:00.824 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 04:50:52/07-02 04:49:58(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:50:00.852 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 04:51:02/07-02 04:50:13(-1) logged VANISH in vanish: [2024-07-01 23:50:14.903 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 04:51:03/07-02 04:50:15(-1) logged VANISH in vanish: [2024-07-01 23:50:16.212 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 04:51:33/07-02 04:50:28(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:50:29.806 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 04:51:52/07-02 04:51:00(-2) logged SPY in 🍑: [2024-07-01 23:51:02.583 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561198990132632
+[DEBUG](staffLog) 04:52:52/07-02 04:52:05(-1) logged SC in _: [2024-07-01 23:52:06.638 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc w coil
+[DEBUG](staffLog) 04:53:02/07-02 04:52:11(-2) logged SC in _: [2024-07-01 23:52:13.894 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc killing the person you told me to watch
+[DEBUG](staffLog) 04:53:02/07-02 04:52:17(-1) logged SC in _: [2024-07-01 23:52:18.132 UTC] [Info] [Main] [Command] call me a good boy [coil]: /sc lmao
+[DEBUG](staffLog) 04:53:32/07-02 04:52:43(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:52:44.420 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:54:22/07-02 04:53:34(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:53:36.492 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 04:54:22/07-02 04:53:37(-1) logged CHAT in 🥶: [2024-07-01 23:53:38.538 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: bucket :(((((
+[DEBUG](staffLog) 04:54:42/07-02 04:53:52(-1) logged CHAT in 🥶: [2024-07-01 23:53:53.046 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: all gh
+[DEBUG](staffLog) 04:54:42/07-02 04:53:51(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:53:53.194 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:54:42/07-02 04:53:56(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:53:57.114 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 04:54:52/07-02 04:54:01(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:54:04.839 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 04:55:12/07-02 04:54:27(-1) logged SERVER in 😃: [2024-07-01 23:54:28.924 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /server 2
+[DEBUG](staffLog) 04:55:32/07-02 04:54:45(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:54:46.738 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault kappa
+[DEBUG](staffLog) 04:56:12/07-02 04:55:21(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:55:24.441 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault kappa
+[DEBUG](staffLog) 04:56:12/07-02 04:55:25(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:55:26.963 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:56:42/07-02 04:55:55(-3) logged CHAT in 🥶: [2024-07-01 23:55:58.110 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: ?vault
+[DEBUG](staffLog) 04:56:52/07-02 04:55:57(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:55:59.818 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 04:57:22/07-02 04:56:29(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:56:30.715 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:57:22/07-02 04:56:33(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:56:35.557 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 04:57:22/07-02 04:56:36(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:56:39.174 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault kappa
+[DEBUG](staffLog) 04:57:52/07-02 04:57:05(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:57:08.994 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 04:58:24/07-02 04:57:31(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:57:34.836 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 04:59:12/07-02 04:58:21(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:58:24.947 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 04:59:42/07-02 04:58:49(-1) logged MSG in 🌹: [2024-07-01 23:58:50.856 UTC] [Info] [Main] [Command] High [High]: /pm drizzler1915 bro wtf are you doing ???
+[DEBUG](staffLog) 05:00:22/07-02 04:59:27(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:59:30.260 UTC] [Info] [Main] [Command] call me a good boy [coil]: /vault
+[DEBUG](staffLog) 05:00:22/07-02 04:59:36(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:59:38.806 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:00:32/07-02 04:59:38(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:59:41.299 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:00:32/07-02 04:59:41(-3) fakelogged DEBUG in 🤯: [2024-07-01 23:59:44.796 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:00:32/07-02 04:59:44(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:59:45.741 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:00:32/07-02 04:59:47(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:59:48.917 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:00:44/07-02 04:59:49(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:59:50.526 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:00:44/07-02 04:59:52(-2) fakelogged DEBUG in 🤯: [2024-07-01 23:59:54.438 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:00:44/07-02 04:59:55(-1) fakelogged DEBUG in 🤯: [2024-07-01 23:59:56.607 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:01:12/07-02 05:00:20(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:00:21.143 UTC] [Info] [Main] [Command] Godly [Godly]: /vault gamma
+[DEBUG](staffLog) 05:01:12/07-02 05:00:19(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:00:21.501 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:01:12/07-02 05:00:22(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:00:24.832 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:01:12/07-02 05:00:22(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:00:25.943 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /buyfrom 76561199183989090 55013
+[DEBUG](staffLog) 05:01:12/07-02 05:00:26(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:00:28.159 UTC] [Info] [Main] [Command] Godly [Godly]: /vault gamma
+[DEBUG](staffLog) 05:01:32/07-02 05:00:46(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:00:48.335 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198844615074 43000
+[DEBUG](staffLog) 05:01:42/07-02 05:00:50(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:00:53.825 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561199119567955 43000
+[DEBUG](staffLog) 05:01:52/07-02 05:00:57(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:01:00.232 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 05:01:52/07-02 05:01:00(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:01:01.190 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198334721536 43000
+[DEBUG](staffLog) 05:02:12/07-02 05:01:23(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:01:25.972 UTC] [Info] [Main] [Command] call me a good boy [coil]: /buyfrom 76561198362436299 13007
+[DEBUG](staffLog) 05:02:22/07-02 05:01:28(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:01:30.314 UTC] [Info] [Main] [Command] call me a good boy [coil]: /doortp
+[DEBUG](staffLog) 05:02:32/07-02 05:01:39(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:01:42.913 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 05:02:52/07-02 05:02:00(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:02:02.469 UTC] [Info] [Main] [Command] Godly [Godly]: /vault gamma
+[DEBUG](staffLog) 05:03:14/07-02 05:02:22(-1) logged MSG in 🌹: [2024-07-02 00:02:23.218 UTC] [Info] [Main] [Command] High [High]: /pm bucket camping puss
+[DEBUG](staffLog) 05:03:23/07-02 05:02:30(-3) logged MSG in 🌹: [2024-07-02 00:02:33.722 UTC] [Info] [Main] [Command] High [High]: /pm bucket gtfo the roof child
+[DEBUG](staffLog) 05:03:34/07-02 05:02:46(-2) logged MSG in 🌹: [2024-07-02 00:02:48.301 UTC] [Info] [Main] [Command] bucket! [bucket]: /pm high nah im doing a quset
+[DEBUG](staffLog) 05:03:34/07-02 05:02:45(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:02:48.620 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 05:03:44/07-02 05:02:56(-3) logged MSG in 🌹: [2024-07-02 00:02:59.246 UTC] [Info] [Main] [Command] High [High]: /pm bucket dog
+[DEBUG](staffLog) 05:03:52/07-02 05:02:57(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:02:59.818 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:04:15/07-02 05:03:24(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:03:27.553 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /mc
+[DEBUG](staffLog) 05:04:22/07-02 05:03:28(-1) logged VANISH in vanish: [2024-07-02 00:03:29.621 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:04:23/07-02 05:03:34(-3) logged DEBUG in debug-logs: [2024-07-02 00:03:37.372 UTC] [Info] [Main] [Command] call me a good boy [coil]: /exit
+[DEBUG](staffLog) 05:04:32/07-02 05:03:39(-2) logged SPY in 🍑: [2024-07-02 00:03:41.088 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199565026147
+[DEBUG](staffLog) 05:06:04/07-02 05:05:13(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:05:16.914 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:06:22/07-02 05:05:31(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:05:32.921 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:07:05/07-02 05:06:08(-3) logged CHAT in 🥶: [2024-07-02 00:06:11.251 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: bucket i see you
+[DEBUG](staffLog) 05:07:13/07-02 05:06:17(-2) logged VANISH in vanish: [2024-07-02 00:06:19.895 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:07:23/07-02 05:06:28(-2) logged CHAT in 🥶: [2024-07-02 00:06:30.693 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: bye bye
+[DEBUG](staffLog) 05:07:32/07-02 05:06:39(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:06:41.499 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[ERROR](staffParse) error parsing Replacement index 2 out of range for positional args tuple | {'name': 'BAN', 'aliases': [], 'channel': 1256125540268769311, 'public': True, 'text': 'staff "{}" has banned "{}" get beamed bozo ur dtc for "{}"', 'textArgs': ['sender', 'target'], 'color': 16711680} | [2024-07-02 00:07:21.795 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /ban 76561199565026147 "Cheating \ esp/aimbot | perm" 0
+
+[DEBUG](staffLog) 05:08:22/07-02 05:07:33(-2) logged SC in _: [2024-07-02 00:07:35.679 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc mf shot me while I was in a rock
+[DEBUG](staffLog) 05:08:32/07-02 05:07:43(-2) logged SC in _: [2024-07-02 00:07:45.127 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc IN A ROCK
+[DEBUG](staffLog) 05:08:42/07-02 05:07:51(-3) logged CHAT in 🥶: [2024-07-02 00:07:54.440 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: bye bye
+[DEBUG](staffLog) 05:09:02/07-02 05:08:09(-3) logged CHAT in 🥶: [2024-07-02 00:08:12.415 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: no one
+[DEBUG](staffLog) 05:09:22/07-02 05:08:27(-3) logged VANISH in vanish: [2024-07-02 00:08:30.875 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:09:22/07-02 05:08:35(-1) logged MSG in 🌹: [2024-07-02 00:08:36.990 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /pm bucket sorry man need quest kills
+[DEBUG](staffLog) 05:09:33/07-02 05:08:45(-1) logged MSG in 🌹: [2024-07-02 00:08:46.243 UTC] [Info] [Main] [Command] bucket! [bucket]: /pm v0r idrc ur all good lol
+[DEBUG](staffLog) 05:09:44/07-02 05:08:47(-2) logged MSG in 🌹: [2024-07-02 00:08:49.992 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /r <3
+[DEBUG](staffLog) 05:09:52/07-02 05:09:01(-1) logged DEBUG in debug-logs: [2024-07-02 00:09:02.248 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanished
+[DEBUG](staffLog) 05:09:52/07-02 05:09:03(-1) logged VANISH in vanish: [2024-07-02 00:09:04.410 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:09:53/07-02 05:09:03(-1) logged CHAT in 🥶: [2024-07-02 00:09:04.966 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: danggggg
+[DEBUG](staffLog) 05:09:53/07-02 05:09:04(-3) logged CHAT in 🥶: [2024-07-02 00:09:07.500 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: gg
+[DEBUG](staffLog) 05:10:04/07-02 05:09:14(-1) logged VANISH in vanish: [2024-07-02 00:09:15.557 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:10:12/07-02 05:09:20(-1) logged CHAT in 🥶: [2024-07-02 00:09:21.269 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: brother?
+[DEBUG](staffLog) 05:10:32/07-02 05:09:39(-1) logged CHAT in 🥶: [2024-07-02 00:09:40.072 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: you missed 20+ bullets on me from the clip?
+[DEBUG](staffLog) 05:11:02/07-02 05:10:16(-2) logged SPY in 🍑: [2024-07-02 00:10:18.806 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561198990132632
+[DEBUG](staffLog) 05:11:32/07-02 05:10:40(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:10:43.801 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 05:12:52/07-02 05:11:59(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:12:02.948 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 05:13:02/07-02 05:12:16(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:12:19.372 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:14:14/07-02 05:13:22(-2) logged MSG in 🌹: [2024-07-02 00:13:24.137 UTC] [Info] [Main] [Command] Ha [Ha]: /msg scorched damn rat
+[DEBUG](staffLog) 05:15:02/07-02 05:14:13(-2) logged CHAT in 🥶: [2024-07-02 00:14:15.781 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: LOL
+[DEBUG](staffLog) 05:15:13/07-02 05:14:20(-2) logged CHAT in 🥶: [2024-07-02 00:14:22.507 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: wsp
+[DEBUG](staffLog) 05:15:13/07-02 05:14:20(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:14:23.862 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 05:15:22/07-02 05:14:28(-1) logged VANISH in vanish: [2024-07-02 00:14:29.687 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:16:32/07-02 05:15:40(-2) logged CHAT in 🥶: [2024-07-02 00:15:42.299 UTC] [Info] [Main] [Global] Godly [Godly]: wym
+[DEBUG](staffLog) 05:16:32/07-02 05:15:43(-2) logged VANISH in vanish: [2024-07-02 00:15:45.516 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:18:02/07-02 05:17:18(-1) logged VANISH in vanish: [2024-07-02 00:17:19.188 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:18:12/07-02 05:17:20(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:17:23.603 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 05:18:24/07-02 05:17:35(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:17:36.631 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 05:18:33/07-02 05:17:45(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:17:48.421 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 05:19:55/07-02 05:19:04(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:19:07.032 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 05:20:02/07-02 05:19:08(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:19:10.807 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 05:20:32/07-02 05:19:40(-2) logged SC in _: [2024-07-02 00:19:42.681 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc v0rtex I got fish for you
+[DEBUG](staffLog) 05:20:42/07-02 05:19:55(-1) logged MSG in 🌹: [2024-07-02 00:19:56.200 UTC] [Info] [Main] [Command] Ha [Ha]: /msg marlinia cheating for what
+[DEBUG](staffLog) 05:20:54/07-02 05:19:59(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:20:02.180 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 05:21:52/07-02 05:20:59(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:21:01.740 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 05:21:52/07-02 05:21:00(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:21:02.761 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:22:12/07-02 05:21:19(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:21:22.836 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vault
+[DEBUG](staffLog) 05:22:13/07-02 05:21:23(-2) logged MSG in 🌹: [2024-07-02 00:21:25.058 UTC] [Info] [Main] [Command] careful [$yq]: /msg godly drag us
+[DEBUG](staffLog) 05:22:22/07-02 05:21:28(-3) logged MSG in 🌹: [2024-07-02 00:21:31.677 UTC] [Info] [Main] [Command] careful [$yq]: /msg godly i cant hear js the ones running labs
+[DEBUG](staffLog) 05:22:22/07-02 05:21:30(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:21:32.513 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 05:22:22/07-02 05:21:34(-1) logged MSG in 🌹: [2024-07-02 00:21:35.542 UTC] [Info] [Main] [Command] Godly [Godly]: /r ok ok
+[DEBUG](staffLog) 05:23:44/07-02 05:22:53(-2) logged DEBUG in debug-logs: [2024-07-02 00:22:55.595 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /pay foxbro 150000
+[DEBUG](staffLog) 05:23:52/07-02 05:22:58(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:22:59.562 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 05:24:12/07-02 05:23:17(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:23:20.939 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 05:24:12/07-02 05:23:22(-1) logged DEBUG in debug-logs: [2024-07-02 00:23:23.384 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sstast
+[DEBUG](staffLog) 05:24:22/07-02 05:23:30(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:23:31.647 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 05:24:22/07-02 05:23:36(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:23:38.456 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:24:32/07-02 05:23:38(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:23:41.879 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 05:24:32/07-02 05:23:41(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:23:42.686 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 05:24:52/07-02 05:23:57(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:23:59.930 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 05:24:52/07-02 05:24:08(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:24:09.219 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 05:25:02/07-02 05:24:13(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:24:16.269 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash+
+[DEBUG](staffLog) 05:25:12/07-02 05:24:17(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:24:20.036 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 05:25:22/07-02 05:24:28(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:24:31.839 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 05:25:22/07-02 05:24:34(-3) logged CHAT in 🥶: [2024-07-02 00:24:37.417 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: beemed
+[DEBUG](staffLog) 05:25:52/07-02 05:25:07(-1) logged CHAT in 🥶: [2024-07-02 00:25:08.334 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: bye bye
+[DEBUG](staffLog) 05:27:24/07-02 05:26:32(-1) logged DEBUG in debug-logs: [2024-07-02 00:26:33.242 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /sstars
+[DEBUG](staffLog) 05:27:32/07-02 05:26:45(-1) logged CHAT in 🥶: [2024-07-02 00:26:46.757 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: ik
+[DEBUG](staffLog) 05:27:42/07-02 05:26:47(-2) logged CHAT in 🥶: [2024-07-02 00:26:49.474 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: trust me
+[DEBUG](staffLog) 05:27:42/07-02 05:26:48(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:26:50.673 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 05:27:42/07-02 05:26:49(-1) logged CHAT in 🥶: [2024-07-02 00:26:50.907 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: ik
+[DEBUG](staffLog) 05:27:52/07-02 05:27:01(-1) logged MSG in 🌹: [2024-07-02 00:27:02.671 UTC] [Info] [Main] [Command] Ha [Ha]: /msg marl ur dogshit for cheating
+[DEBUG](staffLog) 05:28:12/07-02 05:27:18(-2) logged MSG in 🌹: [2024-07-02 00:27:20.586 UTC] [Info] [Main] [Command] Ha [Ha]: /msg maril you're dogshit for cehating
+[DEBUG](staffLog) 05:28:12/07-02 05:27:23(-2) logged MSG in 🌹: [2024-07-02 00:27:25.909 UTC] [Info] [Main] [Command] Ha [Ha]: /msg marli cheating
+[DEBUG](staffLog) 05:28:12/07-02 05:27:26(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:27:27.667 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:28:22/07-02 05:27:27(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:27:29.752 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 05:28:22/07-02 05:27:36(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:27:37.494 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 05:28:22/07-02 05:27:38(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:27:39.029 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 05:28:44/07-02 05:27:48(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:27:50.531 UTC] [Info] [Main] [Command] Godly [Godly]: /doortp
+[DEBUG](staffLog) 05:28:52/07-02 05:27:58(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:28:01.096 UTC] [Info] [Main] [Command] Godly [Godly]: /stuck
+[DEBUG](staffLog) 05:29:12/07-02 05:28:20(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:28:21.096 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 05:29:32/07-02 05:28:38(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:28:41.545 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 05:29:42/07-02 05:28:52(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:28:55.684 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault gamma
+[DEBUG](staffLog) 05:30:02/07-02 05:29:09(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:29:10.380 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /mc
+[DEBUG](staffLog) 05:31:32/07-02 05:30:42(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:30:44.487 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Vault Stash+
+[DEBUG](staffLog) 05:31:42/07-02 05:30:57(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:30:58.447 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 05:32:02/07-02 05:31:11(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:31:13.955 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 05:32:12/07-02 05:31:26(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:31:28.289 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 05:32:32/07-02 05:31:41(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:31:43.446 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault stash++
+[DEBUG](staffLog) 05:32:42/07-02 05:31:55(-3) logged MSG in 🌹: [2024-07-02 00:31:58.726 UTC] [Info] [Main] [Command] Ha [Ha]: /msg lozin nice fucking extract camping
+[DEBUG](staffLog) 05:32:52/07-02 05:32:01(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:32:04.036 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 05:32:52/07-02 05:32:03(-3) logged MSG in 🌹: [2024-07-02 00:32:06.701 UTC] [Info] [Main] [Command] Ha [Ha]: /msg lozin you're dogshit
+[DEBUG](staffLog) 05:33:02/07-02 05:32:06(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:32:09.553 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 05:33:02/07-02 05:32:12(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:32:14.393 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault kappa
+[DEBUG](staffLog) 05:33:02/07-02 05:32:16(-1) logged CHAT in 🥶: [2024-07-02 00:32:17.197 UTC] [Info] [Main] [Group] Fisherman v0rtex [v0rtex]: im logging off for a bit
+[DEBUG](staffLog) 05:33:16/07-02 05:32:18(-3) logged CHAT in 🥶: [2024-07-02 00:32:21.202 UTC] [Info] [Main] [Group] Alastor [Foxbro37]: ok
+[DEBUG](staffLog) 05:35:32/07-02 05:34:37(-3) logged VANISH in vanish: [2024-07-02 00:34:40.227 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:36:42/07-02 05:35:57(-1) logged MSG in 🌹: [2024-07-02 00:35:58.548 UTC] [Info] [Main] [Command] Ha [Ha]: /msg marli
+[DEBUG](staffLog) 05:36:52/07-02 05:36:01(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:36:02.272 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:37:02/07-02 05:36:08(-2) logged MSG in 🌹: [2024-07-02 00:36:10.587 UTC] [Info] [Main] [Command] Ha [Ha]: /msg alastor you gonna ban marilina or something
+[DEBUG](staffLog) 05:37:03/07-02 05:36:17(-1) logged MSG in 🌹: [2024-07-02 00:36:18.706 UTC] [Info] [Main] [Command] Ha [Ha]: /msg alastor maybe do your job?
+[DEBUG](staffLog) 05:37:22/07-02 05:36:26(-3) logged MSG in 🌹: [2024-07-02 00:36:29.548 UTC] [Info] [Main] [Command] Ha [Ha]: /msg alastor never seen someone so blatant not get banned in my life
+[DEBUG](staffLog) 05:37:23/07-02 05:36:33(-1) logged MSG in 🌹: [2024-07-02 00:36:34.239 UTC] [Info] [Main] [Command] Ha [Ha]: /msg alastor genuine iq diff
+[DEBUG](staffLog) 05:37:42/07-02 05:36:55(-1) logged MSG in 🌹: [2024-07-02 00:36:56.134 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /r who?
+[DEBUG](staffLog) 05:38:02/07-02 05:37:11(-1) logged MSG in 🌹: [2024-07-02 00:37:12.738 UTC] [Info] [Main] [Command] Ha [Ha]: /r marilina or however its spelled
+[DEBUG](staffLog) 05:38:14/07-02 05:37:18(-2) logged MSG in 🌹: [2024-07-02 00:37:20.083 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /r HES BEEN ON MY RADAR FOR DAYS
+[DEBUG](staffLog) 05:38:14/07-02 05:37:18(-3) logged MSG in 🌹: [2024-07-02 00:37:21.350 UTC] [Info] [Main] [Command] Ha [Ha]: /r kid is like a 5 kd pre firing and tried to shoot me through a wall
+[DEBUG](staffLog) 05:38:14/07-02 05:37:24(-3) logged DEBUG in debug-logs: [2024-07-02 00:37:27.297 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /ping 76561199567157953
+[DEBUG](staffLog) 05:38:48/07-02 05:37:55(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:37:56.901 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 05:38:52/07-02 05:38:03(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:38:05.521 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 05:39:52/07-02 05:39:00(-3) logged VANISH in vanish: [2024-07-02 00:39:03.366 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:40:12/07-02 05:39:18(-2) logged VANISH in vanish: [2024-07-02 00:39:20.765 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:40:22/07-02 05:39:33(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:39:35.273 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /trash
+[DEBUG](staffLog) 05:41:02/07-02 05:40:15(-2) logged SC in _: [2024-07-02 00:40:17.063 UTC] [Info] [Main] [Command] Godly [Godly]: /sc im like 90 sure that guy is cheating
+[DEBUG](staffLog) 05:41:24/07-02 05:40:30(-1) logged SC in _: [2024-07-02 00:40:31.762 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc been on my radar for days
+[DEBUG](staffLog) 05:41:32/07-02 05:40:40(-1) logged SC in _: [2024-07-02 00:40:41.931 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc even mushy gets pings about the guy
+[DEBUG](staffLog) 05:42:14/07-02 05:41:22(-3) logged SPY in 🍑: [2024-07-02 00:41:25.082 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561198990132632
+[DEBUG](staffLog) 05:42:14/07-02 05:41:26(-2) logged SPY in 🍑: [2024-07-02 00:41:28.143 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199567157953
+[DEBUG](staffLog) 05:42:14/07-02 05:41:25(-3) logged SC in _: [2024-07-02 00:41:28.166 UTC] [Info] [Main] [Command] Godly [Godly]: /sc bro i jumped peek for 2 seconds he shoots 3 bullets all unads and hits all 3 from 30 meters
+[DEBUG](staffLog) 05:42:33/07-02 05:41:45(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:41:48.512 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:42:44/07-02 05:41:52(-1) logged MSG in 🌹: [2024-07-02 00:41:53.838 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /pm scorched w
+[DEBUG](staffLog) 05:43:22/07-02 05:42:31(-1) logged SC in _: [2024-07-02 00:42:32.918 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc if only I had /j to tp into obj's easier
+[DEBUG](staffLog) 05:43:43/07-02 05:42:53(-3) logged SC in _: [2024-07-02 00:42:56.835 UTC] [Info] [Main] [Command] Godly [Godly]: /sc u dont got ./j???
+[DEBUG](staffLog) 05:44:02/07-02 05:43:08(-2) logged SC in _: [2024-07-02 00:43:10.612 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc tmods dont get that
+[DEBUG](staffLog) 05:44:02/07-02 05:43:11(-1) logged SC in _: [2024-07-02 00:43:12.824 UTC] [Info] [Main] [Command] Godly [Godly]: /sc oh shi ig u dont
+[DEBUG](staffLog) 05:44:02/07-02 05:43:11(-2) logged DEBUG in debug-logs: [2024-07-02 00:43:13.318 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /j
+[DEBUG](staffLog) 05:44:02/07-02 05:43:13(-3) fakelogged DEBUG in 🤯: [2024-07-02 00:43:16.104 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:44:12/07-02 05:43:22(-1) logged SC in _: [2024-07-02 00:43:23.351 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc with I had cheater mesh
+[DEBUG](staffLog) 05:44:22/07-02 05:43:27(-3) logged VANISH in vanish: [2024-07-02 00:43:30.106 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:44:22/07-02 05:43:28(-2) logged VANISH in vanish: [2024-07-02 00:43:30.954 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:44:33/07-02 05:43:39(-2) fakelogged DEBUG in 🤯: [2024-07-02 00:43:41.537 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:44:42/07-02 05:43:56(-2) logged VANISH in vanish: [2024-07-02 00:43:58.897 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:45:02/07-02 05:44:11(-3) logged VANISH in vanish: [2024-07-02 00:44:14.898 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:45:12/07-02 05:44:20(-2) logged SPY in 🍑: [2024-07-02 00:44:22.356 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199567157953
+[DEBUG](staffLog) 05:45:22/07-02 05:44:33(-1) logged SC in _: [2024-07-02 00:44:34.084 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc careful, cheater is in labs
+[DEBUG](staffLog) 05:45:39/07-02 05:44:46(-3) logged SC in _: [2024-07-02 00:44:49.344 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc ima use you as bai
+[DEBUG](staffLog) 05:45:42/07-02 05:44:51(-2) logged SC in _: [2024-07-02 00:44:53.847 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc bait
+[DEBUG](staffLog) 05:46:03/07-02 05:45:13(-3) logged VANISH in vanish: [2024-07-02 00:45:16.618 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:47:22/07-02 05:46:28(-1) logged SPY in 🍑: [2024-07-02 00:46:29.933 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spy 76561199567157953
+[DEBUG](staffLog) 05:47:22/07-02 05:46:35(-1) fakelogged DEBUG in 🤯: [2024-07-02 00:46:36.780 UTC] [Info] [Main] [Command] Godly [Godly]: /vault
+[DEBUG](staffLog) 05:47:32/07-02 05:46:44(-3) logged VANISH in vanish: [2024-07-02 00:46:47.503 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:49:32/07-02 05:48:38(-3) logged VANISH in vanish: [2024-07-02 00:48:41.805 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:49:42/07-02 05:48:55(-1) logged VANISH in vanish: [2024-07-02 00:48:56.348 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 05:53:52/07-02 05:52:59(-1) logged SERVER in 😃: [2024-07-02 00:53:00.894 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /server 34
+[DEBUG](staffLog) 05:57:33/07-02 05:56:37(-2) logged MSG in 🌹: [2024-07-02 00:56:39.753 UTC] [Info] [Main] [Command] High [High]: /pm Banana your a hoe
+[DEBUG](staffLog) 05:57:44/07-02 05:56:50(-2) logged MSG in 🌹: [2024-07-02 00:56:52.893 UTC] [Info] [Main] [Command] High [High]: /pm Banana your a hoe
+[DEBUG](staffLog) 05:58:02/07-02 05:57:08(-3) logged MSG in 🌹: [2024-07-02 00:57:11.576 UTC] [Info] [Main] [Command] High [High]: /pm Banana your a hoe
+[DEBUG](staffLog) 06:02:54/07-02 06:02:01(-3) logged VANISH in vanish: [2024-07-02 01:02:04.706 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /vanish
+[DEBUG](staffLog) 06:03:42/07-02 06:02:48(-1) logged TP in tp: [2024-07-02 01:02:49.898 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at South East of gorge (2899.382 5.550004 -41.97377) from East of gorge (2335.251 0.2144102 889.2971)
+[DEBUG](staffLog) 06:04:13/07-02 06:03:19(-3) logged TP in tp: [2024-07-02 01:03:22.083 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at South East of gorge (2899.791 6.648255 -44.60983) from South East of gorge (2914.862 0.3747618 -26.43385)
+[DEBUG](staffLog) 06:04:32/07-02 06:03:46(-2) logged DEBUG in debug-logs: [2024-07-02 01:03:48.432 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /god
+[DEBUG](staffLog) 06:05:02/07-02 06:04:18(-1) logged TP in tp: [2024-07-02 01:04:19.111 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at South East of gorge (2913.729 0.3000011 -40.67453) from South East of gorge (2905.88 0.3000009 -37.14354)
+[DEBUG](staffLog) 06:05:42/07-02 06:04:52(-1) logged VANISH in vanish: [2024-07-02 01:04:53.214 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 06:06:22/07-02 06:05:30(-2) logged TP in tp: [2024-07-02 01:05:32.331 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at South East of gorge (2912.673 5.550004 -42.44312) from South East of gorge (2905.754 0.7258157 -34.12409)
+[DEBUG](staffLog) 06:06:22/07-02 06:05:31(-2) fakelogged DEBUG in 🤯: [2024-07-02 01:05:33.717 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 06:07:12/07-02 06:06:21(-1) logged DEBUG in debug-logs: [2024-07-02 01:06:22.463 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /checkownerdm
+[DEBUG](staffLog) 06:07:12/07-02 06:06:25(-3) logged TP in tp: [2024-07-02 01:06:28.157 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at North West of Range (384.6721 65.31444 2564.949) from South East of gorge (2915.433 0.3747618 -27.03126)
+[DEBUG](staffLog) 06:07:22/07-02 06:06:30(-1) logged DEBUG in debug-logs: [2024-07-02 01:06:31.543 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /d
+[DEBUG](staffLog) 06:07:22/07-02 06:06:33(-3) logged DEBUG in debug-logs: [2024-07-02 01:06:36.357 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /d
+[DEBUG](staffLog) 06:07:22/07-02 06:06:35(-2) logged DEBUG in debug-logs: [2024-07-02 01:06:37.421 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /d
+[DEBUG](staffLog) 06:07:32/07-02 06:06:38(-1) logged DEBUG in debug-logs: [2024-07-02 01:06:39.808 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /checkownerdm
+[DEBUG](staffLog) 06:07:42/07-02 06:06:56(-2) logged DEBUG in debug-logs: [2024-07-02 01:06:58.891 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /checkownerdm
+[DEBUG](staffLog) 06:07:52/07-02 06:07:00(-1) logged DEBUG in debug-logs: [2024-07-02 01:07:01.321 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /checkownerdm
+[DEBUG](staffLog) 06:07:52/07-02 06:07:01(-1) logged DEBUG in debug-logs: [2024-07-02 01:07:02.894 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /checkownerdm
+[DEBUG](staffLog) 06:09:32/07-02 06:08:44(-3) logged DEBUG in debug-logs: [2024-07-02 01:08:47.203 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /j
+[DEBUG](staffLog) 06:10:32/07-02 06:09:37(-2) fakelogged DEBUG in 🤯: [2024-07-02 01:09:39.638 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /DOORTP
+[DEBUG](staffLog) 06:12:42/07-02 06:11:48(-3) logged VANISH in vanish: [2024-07-02 01:11:51.741 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /VANISH
+[DEBUG](staffLog) 06:12:52/07-02 06:12:05(-3) logged TP in tp: [2024-07-02 01:12:08.974 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /TP FOXBRO
+[DEBUG](staffLog) 06:12:53/07-02 06:12:07(-1) logged TP in tp: [2024-07-02 01:12:08.974 UTC] [Info] [Main] Pandahut >> Fisherman v0rtex (76561198844615074) - Teleported to Alastor (76561198397021503 at North West of Range (359.1765 69.86444 2562.587) from South East of Arena (2394.6 0.5019141 1352.05)
+[DEBUG](staffLog) 06:13:02/07-02 06:12:14(-2) logged SPY in 🍑: [2024-07-02 01:12:16.842 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /spy maril
+[DEBUG](staffLog) 06:16:02/07-02 06:15:14(-3) logged TP in tp: [2024-07-02 01:15:17.206 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at North of Factory (-1973.064 53.61261 1963.389) from North West of Range (311.7879 65.06444 2666.341)
+[DEBUG](staffLog) 06:16:02/07-02 06:15:18(-1) logged TP in tp: [2024-07-02 01:15:19.263 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at North of Factory (-1968.263 53.61261 1949.036) from South East of Factory (-1822.405 55.11261 1820.811)
+[DEBUG](staffLog) 06:16:22/07-02 06:15:33(-2) logged MSG in 🌹: [2024-07-02 01:15:35.915 UTC] [Info] [Main] [Command] Dark [cheewee2019]: /pm zAp inv me
+[DEBUG](staffLog) 06:16:22/07-02 06:15:35(-1) logged VANISH in vanish: [2024-07-02 01:15:36.920 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vanish
+[DEBUG](staffLog) 06:16:22/07-02 06:15:37(-2) logged VANISH in vanish: [2024-07-02 01:15:39.052 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vanish
+[DEBUG](staffLog) 06:16:34/07-02 06:15:37(-3) logged DEBUG in debug-logs: [2024-07-02 01:15:40.354 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /t p76561199567157953
+[DEBUG](staffLog) 06:16:34/07-02 06:15:38(-3) logged TP in tp: [2024-07-02 01:15:41.936 UTC] [Info] [Main] Pandahut >> Fisherman v0rtex (76561198844615074) - Teleported to Marilina (76561199567157953 at East of Factory (-1856.307 53.61261 1887.52) from North West of Range (368.2109 65.31445 2585.273)
+[DEBUG](staffLog) 06:16:35/07-02 06:15:40(-3) logged TP in tp: [2024-07-02 01:15:43.376 UTC] [Info] [Main] Pandahut >> Fisherman v0rtex (76561198844615074) - Teleported to Marilina (76561199567157953 at East of Factory (-1853.755 53.61261 1876.431) from North of Factory (-1946.618 53.61261 1964.244)
+[DEBUG](staffLog) 06:16:42/07-02 06:15:50(-1) logged DEBUG in debug-logs: [2024-07-02 01:15:51.762 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /ping 76561199567157953
+[DEBUG](staffLog) 06:17:32/07-02 06:16:44(-1) fakelogged DEBUG in 🤯: [2024-07-02 01:16:45.597 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /i cheater
+[DEBUG](staffLog) 06:17:32/07-02 06:16:46(-1) logged VANISH in vanish: [2024-07-02 01:16:47.186 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vanish
+[DEBUG](staffLog) 06:17:52/07-02 06:16:59(-2) logged VANISH in vanish: [2024-07-02 01:17:01.658 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vanish
+[DEBUG](staffLog) 06:18:02/07-02 06:17:07(-3) logged TP in tp: [2024-07-02 01:17:10.390 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at North West of Range (331.841 65.31445 2650.118) from North West of Range (328.5662 65.06444 2670.639)
+[DEBUG](staffLog) 06:18:12/07-02 06:17:20(-3) logged TP in tp: [2024-07-02 01:17:23.859 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at South East of gorge (2905.937 0.5558903 -33.19671) from North West of Range (311.2447 65.31445 2591.617)
+[DEBUG](staffLog) 06:18:22/07-02 06:17:31(-1) logged DEBUG in debug-logs: [2024-07-02 01:17:32.978 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /tphere 76561199567157953
+[DEBUG](staffLog) 06:18:22/07-02 06:17:34(-3) logged VANISH in vanish: [2024-07-02 01:17:37.824 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /vanish
+[DEBUG](staffLog) 06:18:23/07-02 06:17:37(-1) logged TP in tp: [2024-07-02 01:17:38.503 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at North West of Woods (-2829.752 51.35318 49.97987) from South East of gorge (2898.07 5.550003 -41.18073)
+[DEBUG](staffLog) 06:18:32/07-02 06:17:38(-2) logged TP in tp: [2024-07-02 01:17:40.219 UTC] [Info] [Main] Pandahut >> Vampie A. (76561198259451520) - Teleported to Marilina (76561199567157953 at North West of Woods (-2827.563 51.35318 51.40808) from North West of Woods (-2830.053 51.35318 49.64545)
+[DEBUG](staffLog) 06:18:32/07-02 06:17:42(-3) logged SPY in 🍑: [2024-07-02 01:17:45.044 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /spy 76561199567157953
+[DEBUG](staffLog) 06:19:32/07-02 06:18:41(-1) logged DEBUG in debug-logs: [2024-07-02 01:18:42.579 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /globalban 76561199567157953 "Cheating\ESP|Perma" 0
+[DEBUG](staffLog) 06:19:42/07-02 06:18:57(-1) logged CHAT in 🥶: [2024-07-02 01:18:58.554 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: teehee
+[DEBUG](staffLog) 06:19:52/07-02 06:19:05(-1) logged CHAT in 🥶: [2024-07-02 01:19:06.127 UTC] [Info] [Main] [Global] Fisherman v0rtex [v0rtex]: send to me
+[DEBUG](staffLog) 06:22:42/07-02 06:21:54(-3) fakelogged DEBUG in 🤯: [2024-07-02 01:21:57.502 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: //Doortp
+[DEBUG](staffLog) 06:22:52/07-02 06:22:00(-3) logged VANISH in vanish: [2024-07-02 01:22:03.019 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vanish
+[DEBUG](staffLog) 06:23:02/07-02 06:22:15(-1) fakelogged DEBUG in 🤯: [2024-07-02 01:22:16.587 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 06:23:02/07-02 06:22:16(-3) logged DEBUG in debug-logs: [2024-07-02 01:22:19.138 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /bunker
+[DEBUG](staffLog) 06:23:12/07-02 06:22:19(-1) fakelogged DEBUG in 🤯: [2024-07-02 01:22:20.373 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /doortp
+[DEBUG](staffLog) 06:23:12/07-02 06:22:23(-1) logged DEBUG in debug-logs: [2024-07-02 01:22:24.898 UTC] [Info] [Main] [Command] Fisherman v0rtex [v0rtex]: /spec
+[DEBUG](staffLog) 06:23:12/07-02 06:22:26(-1) fakelogged DEBUG in 🤯: [2024-07-02 01:22:27.965 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /stuck
+[DEBUG](staffLog) 06:23:22/07-02 06:22:27(-2) logged DEBUG in debug-logs: [2024-07-02 01:22:29.965 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /bunker
+[DEBUG](staffLog) 06:23:22/07-02 06:22:29(-1) logged DEBUG in debug-logs: [2024-07-02 01:22:30.695 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /soec
+[DEBUG](staffLog) 06:23:22/07-02 06:22:29(-3) fakelogged DEBUG in 🤯: [2024-07-02 01:22:32.272 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /doortp
+[DEBUG](staffLog) 06:23:23/07-02 06:22:30(-3) logged DEBUG in debug-logs: [2024-07-02 01:22:33.642 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /spec
+[DEBUG](staffLog) 06:23:23/07-02 06:22:34(-1) logged SC in _: [2024-07-02 01:22:35.714 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /sc
+[DEBUG](staffLog) 06:23:52/07-02 06:22:59(-1) fakelogged DEBUG in 🤯: [2024-07-02 01:23:00.050 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 06:26:42/07-02 06:25:49(-3) logged VANISH in vanish: [2024-07-02 01:25:52.223 UTC] [Info] [Main] [Command] Vampie A. [Vampie]: /smod
+[DEBUG](staffLog) 06:39:52/07-02 06:39:03(-2) logged MSG in 🌹: [2024-07-02 01:39:05.116 UTC] [Info] [Main] [Command] not so jolly [SwampSniper]: /msg vortex wait is there a global reset tonight

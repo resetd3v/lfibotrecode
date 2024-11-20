@@ -1,0 +1,10 @@
+[INFO](debug) changed debug level from 2 -> 4
+[DEBUG](retrieveLog) wrote 13.509935MB to latest.log in 1.7752530574798584
+[DEBUG](retrieveLog) read 499 lines from latest.log in 0.12964248657226562s 67 lines skipped
+[DEBUG](retrieveLog) wrote 13.518496MB to latest.log in 2.058596611022949
+[DEBUG](retrieveLog) read 499 lines from latest.log in 0.13127851486206055s 51 lines skipped
+[DEBUG](retrieveLog) wrote 13.525121MB to latest.log in 1.8663058280944824
+[DEBUG](retrieveLog) read 499 lines from latest.log in 0.1335766315460205s 51 lines skipped
+[DEBUG](retrieveLog) wrote 13.541389MB to latest.log in 2.2990341186523438
+[DEBUG](retrieveLog) read 499 lines from latest.log in 0.21759295463562012s 38 lines skipped
+[INFO](debug) changed debug level from 4 -> 2

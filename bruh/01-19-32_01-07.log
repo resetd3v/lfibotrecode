@@ -1,0 +1,6 @@
+[INFO](retrieveLog) wrote 32.883708MB to latest.log in 2.255952835083008
+[INFO](staffParse) CAUGHT UP TO LATEST 49
+[ERROR](staffParse) error parsing Replacement index 1 out of range for positional args tuple | {'name': 'MSG', 'aliases': ['pm', 'r'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'color': 34001} | [2024-07-01 00:19:26.631 UTC] [Info] [Main] [Command] Jenireeh [shino]: /pm Unocie F no?
+
+[ERROR](staffParse) error parsing Replacement index 1 out of range for positional args tuple | {'name': 'MSG', 'aliases': ['pm', 'r'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'color': 34001} | [2024-07-01 00:19:40.834 UTC] [Info] [Main] [Command] Jenireeh [shino]: /pm unocie no jugaremos?
+

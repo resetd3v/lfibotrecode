@@ -1,0 +1,31 @@
+[INFO](retrieveLog) wrote 154.938284MB to latest.log in 4.456867456436157
+[INFO](staffParse) CAUGHT UP TO LATEST 15
+[DEBUG](staffLog) 06:20:00/07-11 06:16:00(-3) fakelogged DEBUG in 🤯: [2024-07-11 01:16:03.417 UTC] [Info] [Main] [Command] drakos [Andre]: /vault
+[DEBUG](staffLog) 06:22:00/07-11 06:19:01(-1) logged DEBUG in debug-logs: [2024-07-11 01:19:02.746 UTC] [Info] [Main] [Command] drakos [Andre]: /mute 76561199152044775 "SC | First Offense | 1d" 1 d
+[DEBUG](staffLog) 06:22:00/07-11 06:19:06(-1) logged MSG in 🌹: [2024-07-11 01:19:07.685 UTC] [Info] [Main] [Command] Dacota [Dacota]: /msg doctor im his teammate what do yuo need
+[ERROR](staffParse) error parsing 'NoneType' object has no attribute 'replace' | {'name': 'MSG', 'aliases': ['pm'], 'channel': 1256769061791072317, 'public': False, 'text': 'player "{}" said "{}" to "{}"', 'textArgs': ['sender', 'params', 'target'], 'color': 34001} | [2024-07-11 01:20:13.044 UTC] [Info] [Main] [Command] doctor of poop [bippo-no-bungus]: /msg
+
+[DEBUG](staffLog) 06:23:15/07-11 06:20:25(-1) logged R in 🌹: [2024-07-11 01:20:26.808 UTC] [Info] [Main] [Command] Dacota [Dacota]: /r sure
+[DEBUG](staffLog) 06:23:16/07-11 06:20:36(-1) logged VANISH in vanish: [2024-07-11 01:20:37.029 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 06:23:16/07-11 06:20:46(-3) fakelogged DEBUG in 🤯: [2024-07-11 01:20:49.682 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 06:23:16/07-11 06:20:53(-2) fakelogged DEBUG in 🤯: [2024-07-11 01:20:55.392 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /stuck
+[DEBUG](staffLog) 06:23:16/07-11 06:20:52(-3) logged VANISH in vanish: [2024-07-11 01:20:55.910 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 06:23:16/07-11 06:21:00(-1) logged VANISH in vanish: [2024-07-11 01:21:01.077 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 06:23:16/07-11 06:20:59(-3) logged TP in tp: [2024-07-11 01:21:02.073 UTC] [Info] [Main] Pandahut >> drakos (76561199531161985) - Teleported to poopisecret (76561198145363736 at North West of Range (343.5644 67.2812 2684.542) from North West of Range (368.0972 65.31445 2583.652)
+[DEBUG](staffLog) 06:23:17/07-11 06:21:03(-2) logged VANISH in vanish: [2024-07-11 01:21:05.351 UTC] [Info] [Main] [Command] drakos [Andre]: /vanish
+[DEBUG](staffLog) 06:24:02/07-11 06:21:11(-3) fakelogged DEBUG in 🤯: [2024-07-11 01:21:14.162 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /doortp
+[DEBUG](staffLog) 06:24:02/07-11 06:21:14(-3) logged DEBUG in debug-logs: [2024-07-11 01:21:17.375 UTC] [Info] [Main] [Command] drakos [Andre]: /mute 76561198145363736 "Homophobia | First Offense | 7d" 7 d
+[DEBUG](staffLog) 06:25:10/07-11 06:22:47(-1) logged CHAT in 🥶: [2024-07-11 01:22:48.186 UTC] [Info] [Main] [Global] drakos [Andre]: idk what i did wrong, people for some reason hate me
+[DEBUG](staffLog) 06:25:10/07-11 06:23:12(-1) logged CHAT in 🥶: [2024-07-11 01:23:13.791 UTC] [Info] [Main] [Global] drakos [Andre]: i can
+[DEBUG](staffLog) 06:25:56/07-11 06:23:22(-1) logged CHAT in 🥶: [2024-07-11 01:23:23.121 UTC] [Info] [Main] [Global] drakos [Andre]: Its hilarious that people hate me for muting something that they did
+[DEBUG](staffLog) 06:25:56/07-11 06:23:25(-1) logged MSG in 🌹 mentioned 1218944589994659850: [2024-07-11 01:23:26.073 UTC] [Info] [Main] [Command] poopisecret [PuupSecret]: /pm unk Ask him why's he so soft and literally muted for everything
+[DEBUG](staffLog) 06:26:45/07-11 06:23:53(-1) fakelogged DEBUG in 🤯: [2024-07-11 01:23:54.371 UTC] [Info] [Main] [Command] Alastor [Foxbro37]: /vault
+[DEBUG](staffLog) 06:26:53/07-11 06:24:18(-3) logged CHAT in 🥶: [2024-07-11 01:24:21.769 UTC] [Info] [Main] [Global] drakos [Andre]: im an L mod?
+[DEBUG](staffLog) 06:28:39/07-11 06:25:01(-2) logged CHAT in 🥶: [2024-07-11 01:25:03.922 UTC] [Info] [Main] [Global] drakos [Andre]: how am i an L mod?
+[DEBUG](staffLog) 06:28:46/07-11 06:25:24(-2) logged CHAT in 🥶: [2024-07-11 01:25:26.775 UTC] [Info] [Main] [Global] drakos [Andre]: im not gonna mute for saying "L mod" i just want to know how am i an L mod
+[DEBUG](staffLog) 06:28:46/07-11 06:25:31(-3) logged CHAT in 🥶: [2024-07-11 01:25:34.488 UTC] [Info] [Main] [Global] drakos [Andre]: good reasons
+[DEBUG](staffLog) 06:28:47/07-11 06:25:33(-3) logged CHAT in 🥶: [2024-07-11 01:25:36.100 UTC] [Info] [Main] [Global] drakos [Andre]: with clips
+[DEBUG](staffLog) 06:28:47/07-11 06:25:34(-3) logged CHAT in 🥶: [2024-07-11 01:25:37.635 UTC] [Info] [Main] [Global] drakos [Andre]: lol
+[DEBUG](staffLog) 06:28:47/07-11 06:25:38(-2) logged DEBUG in debug-logs: [2024-07-11 01:25:40.452 UTC] [Info] [Main] [Command] drakos [Andre]: /mod
+[DEBUG](staffLog) 06:28:47/07-11 06:25:59(-1) logged CHAT in 🥶: [2024-07-11 01:26:00.311 UTC] [Info] [Main] [Global] drakos [Andre]: Follow the rules and also staff can't send clips to people
+[DEBUG](staffLog) 06:29:24/07-11 06:26:15(-3) logged CHAT in 🥶: [2024-07-11 01:26:18.789 UTC] [Info] [Main] [Global] drakos [Andre]: No, i get they're name in the clip
