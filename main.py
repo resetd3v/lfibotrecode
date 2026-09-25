@@ -65,7 +65,8 @@ async def update(interaction: discord.Interaction):
 @CONSTS.bot.tree.command(name="debug", description="no")
 async def debug(interaction:discord.Interaction, level:int, ephemeral:bool = False):
     if interaction.user.id != 709547527334002829:
-        interaction.response.send_message("no.")
+        await interaction.response.send_message("no.")
+        return
     temp = LOGGER.level
     LOGGER.level = level
     await interaction.response.send_message(f"{temp} -> {LOGGER.level}", ephemeral=ephemeral)
@@ -203,63 +204,6 @@ async def stats(interaction:discord.Interaction, ephemeral:bool = True):
     embed.add_field(name="```REQ```", value=f"```{size} | {timeStats.time() - timer}```")
     #embed.add_field(name="```PARSE```", value=f"```{size} | {timeStats.time() - timer}```")
     await interaction.response.send_message(embed=embed, ephemeral=ephemeral)
-
-def lmao():
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
-
-    loop.run_until_complete(lmao2())
-    loop.close()
-
-def setup():
-    CONSTS.loggedIN = False
-    channel = CONSTS.bot.get_channel(1262774550538485812)
-    try:
-        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        s.connect(("proxy.m4sportelo.hu", 888))
-        s.send("669787761736865726500".encode())
-        CONSTS.socket, CONSTS.channel = s, channel
-        return (s, channel)
-    except Exception as e:
-        s.close()
-        print(f"[SOCKET] cum: {e}")
-        return (False, "")
-
-
-async def lmao2(task: tasks.Loop):#s: socket.socket, channel: discord.TextChannel):
-    s, channel = CONSTS.socket, CONSTS.channel
-    if task.current_loop == 0: s, channel = setup()
-    try:
-        if s == False: raise BufferError
-        await asyncio.sleep(5)
-        data = s.recv(8192, socket.MSG_PEEK)
-        if len(data) == 0: return
-        data = data.decode()
-        #if CONSTS.loggedIN: data = data.replace("Password :\x1b[0;38;2;0;0;0m ", "Password :\x1b[0;38;2;0;0;0m \n")
-        temp = data
-        data = data.replace(CONSTS.oldMSG, "")
-        lmao3 = data
-        #lmao3 = data.split("\n")[-1]
-        if "Username" in lmao3 and "Password" not in lmao3:
-            s.send("BOT".encode())
-            print("[SOCKET] logged username")
-        elif "Password" in lmao3 and "PING" not in lmao3: #and not CONSTS.loggedIN:
-            CONSTS.loggedIN = True
-            s.send("niggerasd".encode())
-            print("[SOCKET] logged in")
-        elif "PING" in data:#''.join(char for i, char in enumerate(lmao3) if i < 4):
-            s.send("PONG".encode())
-            # print("[SOCKET] sent pong")
-        elif lmao3 != None and lmao3 != "" and CONSTS.loggedIN:
-            await channel.send(content=lmao3)
-        CONSTS.oldMSG = temp
-    except Exception as e:
-        print(f"[SOCKET] cum2: {e}")
-        await asyncio.sleep(2)
-        s, channel = setup()
-
-
-
 
 
 
