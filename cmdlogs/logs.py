@@ -13,7 +13,6 @@ class Logs:
         self.tempfilepath = f"{self.path}{self.tempfilename}"
         self.prepTemp()
         self.load()
-        
 
     def load(self):
         try:
@@ -21,16 +20,19 @@ class Logs:
                 self.logsData:dict = json.load(self.file)
                 verifyResp = self.verify("log")
                 if not verifyResp:
-                    print("retard what did u do u fucking dumbass")
+                    print("what did u do u fucking dumbass")
                     exit()
+
                 self.getActive()
                 print("loaded the funny")
+
             with open(self.funnifilePath, "r", encoding="UTF-8") as self.funnifile:
                 self.funnilogsData:dict = json.load(self.funnifile)
                 verifyResp = self.verify("funni")
                 if not verifyResp:
-                    print("retard what did u do u fucking dumbass v2")
+                    print("what did u do u fucking dumbass v2")
                     exit()
+
                 print("loaded the funny v2")
         except Exception as e:
             print(f"bruh {e}")
@@ -51,6 +53,7 @@ class Logs:
             if typeL == "log":
                 if (self.logsData == None or "valid" not in self.logsData.keys()):
                     return False
+                
                 self.prepTemp()
                 with open(self.tempfilepath, "w+", encoding="UTF-8") as temp:
                     json.dump(self.logsData, temp, ensure_ascii=False, indent=4)
@@ -60,6 +63,7 @@ class Logs:
             elif typeL == "funni":
                 if (self.funnilogsData == None or "valid" not in self.funnilogsData.keys()):
                     return False
+                
                 self.prepTemp()
                 with open(self.tempfilepath, "w+", encoding="UTF-8") as temp:
                     json.dump(self.funnilogsData, temp, ensure_ascii=False, indent=4)
@@ -91,11 +95,17 @@ class Logs:
     def getActiveUser(self, user, autocomplete = False):
         self.getActive()
         user = self.parseUser(user)
+        if not user:
+            return {}
+
         logsTemp = {}
         for logEntry in self.activeLogs:
-            logsTemp = {key : log for key, log in logEntry.items() if user != "" and (log["user"] == user or (type(user) == str and ((autocomplete and user in log["display"].lower()) and len(user) >= 3 or user == log["display"].lower()))) and log["active"]}
+            logsTemp = {key : log for key, log in logEntry.items() if (log["user"] == user or self.autocomplete(log, str(user))) and log["active"]}
             if len(logsTemp) > 0: break
         return logsTemp
+
+    def autocomplete(self, log, user):
+        return user == log["display"].lower() or len(user) >= 3 and user in log["display"].lower()
     
     def getMention(self, user, autocomplete = False):
         for log in self.getActiveUser(user, autocomplete).values():
@@ -109,7 +119,7 @@ class Logs:
         try:
             # rare 🤯
             if data.id in self.logsData.keys():
-                print("HOLY SHIT NOT A DRILL 16 DIGIT COLLISONSADGJNLAD!!!! imageine if this happened twice and now ur db is fucked!")
+                print("HOLY SHIT NOT A DRILL 16 DIGIT COLLISONSADGJNLAD!!!! real!")
                 #data.refreshID()
             self.logsData["logs"][data.id] = data.__dict__
             print(f"new log {data.user} added from {data.author['name']} for {data.mention['name']} | {data.id}")
@@ -119,7 +129,6 @@ class Logs:
 
     def add(self, data: Funni):
         try:
-
             try:
                 idData = str(data.id)
                 guid = data.guid[0]

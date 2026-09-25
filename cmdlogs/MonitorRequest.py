@@ -10,10 +10,10 @@ class MonitorRequest():
         self.id:int = interaction.id
         self.active = True
         #self.interaction = interaction
-        self.author:dict[str: int] = {"name" : interaction.user.name, "id" : interaction.user.id}
-        self.mention:dict[str: int] = {"name" : mention.name, "id" : mention.id}
+        self.author:dict[str, str|int] = {"name" : interaction.user.name, "id" : interaction.user.id}
+        self.mention:dict[str, str|int] = {"name" : mention.name, "id" : mention.id}
         self.timestamp:str = str(datetime.datetime.now())
-        self.action:self.MonitorType = action.name
+        self.action:str = action.name
         self.user:int = int(user)
         self.display = display
 

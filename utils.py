@@ -6,7 +6,7 @@ from enum import Enum
 TIMEZONE = -5
 DEBUGCHANNEL = 1256018442784608287
 # stackoverflow
-def to_thread(func: typing.Callable) -> typing.Coroutine:
+def to_thread(func: typing.Callable):
     @functools.wraps(func)
     async def wrapper(*args, **kwargs):
         return await asyncio.to_thread(func, *args, **kwargs)
@@ -41,6 +41,7 @@ class Logger():
             if self.level < level: return
             
             channel = bot.get_channel(DEBUGCHANNEL)
+            if not isinstance(channel, discord.TextChannel): return
             await channel.send(f"[{logType.name if logType != self.LogType.NONE else ''}] {msg}")
             return
         await interaction.response.send_message(f"[{logType.name if logType != self.LogType.NONE else ''}] {msg}")
@@ -67,7 +68,9 @@ def getColor(action):
 
 def getTime(data: str):
     # time
-    timeThing = re.search(r'(.*)\..*UTC]', data).group().replace("[", "").replace(" UTC]", "").split(" ")[::-1]
+    result = re.search(r'(.*)\..*UTC]', data)
+    if not result: raise SyntaxError
+    timeThing = result.group().replace("[", "").replace(" UTC]", "").split(" ")[::-1]
     amazingObf = random.randint(-3,-1)
     key = int(''.join(str(ord(char)) for char in random.choices(string.ascii_letters, k=10)))
     clockTime = datetime.strptime(timeThing[0].split('.')[0], "%H:%M:%S") + timedelta(seconds=amazingObf)

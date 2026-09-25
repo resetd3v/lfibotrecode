@@ -6,44 +6,50 @@ from cmdlogs.logs import logs
 from inspect import stack
 
 
-async def monitor(interaction:discord.Interaction, user:str, ephemeral:bool = False, mentionuser:discord.User = None, display:str = ""):
-    if not await roleCheck(interaction, CONSTS.LMAO): return
-    if not mentionuser: mentionuser = interaction.user
+async def monitor(interaction:discord.Interaction, user:str, ephemeral:bool = False, mentionuser:discord.User|None = None, display:str = ""):
+    if not await roleCheck(interaction, CONSTS.LMAO) or not interaction.user: return
+    if not mentionuser: mentionuser = interaction.user # type: ignore
+    if not mentionuser: return
+    
+    result = re.search(r"(\d{17})", user)
+    if not result: return
 
-    user = re.search(r"(\d{17})", user).group()
+    user = result.group()
     if user == "":
         await interaction.response.send_message(f"id {user} does not match a valid steam64 id")
         return
     
-    user = int(user)
+    id = int(user)
     if len(logs.activeLogs) > 10 and interaction.user.id not in CONSTS.LMAO:
         await interaction.response.send_message(f"too many monitors are currently being monitored cancel a monitor to continue")
         return
 
-    if logs.isUserActive(user):
-        await interaction.response.send_message(f"user {user} is already monitored")
+    if logs.isUserActive(id):
+        await interaction.response.send_message(f"user {id} is already monitored")
         return
     
     #monitors[steamID] = interaction.user.mention
     
-    logs.addm(MonitorRequest(interaction, MonitorRequest.MonitorType.ADD, mentionuser, user, display))
-    await interaction.response.send_message(f"succesfully monitoring {user} for user {mentionuser.mention}", ephemeral=ephemeral)
-    LOGGER.log(stack()[0][3], f"succesfully monitoring {user} for user {mentionuser.id}", LOGGER.LogType.INFO)
+    logs.addm(MonitorRequest(interaction, MonitorRequest.MonitorType.ADD, mentionuser, id, display))
+    await interaction.response.send_message(f"succesfully monitoring {id} for user {mentionuser.mention}", ephemeral=ephemeral)
+    LOGGER.log(stack()[0][3], f"succesfully monitoring {id} for user {mentionuser.id}", LOGGER.LogType.INFO)
 
 
 async def cancelMonitor(interaction:discord.Interaction, user:str, ephemeral:bool = False):
+    result = re.search(r"(\d*)", user)
+    if not result: return
 
-    user = int(re.search(r"(\d*)", user).group())
+    user = result.group()
     if user == "":
         await interaction.response.send_message(f"id {user} does not match a valid steam64 id")
         return
     
-    user = int(user)
-    if not logs.isUserActive(user):
-        await interaction.response.send_message(f"user {user} is not monitored")
+    id = int(user)
+    if not logs.isUserActive(id):
+        await interaction.response.send_message(f"user {id} is not monitored")
         return
     
-    mention = logs.getMention(user)
+    mention = logs.getMention(id)
     if mention != interaction.user.id and interaction.user.id not in CONSTS.LMAO:
         await interaction.response.send_message(f"nice try retard {interaction.user.name} does not have valid permissions to cancel this monitor")
         return
@@ -51,11 +57,11 @@ async def cancelMonitor(interaction:discord.Interaction, user:str, ephemeral:boo
     #del monitors[steamID]
     for log in logs.activeLogs:
         for key, value in log.items():
-            if value["user"] != user: continue
+            if value["user"] != id: continue
             logs.logsData["logs"][key]["active"] = False
     logs.save()
-    await interaction.response.send_message(f"succesfully deleted monitor {user} for user <@!{mention}>", ephemeral=ephemeral)
-    LOGGER.log(stack()[0][3], f"succesfully deleted monitor {user} for user {mention}", LOGGER.LogType.INFO)
+    await interaction.response.send_message(f"succesfully deleted monitor {id} for user <@!{mention}>", ephemeral=ephemeral)
+    LOGGER.log(stack()[0][3], f"succesfully deleted monitor {id} for user {mention}", LOGGER.LogType.INFO)
 
 
 async def listMonitors(interaction:discord.Interaction, ephemeral:bool = True):

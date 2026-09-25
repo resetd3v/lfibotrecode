@@ -1,5 +1,6 @@
 import discord, random
 from discord.ext import commands
+from config.config import config
 
 global monitors, sentHashes
 monitors = {}
@@ -7,10 +8,13 @@ sentHashes = []
 
 class Consts():
     def __init__(self):
+        self.config = config
         self.bot = commands.Bot(command_prefix=">", intents=discord.Intents.all(), help_command=None)
         self.tree = self.bot.tree
         self.enabled = False
-        self.EXPANSEHEADER = {"User-Agent" : "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"}
+
+        self.token = self.config["discord"]["token"]
+
         self.LOGDOMAIN = "https://logs.pandahut.net/"
         self.LOGFILEURL = "PvpLogs/NA1Servers/Server19Rocket.log"
         self.LOGPATH = f"{__file__.replace('consts.py', '')}temp"
@@ -97,6 +101,7 @@ class Consts():
             lines = data.split("\n")
             return random.choice(lines).replace("\n", "")
         except Exception as e: pass
+        return ""
     
     def getProxyFormatted(self):
         return ""

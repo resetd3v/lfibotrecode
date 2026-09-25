@@ -43,8 +43,8 @@ class Actions:
     STATS:Action = Action(name="STATS", aliases=["stat", "sstats", "pp"], channel=("staff", "stats"), public=True, text=DEFAULTTEXT, autocomplete=True, color=ORANGECOLOR)
     #aliases=["mod", "smod"]
     VANISH:Action = Action(name="VANISH", channel=("staff", "vanish"), public=False, text="staff \"{}\" went into vanish", textArgs=["sender"])
-    SPY:Action = Action(name="SPY", channel=("staff", "spy"), public=False, text="staff \"{}\" has spied \"{}\"",  textArgs=("sender", "target"), autocomplete=True, color=REDCOLOR)
-    APISPY:Action = Action(name="APISPY", channel=("staff", "spy"), public=False, text="api spied has been performed on \"{}\"",  textArgs=("target"), color=REDCOLOR)
+    SPY:Action = Action(name="SPY", channel=("staff", "spy"), public=False, text="staff \"{}\" has spied \"{}\"", textArgs=["sender", "target"], autocomplete=True, color=REDCOLOR)
+    APISPY:Action = Action(name="APISPY", channel=("staff", "spy"), public=False, text="api spied has been performed on \"{}\"", textArgs=["target"], color=REDCOLOR)
     BAN:Action = Action(name="BAN", aliases=["globalban"], channel=("staff", "ban"), public=True, text="staff \"{}\" has {}banned \"{}\" get beamed bozo ur dtc for \"{}\"", textArgs=["sender", "global", "target", "reason"], color=REDCOLOR)
     UNBAN:Action = Action(name="UNBAN", channel=("staff", "ban"), public=True, text="staff \"{}\" has unbanned \"{}\"", textArgs=["sender", "target"])
     SERVER:Action = Action(name="SERVER", channel=("staff", "server"), public=False, text="staff \"{}\" has switched to server \"{}\" from \"19\"", textArgs=["sender", "target"])
@@ -53,7 +53,7 @@ class Actions:
     CHAT:Action = Action(name="CHAT", channel=("staff", "chat"), public=False, text="staff \"{}\" said \"{}\" in \"{}\" chat", textArgs=["sender", "chatMsg", "chatType"])
     CONNECTING:Action = Action(name="CONNECTING", channel=("staff", "connecting"), public=False, text="\"{}\" / \"{}\"  |  G: \"{}\" is connecting to server 19", textArgs=["sender", "senderid", "guid"])
     DISCONNECTING:Action = Action(name="DISCONNECTING", channel=("staff", "disconnecting"), public=False, text="staff \"{}\" disconnected from server 19 session length: {}", textArgs=["sender", "guid"])
-    API:Action = Action(name="API", channel=("staff", "api"), public=False, text="api cmd \"{}\" ({}) performed on \"{}\"",  textArgs=("params", "target", "targetid"), color=REDCOLOR)
+    API:Action = Action(name="API", channel=("staff", "api"), public=False, text="api cmd \"{}\" ({}) performed on \"{}\"", textArgs=["params", "target", "targetid"], color=REDCOLOR)
     DEBUG:Action = Action(name="DEBUG", channel=("", "debug"), public=False)
 
 # class Actions(Enum):
@@ -67,7 +67,7 @@ class Actions:
 #     DEBUG = 7
 
 @to_thread
-def staffParse(data: str, i: int, current_loop):
+def staffParse(data: str, i: int, current_loop) -> tuple:
     #yw lxve <3 :3
     #data = "[2024-07-10 01:46:32.022 UTC] [Info] [Main] [Command] unk [I MISS HIM]: /msg unk LXVE IS ON THIS IS RESET"
     timer = timeStats.time()
@@ -181,10 +181,16 @@ def staffParse(data: str, i: int, current_loop):
                     case "sender": arg = sender
                     case "target": arg = target.replace('"', '')
                     case "params": arg = params
-                    case "all": arg = re.search(r"\/\w* (.*)", data, re.IGNORECASE).group(1).replace("\n", "")
+                    case "all":
+                        result = re.search(r"\/\w* (.*)", data, re.IGNORECASE)
+                        if result:
+                            arg = result.group(1).replace("\n", "")
                     #arg = data.split("/sc ")[-1].replace("\n", "")
                     case "global": arg = "global-" if "global" in data else ""
-                    case "reason": arg = re.search(r'\/.* (".*"|.*) \"(.*)\"', data, re.IGNORECASE).group(2).replace('"', '')
+                    case "reason": 
+                        result = re.search(r'\/.* (".*"|.*) \"(.*)\"', data, re.IGNORECASE)
+                        if result:
+                            arg = result.group(2).replace('"', '')
                     case "senderid": arg = senderID
                     case "sendergroup": arg = senderGroup
                     case "guid": arg = senderGUID
@@ -235,7 +241,8 @@ async def staffLog(success, channel, sender:str, target:str, targetID:str, text:
         doMention = len(target) > 2 and logs.isUserActive(target, action.autocomplete)
         if doMention: mention = logs.getMention(target, action.autocomplete)
 
-        if not fake: await channel.send(content=f"<@!{mention}>" if doMention else "", embed=embed)
+        if not fake and isinstance(channel, discord.TextChannel):
+            await channel.send(content=f"<@!{mention}>" if doMention else "", embed=embed)
 
         if (command.lower() == "connecting" or command.lower() == "disconnecting") and sender not in str(CONSTS.STAFFLIST): return
         # timestamp
@@ -243,137 +250,3 @@ async def staffLog(success, channel, sender:str, target:str, targetID:str, text:
         unencrypted = encrypted ^ (key ^ 1337) ^ 420691337
         LOGGER.log(stack()[0][3], f"{(datetime.now(timezone.utc) - timedelta(hours=TIMEZONE)).strftime('%H:%M:%S')}/{timestamp}({unencrypted}) {'fake' if fake else ''}logged {action.name} in {channel}{' mentioned ' + str(mention) if doMention else ''}: {data}", LOGGER.LogType.DEBUG, 1)
     except: pass
-
-
-
-"""
-        # for loop over all actions and aliases call function to format with params
-        match command.lower():
-            case "chat":
-                action = Actions.CHAT
-                public = False
-                text = action.text.format(sender, chatMsg, chatType)
-            case "connecting":
-                action = Actions.CONNECTING
-                public = False
-                text = action.text.format(sender)
-            case "disconnecting":
-                action = Actions.DISCONNECTING
-                public = False
-                text = action.text.format(sender)
-            case "tp":
-                action = Actions.TP
-                target = targetID
-                text = action.text.format(sender, target)
-            case "sc":
-                action = Actions.SC
-                public = False
-                # channel = CONSTS.CHANNELS["staff"]["chat"]
-                text = action.text.format(sender, data.split('/sc ')[-1].replace("\n", ""))
-                ##text = f"staff {sender} said {data.split('/sc ')[-1]}"
-            case "spy":
-                action = Actions.SPY
-                public = False
-                # channel = CONSTS.CHANNELS["staff"]["spy"]
-                text = action.text.format(sender, target)
-            case "vanish":
-                action = Actions.VANISH
-                public = False
-            #     channel = CONSTS.CHANNELS["staff"]["vanish"]
-                text = action.text.format(sender)
-            case "mod":
-                action = Actions.VANISH
-                public = False
-                text = action.text.format(sender)
-            case "smod":
-                action = Actions.VANISH
-                public = False
-                text = action.text.format(sender)
-            # add normal player category and only print stats/other commands on monitored ids not just ping
-            case "stat":
-                action = Actions.STATS
-            case "stats":
-                action = Actions.STATS
-            case "sstats":
-                action = Actions.STATS
-            case "ban":
-                action = Actions.BAN
-                reason = re.search(r'/ban (".*"|.*) \"(.*)\"', data, re.IGNORECASE)
-                # length = data.split(' ')[-1] # {reason if reason != 0 else 'perma'}
-                ##text = f"staff {sender} has banned {target} get beamed bozo ur dtc for {reason}"
-                text = action.text.format(sender, target, reason.group(2))
-            case "server":
-                action = Actions.SERVER
-                public = False
-                ##text = f"staff {sender} has switched to server {target}"
-                text = action.text.format(sender, target)
-            case "msg":
-                action = Actions.MSG
-                public = False
-                text = action.text.format(sender, params, target)
-            case "pm":
-                action = Actions.MSG
-                public = False
-                text = action.text.format(sender, params, target)
-            case "r":
-                action = Actions.MSG
-                public = False
-                text = action.text.format(sender, data.split("/r ")[-1], "N/A").replace("\n", "")
-
-            case _: public = False
-"""
-
-
-"""
-#lmao = [CONSTS.bot.get_guild(1256018198483046514).get_member(740952396259262486), CONSTS.bot.get_guild(1256018198483046514).get_member(670266215528398858)]
-lmao = [CONSTS.bot.get_guild(1256018198483046514).get_member(709547527334002829)]
-embed = discord.Embed(title=f"no", color=0x0084d1)
-embed.description = "we have reason to believe u guys are federal so u have been revoked access to the #1 developer's cheat and funni exploit server"
-embed.set_footer(text="cry to staff if u want prove ur federal")
-for member in lmao:
-    member.send(embed=embed)
-"""
-
-
-
-# match command.lower():
-#             case "tp":
-#                 action = Actions.TP
-#             #     channel = CONSTS.CHANNELS["staff"]["tp"]
-#                 text = f"staff {sender} teleported to {target}"
-#             case "sc":
-#                 action = Actions.SC
-#                 public = False
-#                 channel = CONSTS.CHANNELS["staff"]["chat"]
-#                 text = f"staff {sender} said {data.split('/sc ')[-1]}"
-#             case "spy":
-#                 action = Actions.SPY
-#                 public = False
-#                 channel = CONSTS.CHANNELS["staff"]["spy"]
-#             case "vanish":
-#                 action = Actions.VANISH
-#             #     channel = CONSTS.CHANNELS["staff"]["vanish"]
-#                 text = f"staff {sender} went into vanish"
-#             # add normal player category and only print stats/other commands on monitored ids not just ping
-#             case "stats":
-#                 action = Actions.STATS
-#             #     channel = CONSTS.CHANNELS["staff"]["stats"]
-#             case "sstats":
-#                 action = Actions.STATS
-#             #     channel = CONSTS.CHANNELS["staff"]["stats"]
-#             case "ban":
-#                 action = Actions.BAN
-#             #     channel = CONSTS.CHANNELS["staff"]["ban"]
-#                 reason = re.search(r'\/ban (.*) \"(.*)\"', data, re.IGNORECASE).group(2)
-#                 # length = data.split(' ')[-1] # {reason if reason != 0 else 'perma'}
-#                 text = f"staff {sender} has banned {target} get beamed bozo ur dtc for {reason}"
-#             case "server":
-#                 action = Actions.SERVER
-#                 channel = CONSTS.CHANNELS["staff"]["server"]
-#                 text = f"staff {sender} has switched to server {target}"
-#             case "vault":
-#                 channel = CONSTS.CHANNELS["staff"]["vault"]
-
-#             case _:
-#                 if sender not in str(CONSTS.STAFFLIST): return (False, "notStaff")
-#                 public = False
